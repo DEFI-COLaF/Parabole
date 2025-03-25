@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">>
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<sourceImageInformation>
+<fileName>bd6t5334045p_006.jpg</fileName>
+<fileIdentifier>ark:/12148/bd6t5334045p/f6</fileIdentifier>
+<documentIdentifier documentIdentifierLocation="NUM">100334045</documentIdentifier>
+</sourceImageInformation>
+<OCRProcessing ID="OCR_1">
+<ocrProcessingStep>
+<processingDateTime>2022-08-11</processingDateTime>
+<processingStepDescription>[001_OCR_BRUT]OCR BRUT 0 %</processingStepDescription>
+<processingStepDescription>[002_CHARS]{0}</processingStepDescription>
+<processingStepDescription>[007_STRINGS]{0}</processingStepDescription>
+<processingSoftware>
+<softwareCreator>ABBYY</softwareCreator>
+<softwareName>ABBYY FineReader Engine</softwareName>
+<softwareVersion>12</softwareVersion>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Styles>
+</Styles>
+<Layout>
+<Page ACCURACY="0" HEIGHT="3739" ID="PAG_00000006" PHYSICAL_IMG_NR="6" QUALITY="OK" WIDTH="2347">
+<BottomMargin HEIGHT="3739" HPOS="0" ID="PAG_00000006_BottomMargin" VPOS="0" WIDTH="2347">
+</BottomMargin>
+</Page>
+</Layout>
+</alto>

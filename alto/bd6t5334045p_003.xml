@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">>
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<sourceImageInformation>
+<fileName>bd6t5334045p_003.jpg</fileName>
+<fileIdentifier>ark:/12148/bd6t5334045p/f3</fileIdentifier>
+<documentIdentifier documentIdentifierLocation="NUM">100334045</documentIdentifier>
+</sourceImageInformation>
+<OCRProcessing ID="OCR_1">
+<ocrProcessingStep>
+<processingDateTime>2022-08-11</processingDateTime>
+<processingStepDescription>[001_OCR_BRUT]OCR BRUT 90 %</processingStepDescription>
+<processingStepDescription>[002_CHARS]{46}</processingStepDescription>
+<processingStepDescription>[007_STRINGS]{8}</processingStepDescription>
+<processingSoftware>
+<softwareCreator>ABBYY</softwareCreator>
+<softwareName>ABBYY FineReader Engine</softwareName>
+<softwareVersion>12</softwareVersion>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Styles>
+<TextStyle FONTFAMILY="Default Metrics Font" FONTSIZE="7" ID="TXT_1"/>
+<TextStyle FONTFAMILY="Default Metrics Font" FONTSIZE="13" ID="TXT_2"/>
+<TextStyle FONTFAMILY="Default Metrics Font" FONTSIZE="20" ID="TXT_3"/>
+</Styles>
+<Layout>
+<Page ACCURACY="90" HEIGHT="3833" ID="PAG_00000003" PHYSICAL_IMG_NR="3" QUALITY="OK" WIDTH="2380">
+<TopMargin HEIGHT="1480" HPOS="0" ID="PAG_00000003_TopMargin" VPOS="0" WIDTH="2380">
+</TopMargin>
+<LeftMargin HEIGHT="476" HPOS="0" ID="PAG_00000003_LeftMargin" VPOS="1480" WIDTH="462">
+</LeftMargin>
+<RightMargin HEIGHT="476" HPOS="1776" ID="PAG_00000003_RightMargin" VPOS="1480" WIDTH="604">
+</RightMargin>
+<BottomMargin HEIGHT="1877" HPOS="0" ID="PAG_00000003_BottomMargin" VPOS="1956" WIDTH="2380">
+</BottomMargin>
+<PrintSpace HEIGHT="476" HPOS="462" ID="PAG_00000003_PrintSpace" VPOS="1480" WIDTH="1314">
+<TextBlock HEIGHT="437" HPOS="464" ID="PAG_00000003_TB000001" VPOS="1496" WIDTH="1305" language="fr">
+<TextLine HEIGHT="58" HPOS="695" ID="PAG_00000003_TL000001" VPOS="1504" WIDTH="842">
+<String CONTENT="VERSIONS" HEIGHT="56" HPOS="695" ID="PAG_00000003_ST000001" STYLEREFS="TXT_2" VPOS="1506" WC="0.62250000238418579" WIDTH="415"/>
+<SP HPOS="1111" ID="PAG_00000003_SP000001" VPOS="1506" WIDTH="41"/>
+<String CONTENT="PATOISES" HEIGHT="55" HPOS="1153" ID="PAG_00000003_ST000002" STYLEREFS="TXT_2" VPOS="1504" WC="0.72374999523162842" WIDTH="384"/>
+</TextLine>
+<TextLine HEIGHT="29" HPOS="1059" ID="PAG_00000003_TL000002" STYLEREFS="TXT_1" VPOS="1678" WIDTH="121">
+<String CONTENT="DE" HEIGHT="29" HPOS="1059" ID="PAG_00000003_ST000003" STYLE="bold" VPOS="1678" WC="0.68999999761581421" WIDTH="45"/>
+<SP HPOS="1105" ID="PAG_00000003_SP000002" VPOS="1678" WIDTH="27"/>
+<String CONTENT="LA" HEIGHT="28" HPOS="1133" ID="PAG_00000003_ST000004" STYLE="bold" VPOS="1678" WC="0.55500000715255737" WIDTH="47"/>
+</TextLine>
+<TextLine HEIGHT="96" HPOS="471" ID="PAG_00000003_TL000003" STYLEREFS="TXT_3" VPOS="1831" WIDTH="1290">
+<String CONTENT="PARABOLE" HEIGHT="96" HPOS="471" ID="PAG_00000003_ST000005" VPOS="1831" WC="0.57999998331069946" WIDTH="362"/>
+<SP HPOS="834" ID="PAG_00000003_SP000003" VPOS="1831" WIDTH="58"/>
+<String CONTENT="DE" HEIGHT="92" HPOS="893" ID="PAG_00000003_ST000006" VPOS="1831" WC="0.66500002145767212" WIDTH="84"/>
+<SP HPOS="978" ID="PAG_00000003_SP000004" VPOS="1831" WIDTH="56"/>
+<String CONTENT="L’ENFANT" HEIGHT="92" HPOS="1035" ID="PAG_00000003_ST000007" VPOS="1831" WC="0.64749997854232788" WIDTH="336"/>
+<SP HPOS="1372" ID="PAG_00000003_SP000005" VPOS="1831" WIDTH="48"/>
+<String CONTENT="PRODIGUE" HEIGHT="92" HPOS="1421" ID="PAG_00000003_ST000008" VPOS="1831" WC="0.49375000596046448" WIDTH="340"/>
+</TextLine>
+</TextBlock>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

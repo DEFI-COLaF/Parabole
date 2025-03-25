@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">>
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<sourceImageInformation>
+<fileName>bd6t5334045p_002.jpg</fileName>
+<fileIdentifier>ark:/12148/bd6t5334045p/f2</fileIdentifier>
+<documentIdentifier documentIdentifierLocation="NUM">100334045</documentIdentifier>
+</sourceImageInformation>
+<OCRProcessing ID="OCR_1">
+<ocrProcessingStep>
+<processingDateTime>2022-08-11</processingDateTime>
+<processingStepDescription>[001_OCR_BRUT]OCR BRUT 0 %</processingStepDescription>
+<processingStepDescription>[002_CHARS]{0}</processingStepDescription>
+<processingStepDescription>[007_STRINGS]{0}</processingStepDescription>
+<processingSoftware>
+<softwareCreator>ABBYY</softwareCreator>
+<softwareName>ABBYY FineReader Engine</softwareName>
+<softwareVersion>12</softwareVersion>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Styles>
+</Styles>
+<Layout>
+<Page ACCURACY="0" HEIGHT="3911" ID="PAG_00000002" PHYSICAL_IMG_NR="2" QUALITY="OK" WIDTH="2409">
+<TopMargin HEIGHT="162" HPOS="0" ID="PAG_00000002_TopMargin" VPOS="0" WIDTH="2409">
+</TopMargin>
+<LeftMargin HEIGHT="35" HPOS="0" ID="PAG_00000002_LeftMargin" VPOS="162" WIDTH="1112">
+</LeftMargin>
+<RightMargin HEIGHT="35" HPOS="1270" ID="PAG_00000002_RightMargin" VPOS="162" WIDTH="1139">
+</RightMargin>
+<BottomMargin HEIGHT="3714" HPOS="0" ID="PAG_00000002_BottomMargin" VPOS="197" WIDTH="2409">
+</BottomMargin>
+<PrintSpace HEIGHT="35" HPOS="1112" ID="PAG_00000002_PrintSpace" VPOS="162" WIDTH="158">
+<Illustration HEIGHT="35" HPOS="1112" ID="PAG_00000002_IL000001" VPOS="162" WIDTH="158">
+<Shape>
+<Polygon POINTS="1113,162 1270,162 1270,197 1112,197 1112,163 1113,163 1113,162"/>
+</Shape>
+</Illustration>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>
