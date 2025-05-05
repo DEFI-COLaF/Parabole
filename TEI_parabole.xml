@@ -144,6 +144,11 @@
           <idno type="script">latn</idno>
           <name>Provençal</name>
         </language>
+        <language ident="fran-1269">
+          <idno type="langue">fran1269</idno>
+          <idno type="script">latn</idno>
+          <name>Franco-provençal</name>
+        </language>
         <language ident="roma-1326">
           <idno type="langue">roma1326</idno>
           <idno type="script">latn</idno>
@@ -776,7 +781,7 @@
       </particDesc>
       <settingDesc>
         <listPlace>
-          <place xml:id="place_1" corresp="#wall">
+          <place xml:id="place_1" corresp="#wall-1255">
             <settlement>
               <name>Liège</name><idno type="geonames">2792413</idno>
             </settlement>
@@ -787,7 +792,7 @@
               <name>Belgique</name><idno type="geonames">2802361</idno>
             </country>
           </place>
-          <place xml:id="place_2" corresp="#wall">
+          <place xml:id="place_2" corresp="#wall-1255">
             <settlement>
               <name>Malmedy</name><idno type="geonames">2791834</idno>
             </settlement>
@@ -798,7 +803,7 @@
               <name>Belgique</name><idno type="geonames">2802361</idno>
             </country>
           </place>
-          <place xml:id="place_3" corresp="#wall">
+          <place xml:id="place_3" corresp="#wall-1255">
             <settlement>
               <name>Namur</name><idno type="geonames">2790471</idno>
             </settlement>
@@ -809,7 +814,7 @@
               <name>Belgique</name><idno type="geonames">2802361</idno>
             </country>
           </place>
-          <place xml:id="place_4" corresp="#wall">
+          <place xml:id="place_4" corresp="#wall-1255">
             <settlement>
               <name>Mons</name><idno type="geonames">2790869</idno>
             </settlement>
@@ -820,7 +825,7 @@
               <name>Belgique</name><idno type="geonames">2802361</idno>
             </country>
           </place>
-          <place xml:id="place_5" corresp="#camb">
+          <place xml:id="place_5" corresp="#camb-1255">
             <settlement>
               <name>Cambrai</name><idno type="geonames">3029030</idno>
             </settlement>
@@ -828,7 +833,7 @@
               <name>Nord</name><idno type="geonames">2990129</idno>
             </region>
           </place>
-          <place xml:id="place_6" corresp="#arto">
+          <place xml:id="place_6" corresp="#arto-1238">
             <settlement>
               <name>Arras</name><idno type="geonames">3036784</idno>
             </settlement>
@@ -836,7 +841,7 @@
               <name>Pas-de-Calais</name><idno type="geonames">2988430</idno>
             </region>
           </place>
-          <place xml:id="place_7" corresp="#arto">
+          <place xml:id="place_7" corresp="#arto-1238">
             <settlement>
               <name>Carvin</name><idno type="geonames">3028486</idno>
             </settlement>
@@ -844,7 +849,7 @@
               <name>Pas-de-Calais</name><idno type="geonames">2988430</idno>
             </region>
           </place>
-          <place xml:id="place_8" corresp="#arto">
+          <place xml:id="place_8" corresp="#arto-1238">
             <settlement>
               <name>Saint-Omer</name><idno type="geonames">2977845</idno>
             </settlement>
@@ -852,7 +857,7 @@
               <name>Pas-de-Calais</name><idno type="geonames">2988430</idno>
             </region>
           </place>
-          <place xml:id="place_9" corresp="#wall">
+          <place xml:id="place_9" corresp="#wall-1255">
             <settlement><name>Neufchateau</name><idno type="geonames">2990682</idno></settlement>
             <region>
               <name>Wallonie</name><idno type="geonames">3337387</idno>
@@ -861,7 +866,7 @@
               <name>Belgique</name><idno type="geonames">2802361</idno>
             </country>
           </place>
-          <place xml:id="place_10" corresp="#wall">
+          <place xml:id="place_10" corresp="#wall-1255">
             <settlement><name>Bouillon</name><idno type="geonames">2801283</idno></settlement>
             <region>
               <name>Wallonie</name><idno type="geonames">3337387</idno>
@@ -870,7 +875,7 @@
               <name>Belgique</name><idno type="geonames">2802361</idno>
             </country>
           </place>
-          <place xml:id="place_11" corresp="#lorr">
+          <place xml:id="place_11" corresp="#lorr-1242">
             <settlement>
               <name>Onville</name>
               <idno type="geonames">2989497</idno>
@@ -880,88 +885,88 @@
               <idno type="geonames">2994111</idno>
             </region>
           </place>
-          <place xml:id="place_12" corresp="#lorr">
+          <place xml:id="place_12" corresp="#lorr-1242">
             <settlement>
               <name>Vaudémont</name>
               <idno type="geonames">2970530</idno>
             </settlement>
             <region><name>Meurthe et Moselle</name><idno type="geonames">2994111</idno></region>
           </place>
-          <place xml:id="place_13" corresp="#lorr">
+          <place xml:id="place_13" corresp="#lorr-1242">
             <settlement>
               <name>GérardMer</name>
               <idno type="geonames">3016274</idno>
             </settlement>
             <region><name>Vosges</name><idno type="geonames">2967681</idno></region>
           </place>
-          <place xml:id="place_14" corresp="#alem">
+          <place xml:id="place_14" corresp="#alem-1243">
             <settlement>
               <name>Altkirch</name>
               <idno type="geonames">3038012</idno>
             </settlement>
             <region><name>Haut-Rhin</name><idno type="geonames">3013663</idno></region>
           </place>
-          <place xml:id="place_15" corresp="#fran">
+          <place xml:id="place_15" corresp="#fran-1270">
             <settlement>
               <name>Giromagny</name>
               <idno type="geonames">3015958</idno>
             </settlement>
             <region><name>Territoire de Belfort</name><idno type="geonames">3033789</idno></region>
           </place>
-          <place xml:id="place_16" corresp="#fran">
+          <place xml:id="place_16" corresp="#fran-1270">
             <settlement>
               <name>Champagney</name>
               <idno type="geonames">3027237</idno>
             </settlement>
             <region><name>Haute-Saône</name><idno type="geonames">3013737</idno></region>
           </place>
-          <place xml:id="place_17" corresp="#fran">
+          <place xml:id="place_17" corresp="#fran-1270">
             <settlement>
               <name>Vauvillers</name>
               <idno type="geonames">2970401</idno>
             </settlement>
             <region><name>Haute-Saône</name><idno type="geonames">3013737</idno></region>
           </place>
-          <place xml:id="place_18" corresp="#fran">
+          <place xml:id="place_18" corresp="#fran-1270">
             <settlement>
               <name>Vesoul</name>
               <idno type="geonames">2969562</idno>
             </settlement>
             <region><name>Haute-Saône</name><idno type="geonames">3013737</idno></region>
           </place>
-          <place xml:id="place_19" corresp="#fran">
+          <place xml:id="place_19" corresp="#fran-1270">
             <settlement><name>Champlitte</name><idno type="geonames">3027082</idno></settlement>
             <region><name>Haute-Saône</name><idno type="geonames">3013737</idno></region>
           </place>
-          <place xml:id="place_20" corresp="#fran">
+          <place xml:id="place_20" corresp="#fran-1270">
             <settlement><name>Besançon</name><idno type="geonames">3033123</idno></settlement>
             <region><name>Doubs</name><idno type="geonames">3020989</idno></region>
           </place>
-          <place xml:id="place_21" corresp="#bour">
+          <place xml:id="place_21" corresp="#bour-1247">
             <settlement><name>Morvant</name><idno type="geonames">2991652</idno></settlement>
             <region><name>Nièvre</name><idno type="geonames">2990371</idno></region>
           </place>
-          <place xml:id="place_22" corresp="#limo #poit">
+          <place xml:id="place_22" corresp="#limo-1246 #poit-1241">
             <settlement><name>Confolens</name><idno type="geonames">3023919</idno></settlement>
             <region><name>Charente</name><idno type="geonames">3026646</idno></region>
           </place>
-          <place xml:id="place_23" corresp="#poit #limo #gasc">
+          <place xml:id="place_23" corresp="#poit-1241 #limo-1246 #gasc-1240">
             <settlement><name>La Valette</name><idno type="geonames">3005839</idno></settlement>
             <region><name>Charente</name><idno type="geonames">3026646</idno></region>
           </place>
-          <place xml:id="place_24" corresp="#poit">
+          <place xml:id="place_24" corresp="#poit-1241">
             <settlement><name>Saintes</name><idno type="geonames">2980340</idno></settlement>
             <region><name>Charente-Maritime</name><idno type="geonames">3026644</idno></region>
           </place>
-          <place xml:id="place_25" corresp="#poit">
+          <place xml:id="place_25" corresp="#poit-1241">
             <settlement><name>La Rochelle</name><idno type="geonames">3006787</idno></settlement>
             <region><name>Charente-Maritime</name><idno type="geonames">3026644</idno></region>
           </place>
-          <place xml:id="place_26" corresp="#poit">
+          <place xml:id="place_26" corresp="#poit-1241">
             <settlement><name>Marennes</name><idno type="geonames">2995854</idno></settlement>
             <region><name>Charente-Maritime</name><idno type="geonames">3026644</idno></region>
           </place>
-          <place xml:id="place_27" corresp="#poit">
+          <place xml:id="place_27" corresp="#poit-1241">
             <settlement>
               <name>Monségur</name>
               <idno type="geonames">2993209</idno>
@@ -970,7 +975,7 @@
               <idno type="geonames">3015948</idno>
             </region>
           </place>
-          <place xml:id="place_28" corresp="#limo">
+          <place xml:id="place_28" corresp="#limo-1241">
             <settlement>
               <name>Motte-Landeron</name>
               <idno type="geonames">3008042</idno>
@@ -979,11 +984,11 @@
               <idno type="geonames">3015948</idno>
             </region>
           </place>
-          <place xml:id="place_29" corresp="#limo">
+          <place xml:id="place_29" corresp="#limo-1246">
             <settlement><name>Nontron</name><idno type="geonames">2990140</idno></settlement>
             <region><name>Dordogne</name><idno type="geonames">3021042</idno></region>
           </place>
-          <place xml:id="place_30" corresp="#lang">
+          <place xml:id="place_30" corresp="#lang-1309">
             <settlement>
               <name>Sarlat</name>
               <idno type="geonames">2976007</idno></settlement>
@@ -992,37 +997,37 @@
               <name>Dordogne</name>
             </region>
           </place>
-          <place xml:id="place_31" corresp="#limo #gasc">
+          <place xml:id="place_31" corresp="#limo-1246 #gasc-1240">
             <region>
               <name>Haute-Vienne</name>
               <idno type="geonames">3013719</idno>
             </region>
           </place>
-          <place xml:id="place_32" corresp="#limo">
+          <place xml:id="place_32" corresp="#limo-1246">
             <settlement><name>Saint-Yrieix</name><idno type="geonames">2976546</idno></settlement>
             <region>
               <name>Haute-Vienne</name>
               <idno type="geonames">3013719</idno>
             </region>
           </place>
-          <place xml:id="place_33" corresp="#auve">
+          <place xml:id="place_33" corresp="#auve-1239">
             <settlement><name>Saint-Amant-Tallende</name><idno type="geonames"
               >2981816</idno></settlement>
             <region><name>Puy-de-Dome</name><idno type="geonames">2984986</idno></region>
           </place>
-          <place xml:id="place_34" corresp="#lang">
+          <place xml:id="place_34" corresp="#lang-1309">
             <settlement><name>Aurillac</name><idno type="geonames">3036016</idno></settlement>
             <region><name>Cantal</name><idno type="geonames">3028791</idno></region>
           </place>
-          <place xml:id="place_35" corresp="#lang">
+          <place xml:id="place_35" corresp="#lang-1309">
             <settlement><name>Rodez</name><idno type="geonames">2983154</idno></settlement>
             <region><name>Aveyron</name><idno type="geonames">3035691</idno></region>
           </place>
-          <place xml:id="place_36" corresp="#lang">
+          <place xml:id="place_36" corresp="#lang-1309">
             <settlement><name>Montauban</name><idno type="geonames">2993002</idno></settlement>
             <region><name>Tarn-et-Garonne</name><idno type="geonames">2973357</idno></region>
           </place>
-          <place xml:id="place_37" corresp="#limo">
+          <place xml:id="place_37" corresp="#limo-1246">
             <settlement>
               <name>La Réole</name>
               <idno type="geonames">3006979</idno>
@@ -1031,63 +1036,63 @@
               <idno type="geonames">3015948</idno>
             </region>
           </place>
-          <place xml:id="place_38" corresp="#gasc">
+          <place xml:id="place_38" corresp="#gasc-1240">
             <region>
               <name>Gers</name>
               <idno type="geonames">3016194</idno>
             </region>
           </place>
-          <place xml:id="place_39" corresp="#lang">
+          <place xml:id="place_39" corresp="#lang-1309">
             <settlement><name>Pamiers</name><idno type="geonames">2988670</idno></settlement>
             <region><name>Ariège</name><idno type="geonames">3036965</idno></region>
           </place>
-          <place xml:id="place_40" corresp="#lang">
+          <place xml:id="place_40" corresp="#lang-1309">
             <settlement><name>Saint-Girons</name><idno type="geonames">2979657</idno></settlement>
             <region><name>Ariège</name><idno type="geonames">3036965</idno></region>
           </place>
-          <place xml:id="place_41" corresp="#lang">
+          <place xml:id="place_41" corresp="#lang-1309">
             <region>
               <name>Haute Garonne</name>
               <idno type="geonames">3013767</idno>
             </region>
           </place>
-          <place xml:id="place_42" corresp="#lang">
+          <place xml:id="place_42" corresp="#lang-1309">
             <settlement><name>Foix</name><idno type="geonames">3018174</idno></settlement>
             <region><name>Ariège</name><idno type="geonames">3036965</idno></region>
           </place>
-          <place xml:id="place_43" corresp="#lang">
+          <place xml:id="place_43" corresp="#lang-1309">
             <country><name>Andorre</name><idno type="geonames">3041565</idno></country>
           </place>
-          <place xml:id="place_44" corresp="#cata">
+          <place xml:id="place_44" corresp="#cata-1291">
             <region>
               <name>Pyrénées-Orientales</name>
               <idno type="geonames">2984885</idno>
             </region>
           </place>
-          <place xml:id="place_45" corresp="#norm">
+          <place xml:id="place_45" corresp="#norm-1245">
             <settlement><name>Conches en Ouche</name><idno type="geonames"
               >3024026</idno></settlement>
             <region><name>Eure</name><idno type="geonames">3019317</idno></region>
           </place>
-          <place xml:id="place_46" corresp="#lang">
+          <place xml:id="place_46" corresp="#lang-1309">
             <settlement>
               <name>Carcassonne</name>
               <idno type="geonames">3028641</idno>
             </settlement>
             <region><name>Aude</name><idno type="geonames">3036264</idno></region>
           </place>
-          <place xml:id="place_47" corresp="#lang">
+          <place xml:id="place_47" corresp="#lang-1309">
             <settlement><name>Agde</name><idno type="geonames">3038638</idno></settlement>
             <region><name>Hérault</name><idno type="geonames">3013500</idno></region>
           </place>
-          <place xml:id="place_48" corresp="#lang">
+          <place xml:id="place_48" corresp="#lang-1309">
             <settlement><name>Lodève</name><idno type="geonames">2997936</idno></settlement>
             <region><name>Hérault</name><idno type="geonames">3013500</idno></region>
           </place>
-          <place xml:id="place_49" corresp="#lang">
+          <place xml:id="place_49" corresp="#lang-1309">
             <region><name>Tarn</name><idno type="geonames">2973362</idno></region>
           </place>
-          <place xml:id="place_50" corresp="#auve">
+          <place xml:id="place_50" corresp="#lang-1309">
             <region><name>Lozère</name><idno type="geonames">997288</idno></region>
           </place>
           <place xml:id="place_51" corresp="#lang">
@@ -1178,7 +1183,7 @@
               <name>Hautes-Alpes</name><idno type="geonames">3013738</idno>
             </region>
           </place>
-          <place xml:id="place_66" corresp="#viva">
+          <place xml:id="place_66" corresp="#fran-1269">
             <settlement>
               <name>Saint-Maurice</name>
               <idno type="geonames">2658864</idno>
@@ -1186,7 +1191,7 @@
             <region><name>Valais</name><idno type="geonames">2658205</idno></region>
             <country><name>Suisse</name><idno type="geonames">2658434</idno></country>
           </place>
-          <place xml:id="place_67" corresp="#viva">
+          <place xml:id="place_67" corresp="#fran-1269">
             <settlement>
               <name>Estavayer-le-Lac</name>
               <idno type="geonames">2660851</idno>
@@ -1194,7 +1199,7 @@
             <region><name>Broye</name><idno type="geonames">6458754</idno></region>
             <country><name>Suisse</name><idno type="geonames">2658434</idno></country>
           </place>
-          <place xml:id="place_68" corresp="#fran">
+          <place xml:id="place_68" corresp="#fran-1269">
             <settlement>
               <name>Diesse</name>
               <idno type="geonames">2661017</idno>
@@ -1202,7 +1207,7 @@
             <region><name>Bern</name><idno type="geonames">2661551</idno></region>
             <country><name>Suisse</name><idno type="geonames">2658434</idno></country>
           </place>
-          <place xml:id="place_69" corresp="#fran">
+          <place xml:id="place_69" corresp="fran-1269">
             <settlement>
               <name>Montreux</name>
               <idno type="geonames">2659601</idno>
@@ -1210,7 +1215,7 @@
             <region><name>Vaud</name><idno type="geonames">2658182</idno></region>
             <country><name>Suisse</name><idno type="geonames">2658434</idno></country>
           </place>
-          <place xml:id="place_70" corresp="#viva">
+          <place xml:id="place_70" corresp="fran-1269">
             <settlement>
               <name>Geneve</name>
               <idno type="geonames">2660646</idno>
@@ -1218,48 +1223,48 @@
             <region><name>Geneve</name><idno type="geonames">2660645</idno></region>
             <country><name>Suisse</name><idno type="geonames">2658434</idno></country>
           </place>
-          <place xml:id="place_71" corresp="#viva">
+          <place xml:id="place_71" corresp="#viva-1235">
             <settlement><name>Seyne</name><idno type="geonames">2974661</idno></settlement>
             <region><name>Alpes de Haute Provence</name><idno type="geonames"
               >3038050</idno></region>
           </place>
-          <place xml:id="place_72" corresp="#roma">
+          <place xml:id="place_72" corresp="#roma-1326">
             <settlement><name>Engadine</name><idno type="geonames">2660904</idno></settlement>
             <region><name>Grisons</name><idno type="geonames">2660522</idno></region>
             <country><name>Suisse</name><idno type="geonames">2658434</idno></country>
           </place>
-          <place xml:id="place_73" corresp="#prov">
+          <place xml:id="place_73" corresp="#lang-1309">
             <settlement><name>Alès</name><idno type="geonames">3038224</idno></settlement>
             <region><name>Gard</name><idno type="geonames">3016670</idno></region>
           </place>
-          <place xml:id="place_74" corresp="#prov">
+          <place xml:id="place_74" corresp="#fran-1269">
             <settlement><name>Gruyères</name><idno type="geonames">2660463</idno></settlement>
             <region><name>Fribourg</name><idno type="geonames">2660717</idno></region>
             <country><name>Suisse</name><idno type="geonames">2658434</idno></country>
           </place>
-          <place xml:id="place_75" corresp="#prov">
+          <place xml:id="place_75" corresp="prov-1235">
             <settlement><name>Castellane</name><idno type="geonames">3028382</idno></settlement>
             <region><name>Alpes de Haute Provence</name><idno type="geonames"
               >3038050</idno></region>
           </place>
-          <place xml:id="place_76" corresp="#prov">
+          <place xml:id="place_76" corresp="prov-1235">
             <settlement><name>Escragnolles</name><idno type="geonames">6446703</idno></settlement>
             <region>
               <name>Alpes-Maritimes</name><idno type="geonames">8378478</idno>
             </region>
           </place>
-          <place xml:id="place_77" corresp="#prov">
+          <place xml:id="place_77" corresp="prov-1235">
             <settlement><name>Mons</name><idno type="geonames">2993229</idno></settlement>
             <region>
               <name>Var</name><idno type="geonames">2970749</idno>
             </region>
           </place>
-          <place xml:id="place_78" corresp="#prov">
+          <place xml:id="place_78" corresp="prov-1235">
             <settlement><name>Bienne</name><idno type="geonames">2661513</idno></settlement>
             <region><name>Bern</name><idno type="geonames">2661551</idno></region>
             <country><name>Suisse</name><idno type="geonames">2658434</idno></country>
           </place>
-          <place xml:id="place_79" corresp="#fran">
+          <place xml:id="place_79" corresp="#fran-1270">
             <settlement>
               <name>Delemont</name>
               <idno type="geonames">2661035</idno>
@@ -1267,7 +1272,7 @@
             <region><name>Bern</name><idno type="geonames">2661551</idno></region>
             <country><name>Suisse</name><idno type="geonames">2658434</idno></country>
           </place>
-          <place xml:id="place_80" corresp="#fran">
+          <place xml:id="place_80" corresp="#fran-1270">
             <settlement>
               <name>Courtelary</name>
               <idno type="geonames">2661092</idno>
@@ -1275,7 +1280,7 @@
             <region><name>Bern</name><idno type="geonames">2661551</idno></region>
             <country><name>Suisse</name><idno type="geonames">2658434</idno></country>
           </place>
-          <place xml:id="place_81" corresp="#fran #viva">
+          <place xml:id="place_81" corresp="#fran-1270 #fran-1269">
             <settlement>
               <name>Moutier</name>
               <idno type="geonames">2659568</idno>
@@ -4578,7 +4583,7 @@
             <lb/>fraïré qu’éro mort es ressuscitat et que l’aben retroubat <lb/>aprep l’abé
             perdut.</p>
         </div>
-        <div type="parabole" n="55" hand="#person_29" xml:lang="auve-1239" corresp="#place_50">
+        <div type="parabole" n="55" hand="#person_29" xml:lang="lang-1309" corresp="#place_50">
           <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
             <lb/>département de la Lozère, donnée par M. BROUSSOUS, secrétaire <lb/>général de la
             préfecture. (M. I.)</head>
@@ -5507,7 +5512,7 @@
               facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f135"/><fw type="numbering">— 125
               —</fw></p>
         </div>
-        <div type="parabole" n="71" hand="#person_40" xml:lang="viva-1235" corresp="#place_66"
+        <div type="parabole" n="71" hand="#person_40" xml:lang="fran-1269" corresp="#place_66"
           subtype="1807">
           <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             Saint <lb/>Maurice, canton du Vallais, envoyée, en 1807, par M. DERVILLE
@@ -5563,7 +5568,7 @@
           <p n="32"><lb/><num>32</num>. Mais è faliey fère fêta parce que voutrom frère <lb/>qu’
             èteyve mor e resuscito, qu’ èteyve perdu é retrov.</p>
         </div>
-        <div type="parabole" n="72" xml:lang="viva-1235" corresp="#place_67">
+        <div type="parabole" n="72" xml:lang="fran-1269" corresp="#place_67">
           <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en Patois
             Broyard, <lb/>(comme on le parle du côté d’Estavayer-le-Lac), à l’extrémité du <lb/>pays
             de Broie, sur la rive orientale du lac de Neufchâtel. (M. I.)</head>
@@ -6007,7 +6012,7 @@
           <p n="32"><lb/><num>32</num>. Mo mangiar e s’alegrar convengiva, perchia quest <lb/>tees
             frar éra mort et eis revivü, el éra péri et eis chiatà.</p>
         </div>
-        <div type="parabole" n="79" hand="#person_33" xml:lang="prov-1235" corresp="#place_73"
+        <div type="parabole" n="79" hand="#person_33" xml:lang="lang-1309" corresp="#place_73"
           subtype="1807">
           <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             d’Alais, <lb/>département du Gard , envoyée en 1807 par M. D’ALPHONSE, <lb/>préfet. (M.
@@ -6069,7 +6074,7 @@
           <p n="32"><lb/><num>32</num>. Més foulié faire boumbance é nous réjoui, par so qé
             <lb/>voste frero éro mor é és ressuscita ; éro perdu é és isla <lb/>retrouba.</p>
         </div>
-        <div type="parabole" n="80" xml:lang="prov-1235" corresp="#place_74">
+        <div type="parabole" n="80" xml:lang="fran-1269" corresp="#place_74">
           <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois roman
             de <lb/>Gruyères, canton de Fribourg. (M. I.</head>
           <p n="11"><lb/><num>11</num>. On ommo li’ u don fe.</p>
