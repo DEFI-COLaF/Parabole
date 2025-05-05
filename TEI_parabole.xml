@@ -56,105 +56,100 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="stan">
+        <language ident="stan-1290">
           <idno type="langue">stan1290</idno>
           <idno type="script">latn</idno>
           <name>Français</name>
         </language>
-        <language ident="wall">
+        <language ident="wall-1255">
           <idno type="langue">wall1255</idno>
           <idno type="script">latn</idno>
           <name>Wallon</name>
         </language>
-        <language ident="auve">
+        <language ident="auve-1239">
           <idno type="langue">auve1239</idno>
           <idno type="script">latn</idno>
           <name>Auvergnat Occitan</name>
         </language>
-        <language ident="camb">
+        <language ident="camb-1242">
           <idno type="langue">camb1242</idno>
           <idno type="script">latn</idno>
           <name>Cambresis</name>
         </language>
-        <language ident="arto">
+        <language ident="arto-1238">
           <idno type="langue">arto1238</idno>
           <idno type="script">latn</idno>
           <name>Artois</name>
         </language>
-        <language ident="arto">
-          <idno type="langue">arto1238</idno>
-          <idno type="script">latn</idno>
-          <name>Artois</name>
-        </language>
-        <language ident="cham">
+        <language ident="cham-1332">
           <idno type="langue">cham1332</idno>
           <idno type="script">latn</idno>
           <name>Champenois</name>
         </language>
-        <language ident="lorr">
+        <language ident="lorr-1242">
           <idno type="langue">lorr1242</idno>
           <idno type="script">latn</idno>
           <name>Lorrain Roman</name>
         </language>
-        <language ident="alem">
+        <language ident="alem-1243">
           <idno type="langue">alem1243</idno>
           <idno type="script">latn</idno>
           <name>Alémanique</name>
         </language>
-        <language ident="fran">
+        <language ident="fran-1270">
           <idno type="langue">fran1270</idno>
           <idno type="script">latn</idno>
           <name>Franc-Comtois</name>
         </language>
-        <language ident="bour">
+        <language ident="bour-1247">
           <idno type="langue">bour1247</idno>
           <idno type="script">latn</idno>
           <name>Bourguignon-morvandiou</name>
         </language>
-        <language ident="limo">
+        <language ident="limo-1246">
           <idno type="langue">limo1246</idno>
           <idno type="script">latn</idno>
           <name>Limousin</name>
         </language>
-        <language ident="poit">
+        <language ident="poit-1241">
           <idno type="langue">poit1241</idno>
           <idno type="script">latn</idno>
           <name>Poitevin-Saintongeais</name>
         </language>
-        <language ident="gasc">
+        <language ident="gasc-1240">
           <idno type="langue">gasc1240</idno>
           <idno type="script">latn</idno>
           <name>Gascon</name>
         </language>
-        <language ident="lang">
+        <language ident="lang-1309">
           <idno type="langue">lang1309</idno>
           <idno type="script">latn</idno>
           <name>Languedocien</name>
         </language>
-        <language ident="cata">
+        <language ident="cata-1291">
           <idno type="langue">cata1291</idno>
           <idno type="script">latn</idno>
           <name>Catalan</name>
         </language>
-        <language ident="norm">
+        <language ident="norm-1245">
           <idno type="langue">norm1245</idno>
         </language>
-        <language ident="viva">
+        <language ident="viva-1235">
           <idno type="langue">viva1235</idno>
           <idno type="script">latn</idno>
           <name>Vivaro-Alpin</name>
         </language>
-        <language ident="prov">
+        <language ident="prov-1235">
           <idno type="langue">prov1235</idno>
           <idno type="script">latn</idno>
           <name>Provençal</name>
         </language>
-        <language ident="roma">
+        <language ident="roma-1326">
           <idno type="langue">roma1326</idno>
           <idno type="script">latn</idno>
           <name>Romansch</name>
         </language>
-        <language ident="high">
+        <language ident="high-1290">
           <idno type="langue">high1290</idno>
           <idno type="script">latn</idno>
           <name>Haut Alémanique</name>
@@ -172,15 +167,15 @@
           <person xml:id="person_1">
             <persName>Lebouderie</persName>
             <langKnowledge>
-              <langKnown tag="stan"/>
-              <langKnown tag="auve"/>
+              <langKnown tag="stan-1290"/>
+              <langKnown tag="auve-1239"/>
             </langKnowledge>
           </person>
           <person xml:id="person_2">
             <persName>D'Omalius de Halloy</persName>
             <langKnowledge>
-              <langKnown tag="stan"/>
-              <langKnown tag="wall"/>
+              <langKnown tag="stan-1290"/>
+              <langKnown tag="wall-1255"/>
             </langKnowledge>
             <residence>
               <settlement>
@@ -198,8 +193,8 @@
           <person xml:id="person_3">
             <persName>de Perigny</persName>
             <langKnowledge>
-              <langKnown tag="stan"/>
-              <langKnown tag="wall"/>
+              <langKnown tag="stan-1290"/>
+              <langKnown tag="wall-1255"/>
             </langKnowledge>
             <residence>
               <settlement>
@@ -217,8 +212,8 @@
           <person xml:id="person_4">
             <persName>de Coninck</persName>
             <langKnowledge>
-              <langKnown tag="stan"/>
-              <langKnown tag="wall"/>
+              <langKnown tag="stan-1290"/>
+              <langKnown tag="wall-1255"/>
             </langKnowledge>
             <residence>
               <settlement>
@@ -235,15 +230,15 @@
           <person xml:id="person_5">
             <name>Le Glay</name>
             <langKnowledge>
-              <langKnown tag="camb"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="camb-1242"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
           </person>
           <person xml:id="person_6">
             <name>De la Chaise</name>
             <langKnowledge>
-              <langKnown tag="stan"/>
-              <langKnown tag="arto"/>
+              <langKnown tag="stan-1290"/>
+              <langKnown tag="arto-1238"/>
             </langKnowledge>
             <residence>
               <settlement>
@@ -259,9 +254,9 @@
           <person xml:id="person_7">
             <name>Wattringue</name>
             <langKnowledge>
-              <langKnown tag="stan"/>
-              <langKnown tag="arto"/>
-              <langKnown tag="wall"/>
+              <langKnown tag="stan-1290"/>
+              <langKnown tag="arto-1238"/>
+              <langKnown tag="wall-1255"/>
             </langKnowledge>
             <residence>
               <settlement>
@@ -275,8 +270,8 @@
           <person xml:id="person_8">
             <name>Martin Bouchy</name>
             <langKnowledge>
-              <langKnown level="maternal" tag="lorr"/>
-              <langKnown level="fluent" tag="stan"/>
+              <langKnown level="maternal" tag="lorr-1242"/>
+              <langKnown level="fluent" tag="stan-1290"/>
             </langKnowledge>
             <birth>
               <date when="1775"/>
@@ -301,37 +296,37 @@
                 <idno type="geonames">2994111</idno>
               </region>
             </residence>
-            <socecStatus rend="high"/>
+            <socecStatus rend="high-1290"/>
             <occupation>Médecin</occupation>
           </person>
           <person xml:id="person_9">
             <name>Comte Grégoire</name>
             <langKnowledge>
-              <langKnown tag="stan"/>
-              <langKnown tag="lorr"/>
+              <langKnown tag="stan-1290"/>
+              <langKnown tag="lorr-1242"/>
             </langKnowledge>
           </person>
           <person xml:id="person_10">
             <name>Bottin</name>
             <langKnowledge>
-              <langKnown tag="stan"/>
-              <langKnown tag="lorr"/>
+              <langKnown tag="stan-1290"/>
+              <langKnown tag="lorr-1242"/>
             </langKnowledge>
           </person>
           <person xml:id="person_11">
             <name>M.N.L.A. Richard</name>
             <langKnowledge>
-              <langKnown tag="stan"/>
-              <langKnown tag="lorr"/>
-              <langKnown tag="alem"/>
-              <langKnown tag="fran"/>
+              <langKnown tag="stan-1290"/>
+              <langKnown tag="lorr-1242"/>
+              <langKnown tag="alem-1243"/>
+              <langKnown tag="fran-1270"/>
             </langKnowledge>
           </person>
           <person xml:id="person_12">
             <name>Estienne</name>
             <langKnowledge>
-              <langKnown tag="fran"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="fran-1270"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <occupation>Maire</occupation>
             <residence>
@@ -344,8 +339,8 @@
           <person xml:id="person_13">
             <name>Peignot</name>
             <langKnowledge>
-              <langKnown tag="fran"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="fran-1270"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <occupation>Principal du collège</occupation>
             <residence>
@@ -356,8 +351,8 @@
           <person xml:id="person_14">
             <name>De Toulongeon</name>
             <langKnowledge>
-              <langKnown tag="fran"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="fran-1270"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <occupation>Maire</occupation>
             <residence>
@@ -368,8 +363,8 @@
           <person xml:id="person_15">
             <name>De Plancy</name>
             <langKnowledge>
-              <langKnown tag="fran"/>
-              <langKnown tag="bour"/>
+              <langKnown tag="fran-1270"/>
+              <langKnown tag="bour-1247"/>
             </langKnowledge>
             <occupation>Préfet</occupation>
             <residence>
@@ -379,8 +374,8 @@
           <person xml:id="person_16">
             <name>Memineau</name>
             <langKnowledge>
-              <langKnown tag="stan"/>
-              <langKnown tag="limo"/>
+              <langKnown tag="stan-1290"/>
+              <langKnown tag="limo-1246"/>
             </langKnowledge>
             <occupation>Sous-Préfet</occupation>
             <residence>
@@ -397,8 +392,8 @@
           <person xml:id="person_17">
             <name> Guillautin Fougere</name>
             <langKnowledge>
-              <langKnown tag="stan"/>
-              <langKnown tag="poit"/>
+              <langKnown tag="stan-1290"/>
+              <langKnown tag="poit-1241"/>
             </langKnowledge>
             <occupation>Sous-Préfet</occupation>
             <residence>
@@ -411,8 +406,8 @@
           <person xml:id="person_18">
             <name> Villevielhe</name>
             <langKnowledge>
-              <langKnown tag="gasc"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="gasc-1240"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <occupation>Maire</occupation>
             <residence>
@@ -427,8 +422,8 @@
           <person xml:id="person_19">
             <name>Martineau des Barthes</name>
             <langKnowledge>
-              <langKnown tag="gasc"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="gasc-1240"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <occupation>Maire</occupation>
             <residence>
@@ -443,8 +438,8 @@
           <person xml:id="person_20">
             <name> Delpy de la Cipière</name>
             <langKnowledge>
-              <langKnown tag="gasc"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="gasc-1240"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement>
@@ -459,8 +454,8 @@
           <person xml:id="person_21">
             <name> Texier Olivier</name>
             <langKnowledge>
-              <langKnown tag="limo"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="limo-1246"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement><name>Limoges</name><idno type="geonames">2998286</idno></settlement>
@@ -474,8 +469,8 @@
           <person xml:id="person_22">
             <name> Gondinet</name>
             <langKnowledge>
-              <langKnown tag="limo"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="limo-1246"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement><name>Saint-Yrieix</name><idno type="geonames">2976546</idno></settlement>
@@ -489,16 +484,16 @@
           <person xml:id="person_23">
             <name> Soubiroux</name>
             <langKnowledge>
-              <langKnown tag="limo"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="limo-1246"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
 
           </person>
           <person xml:id="person_24">
             <name> Cazeaux</name>
             <langKnowledge>
-              <langKnown tag="lang"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="lang-1309"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement><name>Auch</name><idno type="geonames">3036281</idno></settlement>
@@ -512,8 +507,8 @@
           <person xml:id="person_25">
             <name> Demousseaux</name>
             <langKnowledge>
-              <langKnown tag="lang"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="lang-1309"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement><name>Toulouse</name><idno type="geonames">2972315</idno></settlement>
@@ -527,8 +522,8 @@
           <person xml:id="person_26">
             <name> Jaubert de Passa</name>
             <langKnowledge>
-              <langKnown tag="cata"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="cata-1291"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement><name>Perpignan</name><idno type="geonames">2987914</idno></settlement>
@@ -542,8 +537,8 @@
           <person xml:id="person_27">
             <name>E. Weuclin</name>
             <langKnowledge>
-              <langKnown tag="norm"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="norm-1245"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <region>
@@ -555,8 +550,8 @@
           <person xml:id="person_28">
             <name> Larrey</name>
             <langKnowledge>
-              <langKnown tag="lang"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="lang-1309"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement>
@@ -569,8 +564,8 @@
           <person xml:id="person_29">
             <name> Broussous</name>
             <langKnowledge>
-              <langKnown tag="auve"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="auve-1239"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement><name>Mende</name><idno type="geonames">2994617</idno></settlement>
@@ -582,15 +577,15 @@
           <person xml:id="person_30">
             <name> Bertrand-Roux</name>
             <langKnowledge>
-              <langKnown tag="auve"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="auve-1239"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
           </person>
           <person xml:id="person_31">
             <name> Delor</name>
             <langKnowledge>
-              <langKnown tag="viva"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="viva-1235"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement><name>Privas</name><idno type="geonames">2985290</idno></settlement>
@@ -603,8 +598,8 @@
           <person xml:id="person_32">
             <name>Duret</name>
             <langKnowledge>
-              <langKnown tag="viva"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="viva-1235"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement><name>Annonay</name><idno type="geonames">3037514</idno></settlement>
@@ -617,8 +612,8 @@
           <person xml:id="person_33">
             <name>D'Alphonse</name>
             <langKnowledge>
-              <langKnown tag="prov"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="prov-1235"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement><name>Nimes</name><idno type="geonames">2990363</idno></settlement>
@@ -631,8 +626,8 @@
           <person xml:id="person_34">
             <name>Dazémar</name>
             <langKnowledge>
-              <langKnown tag="prov"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="prov-1235"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement><name>Toulon</name><idno type="geonames">2972328</idno></settlement>
@@ -645,8 +640,8 @@
           <person xml:id="person_35">
             <name>Delatre</name>
             <langKnowledge>
-              <langKnown tag="prov"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="prov-1235"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement><name>Avignon</name><idno type="geonames">3035681</idno></settlement>
@@ -659,8 +654,8 @@
           <person xml:id="person_36">
             <name>Pons</name>
             <langKnowledge>
-              <langKnown tag="viva"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="viva-1235"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement><name>Nyons</name><idno type="geonames">2989819</idno></settlement>
@@ -673,8 +668,8 @@
           <person xml:id="person_37">
             <name>Dupré</name>
             <langKnowledge>
-              <langKnown tag="viva"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="viva-1235"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement>
@@ -689,8 +684,8 @@
           <person xml:id="person_38">
             <name>Drojat</name>
             <langKnowledge>
-              <langKnown tag="viva"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="viva-1235"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement>
@@ -705,8 +700,8 @@
           <person xml:id="person_39">
             <name>Farnaud</name>
             <langKnowledge>
-              <langKnown tag="viva"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="viva-1235"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement><name>Gap</name><idno type="geonames">3016702</idno></settlement>
@@ -719,8 +714,8 @@
           <person xml:id="person_40">
             <name>Derville Maleschard</name>
             <langKnowledge>
-              <langKnown tag="viva"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="viva-1235"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement>
@@ -734,8 +729,8 @@
           <person xml:id="person_41">
             <name>Holtz</name>
             <langKnowledge>
-              <langKnown tag="fran"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="fran-1270"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement>
@@ -749,8 +744,8 @@
           <person xml:id="person_42">
             <name>Bridel</name>
             <langKnowledge>
-              <langKnown tag="fran"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="fran-1270"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement>
@@ -765,8 +760,8 @@
           <person xml:id="person_43">
             <name>Pictet</name>
             <langKnowledge>
-              <langKnown tag="viva"/>
-              <langKnown tag="stan"/>
+              <langKnown tag="viva-1235"/>
+              <langKnown tag="stan-1290"/>
             </langKnowledge>
             <residence>
               <settlement>
@@ -1116,7 +1111,7 @@
               <name>Ardèche</name><idno type="geonames">3037147</idno>
             </region>
           </place>
-          <place xml:id="place_55" corresp="prov">
+          <place xml:id="place_55" corresp="prov-1235">
             <settlement><name>Nîmes</name><idno type="geonames">2990363</idno></settlement>
             <region>
               <name>Gard</name><idno type="geonames">3016670</idno>
@@ -1288,11 +1283,11 @@
             <region><name>Bern</name><idno type="geonames">2661551</idno></region>
             <country><name>Suisse</name><idno type="geonames">2658434</idno></country>
           </place>
-          <place xml:id="place_82" corresp="prov">
+          <place xml:id="place_82" corresp="prov-1235">
             <settlement><name>Lauris</name><idno type="geonames">3005966</idno></settlement>
             <region><name>Vaucluse</name><idno type="geonames">2970554</idno></region>
           </place>
-          <place xml:id="place_83" corresp="prov">
+          <place xml:id="place_83" corresp="prov-1235">
             <settlement><name>Lourmarin</name><idno type="geonames">2997384</idno></settlement>
             <region><name>Vaucluse</name><idno type="geonames">2970554</idno></region>
           </place>
@@ -1307,7 +1302,7 @@
   </teiHeader>
 
   <text>
-    <front xml:lang="stan">
+    <front xml:lang="stan-1290">
       <div type="titlePage">
         <pb n="0" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f000"/>
         <p><lb/>PARABOLE <lb/>DE <lb/>L'ENFANT PRODIGUE <lb/>En 88 Patois divers de la France
@@ -1350,7 +1345,7 @@
       <pb n="6" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f006"/>
     </front>
     <body>
-      <div xml:lang="stan">
+      <div xml:lang="stan-1290">
         <pb n="7" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f007"/>
         <head><lb/> LES PATOIS</head>
         <p><lb/>Lorsque les Romains firent la conquête de la Gaule, ils <lb/> trouvèrent le sol
@@ -1491,8 +1486,8 @@
         <p><lb/> Cette collection ne peut manquer d’exciter un vif <lb/> intérêt, car elle offrira
           le tableau exact des différents <lb/> patois qui se parlent encore en France et qui
           tendent à <lb/> disparaître, dans un avenir peu éloigné.</p>
-        <div type="parabole" n="1" xml:lang="stan">
-          <head xml:lang="stan"><lb/>PARABOLE DE L'ENFANT PRODIGUE. <lb/> Évangile selon Saint-Luc,
+        <div type="parabole" n="1" xml:lang="stan-1290">
+          <head xml:lang="stan-1290"><lb/>PARABOLE DE L'ENFANT PRODIGUE. <lb/> Évangile selon Saint-Luc,
             Chap. XV. <lb/> (Traduction de Le Maistre de Sacy.)</head>
           <p n="11"><lb/> 11. Jésus leur dit encore : Un homme avait deux fils.</p>
           <p n="12"><lb/> 12. dont le plus jeune dit à son père : mon père, donnez-<lb/> moi ce qui
@@ -1550,7 +1545,7 @@
         <div>
           <pb n="014" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f014"/>
           <fw type="numbering"><lb/> — 4 —</fw>
-          <head xml:lang="stan"><lb/> PARABOLE DE L ENFANT PRODIGUE EN PATOIS AUVERGNAT <lb/>
+          <head xml:lang="stan-1290"><lb/> PARABOLE DE L ENFANT PRODIGUE EN PATOIS AUVERGNAT <lb/>
             d’après la version syriaque.</head>
           <p><lb/> J’ai préféré, pour la traduction de la Parabole de <lb/> l'Enfant prodigue en
             patois auvergnat, la version syria <lb/> que, parce qu’elle doit approcher davantage du
@@ -1563,8 +1558,8 @@
             des améliorations assez considérables.</p>
           <signed><lb/> L’abbé LEBOUDERIE.</signed>
         </div>
-        <div type="parabole" n="2" xml:lang="auve" hand="#person_1">
-          <head xml:lang="stan">><lb/> PARABOLE DE L’EFON PROUDIGUE, EN PATOIS DE NAHRTE OUVÉRGNA,
+        <div type="parabole" n="2" xml:lang="auve-1239" hand="#person_1">
+          <head xml:lang="stan-1290">><lb/> PARABOLE DE L’EFON PROUDIGUE, EN PATOIS DE NAHRTE OUVÉRGNA,
             <lb/> soubre la version syriaque. <lb/> S. Luc, tzapitre tienze, verset onze.</head>
           <p n="11"><lb/> 11. — En home aviot dons efons.</p>
           <p n="12"><lb/> 12. — Lou pe dzouïne diguet à soun païre : Moun païre, <lb/> donna me la
@@ -1619,8 +1614,8 @@
             zèra mort é zes rassussita, zèra pardu é s’os <lb/> retrouba.</p>
           <p><lb/> Fi de la Parabole de l'Efon Proudigue.</p>
         </div>
-        <div type="parabole" n="3" hand="#person_2" xml:lang="wall" corresp="#place_1">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="3" hand="#person_2" xml:lang="wall-1255" corresp="#place_1">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             Liège, <lb/>envoyée par M. D'OMALIUS DE HALLOY, de Namur. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. In homme aveut deux fils.</p>
           <p n="12"><lb/><num>12</num>. Li pus jône des deux ly dit: pêre diné m’ çou qui
@@ -1671,9 +1666,9 @@
           <p n="32"><lb/><num>32</num>. I folève bin qu’on fihe de l’joïe pusqui t'frère qu’es
             <lb/>teut moir est raviqué qu’il esteut pierdou et qu’il est <lb/>r’trové.</p>
         </div>
-        <div type="parabole" n="4" hand="#person_3" xml:lang="wall" corresp="#place_2"
+        <div type="parabole" n="4" hand="#person_3" xml:lang="wall-1255" corresp="#place_2"
           subtype="1807">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             Wallon <lb/>des environs de Malmedy, envoyée en 1807 par M. de PERIGNY.</head>
           <p n="11"><lb/><num>11</num>. Jun’ y avéve oun homme qu’avéve deux fils.</p>
           <p n="12"><lb/><num>12</num>. Et l’pu jône des deuss diha atoû s’pere : Pere duno<pb
@@ -1726,8 +1721,8 @@
             <lb/>vos frere voci esteut moir et qu’il est raviski ; qu’il esteut <lb/>pierdou et qu’
             voilà r’trové.<fw type="numbering">— 9 —</fw></p>
         </div>
-        <div type="parabole" n="5" hand="#person_2" xml:lang="wall" corresp="#place_3">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="5" hand="#person_2" xml:lang="wall-1255" corresp="#place_3">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             <lb/>Namur, envoyée par M. D’OMALIUS DE HALLOY. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. I nia ieu one fu on homme qui aveuve deux gar-
             <lb/>çons.</p>
@@ -1786,8 +1781,8 @@
           <p n="32"><lb/><num>32</num>. Mais i falloit bain fe l’fiesse et si r’djoïhi pasqui
             <lb/>vosse frère estoit mouart et qu’il est raviqué.</p>
         </div>
-        <div type="parabole" n="6" hand="#person_4" xml:lang="wall" corresp="#place_4">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+        <div type="parabole" n="6" hand="#person_4" xml:lang="wall-1255" corresp="#place_4">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             Wallon <lb/>de la partie du Hainaut dont la ville de Mons est la Capitale, <lb/>envoyée
             en 1807 par M. de CONINCK, Préfet, (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Ein n’saqui avoa deux fieux.</p>
@@ -1832,8 +1827,8 @@
             <lb/>vos pée a tué l'cras viau. </p>
           <p><lb/>(Le reste manque.)</p>
         </div>
-        <div type="parabole" n="7" hand="#person_5" xml:lang="camb" corresp="#place_5">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en dialecte de
+        <div type="parabole" n="7" hand="#person_5" xml:lang="camb-1242" corresp="#place_5">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en dialecte de
             <lb/>Cambrai (Nord), envoyée par M. Le GLAY. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Inn hom avau deux fius.</p>
           <p n="12"><lb/><num>12</num>. El pus josne di à sin père : Min père, donném chou <lb/>ki
@@ -1889,8 +1884,8 @@
           <p n="32"><lb/><num>32</num>. Mais folau traiter et nos divertir parche ke vos frère
             <lb/>étau mort et k’il est ressuscité, il étau perdu et il est <lb/>r‘ treuvé.</p>
         </div>
-        <div type="parabole" n="8" hand="#person_6" xml:lang="arto" corresp="#place_6">
-          <head xml:lang="stan"><lb/>Traduction de l’Enfant Prodigue en dialecte du canton d’Arras,
+        <div type="parabole" n="8" hand="#person_6" xml:lang="arto-1238" corresp="#place_6">
+          <head xml:lang="stan-1290"><lb/>Traduction de l’Enfant Prodigue en dialecte du canton d’Arras,
             <lb/>département du Pas-de-Calais, envoyée, en 1807, par M. DE LA <lb/>CHAISE, Préfet,
             (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Ain homme avouait deeux garchéons.</p>
@@ -1952,9 +1947,9 @@
           <p n="32"><lb/><num>32</num>. Maye i feaut fouaire ducasse et nous récréyer à <lb/>kiose
             tain frère défaincté qui r’est viveant, qu’il étoüait <lb/>pardu et qu’ol’ r’aveons.</p>
         </div>
-        <div type="parabole" n="9" hand="#person_6" corresp="#place_7" xml:lang="arto"
+        <div type="parabole" n="9" hand="#person_6" corresp="#place_7" xml:lang="arto-1238"
           subtype="1807">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en dialecte du
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en dialecte du
             <lb/>canton de Carvin, arrondissement de Béthune, département du <lb/>Pas-de-Calais,
             envoyée, en 1807, par M. DE LA CHAISE. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un Homme avo deux fiu.</p>
@@ -2010,9 +2005,9 @@
           <p n="32"><lb/><num>32</num>. Mé y conveno d’faire bonne chière et d’no réjouir <lb/>vu
             q’ten frère qui éto mort est réchuchilé, qui éto perdu <lb/>et qui est r’trouvé.</p>
         </div>
-        <div type="parabole" n="10" hand="#person_7" xml:lang="arto" corresp="#place_8"
+        <div type="parabole" n="10" hand="#person_7" xml:lang="arto-1238" corresp="#place_8"
           subtype="1810">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             populaire <lb/>de la ville de Saint-Omer, envoyée, en 1810, par M. WATTRINGUE,
             <lb/>Maire de Saint-Omer. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Eun home avouoit deux éfans,</p>
@@ -2075,8 +2070,8 @@
               facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f030"/><fw type="numbering">- 20
               —</fw></p>
         </div>
-        <div type="parabole" n="11" xml:lang="wall" corresp="#place_9 #place_10">
-          <head xml:lang="stan"><lb/>Traduction de l’Enfant Prodigue, en patois Ardennois, entre
+        <div type="parabole" n="11" xml:lang="wall-1255" corresp="#place_9 #place_10">
+          <head xml:lang="stan-1290"><lb/>Traduction de l’Enfant Prodigue, en patois Ardennois, entre
             <lb/>Neufchâteau et Bouillon.</head>
           <p n="11"><lb/><num>11</num>. On n’oum avo deu s’afan,</p>
           <p n="12"><lb/><num>12</num>. Don l’pe jaun di a s’per: Mu per, bayo’m ç’qui do
@@ -2129,8 +2124,8 @@
           <p n="32"><lb/><num>32</num>. Ma il fallût foire festin é nou réjouï pos’que vos <lb/>frer
             esto mor é y revicq, y l’esto perdeu é y lésté retrouvé.</p>
         </div>
-        <div type="parabole" n="12" hand="#person_8" xml:lang="lorr" corresp="#place_11">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en Patois
+        <div type="parabole" n="12" hand="#person_8" xml:lang="lorr-1242" corresp="#place_11">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en Patois
             d’Onville, <lb/>canton de Gorze, département de la Moselle, envoyée par <lb/>M. Bouchy,
             d’Onville.</head>
           <p n="11"><lb/><num>11</num>. Ain oumme aiveu daoz offans ;</p>
@@ -2193,8 +2188,8 @@
             <lb/>fraire oteu mou, et l’ot ressuscitaye, l’oteu peudu et l’ait <lb/>eteu
             rétréuvaye.</p>
         </div>
-        <div type="parabole" n="13" xml:lang="lorr" hand="#person_9">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+        <div type="parabole" n="13" xml:lang="lorr-1242" hand="#person_9">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             Lorrain, <lb/>communiquée par M. le comte Grégoire.</head>
           <p n="11"><lb/><num>11</num>. In home avo doux afans ;</p>
           <p n="12"><lb/><num>12</num>. Lo pus jogne deheu è so pere : Mo pere beïom ci <lb/>que me
@@ -2249,8 +2244,8 @@
           <p n="32"><lb/><num>32</num>. Ma i falo fare in fechtin et no réjoui, parceque <lb/>vote
             frère, ato moua et l’a resuscité ; l’ato pediu et l’a <lb/>retrové.</p>
         </div>
-        <div type="parabole" n="14" hand="#person_10" xml:lang="lorr" corresp="#place_12">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue , en patois de
+        <div type="parabole" n="14" hand="#person_10" xml:lang="lorr-1242" corresp="#place_12">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue , en patois de
             <lb/>Vaudemont (Meurthe), par M. BOTTIN. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Ein hame éva dou gâchons.</p>
           <p n="12"><lb/><num>12</num>. Lo pu jane d’jet é so père : Mo père, beyem lè pé <lb/>qè’do
@@ -2300,10 +2295,10 @@
           <p n="32"><lb/><num>32</num>. Mès falaza bie fère in fechtin po no rejoï, é case <lb/>q’to
             frere éta mô et la ressucitet, lela padiu et la ertrovet.</p>
         </div>
-        <div type="parabole" n="15" hand="#person_11" xml:lang="lorr" corresp="#place_13">
+        <div type="parabole" n="15" hand="#person_11" xml:lang="lorr-1242" corresp="#place_13">
           <pb n="036" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f036"/>
           <fw type="numbering">— 26 —</fw>
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             <lb/>Géradmer (Vosges), envoyée par M. N. L. A. Richard. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. In am avou dou fé.<pb n="037"
               facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f037"/></p>
@@ -2354,12 +2349,12 @@
           <p n="30"><lb/><num>30</num>. Ma aussiteu que vote ote fé que meigie so bé etvo <lb/>dé
             fam poedu at reveni, vo z’eu toi po li lo vey gra.</p>
           <p n="31"><lb/><num>31</num>. Et lo père li dehé : Mo fé vo sau toton<note>(tocon ?)</note>
-            </app> etvo <lb/>mi et torto sou que j’a a et vo.</p>
+            etvo <lb/>mi et torto sou que j’a a et vo.</p>
           <p n="32"><lb/><num>32</num>. Me é falli far fechtin et sé rejoïé pesque vot frar irè
             <lb/>mor et e l’eu ressuscitét, é Tiré poëdi et é l’at retrovet.</p>
         </div>
-        <div type="parabole" n="16" hand="#person_11" xml:lang="alem" corresp="#place_14">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="16" hand="#person_11" xml:lang="alem-1243" corresp="#place_14">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             <lb/>l’arrondist d’Altkirch, envoyée par M. RICHARD, des Vosges, (M. I.)</head>
           <p n="11"><lb/><num>11</num>. In hanne aivait doux fés.</p>
           <p n="12"><lb/><num>12</num>. Et lo pu juene diait ai son père : bayie me lai pail <lb/>du
@@ -2417,8 +2412,8 @@
             <lb/>frère était moue et ai l’a rechucitai ; et l’étuet preju et ai <lb/>l’a
             retrovai.</p>
         </div>
-        <div type="parabole" n="17" hand="#person_11" xml:lang="fran" corresp="#place_15">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois, de
+        <div type="parabole" n="17" hand="#person_11" xml:lang="fran-1270" corresp="#place_15">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois, de
             <lb/>Giromagny (Alsace), envoyée par M. RICHARD, des Vosges.</head>
           <p n="11"><lb/><num>11</num>. In houme ava dou boubes.</p>
           <p n="12"><lb/><num>12</num>. A lo pu june dit à son paire: mon paire bayie me <lb/>pâs dy
@@ -2471,8 +2466,8 @@
           <p n="32"><lb/><num>32</num>. Mas a faya bain bonbancire et se rehgeuy parce que <lb/>veut
             frare état mo al a ressuscita al état petschut et a <lb/>s’ah retrova.</p>
         </div>
-        <div type="parabole" n="18" xml:lang="fran" corresp="#place_16">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole do l’Enfant Prodigue, en patois du
+        <div type="parabole" n="18" xml:lang="fran-1270" corresp="#place_16">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole do l’Enfant Prodigue, en patois du
             canton <lb/>de Champagney, arrondissement de Lure, département de la <lb/>Haute-Saône
             (M. I.)</head>
           <p n="11"><lb/><num>11</num>. In homme avat dous boubes.</p>
@@ -2527,8 +2522,8 @@
             <lb/>que ton frare que voila éta mo, al o ressuscita, al éta <lb/>pedju, al o
             retrova.</p>
         </div>
-        <div type="parabole" n="19" hand="#person_12" xml:lang="fran" corresp="#place_17">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
+        <div type="parabole" n="19" hand="#person_12" xml:lang="fran-1270" corresp="#place_17">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
             <lb/>canton de Vauvilliers, département de la Haute-Saône, envoyée <lb/>par M. ESTIENNE,
             maire de Selles. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. In homme aivoit doux guechons.</p>
@@ -2563,10 +2558,10 @@
             retreuva. <lb/></p>
           <p>(Le reste manque.)</p>
         </div>
-        <div type="parabole" n="20" hand="#person_13" xml:lang="fran" corresp="#place_18">
+        <div type="parabole" n="20" hand="#person_13" xml:lang="fran-1270" corresp="#place_18">
           <pb n="044" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f044"/>
           <fw type="numbering">— 34 —</fw>
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
             <lb/>canton de Vesoul (Haute-Saône), envoyée par M. PEIGNOT, <lb/>principal du collège
             de cette ville. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. In home èvoi dù gaichons.</p>
@@ -2623,8 +2618,8 @@
             <lb/>freiro qu’étâ moue ô rassuscitâ, qu’èl etâ paju et qu’èl ô <lb/>retreuvâ.<fw
               type="numbering">— 36 —</fw></p>
         </div>
-        <div type="parabole" n="21" hand="#person_14" xml:lang="fran" corresp="#place_19">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
+        <div type="parabole" n="21" hand="#person_14" xml:lang="fran-1270" corresp="#place_19">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
             canton <lb/>de Champlitte, arrondissement de Gray, envoyée, en 1812, par <lb/>M. DE
             TOULONGEON, maire de Champlitte. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Ein homme aivot deux gassons.</p>
@@ -2684,8 +2679,8 @@
               retrouvai.<pb n="048" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f048"/><fw
               type="numbering">— 38 —</fw></p>
         </div>
-        <div type="parabole" n="22" xml:lang="fran" corresp="#place_20">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="22" xml:lang="fran-1270" corresp="#place_20">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             <lb/>Besançon, département du Doubs. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. N'houme aîva clou offants.</p>
           <p n="12"><lb/><num>12</num>. Dont lou pu juêne diset ai son pere: père baillame
@@ -2744,9 +2739,9 @@
               retrouva.<pb n="050" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f050"/><fw
               type="numbering">— 40 —</fw></p>
         </div>
-        <div type="parabole" n="23" hand="#person_15" xml:lang="bour" subtype="1808"
+        <div type="parabole" n="23" hand="#person_15" xml:lang="bour-1247" subtype="1808"
           corresp="#place_21">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
             <lb/>Morvant, envoyée, en 1808 , par M. DE PLANCY, préfet de la <lb/>Nièvre, (M.
             I.)</head>
           <p n="11"><lb/><num>11</num>. Ein houme aivot deux renfans.</p>
@@ -2808,9 +2803,9 @@
               facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f052"/><fw type="numbering">— 42
               —</fw></p>
         </div>
-        <div type="parabole" n="24" hand="#person_16" xml:lang="poit" corresp="#place_22"
+        <div type="parabole" n="24" hand="#person_16" xml:lang="poit-1241" corresp="#place_22"
           subtype="1806">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             poitevin <lb/>d’une partie de l’arrondissement de Confolens, département de <lb/>la
             Charente, env., en 1806, par M. MEMINEAU, sous-préfet. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un’ hom’ avîe dou afan.</p>
@@ -2867,8 +2862,8 @@
             <lb/>vot fraire erre maur et q’ v’aîs ressuscita, parç’que v’êrre <lb/>predu é q’ v’ais
             retrouva.</p>
         </div>
-        <div type="parabole" n="25" xml:lang="limo" corresp="#place_23">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois des
+        <div type="parabole" n="25" xml:lang="limo-1246" corresp="#place_23">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois des
             <lb/>environs de la Valette (Charente), arrond. de Barbezieux. (M. i.)</head>
           <p n="11"><lb/><num>11</num>. Un houmé avês doûe enfans.</p>
           <p n="12"><lb/><num>12</num>. Et le pusjaûnè dau doûe dissé à soun père: Moun<pb n="054"
@@ -2891,8 +2886,8 @@
           <p n="18"><lb/><num>18</num>. Y vole surtir de ki et qu'enge trouva moun <lb/>pere,
             etc.</p>
         </div>
-        <div type="parabole" n="26" xml:lang="poit" corresp="#place_24">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="26" xml:lang="poit-1241" corresp="#place_24">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             <lb/>Saintes, département de la Charente-Inférieure, (M. I.)</head>
           <p n="11"><lb/><num>11</num>. In houme avait deux fait.</p>
           <p n="12"><lb/><num>12</num>. Et le pus jéne dicit à son père : Mon père, baillez <lb/>me
@@ -2952,8 +2947,8 @@
             <lb/>cause que ton frère que velat était mort et il est revilé, <lb/>il était perdut et
             il est retreuvé.</p>
         </div>
-        <div type="parabole" n="27" xml:lang="poit" corresp="#place_25">
-          <head xml:lang="stan"><lb/>Imitation Libre de la Parabole de l’Enfant Prodigue , en patois
+        <div type="parabole" n="27" xml:lang="poit-1241" corresp="#place_25">
+          <head xml:lang="stan-1290"><lb/>Imitation Libre de la Parabole de l’Enfant Prodigue , en patois
             de <lb/>la Rochelle, Charente-Inférieure. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. In houme ayant deux cheuts d’enfant,</p>
           <p n="12"><lb/><num>12</num>. Le deré des deux dissit courue ça à son cher père <lb/>de li
@@ -3018,8 +3013,8 @@
               soune entende)</note>, était au jour d’aujourd’hui grouil <lb/>lant comme un pibeau
               <note>(anguille)</note> Amen.</p>
         </div>
-        <div type="parabole" n="28" xml:lang="poit" corresp="#place_23">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+        <div type="parabole" n="28" xml:lang="poit-1241" corresp="#place_23">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             <lb/>Angoumoisin d’autres communes du canton de la Valette. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Yun homme avet deux enfans.</p>
           <p n="12"><lb/><num>12</num>. Le plus jeune dicit à son père : Mon père, donnés <lb/>me ma
@@ -3039,9 +3034,9 @@
           <p n="18"><lb/><num>18</num>. Ou faû que j’ me lève, que j’aie trouver mon <lb/>pere, etc.
             -</p>
         </div>
-        <div type="parabole" n="29" xml:lang="poit" hand="#person_17" corresp="#place_26"
+        <div type="parabole" n="29" xml:lang="poit-1241" hand="#person_17" corresp="#place_26"
           subtype="1818">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant prodigue en patois de
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant prodigue en patois de
             <lb/>Marennes, Charente-Inférieure, envoyée, en 1818, par <lb/>M. Guillotin FOUGERÉ,
             sous-préfet, (M. I.)</head>
           <p n="11"><lb/><num>11</num>. In houme avoil deux cheut d'enfant.</p>
@@ -3100,10 +3095,10 @@
             <lb/>parceque ton frère chi era mort est revingut, chi era <lb/>prédit et il est
             retrouvé.</p>
         </div>
-        <div type="parabole" n="30" hand="#person_18" xml:lang="poit" corresp="#place_27">
+        <div type="parabole" n="30" hand="#person_18" xml:lang="poit-1241" corresp="#place_27">
           <pb n="060" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f060"/>
           <fw type="numbering">— 50 —</fw>
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en gavache de
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en gavache de
             <lb/>Monségur, arrondissement de la Réole, envoyée par <lb/>M. VILLEVIELHE, maire de
             Monségur. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un homme avait deu gouya ;</p>
@@ -3164,8 +3159,8 @@
             <lb/>tre fray eytet more et y l’ey ressuscité, y l’eytet predu et <lb/>y l’ey
             retrouvé.</p>
         </div>
-        <div type="parabole" n="31" xml:lang="limo" hand="#person_19" corresp="#place_28">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en gavache de
+        <div type="parabole" n="31" xml:lang="limo-1246" hand="#person_19" corresp="#place_28">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en gavache de
             la <lb/>Motte-Landeron , arrondissement de la Réole, envoyée par <lb/>M. Martineau des
             Barthes, maire de la Motte-Landeron. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un home avait deu ménages.</p>
@@ -3226,8 +3221,8 @@
           <p n="32"><lb/><num>32</num>. Maîs faulait bé se festiné et se rejoyi mecéque ton
             <lb/>fray était mort et il est reçuscité ; il était perdut et il est <lb/>retrouvé.</p>
         </div>
-        <div type="parabole" n="32" xml:lang="limo" corresp="#place_23">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+        <div type="parabole" n="32" xml:lang="limo-1246" corresp="#place_23">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             périgourdin <lb/>des communes de Gardes, Edon, Conchières, Rougnac, Diznac,
             <lb/>Beaulieux, Choutras, Vouzon et Cers, canton de la Valette , <lb/>département de la
             Charente. (M. I.)</head>
@@ -3251,8 +3246,8 @@
               n="065" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f065"/><fw
               type="numbering">— 55 —</fw></p>
         </div>
-        <div type="parabole" n="33" xml:lang="limo" corresp="#place_29">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue , en patois de
+        <div type="parabole" n="33" xml:lang="limo-1246" corresp="#place_29">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue , en patois de
             la <lb/>Sous-Préfecture de Nontron, département de la Dordogne. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un home avio doux fîs.</p>
           <p n="12"><lb/><num>12</num>. Dont lou pû djouné dicé à soun pay : Maoun pay, <lb/>donnés
@@ -3313,8 +3308,8 @@
             <lb/>que toun fray que veyqui, éro mort et oou ey ressuscita, <lb/>oou éro perdu et oou
             ey retrouba.</p>
         </div>
-        <div type="parabole" n="34" hand="#person_20" xml:lang="lang" corresp="#place_30">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+        <div type="parabole" n="34" hand="#person_20" xml:lang="lang-1309" corresp="#place_30">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             Sarladais, <lb/>département de la Dordogne, par M. DELPY DE LA CIPIERE, <lb/>de Sarlat.
             (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un homé ovio dous fils.</p>
@@ -3374,9 +3369,9 @@
           <p n="32"><lb/><num>32</num>. Mais collio fa festin et nus retzouï, persoqué vostré
             <lb/>fraïré qu’es oqui éro mor et es réssuscitat, éro perdut et <lb/>es trouvat.</p>
         </div>
-        <div type="parabole" n="35" hand="#person_16" xml:lang="limo" corresp="#place_22"
+        <div type="parabole" n="35" hand="#person_16" xml:lang="limo-1246" corresp="#place_22"
           subtype="1806">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             Limousin <lb/>d’une partie de l’arrondissement de Confolens (Charente), <lb/>envoyée, en
             1806, par M. MEMINEAU, sous-préfet, (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Y a vio u n’haumé qu’avio doûe éfan.</p>
@@ -3434,8 +3429,8 @@
             perço qué vautré fraîré êro morr, v’é ressuscitê : <lb/>perço qué v’êro perdu é v’é
             retroubê.</p>
         </div>
-        <div type="parabole" n="36" hand="#person_21" xml:lang="limo" corresp="#place_31">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en dialecte
+        <div type="parabole" n="36" hand="#person_21" xml:lang="limo-1246" corresp="#place_31">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en dialecte
             limousin, <lb/>envoyée par M. TEXIER OLIVIER, préfet du département de la
             <lb/>Haute-Vienne, (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un haumé oguet dous droleis.</p>
@@ -3489,8 +3484,8 @@
           <p n="32"><lb/><num>32</num>. Faut beuré, minjas, t’eybandis, percé qué toun fraï
             <lb/>qu’eiro mort eï révicoula,au eiro perdut et aû eïrétrouba.</p>
         </div>
-        <div type="parabole" n="37" hand="#person_22" xml:lang="limo" corresp="#place_32">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+        <div type="parabole" n="37" hand="#person_22" xml:lang="limo-1246" corresp="#place_32">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             limousin <lb/>de l’arrondissement de Saint-Yrieix, envoyée par M. GONDINET,
             <lb/>sous-préfet, (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un omé avio doux fis.</p>
@@ -3552,8 +3547,8 @@
             <lb/>qué votré frai qué veiqui érô mor et au ei ressuscita, au <lb/>éro perdu et au ei
             rétrou ba.</p>
         </div>
-        <div type="parabole" n="38" xml:lang="auve" corresp="#place_33">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
+        <div type="parabole" n="38" xml:lang="auve-1239" corresp="#place_33">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
             canton <lb/>de Saint-Amant Tallende, département du Puy-de-Dôme. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Ein home z’ayo dou garçon.</p>
           <p n="12"><lb/><num>12</num>. Le pu dzone digue mey son payre : Moun payre, <lb/>beila me
@@ -3606,8 +3601,8 @@
               facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f076"/><fw type="numbering">— 66
               —</fw></p>
         </div>
-        <div type="parabole" n="39" xml:lang="lang" corresp="#place_34">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+        <div type="parabole" n="39" xml:lang="lang-1309" corresp="#place_34">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             d'Aurillac, <lb/>département du Cantal, (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un homme ôbio dous fils.</p>
           <p n="12"><lb/><num>12</num>. Lou pu ziouve li diguet : Mon païre dounamme lo <lb/>par del
@@ -3660,8 +3655,8 @@
           <p n="32"><lb/><num>32</num>. Mais se cauïo reziouï et fa festo ; pertaou que <lb/>toun
             fraïre ero mor et es ressuscitat, ero perdut et es <lb/>trouvat.</p>
         </div>
-        <div type="parabole" n="40" xml:lang="lang" corresp="#place_35">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue en patois de
+        <div type="parabole" n="40" xml:lang="lang-1309" corresp="#place_35">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue en patois de
             Rodez, <lb/>département de l’Aveyron, (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un ouome obio dous effons.</p>
           <p n="12"><lb/><num>12</num>. Dount lou pus choube diguet à son pèro : Mon pèro
@@ -3718,8 +3713,8 @@
             bouostré frèro qu’èro mouort es ressussitat, qu’èro <lb/>perdut et que s’és
             retroubat.</p>
         </div>
-        <div type="parabole" n="41" xml:lang="lang" corresp="#place_36">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="41" xml:lang="lang-1309" corresp="#place_36">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             Mon-<lb/>tauban, département de Tarn-et-Garonne. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un ôme abio doux fils.</p>
           <p n="12"><lb/><num>12</num>. Lou pu joube d’elis digue al paire : Moun pero, <lb/>dounas
@@ -3771,8 +3766,8 @@
           <p n="32"><lb/><num>32</num>. Mès counvenio de be rojouï e fa festin de ço que <lb/>toun
             frero qu’ero mort es ressussitât, qu’ero perdut et <lb/>qu’es retroubat.</p>
         </div>
-        <div type="parabole" n="42" hand="#person_23" xml:lang="limo" corresp="#place_37">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de la
+        <div type="parabole" n="42" hand="#person_23" xml:lang="limo-1246" corresp="#place_37">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de la
             ville <lb/>de la Réole, département de la Gironde, envoyée par M. SOUBI-<lb/>ROUX,
             fils. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un homme agut dus gouyatz.</p>
@@ -3824,8 +3819,8 @@
           <p n="32"><lb/><num>32</num>. Mé faléoue eze ribote é se rejouï percequé toun <lb/>fray
             qu’es achiou ere mort et és ressuscitât ; ère perdut é <lb/>es retroubat.</p>
         </div>
-        <div type="parabole" n="43" hand="#person_24" xml:lang="gasc" corresp="#place_38">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+        <div type="parabole" n="43" hand="#person_24" xml:lang="gasc-1240" corresp="#place_38">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             gascon, <lb/>du département du Gers, envoyée par M. CAZEAUX, Secrétaire <lb/>général de
             la Préfecture, (m. i.)</head>
           <p n="11"><lb/><num>11</num>. Un home qu’aougouc dus hils.</p>
@@ -3881,10 +3876,10 @@
           <p n="32"><lb/><num>32</num>. Mes be caléoüo hé hésto et s’arregaougi quand toun <lb/>fray
             ey tournât de mort en bito, é s’ey tournât trouba <lb/>après s’este esgarat.</p>
         </div>
-        <div type="parabole" n="44" xml:lang="lang" corresp="#place_39">
+        <div type="parabole" n="44" xml:lang="lang-1309" corresp="#place_39">
           <pb n="084" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f084"/>
           <fw type="numbering">— 74 —</fw>
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             <lb/>Pamiers, département de l’Ariège. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un ome abio dous fils.</p>
           <p n="12"><lb/><num>12</num>. É le pus jouen d'entre'elles diguec al paire : Moun
@@ -3937,8 +3932,8 @@
           <p n="32"><lb/><num>32</num>. Més be calio se regala é se rejoui dés qu’aqueste <lb/>tiou
             fraire éro mort é qu’es ressussitat ; que s’ero perdut <lb/>é que s’es troubat.</p>
         </div>
-        <div type="parabole" n="45" xml:lang="lang" corresp="#place_40">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="45" xml:lang="lang-1309" corresp="#place_40">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             Saint <lb/>Girons, département de l’Ariége. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un home aüec dus hils.</p>
           <p n="12"><lb/><num>12</num>. El més joués d’aquéris disec à sou pay : Papay !
@@ -3993,9 +3988,9 @@
           <p n="32"><lb/><num>32</num>. Calio donc hè festin et se rejoui, qûsqu’aqueste tou
             <lb/>fray ero mort et qu’é ressussitach ; ero perduch et s'é <lb/>trouvach.</p>
         </div>
-        <div type="parabole" n="46" hand="#person_25" xml:lang="lang" corresp="#place_41"
+        <div type="parabole" n="46" hand="#person_25" xml:lang="lang-1309" corresp="#place_41"
           subtype="1807">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
             dépar <lb/>tement de la Haute-Garonne, envoyée en 1807 , par M. DEMOUS-<lb/>seaux,
             préfet, (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un homè abio dous fils.</p>
@@ -4056,8 +4051,8 @@
             <lb/>bostré frayrè ero mort et èl ès ressuscitât, èl èro perdut <lb/>et ès estât
             retroubat.</p>
         </div>
-        <div type="parabole" n="47" xml:lang="lang" corresp="#place_42">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="47" xml:lang="lang-1309" corresp="#place_42">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             l’ar <lb/>rondissement de Foix, département de l’Ariége. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un certain home ageg dous gougeats.</p>
           <p n="12"><lb/><num>12</num>. Et le pus joube diguec à son paire : Dounax me la
@@ -4115,8 +4110,8 @@
               facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f092"/><fw type="numbering">— 82
               —</fw></p>
         </div>
-        <div type="parabole" n="48" xml:lang="lang" corresp="#place_43">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="48" xml:lang="lang-1309" corresp="#place_43">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             l’ex <lb/>trémité de l’arrondissement de Foix, du côté de l’Espagne. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un certain home ageg dons gougeats.</p>
           <p n="12"><lb/><num>12</num>. Et le pus joube diguec à son paire dounax me la
@@ -4171,8 +4166,8 @@
           <p n="32"><lb/><num>32</num>. Calio donc fe festo et se rejouir, pramos que aquel <lb/>tou
             fraire ero mort et es ressuscitât, ero perdut et s’es <lb/>troubat.</p>
         </div>
-        <div type="parabole" n="49" hand="#person_26" xml:lang="cata" corresp="#place_44">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant-Prodigue, en langue
+        <div type="parabole" n="49" hand="#person_26" xml:lang="cata-1291" corresp="#place_44">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant-Prodigue, en langue
             Catalane, <lb/>du département des Pyrénées-Orientales, données par M. JAU-<lb/>BERT DE
             PASSA, conseiller de Préfecture à Perpignan.</head>
           <p n="11"><lb/><num>11</num>. Un home tingue dos tills.</p>
@@ -4213,10 +4208,10 @@
           <p n="27"><lb/><num>27</num>. Y lo mosso li digue : lo teu germa es vingut y lo <lb/>teu
             pare a degollat lo vedell engreixat per aver lo rebut <lb/>en salut.</p>
         </div>
-        <div type="parabole" n="50" xml:lang="norm" hand="#person_27" corresp="#place_45">
+        <div type="parabole" n="50" xml:lang="norm-1245" hand="#person_27" corresp="#place_45">
           <pb n="095" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f095"/>
           <fw type="numbering">— 85 —</fw>
-          <head xml:lang="stan"><lb/>Parabole de l’Enfant Prodigue racontée en patois normand du
+          <head xml:lang="stan-1290"><lb/>Parabole de l’Enfant Prodigue racontée en patois normand du
             pays <lb/>d’Ouche (Eure) , par E. WEUCLIN.</head>
           <p n="11"><lb/><num>11</num>. Y a bin longtemps d'ça ; c’est vieil comme Hérode <lb/>ou
             bin comme Maquieusalé, y avait dans l’ pays par delà, <lb/>un bonhomme bin à s’n’ ése et
@@ -4363,8 +4358,8 @@
             r’consolit son gâs et <lb/>qué c’ti ci fit bonne mine à son frère, et i véquirent
             <lb/>tertous contents et héreux comme des poissons dans <lb/>de l’iau clére.</p>
         </div>
-        <div type="parabole" n="51" hand="#person_28" xml:lang="lang" corresp="#place_46">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="51" hand="#person_28" xml:lang="lang-1309" corresp="#place_46">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             Car <lb/>cassonne, département de l’Aude, envoyée par M. LARREY, de <lb/>Carcassonne.
             (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un hommé abio dous mainachés.</p>
@@ -4423,8 +4418,8 @@
               facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f102"/><fw type="numbering">— 92
               —</fw></p>
         </div>
-        <div type="parabole" n="52" xml:lang="lang" corresp="#place_47">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue en patois
+        <div type="parabole" n="52" xml:lang="lang-1309" corresp="#place_47">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue en patois
             d’Agde, <lb/>département de l’Hérault. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un homme abio dons effans.</p>
           <p n="12"><lb/><num>12</num>. Lou pu jouiné d'éntré élés diguet à soun païré : <lb/>Moun
@@ -4478,8 +4473,8 @@
           <p n="32"><lb/><num>32</num>. Me, caillo bé faire festo, et se deberti parce que <lb/>toun
             fraïré ero mort et qu'és ressuscitat, ero perdut et <lb/>s’és troubat.</p>
         </div>
-        <div type="parabole" n="53" xml:lang="lang" corresp="#place_48">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+        <div type="parabole" n="53" xml:lang="lang-1309" corresp="#place_48">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             <lb/>de Lodève, département de l’Hérault. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un home abio dous éfans.</p>
           <p n="12"><lb/><num>12</num>. Lou pus jouine diguèt a soun pèra : Moun pera <lb/>douna me
@@ -4520,10 +4515,10 @@
             <lb/>aco.</p>
           <p n="27"><lb/><num>27</num>. Lou barlet ye respon : Bostre frero es bengut et</p>
         </div>
-        <div type="parabole" n="54" xml:lang="lang" corresp="#place_49">
+        <div type="parabole" n="54" xml:lang="lang-1309" corresp="#place_49">
           <pb n="105" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f105"/>
           <fw type="numbering">— 95 —</fw>
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
             dépar <lb/>tement du Tarn. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un homé abié dous fils.</p>
           <p n="12"><lb/><num>12</num>. Dount lou pus joubé diguet à soun païré : Moun <lb/>païré,
@@ -4583,8 +4578,8 @@
             <lb/>fraïré qu’éro mort es ressuscitat et que l’aben retroubat <lb/>aprep l’abé
             perdut.</p>
         </div>
-        <div type="parabole" n="55" hand="#person_29" xml:lang="auve" corresp="#place_50">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
+        <div type="parabole" n="55" hand="#person_29" xml:lang="auve-1239" corresp="#place_50">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
             <lb/>département de la Lozère, donnée par M. BROUSSOUS, secrétaire <lb/>général de la
             préfecture. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un omè abio dous fils.</p>
@@ -4641,8 +4636,8 @@
           <p n="32"><lb/><num>32</num>. Mè calio bè faïrè un rèpas é si rejouï parçochè <lb/>toun
             frero qu’es acqui éro mort é ès ressuscitât, éro per-<lb/>dut és es rètroubat.</p>
         </div>
-        <div type="parabole" n="56" xml:lang="lang" corresp="#place_51">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue , en patois
+        <div type="parabole" n="56" xml:lang="lang-1309" corresp="#place_51">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue , en patois
             <lb/>de Montpellier, département de l’Hérault. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un hommé aviés dous enfans.</p>
           <p n="12"><lb/><num>12</num>. Lou pu jouiné diguet à soun pèra : moun pèra, <lb/>donna mé
@@ -4695,10 +4690,10 @@
               facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f111"/><fw type="numbering">— 101
               —</fw></p>
         </div>
-        <div type="parabole" n="57" hand="#person_30" xml:lang="auve" corresp="#place_52">
+        <div type="parabole" n="57" hand="#person_30" xml:lang="auve-1239" corresp="#place_52">
           <pb n="110" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f110"/>
           <fw type="numbering">— 100 —</fw>
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois des
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois des
             <lb/>env. du Puy (Hte -Loire), donnée par M. BERTRAND-ROUX. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Y aviot un homme qu’avio dous garçons.</p>
           <p n="12"><lb/><num>12</num>. Lou plu djoueine diguet à son paire : Païre, beila <lb/>me
@@ -4749,8 +4744,8 @@
             <lb/>parceque toun fraïre que ve d’arriba ere mort, é es tourna <lb/>viou ; s’ere perdiu
             et s’es tourna trouba.</p>
         </div>
-        <div type="parabole" n="58" hand="#person_31" xml:lang="viva" corresp="#place_53">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="58" hand="#person_31" xml:lang="viva-1235" corresp="#place_53">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             Privas, <lb/>département de l’Ardèche , donnée en 1808, par M. DELOR , <lb/>secrétaire
             général de la préfecture. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un home avio dous fis.</p>
@@ -4808,8 +4803,8 @@
             <lb/>vouostré fréro qu’éro mouor és revengu ; ques’éro chobit <lb/>é que s’és
             rétrouba.</p>
         </div>
-        <div type="parabole" n="59" xml:lang="viva" hand="#person_32" corresp="#place_54">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="59" xml:lang="viva-1235" hand="#person_32" corresp="#place_54">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             <lb/>l’arrondissement d’Annonay, département de l'Ardèche, donnée <lb/>par M. DURET,
             médecin à Annonay. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Quoqu eyants dous afans.</p>
@@ -4870,11 +4865,11 @@
           <p n="32"><lb/><num>32</num>. Mais fouliot nous regala et nous ebodir parceque <lb/>toun
             fréire eiré mor et o le ressuscita o l’eiré pardu et <lb/>ol’é retrouva.</p>
         </div>
-        <div type="parabole" n="60" hand="#person_33" xml:lang="prov" corresp="#place_55"
+        <div type="parabole" n="60" hand="#person_33" xml:lang="prov-1235" corresp="#place_55"
           subtype="1807">
           <pb n="114" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f114"/>
           <fw type="numbering">— 104 —</fw>
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             <lb/>Nismes, département du Gard, env. en 1807 par M. D'ALPHONSE, <lb/>préfet, (M.
             I.)</head>
           <p n="11"><lb/><num>11</num>. Un homë avié dous garçouns.</p>
@@ -4927,11 +4922,11 @@
           <p n="32"><lb/><num>32</num>. Més fouyé ben se régala et faïre festo, parce qué <lb/>voste
             fréro éro mor et és ressuscita, éro perdu et és<fw type="numbering">— 107 —</fw></p>
         </div>
-        <div type="parabole" n="61" hand="#person_33" xml:lang="prov" corresp="#place_56"
+        <div type="parabole" n="61" hand="#person_33" xml:lang="prov-1235" corresp="#place_56"
           subtype="1807">
           <pb n="118" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f118"/>
           <fw type="numbering">— 108 —</fw>
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             d’Uzès, <lb/>département du Gard, envoyée en 1807, par M. D'ALPHONSE, <lb/>préfet. (M.
             I.)</head>
           <p n="11"><lb/><num>11</num>. Un ômé avié dons efans.</p>
@@ -4986,8 +4981,8 @@
           <p n="32"><lb/><num>32</num>. Me fouie bén faire festin é se réjoui, parçoqé vostë
             <lb/>frero q’és aqi éro mor é es résuscita : éro perdu és ré <lb/>trouva.</p>
         </div>
-        <div type="parabole" n="62" xml:lang="prov" corresp="#place_57">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
+        <div type="parabole" n="62" xml:lang="prov-1235" corresp="#place_57">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
             quar <lb/>tier de Saint-Jean, à Marseille. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un hôme avie dous enfans.</p>
           <p n="12"><lb/><num>12</num>. Lou plus jouven diguet à soun païré : Moun païré,
@@ -5044,9 +5039,9 @@
             ero pardu et ista retroubat, a foougu faïre un festin <lb/>et se regalar de soun
               arribado.<fw type="numbering">— 111 —</fw></p>
         </div>
-        <div type="parabole" n="63" hand="#person_34" xml:lang="prov" corresp="#place_58"
+        <div type="parabole" n="63" hand="#person_34" xml:lang="prov-1235" corresp="#place_58"
           subtype="1807">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’enfant Prodigue, en Provençal du
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’enfant Prodigue, en Provençal du
             <lb/>département du Var, env. en 1807, par M. DAZEMAR, préfet, (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un homé avié dous enfans.</p>
           <p n="12"><lb/><num>12</num>. Lou plus pichoun diguét à soun païré : Moun païré,
@@ -5103,9 +5098,9 @@
             <lb/>vouastré fraïré qu’es aqui éro mouart et es révioudat, éro <lb/>perdu et s’és
             rétroubat.</p>
         </div>
-        <div type="parabole" n="64" hand="#person_35" xml:lang="prov" corresp="#place_59"
+        <div type="parabole" n="64" hand="#person_35" xml:lang="prov-1235" corresp="#place_59"
           subtype="1808">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             d’Avignon, <lb/>département de Vaucluse, envoyée en 1808 par M. DELATRE, <lb/>préfet.
             (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un home avié dous garçouns.</p>
@@ -5157,8 +5152,8 @@
           <p n="32"><lb/><num>32</num>. Maï foüié faïré bone tziére é nou régala, parcé qué
             <lb/>toun frère qu'érou mor éï rèssuscita, érou perdu é s’és <lb/>atrouva.</p>
         </div>
-        <div type="parabole" n="65" hand="#person_36" xml:lang="viva" corresp="#place_60">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
+        <div type="parabole" n="65" hand="#person_36" xml:lang="viva-1235" corresp="#place_60">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
             Buis, <lb/>département de la Drôme, envoyée par M. PONS, sous-préfet de <lb/>Nyons. (M.
             I.)</head>
           <p n="11"><lb/><num>11</num>. Un houmé avi doux enfans.<pb n="125"
@@ -5214,8 +5209,8 @@
           <p n="32"><lb/><num>32</num>. Mé fouli sé réjoui et faire buano chiéro de ce qué <lb/>toun
             freré qu'éro mouart ei revengu àlavido, et que isten <lb/>perdu, l’aven atrouba.</p>
         </div>
-        <div type="parabole" n="66" hand="#person_36" xml:lang="viva" corresp="#place_61">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="66" hand="#person_36" xml:lang="viva-1235" corresp="#place_61">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             Nyons , <lb/>département de la Drôme ; envoyée par M. PONS, sous-préfet de <lb/>Nyons.
             (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un homé avi dous garçouns.</p>
@@ -5272,8 +5267,8 @@
           <p n="32"><lb/><num>32</num>. Mé fouli faire festo é nous rejioui, parcé qué vou-
             <lb/>asté fréré qu’éro mouar ei ressucita, qu'éro perdu équ’ei <lb/>rétrouva.</p>
         </div>
-        <div type="parabole" n="67" xml:lang="viva" corresp="#place_62">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
+        <div type="parabole" n="67" xml:lang="viva-1235" corresp="#place_62">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
             <lb/>canton de Cadenet, arrondissement d’Apt, département de Vau <lb/>cluse. —
               <note>(Les initiales L et LM indiquent les variations de <lb/>prononciation usitées à
               Lauris et à Lourmarin.)</note> (M. I.)</head>
@@ -5353,8 +5348,8 @@
           <p n="32"><lb/><num>32</num>. Foulié pas mén bén sé régala é sé gooudî que toun
             <lb/>frairé dé'issi ère mouer é és révieouda, avié péri é és <lb/>rétrouba.</p>
         </div>
-        <div type="parabole" n="68" hand="#person_37" xml:lang="viva" corresp="#place_63">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="68" hand="#person_37" xml:lang="viva-1235" corresp="#place_63">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             <lb/>Valence, département de la Drôme, par M. DUPRÉ, avocat à Va <lb/>lence. (M.
             I.)</head>
           <p n="11"><lb/><num>11</num>. Un hommet aguet dous garçons.</p>
@@ -5391,8 +5386,8 @@
             perdu et s’é trouva ; et se regalerent.</p>
           <p><lb/>(Le reste manque.)</p>
         </div>
-        <div type="parabole" n="69" hand="#person_38" xml:lang="viva" corresp="#place_64">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="69" hand="#person_38" xml:lang="viva-1235" corresp="#place_64">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             De, <lb/>département de la Drôme, donnée par M. DROJAT, avocat près la <lb/>Cour Royale
             de Paris. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Ero ùn homme qu’ovio doux éfons.</p>
@@ -5450,8 +5445,8 @@
           <p n="32"><lb/><num>32</num>. Més folio fas fèto et nous redzouïs, pércé qué votré
             <lb/>fréré ero mouort qu'éi ressuscita, qu’ero pérdu et que s’éi <lb/>retrouva.</p>
         </div>
-        <div type="parabole" n="70" hand="#person_39" xml:lang="viva" corresp="#place_65">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="70" hand="#person_39" xml:lang="viva-1235" corresp="#place_65">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             Gap <lb/>et villages environnants, dans un rayon de trois lieues, départe <lb/>ment des
             Hautes-Alpes, envoyée par M. FARNAUD , de Gap , <lb/>secrétaire général de la
             Préfecture, (M. I.)</head>
@@ -5512,9 +5507,9 @@
               facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f135"/><fw type="numbering">— 125
               —</fw></p>
         </div>
-        <div type="parabole" n="71" hand="#person_40" xml:lang="viva" corresp="#place_66"
+        <div type="parabole" n="71" hand="#person_40" xml:lang="viva-1235" corresp="#place_66"
           subtype="1807">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             Saint <lb/>Maurice, canton du Vallais, envoyée, en 1807, par M. DERVILLE
             <lb/>MALESCHARD, résident de France en Vallais. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. On n’omo aveive don meniots,</p>
@@ -5568,8 +5563,8 @@
           <p n="32"><lb/><num>32</num>. Mais è faliey fère fêta parce que voutrom frère <lb/>qu’
             èteyve mor e resuscito, qu’ èteyve perdu é retrov.</p>
         </div>
-        <div type="parabole" n="72" xml:lang="viva" corresp="#place_67">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en Patois
+        <div type="parabole" n="72" xml:lang="viva-1235" corresp="#place_67">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en Patois
             Broyard, <lb/>(comme on le parle du côté d’Estavayer-le-Lac), à l’extrémité du <lb/>pays
             de Broie, sur la rive orientale du lac de Neufchâtel. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. On omou l’avei dou valè.</p>
@@ -5629,9 +5624,9 @@
           <p n="32"><lb/><num>32</num>. Mâ ne faliei-te pâ sè renovalâ è sè redzoï, apri que
             <lb/>ton frârè qu'ètei mô l’è ressuscitâ, qu’ètei pèrdu, è l’è <lb/>retrova !</p>
         </div>
-        <div type="parabole" n="73" hand="#person_41" xml:lang="fran" corresp="#place_68"
+        <div type="parabole" n="73" hand="#person_41" xml:lang="fran-1270" corresp="#place_68"
           subtype="1807">
-          <head xml:lang="stan"><lb/>Imitation de la Parabole de l’Enfant Prodigue, en patois de la
+          <head xml:lang="stan-1290"><lb/>Imitation de la Parabole de l’Enfant Prodigue, en patois de la
             Mon <lb/>tagne de Diesse, canton de Berne, envoyée en 1807 par M. HOLTZ,
             <lb/>sous-préfet de Delemont. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Enn home avîe do bouebes.</p>
@@ -5726,8 +5721,8 @@
             puix ton germà era mort, y ha ressuscitat ; s’havià <lb/>perdut, y ha estat trobat.</p>
             <p><lb/>(Lo sant Evangeli de Jésus-Christ segons sant Lluch, <lb/>capitol XV.)</p>
         </div>
-        <div type="parabole" n="74" hand="#person_42" xml:lang="fran" corresp="#place_69">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="74" hand="#person_42" xml:lang="fran-1270" corresp="#place_69">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             Mon <lb/>treux, district de Vevey, canton de Vaud, envoyée par M. BRIDEL, <lb/>Pasteur à
             Montreux. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. On ommo avai dous valets,</p>
@@ -5783,8 +5778,8 @@
             <lb/>ton frare que vaitinque ire moua et il lié retorna en vie, <lb/>il l’iire perdu et
             il sé retrova.<fw type="numbering">— 133 —</fw></p>
         </div>
-        <div type="parabole" n="75" hand="#person_43" corresp="#place_70" xml:lang="viva">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en langage
+        <div type="parabole" n="75" hand="#person_43" corresp="#place_70" xml:lang="viva-1235">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en langage
             Géne-<lb/>vois des environs de la ville, canton de Genève, donnée par <lb/>M. PICTET,
             de Genêve. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. On omo avai dou garçons.</p>
@@ -5840,8 +5835,8 @@
             <lb/>frare che vaiquia ; al étai mour al é ressuscita, al étai <lb/>pardu al é
             rétrova.</p>
         </div>
-        <div type="parabole" n="76" corresp="#place_71" xml:lang="viva">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
+        <div type="parabole" n="76" corresp="#place_71" xml:lang="viva-1235">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois du
             can <lb/>ton de Seyne, arrondissement de Digne, département des Basses-<lb/>Alpes. (M.
             I.)</head>
           <p n="11"><lb/><num>11</num>. Un hommë avie dons ënfans.</p>
@@ -5903,8 +5898,8 @@
             <lb/>quë voustë frèrë que vëichi ere mouert ët ës rëssuscita, <lb/>ère pardu ët ës
             rétrouba.</p>
         </div>
-        <div type="parabole" n="77" xml:lang="roma" corresp="#place_72">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en dialecte de
+        <div type="parabole" n="77" xml:lang="roma-1326" corresp="#place_72">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en dialecte de
             la <lb/>Haute-Engadine, canton des Grisons. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un hom havaiva duos filgs.</p>
           <p n="12"><lb/><num>12</num>. Et il juven d’els dschel al bap : Bap ! dom’ la part
@@ -5957,8 +5952,8 @@
             <lb/>quist tieu frer eira mort ed ais returnô in vitta, eira pers <lb/>ed ais
             rechiattò.</p>
         </div>
-        <div type="parabole" n="78" xml:lang="roma" corresp="#place_72">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en dialecte de
+        <div type="parabole" n="78" xml:lang="roma-1326" corresp="#place_72">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en dialecte de
             la <lb/>Basse-Engadine, canton des Grisons. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un tschert ômm veva duus filgs.</p>
           <p n="12"><lb/><num>12</num>. Et il juven da els dscheva al bap : Bap, da a mei la
@@ -6012,9 +6007,9 @@
           <p n="32"><lb/><num>32</num>. Mo mangiar e s’alegrar convengiva, perchia quest <lb/>tees
             frar éra mort et eis revivü, el éra péri et eis chiatà.</p>
         </div>
-        <div type="parabole" n="79" hand="#person_33" xml:lang="prov" corresp="#place_73"
+        <div type="parabole" n="79" hand="#person_33" xml:lang="prov-1235" corresp="#place_73"
           subtype="1807">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             d’Alais, <lb/>département du Gard , envoyée en 1807 par M. D’ALPHONSE, <lb/>préfet. (M.
             I.)</head>
           <p n="11"><lb/><num>11</num>. Un omë avié dous éfans.</p>
@@ -6074,8 +6069,8 @@
           <p n="32"><lb/><num>32</num>. Més foulié faire boumbance é nous réjoui, par so qé
             <lb/>voste frero éro mor é és ressuscita ; éro perdu é és isla <lb/>retrouba.</p>
         </div>
-        <div type="parabole" n="80" xml:lang="prov" corresp="#place_74">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois roman
+        <div type="parabole" n="80" xml:lang="prov-1235" corresp="#place_74">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois roman
             de <lb/>Gruyères, canton de Fribourg. (M. I.</head>
           <p n="11"><lb/><num>11</num>. On ommo li’ u don fe.</p>
           <p n="12"><lb/><num>12</num>. Le plie dzôueno d’intre lau, deje on dzoi a schon <lb/>pare
@@ -6205,8 +6200,8 @@
             frère qui créyaie mort se trouve revilé et apraie <lb/>l’avé pardu de le retrouvre.<fw
               type="numbering">— 146 —</fw></p>
         </div>
-        <div type="parabole" n="81" xml:lang="prov" corresp="#place_75">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="81" xml:lang="prov-1235" corresp="#place_75">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois de
             l’arron <lb/>dissement de Castellane, département des Basses-Alpes.</head>
           <p n="11"><lb/><num>11</num>. Un hom’ avié dous enfans.</p>
           <p n="12"><lb/><num>12</num>. Dei quaous lou pu jouiné diguet à soun pero : Moun
@@ -6323,8 +6318,8 @@
             et le v’Ià r’trouvai.<pb n="160"
               facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f160"/></p>
         </div>
-        <div type="parabole" n="82" xml:lang="prov" corresp="#place_57">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant-Prodigue, en dialecte de
+        <div type="parabole" n="82" xml:lang="prov-1235" corresp="#place_57">
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant-Prodigue, en dialecte de
             Mar <lb/>seille, département du Rhône. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un homo avié dous enfans.</p>
           <p n="12"><lb/><num>12</num>. Lou plus jouiné diguet à soun pèro : Moun pèro, <lb/>Moun
@@ -6383,9 +6378,9 @@
             <lb/>vouestre fréro ero mouart et a ressuscitat, ero perdut et <lb/>l’aven
             retroubat.</p>
         </div>
-        <div type="parabole" n="83" hand="#person_34" xml:lang="prov" corresp="#place_76 #place_77"
+        <div type="parabole" n="83" hand="#person_34" xml:lang="prov-1235" corresp="#place_76 #place_77"
           subtype="1807">
-          <head xml:lang="stan"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
+          <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             Génois, <lb/>des communes de Mons et d’Escragnolles, département du Var ; <lb/>envoyée
             par M. DAZÉMAR, préfet en 1807. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. Un homou aveva doui fanti.</p>
@@ -6447,8 +6442,8 @@
             <lb/>vostrou frai era morto é fa rechuchitaou, fera perduou <lb/>é ou s’é
             rétrouvaou.</p>
         </div>
-        <div type="parabole" n="84" hand="#person_41" xml:lang="high" corresp="#place_78">
-          <head xml:lang="stan"><lb/>Imitation de la Parabole de l’Enfant Prodigue, en patois de
+        <div type="parabole" n="84" hand="#person_41" xml:lang="high-1290" corresp="#place_78">
+          <head xml:lang="stan-1290"><lb/>Imitation de la Parabole de l’Enfant Prodigue, en patois de
             Bienne, <lb/>canton de Berne, envoyée par M. HOLTZ, sous-préfet de Dele-<lb/>mont. (M.
             I.)</head>
           <p n="11"><lb/><num>11</num>. Ain home aive do fils.</p>
@@ -6492,9 +6487,9 @@
               —</fw><pb n="165" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f165"/><fw
               type="numbering">— 155 —</fw></p>
         </div>
-        <div type="parabole" n="85" hand="#person_41" xml:lang="fran" corresp="#place_79"
+        <div type="parabole" n="85" hand="#person_41" xml:lang="fran-1270" corresp="#place_79"
           subtype="1807">
-          <head xml:lang="stan"><lb/>Imitation de la Parabole de l’Enfant Prodigue, en patois de
+          <head xml:lang="stan-1290"><lb/>Imitation de la Parabole de l’Enfant Prodigue, en patois de
             Dele-<lb/>mont, canton de Berne, envoyée en 1807, par M. HOLTZ, sous-<lb/>préfet de
             Delemont. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. In baume avait doux fés.</p>
@@ -6537,9 +6532,9 @@
           <p n="32"><lb/><num>32</num>. Qu’èl était bin geute qu’èl motreusch de lè geoë, <lb/>iaint
             son fés qu’était moë était ressiscilè.</p>
         </div>
-        <div type="parabole" n="81" hand="#person_41" xml:lang="fran" corresp="#place_80"
+        <div type="parabole" n="81" hand="#person_41" xml:lang="fran-1270" corresp="#place_80"
           subtype="1807">
-          <head xml:lang="stan"><lb/>Imitation de la Parabole de l’Enfant Prodigue, en patois de
+          <head xml:lang="stan-1290"><lb/>Imitation de la Parabole de l’Enfant Prodigue, en patois de
             Courte <lb/>lary, canton de Berne, envoyée en 1807, par M. HOLTZ, sous-pré <lb/>fet de
             Delemont. (M. I.)</head>
           <p n="11"><lb/><num>11</num>. In home ayant doux fés,</p>
