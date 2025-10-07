@@ -160,6 +160,11 @@
           <idno type="script">latn</idno>
           <name>Haut Alémanique</name>
         </language>
+        <language ident="stan-1289">
+          <idno type="language">stan1289</idno>
+          <idno type="script">latn</idno>
+          <name>catalan</name>
+        </language>
       </langUsage>
       <textClass>
         <keywords>
@@ -5823,10 +5828,13 @@
           <p n="29"><lb/><num>29.</num>Et gli en fé des reprieges.</p>
           <p n="30"><lb/><num>30.</num>Ma son père gli ravisa.</p>
           <p n="32"><lb/><num>32.</num>Qu’él ire bai tsjuste qu’él mentrisse de la tsoye puis
-            <lb/>que son boueb qu’ire mort ire ressuscita.<pb n="140"
+            <lb/>que son boueb qu’ire mort ire ressuscita.</p>
+          </div>
+        <div type="parabole" n="74" xml:lang="stan-1289" xml:id="stan-1289-74">
+          <pb n="140"
               facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f140"/><fw type="numbering">— 130
-              —</fw><lb/>Paràbola del fill prodich en langue catalane, fournie en 1878, par <lb/>un
-            membre du Lycée de Tarbes.</p>
+                —</fw><head><lb/>Paràbola del fill prodich en langue catalane, fournie en 1878, par <lb/>un
+            membre du Lycée de Tarbes.</head>
           <p n="11"><lb/><num>11.</num>Mes elle digue : Un home ténia dos fills :</p>
           <p n="12"><lb/><num>12.</num>Yl mes petit digué à son pare : Pare, dounaume la <lb/>part
             quem toca de vostres bens. Y ell los reparti los <lb/>bens.</p>
@@ -5877,7 +5885,7 @@
             puix ton germà era mort, y ha ressuscitat ; s’havià <lb/>perdut, y ha estat trobat.</p>
           <p><lb/>(Lo sant Evangeli de Jésus-Christ segons sant Lluch, <lb/>capitol XV.)</p>
         </div>
-        <div xml:id="fran-1270-74" type="parabole" n="74" hand="#person_42" xml:lang="fran-1270" corresp="#place_69">
+        <div xml:id="fran-1270-75" type="parabole" n="75" hand="#person_42" xml:lang="fran-1270" corresp="#place_69">
           <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             de Mon <lb/>treux, district de Vevey, canton de Vaud, envoyée par M. BRIDEL,
             <lb/>Pasteur à Montreux. (M. I.)</head>
@@ -5934,7 +5942,7 @@
             <lb/>ton frare que vaitinque ire moua et il lié retorna en vie, <lb/>il l’iire perdu et
             il sé retrova.<fw type="numbering">— 133 —</fw></p>
         </div>
-        <div xml:id="viva-1235-75" type="parabole" n="75" hand="#person_43" corresp="#place_70" xml:lang="viva-1235">
+        <div xml:id="viva-1235-76" type="parabole" n="76" hand="#person_43" corresp="#place_70" xml:lang="viva-1235">
           <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en langage
             Géne<lb break="no"/>vois des environs de la ville, canton de Genève, donnée par <lb/>M. PICTET, de
             Genêve. (M. I.)</head>
@@ -5991,7 +5999,7 @@
             <lb/>frare che vaiquia ; al étai mour al é ressuscita, al étai <lb/>pardu al é
             rétrova.</p>
         </div>
-        <div xml:id="viva-1235-76" type="parabole" n="76" corresp="#place_71" xml:lang="viva-1235">
+        <div xml:id="viva-1235-77" type="parabole" n="77" corresp="#place_71" xml:lang="viva-1235">
           <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             du can <lb/>ton de Seyne, arrondissement de Digne, département des Basses<lb break="no"/>Alpes.
             (M. I.)</head>
@@ -6054,7 +6062,7 @@
             <lb/>quë voustë frèrë que vëichi ere mouert ët ës rëssuscita, <lb/>ère pardu ët ës
             rétrouba.</p>
         </div>
-        <div xml:id="roma-1326-77" type="parabole" n="77" xml:lang="roma-1326" corresp="#place_72">
+        <div xml:id="roma-1326-78" type="parabole" n="78" xml:lang="roma-1326" corresp="#place_72">
           <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en
             dialecte de la <lb/>Haute-Engadine, canton des Grisons. (M. I.)</head>
           <p n="11"><lb/><num>11.</num>Un hom havaiva duos filgs.</p>
@@ -6108,7 +6116,7 @@
             <lb/>quist tieu frer eira mort ed ais returnô in vitta, eira pers <lb/>ed ais
             rechiattò.</p>
         </div>
-        <div xml:id="roma-1326-78" type="parabole" n="78" xml:lang="roma-1326" corresp="#place_72">
+        <div xml:id="roma-1326-79" type="parabole" n="79" xml:lang="roma-1326" corresp="#place_72">
           <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en
             dialecte de la <lb/>Basse-Engadine, canton des Grisons. (M. I.)</head>
           <p n="11"><lb/><num>11.</num>Un tschert ômm veva duus filgs.</p>
@@ -6163,7 +6171,7 @@
           <p n="32"><lb/><num>32.</num>Mo mangiar e s’alegrar convengiva, perchia quest <lb/>tees
             frar éra mort et eis revivü, el éra péri et eis chiatà.</p>
         </div>
-        <div xml:id="lang-1309-79" type="parabole" n="79" hand="#person_33" xml:lang="lang-1309" corresp="#place_73"
+        <div xml:id="lang-1309-80" type="parabole" n="80" hand="#person_33" xml:lang="lang-1309" corresp="#place_73"
           subtype="1807">
           <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             d’Alais, <lb/>département du Gard , envoyée en 1807 par M. D’ALPHONSE, <lb/>préfet. (M.
@@ -6225,7 +6233,7 @@
           <p n="32"><lb/><num>32.</num>Més foulié faire boumbance é nous réjoui, par so qé
             <lb/>voste frero éro mor é és ressuscita ; éro perdu é és isla <lb/>retrouba.</p>
         </div>
-        <div xml:id="fran-1269-80" type="parabole" n="80" xml:lang="fran-1269" corresp="#place_74">
+        <div xml:id="fran-1269-81" type="parabole" n="81" xml:lang="fran-1269" corresp="#place_74">
           <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             roman de <lb/>Gruyères, canton de Fribourg. (M. I.</head>
           <p n="11"><lb/><num>11.</num>On ommo li’ u don fe.</p>
@@ -6292,7 +6300,7 @@
             rèdzoï, dû que ton frâre que li’ irè moî li’ èrèschus<lb break="no"/>chitâ, que li’ îrè perdu et
             li è retrova.</p>
         </div>
-          <div type="parabole" xml:id="poit-1241-81" n="81" corresp="#place_83" xml:lang="poit-1241">
+          <div type="parabole" xml:id="poit-1241-82" n="82" corresp="#place_83" xml:lang="poit-1241">
             <head><lb/>Parabole de l’Enfant Prodigue, toute en béa lingage povtein dau
             <lb/>zévirons de Sen-Moixent, compousée pr’in Reboutrou.</head>
           <p n="11"><lb/><num>11.</num>Oll' y avait in’ fet, in’ houme qui avait deux faill.</p>
@@ -6358,7 +6366,7 @@
             frère qui créyaie mort se trouve revilé et apraie <lb/>l’avé pardu de le retrouvre.<fw
               type="numbering">— 146 —</fw></p>
         </div>
-        <div type="parabole" xml:id="prov-1235-82" n="82" xml:lang="prov-1235" corresp="#place_75">
+        <div type="parabole" xml:id="prov-1235-83" n="83" xml:lang="prov-1235" corresp="#place_75">
           <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             de l’arron <lb/>dissement de Castellane, département des Basses-Alpes.</head>
           <p n="11"><lb/><num>11.</num>Un hom’ avié dous enfans.</p>
@@ -6417,7 +6425,7 @@
             frero qu’ero mouort ressuscita, qu’éro perdu e qu’és <lb/>retrouva. 
             </p>
         </div>
-          <div type="parabole" n="83" xml:lang="norm-1245" xml:id="norm-1245-83">
+          <div type="parabole" n="84" xml:lang="norm-1245" xml:id="norm-1245-84">
             <head><lb/>La Parabole de
             l’Enfant Prodigue, en patois du centre <lb/>de la Normandie.</head>
           <p n="11"><lb/><num>11.</num>Un homme avait deux éfants ;</p>
@@ -6480,7 +6488,7 @@
             et le v’Ià r’trouvai.<pb n="160"
               facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f160"/></p>
         </div>
-        <div xml:id="prov-1235-84" type="parabole" n="84" xml:lang="prov-1235" corresp="#place_57">
+        <div xml:id="prov-1235-85" type="parabole" n="85" xml:lang="prov-1235" corresp="#place_57">
           <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant-Prodigue, en
             dialecte de Mar <lb/>seille, département du Rhône. (M. I.)</head>
           <p n="11"><lb/><num>11.</num>Un homo avié dous enfans.</p>
@@ -6540,7 +6548,7 @@
             <lb/>vouestre fréro ero mouart et a ressuscitat, ero perdut et <lb/>l’aven
             retroubat.</p>
         </div>
-        <div xml:id="prov-1235-85" type="parabole" n="85" hand="#person_34" xml:lang="prov-1235"
+        <div xml:id="prov-1235-86" type="parabole" n="86" hand="#person_34" xml:lang="prov-1235"
           corresp="#place_76 #place_77" subtype="1807">
           <head xml:lang="stan-1290"><lb/>Traduction de la Parabole de l’Enfant Prodigue, en patois
             Génois, <lb/>des communes de Mons et d’Escragnolles, département du Var ; <lb/>envoyée
@@ -6604,7 +6612,7 @@
             <lb/>vostrou frai era morto é fa rechuchitaou, fera perduou <lb/>é ou s’é
             rétrouvaou.</p>
         </div>
-        <div xml:id="high-1290-86" type="parabole" n="86" hand="#person_41" xml:lang="high-1290" corresp="#place_78">
+        <div xml:id="high-1290-87" type="parabole" n="87" hand="#person_41" xml:lang="high-1290" corresp="#place_78">
           <head xml:lang="stan-1290"><lb/>Imitation de la Parabole de l’Enfant Prodigue, en patois
             de Bienne, <lb/>canton de Berne, envoyée par M. HOLTZ, sous-préfet de Dele<lb break="no"/>mont.
             (M. I.)</head>
@@ -6650,7 +6658,7 @@
               —</fw><pb n="165" facs="https://gallica.bnf.fr/ark:/12148/bd6t5334045p/f165"/><fw
               type="numbering">— 155 —</fw></p>
         </div>
-        <div xml:id="fran-1270-87" type="parabole" n="87" hand="#person_41" xml:lang="fran-1270" corresp="#place_79"
+        <div xml:id="fran-1270-88" type="parabole" n="88" hand="#person_41" xml:lang="fran-1270" corresp="#place_79"
           subtype="1807">
           <head xml:lang="stan-1290"><lb/>Imitation de la Parabole de l’Enfant Prodigue, en patois
             de Dele<lb break="no"/>mont, canton de Berne, envoyée en 1807, par M. HOLTZ, sous<lb break="no"/>préfet de
@@ -6695,7 +6703,7 @@
           <p n="32"><lb/><num>32.</num>Qu’èl était bin geute qu’èl motreusch de lè geoë, <lb/>iaint
             son fés qu’était moë était ressiscilè.</p>
         </div>
-        <div xml:id="fran-1270-88" type="parabole" n="88" hand="#person_41" xml:lang="fran-1270" corresp="#place_80"
+        <div xml:id="fran-1270-89" type="parabole" n="89" hand="#person_41" xml:lang="fran-1270" corresp="#place_80"
           subtype="1807">
           <head xml:lang="stan-1290"><lb/>Imitation de la Parabole de l’Enfant Prodigue, en patois
             de Courte <lb/>lary, canton de Berne, envoyée en 1807, par M. HOLTZ, sous-pré <lb/>fet
@@ -6738,7 +6746,7 @@
           <p n="32"><lb/><num>32.</num>Qu’al ère bin geeute qu’al tèmoignisse du geoïe,
             <lb/>puisque son fès qu’ère mort ère ressuscitai.</p>
         </div>
-        <div xml:id="fran-1270-89" type="parabole" n="89" hand="#person_41" xml:lang="fran-1270" corresp="#place_81"
+        <div xml:id="fran-1270-90" type="parabole" n="90" hand="#person_41" xml:lang="fran-1270" corresp="#place_81"
           subtype="1807">
           <head><lb/>Imitation de la Parabole de l’Enfant Prodigue, en patois de Montier
             <lb/>Granval, canton de Berne, envoyée en 1807, par M. HOLTZ, sous<lb break="no"/>préfet de
