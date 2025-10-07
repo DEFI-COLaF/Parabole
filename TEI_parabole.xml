@@ -1202,7 +1202,7 @@
             <region><name>Ariège</name><idno type="geonames">3036965</idno></region>
           </place>
           <place xml:id="place_43" corresp="#lang-1309">
-            <country><name>Andorre</name><idno type="geonames">3041565</idno></country>
+            <region><name>Andorre</name><idno type="geonames">3041565</idno></region>
           </place>
           <place xml:id="place_44" corresp="#cata-1291">
             <region>
@@ -1234,7 +1234,7 @@
             <region><name>Tarn</name><idno type="geonames">2973362</idno></region>
           </place>
           <place xml:id="place_50" corresp="#lang-1309">
-            <region><name>Lozère</name><idno type="geonames">997288</idno></region>
+            <region><name>Lozère</name><idno type="geonames">2997288</idno></region>
           </place>
           <place xml:id="place_51" corresp="#lang">
             <settlement><name>Montpellier</name><idno type="geonames">2992166</idno></settlement>
