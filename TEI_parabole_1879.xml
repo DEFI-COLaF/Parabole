@@ -1446,6 +1446,9 @@
             <settlement><name>Saint-Maxent</name><idno type="geonames">2978645</idno></settlement>
             <region><name>Sarthe</name><idno type="geonames">2975926</idno></region>
           </place>
+          <place xml:id="place_85" corresp="norm-1245">
+            <region><name>Normandie</name><idno type="geonames">2990109</idno></region>
+          </place>
         </listPlace>
       </settingDesc>
     </profileDesc>
@@ -6497,7 +6500,7 @@
           <p n="32"><lb/><num>32.</num>May fallé faire festo, e nou rejouir parcequé vouos <lb/>tré
             frero qu’ero mouort ressuscita, qu’éro perdu e qu’és <lb/>retrouva. </p>
         </div>
-        <div type="parabole" n="84" xml:lang="norm-1245" xml:id="norm-1245-84">
+        <div type="parabole" n="84" xml:lang="norm-1245" xml:id="norm-1245-84" corresp="#place_85">
           <head><lb/>La Parabole de l’Enfant Prodigue, en patois du centre <lb/>de la
             Normandie.</head>
           <p n="11"><lb/><num>11.</num>Un homme avait deux éfants ;</p>
