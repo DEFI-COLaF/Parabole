@@ -4,15 +4,15 @@ geonames,place_type,mot,longitude,latitude
 2991652,settlement,deux,4,47.08333
 2980340,settlement,deux,-0.63489,45.74742
 3006787,settlement,deux,-1.15222,46.16308
-3005839,settlement,deux,2.26825,43.18428
+2968866,settlement,deux,0.27923,45.48254
 2995854,settlement,deux,-1.10514,45.82268
 2792413,settlement,deux,5.56749,50.63373
 2791834,settlement,deux,6.02794,50.42686
 2790471,settlement,deux,4.86746,50.4669
 2790869,settlement,deux,3.95229,50.45413
 3029030,settlement,deux,3.23472,50.17596
-2997384,settlement,deux,5.36264,43.76385
-2990109,region,deux,,
+2978645,settlement,deux,0.65137,48.08975
+11071621,region,deux,0.49988,49.19906
 3028486,settlement,deux,2.95815,50.49235
 2993209,settlement,deu,0.08063,44.65057
 3008042,settlement,deu,0.06097,44.55834
@@ -30,7 +30,8 @@ geonames,place_type,mot,longitude,latitude
 2970530,settlement,dou,6.05622,48.41692
 3016274,settlement,dou,6.87787,48.07346
 3015958,settlement,dou,6.82733,47.74272
-3005839,settlement,dou,2.26825,43.18428
+3023919,settlement,dou,0.67195,46.01311
+2968866,settlement,dou,0.27923,45.48254
 2981816,settlement,dou,3.10788,45.669
 2660851,settlement,dou,6.8465,46.84876
 2660646,settlement,dou,6.14569,46.20222
@@ -66,7 +67,7 @@ geonames,place_type,mot,longitude,latitude
 2974661,settlement,dons,6.35634,44.35042
 2969562,settlement,dù,6.14251,47.62604
 3033123,settlement,clou,6.01815,47.24878
-3005839,settlement,doûe,2.26825,43.18428
+2968866,settlement,doûe,0.27923,45.48254
 3023919,settlement,doûe,0.67195,46.01311
 3006979,settlement,dus,-0.03857,44.58239
 3016194,region,dus,0.45422,43.71731

@@ -1,7 +1,7 @@
 geonames,place_type,mot,longitude,latitude
 2970401,settlement,homme,6.09773,47.92159
 3027082,settlement,homme,5.51539,47.61525
-3005839,settlement,homme,2.26825,43.18428
+2968866,settlement,homme,0.27923,45.48254
 2792413,settlement,homme,5.56749,50.63373
 2993209,settlement,homme,0.08063,44.65057
 3036016,settlement,homme,2.43983,44.92539
@@ -12,7 +12,7 @@ geonames,place_type,mot,longitude,latitude
 3021435,settlement,homme,5.37033,44.7536
 3016702,settlement,homme,6.07868,44.55858
 3036784,settlement,homme,2.78186,50.29301
-2990109,region,homme,,
+11071621,region,homme,0.49988,49.19906
 2977845,settlement,home,2.26091,50.74834
 2969562,settlement,home,6.14251,47.62604
 3008042,settlement,home,0.06097,44.55834
@@ -41,12 +41,13 @@ geonames,place_type,mot,longitude,latitude
 2980340,settlement,houme,-0.63489,45.74742
 3006787,settlement,houme,-1.15222,46.16308
 2995854,settlement,houme,-1.10514,45.82268
-2997384,settlement,houme,5.36264,43.76385
+2978645,settlement,houme,0.65137,48.08975
+3023919,settlement,hom,0.67195,46.01311
 3029030,settlement,hom,3.23472,50.17596
 2660904,settlement,hom,10,46.5
-3005839,settlement,houmé,2.26825,43.18428
+2968866,settlement,houmé,0.27923,45.48254
 3029603,settlement,houmé,5.27187,44.27647
-3005839,settlement,omé,2.26825,43.18428
+2968866,settlement,omé,0.27923,45.48254
 2976546,settlement,omé,1.20329,45.5145
 2976007,settlement,homé,1.21656,44.88902
 2973362,region,homé,2.16317,43.7817

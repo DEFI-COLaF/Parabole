@@ -4,7 +4,7 @@ geonames,place_type,mot,longitude,latitude
 2970401,settlement,jeune,6.09773,47.92159
 2969562,settlement,jeune,6.14251,47.62604
 3027082,settlement,jeune,5.51539,47.61525
-3005839,settlement,jeune,2.26825,43.18428
+2968866,settlement,jeune,0.27923,45.48254
 2993209,settlement,jeune,0.08063,44.65057
 3008042,settlement,jeune,0.06097,44.55834
 3006979,settlement,jeune,-0.03857,44.58239
@@ -15,13 +15,14 @@ geonames,place_type,mot,longitude,latitude
 3015958,settlement,june,6.82733,47.74272
 3033123,settlement,juêne,6.01815,47.24878
 2991652,settlement,zeune,4,47.08333
-3005839,settlement,jaûnè,2.26825,43.18428
+3023919,settlement,jaûne,0.67195,46.01311
+2968866,settlement,jaûnè,0.27923,45.48254
 2980340,settlement,jéne,-0.63489,45.74742
 3006787,settlement,deré,-1.15222,46.16308
 2995854,settlement,jenne,-1.10514,45.82268
 2792413,settlement,jône,5.56749,50.63373
 2791834,settlement,jône,6.02794,50.42686
-3005839,settlement,jauoné,2.26825,43.18428
+2968866,settlement,jauoné,0.27923,45.48254
 2990140,settlement,djouné,0.66168,45.52957
 2976007,settlement,tzoïné,1.21656,44.88902
 3023919,settlement,jouné,0.67195,46.01311
@@ -73,7 +74,7 @@ geonames,place_type,mot,longitude,latitude
 2660904,settlement,juven,10,46.5
 3036784,settlement,jone,2.78186,50.29301
 2660463,settlement,dzôueno,7.08207,46.58338
-2997384,settlement,jène,5.36264,43.76385
+2978645,settlement,jène,0.65137,48.08975
 2661513,settlement,geouvenne,7.24608,47.13713
 2661035,settlement,djeuene,7.34453,47.36493
 2661092,settlement,geovenne,7.07236,47.17822

@@ -12,7 +12,8 @@ geonames,place_type,mot,longitude,latitude
 2977845,settlement,éfans,2.26091,50.74834
 2997936,settlement,éfans,3.31959,43.73178
 3038224,settlement,éfans,4.08082,44.12489
-2990109,region,éfans,,
+11071621,region,éfans,0.49988,49.19906
+3023919,settlement,afan,0.67195,46.01311
 2989497,settlement,offans,5.96915,49.01665
 3037514,settlement,afans,4.6707,45.23992
 2970530,settlement,gâchons,6.05622,48.41692
@@ -26,8 +27,8 @@ geonames,place_type,mot,longitude,latitude
 3027082,settlement,gassons,5.51539,47.61525
 3033123,settlement,offants,6.01815,47.24878
 2991652,settlement,renfans,4,47.08333
-3005839,settlement,enfans,2.26825,43.18428
-3005839,settlement,enfans,2.26825,43.18428
+2968866,settlement,enfans,0.27923,45.48254
+2968866,settlement,enfans,0.27923,45.48254
 2992166,settlement,enfans,3.87635,43.61093
 2995469,settlement,enfans,5.38107,43.29695
 2970749,region,enfans,6.29145,43.4586
@@ -39,7 +40,7 @@ geonames,place_type,mot,longitude,latitude
 2995854,settlement,enfant,-1.10514,45.82268
 2993209,settlement,gouya,0.08063,44.65057
 3008042,settlement,ménages,0.06097,44.55834
-3005839,settlement,efan,2.26825,43.18428
+2968866,settlement,efan,0.27923,45.48254
 2990140,settlement,fîs,0.66168,45.52957
 3023919,settlement,éfan,0.67195,46.01311
 3013719,region,droleis,1.21781,45.88341
@@ -76,6 +77,6 @@ geonames,place_type,mot,longitude,latitude
 2660904,settlement,filgs,10,46.5
 3036784,settlement,garchéons,2.78186,50.29301
 2660463,settlement,fe,7.08207,46.58338
-2997384,settlement,faill,5.36264,43.76385
+2978645,settlement,faill,0.65137,48.08975
 2659568,settlement,fès,7.36951,47.27818
 3028486,settlement,fiu,2.95815,50.49235
