@@ -5,9 +5,9 @@ geonames,place_type,mot,longitude,latitude
 3038012,settlement,père,7.23954,47.62417
 2970401,settlement,père,6.09773,47.92159
 2991652,settlement,père,4,47.08333
-3005839,settlement,père,2.26825,43.18428
+2968866,settlement,père,0.27923,45.48254
 2980340,settlement,père,-0.63489,45.74742
-3005839,settlement,père,2.26825,43.18428
+2968866,settlement,père,0.27923,45.48254
 2995854,settlement,père,-1.10514,45.82268
 3008042,settlement,père,0.06097,44.55834
 3035681,settlement,père,4.80892,43.94834
@@ -16,7 +16,7 @@ geonames,place_type,mot,longitude,latitude
 2658864,settlement,père,7.0032,46.21826
 2660851,settlement,père,6.8465,46.84876
 3036784,settlement,père,2.78186,50.29301
-2997384,settlement,père,5.36264,43.76385
+2978645,settlement,père,0.65137,48.08975
 2661513,settlement,père,7.24608,47.13713
 2661035,settlement,père,7.34453,47.36493
 2661092,settlement,père,7.07236,47.17822
@@ -27,6 +27,7 @@ geonames,place_type,mot,longitude,latitude
 2993209,settlement,pere,0.08063,44.65057
 2791834,settlement,pere,6.02794,50.42686
 3015958,settlement,paire,6.82733,47.74272
+3023919,settlement,paire,0.67195,46.01311
 2993002,settlement,paire,1.3542,44.01759
 2988670,settlement,paire,1.61079,43.1165
 3018174,settlement,paire,1.60705,42.96535
@@ -36,7 +37,7 @@ geonames,place_type,mot,longitude,latitude
 2984885,region,pare,2.58889,42.60075
 2660463,settlement,pare,7.08207,46.58338
 3006787,settlement,cher,-1.15222,46.16308
-3005839,settlement,paï,2.26825,43.18428
+2968866,settlement,paï,0.27923,45.48254
 3013719,region,paï,1.21781,45.88341
 2976546,settlement,paï,1.20329,45.5145
 2990140,settlement,pay,0.66168,45.52957
