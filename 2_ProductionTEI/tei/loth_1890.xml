@@ -1,0 +1,2194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+            <fileDesc>
+                  <titleStmt>
+                        <title>Versions bretonnes de la parabole de l'enfant prodigue</title>
+                        <editor>J. Loth</editor>
+                        <respStmt>
+                              <resp>Encoding</resp>
+                              <persName xml:id="LING">
+                                    <surname>Ing</surname>
+                                    <forename>Lucence</forename>
+                                    <idno type="orcid">0000-0002-8742-3000</idno>
+                              </persName>
+                        </respStmt>
+                        <principal>
+                              <persName xml:id="BSAGOT">
+                                    <surname>Sagot</surname>
+                                    <forename>Benoît</forename>
+                                    <idno type="orcid">0000-0001-8957-9503</idno>
+                              </persName>
+                        </principal>
+                        <funder>Inria</funder>
+                  </titleStmt>
+                  <publicationStmt>
+                        <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France
+                              (COLaF)</publisher>
+                        <date when="2025-11-19"/>
+                        <availability>
+                              <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                        </availability>
+                        <idno>PAR_BRET_001</idno>
+                  </publicationStmt>
+                  
+                  <sourceDesc>
+                       <biblStruct>
+                             <monogr>
+                                   <title>Chrestomathie bretonne : (armoricain, gallois, cornique)</title>
+                                   
+                                   <ref source="https://archive.org/details/chrestomathiebre00loth/page/362/mode/2up">Ouvrage disponible sur Internet Archive</ref>
+                                   <author>J. Loth</author>
+                                   <imprint>
+                                         <pubPlace>Paris</pubPlace>
+                                         <publisher>Emile bouillon Libraire-éditeur</publisher>
+                                         <date>1890</date>
+                                   </imprint>
+                                   <extent>p. 163-180</extent>
+                                   
+                             </monogr>
+                            
+                       </biblStruct>
+                  </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                  <langUsage>
+                        <language ident="bret-1244">
+                              <idno type="langue">bret1244</idno>
+                              <idno type="script">latn</idno>
+                              <name>breton</name>
+                        </language>
+                        <language ident="leon-1251">
+                              <idno type="langue">leon1251</idno>
+                              <idno type="script">latn</idno>
+                              <name>léonais</name>
+                        </language>
+                        <language ident="treg-1244">
+                              <idno type="langue">treg1244</idno>
+                              <idno type="script">latn</idno>
+                              <name>trégorrois</name>
+                        </language>
+                        <language ident="corn-1250">
+                              <idno type="langue">corn1250</idno>
+                              <idno type="script">latn</idno>
+                              <name>cornouaillais</name>
+                        </language>
+                  </langUsage>
+                  <textClass>
+                        <keywords>
+                              <term rend="nonfiction" type="supergenre">Non-fiction</term>
+                              <term rend="nonfiction-academic" type="genre">academic</term>
+                              <term rend="nonfiction-administrative" type="genre">administrative</term>
+                        </keywords>
+                  </textClass>
+                  <settingDesc>
+                        <listPlace>
+                              <place xml:id="place_1" corresp="#leon-1251">
+                                    <settlement>
+                                          <name>Pays de Léon</name>
+                                          <idno type="geonames">2988287</idno>
+                                    </settlement>
+                                    <region>
+                                          <name>Finistère</name>
+                                          <idno type="geonames">3018471</idno>
+                                    </region>
+                              </place>
+                              <place xml:id="place_2" corresp="#leon-1251">
+                                    <settlement>
+                                          <name>Landerneau</name>
+                                          <idno type="geonames">6453924</idno>
+                                    </settlement>
+                                    <region>
+                                          <name>Finistère</name>
+                                          <idno type="geonames">3018471</idno>
+                                    </region>
+                              </place>
+                              <place xml:id="place_3" corresp="#treg-1244">
+                                    <settlement>
+                                          <name>Tréguier</name>
+                                          <idno type="geonames">6453809</idno>
+                                    </settlement>
+                                    <region>
+                                          <name>Côtes-d'Armor</name>
+                                          <idno type="geonames">3023414</idno>
+                                    </region>
+                              </place>
+                              <place xml:id="place_4" corresp="#corn-1250">
+                                    <settlement>
+                                          <name>Le Faouët</name>
+                                          <idno type="geonames">6614545</idno>
+                                    </settlement>
+                                    <region>
+                                          <name>Morbihan</name>
+                                          <idno type="geonames">2991879</idno>
+                                    </region>
+                              </place>
+                              <place xml:id="place_5" corresp="#corn-1250">
+                                    <settlement>
+                                          <name>Berrien</name>
+                                          <idno type="geonames">6455356</idno>
+                                    </settlement>
+                                    <region>
+                                          <name>Finistère</name>
+                                          <idno type="geonames">3018471</idno>
+                                    </region>
+                              </place>
+                              <place xml:id="place_6" corresp="#bret-1244">
+                                    <settlement>
+                                          <name>Guémené-sur-Scorff</name>
+                                          <idno type="geonames">6614173</idno>
+                                    </settlement>
+                                    <region>
+                                          <name>Morbihan</name>
+                                          <idno type="geonames">2991879</idno>
+                                    </region>
+                              </place>
+                              <place xml:id="place_7" corresp="#bret-1244">
+                                    <settlement>
+                                          <name>Île d'Houat</name>
+                                          <idno type="geonames">6617121</idno>
+                                    </settlement>
+                                    <region>
+                                          <name>Morbihan</name>
+                                          <idno type="geonames">2991879</idno>
+                                    </region>
+                              </place>
+                              <place xml:id="place_8" corresp="#bret-1244">
+                                    <settlement>
+                                          <name>Île de Groix</name>
+                                          <idno type="geonames">3014578</idno>
+                                    </settlement>
+                                    <region>
+                                          <name>Morbihan</name>
+                                          <idno type="geonames">2991879</idno>
+                                    </region>
+                              </place>
+                              <place xml:id="place_9" corresp="#bret-1244">
+                                    <settlement>
+                                          <name>Belle-Île</name>
+                                          <idno type="geonames">3033682</idno>
+                                    </settlement>
+                                    <region>
+                                          <name>Morbihan</name>
+                                          <idno type="geonames">2991879</idno>
+                                    </region>
+                              </place>
+                        </listPlace>
+                  </settingDesc>
+            </profileDesc>
+            <revisionDesc>
+                  <change who="#LING" when="2025-11-19">Encodage du fichier</change>
+                  <change who="#LING" when="2025-11-19">Fichier créé par transformation à partir d'un export escriptorium de
+                        fichiers alto</change>
+            </revisionDesc>
+      </teiHeader>
+      <facsimile>
+            <surface xml:id="chrestomathie-bret.pdf_page_01">
+                  <graphic url="chrestomathie-bret.pdf_page_01.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_7c88e9de" ulx="528" uly="191" lrx="679" lry="228"/>
+                  <zone xml:id="eSc_line_7ce8aaa7" ulx="368" uly="483" lrx="830" lry="521"/>
+                  <zone xml:id="eSc_line_274b7d44" ulx="161" uly="555" lrx="1062" lry="591"/>
+                  <zone xml:id="eSc_line_d2ebbab5" ulx="137" uly="591" lrx="1062" lry="620"/>
+                  <zone xml:id="eSc_line_a4182d3d" ulx="136" uly="661" lrx="565" lry="698"/>
+                  <zone xml:id="eSc_line_e45a5e5a" ulx="137" uly="703" lrx="1064" lry="740"/>
+                  <zone xml:id="eSc_line_d76daa17" ulx="197" uly="749" lrx="1064" lry="782"/>
+                  <zone xml:id="eSc_line_751c2194" ulx="196" uly="787" lrx="366" lry="827"/>
+                  <zone xml:id="eSc_line_a15140de" ulx="137" uly="830" lrx="1064" lry="868"/>
+                  <zone xml:id="eSc_line_21b76460" ulx="196" uly="873" lrx="1064" lry="912"/>
+                  <zone xml:id="eSc_line_c76cc92f" ulx="197" uly="917" lrx="1064" lry="957"/>
+                  <zone xml:id="eSc_line_ba0527db" ulx="196" uly="957" lrx="382" lry="997"/>
+                  <zone xml:id="eSc_line_3967716a" ulx="136" uly="998" lrx="1064" lry="1043"/>
+                  <zone xml:id="eSc_line_e88303f0" ulx="196" uly="1044" lrx="926" lry="1080"/>
+                  <zone xml:id="eSc_line_b6fb9b39" ulx="137" uly="1085" lrx="1064" lry="1122"/>
+                  <zone xml:id="eSc_line_bc50ea10" ulx="194" uly="1127" lrx="1064" lry="1165"/>
+                  <zone xml:id="eSc_line_bc094b5b" ulx="194" uly="1170" lrx="592" lry="1207"/>
+                  <zone xml:id="eSc_line_42e6a46b" ulx="136" uly="1211" lrx="1064" lry="1249"/>
+                  <zone xml:id="eSc_line_017a8297" ulx="194" uly="1254" lrx="640" lry="1290"/>
+                  <zone xml:id="eSc_line_914d2948" ulx="136" uly="1295" lrx="1064" lry="1333"/>
+                  <zone xml:id="eSc_line_5f715317" ulx="196" uly="1339" lrx="1064" lry="1376"/>
+                  <zone xml:id="eSc_line_7890d384" ulx="196" uly="1382" lrx="522" lry="1423"/>
+                  <zone xml:id="eSc_line_b692d86b" ulx="136" uly="1423" lrx="1064" lry="1459"/>
+                  <zone xml:id="eSc_line_d19aa5ce" ulx="197" uly="1468" lrx="940" lry="1503"/>
+                  <zone xml:id="eSc_line_0e05f884" ulx="135" uly="1507" lrx="1062" lry="1545"/>
+                  <zone xml:id="eSc_line_035caac2" ulx="194" uly="1551" lrx="614" lry="1593"/>
+                  <zone xml:id="eSc_line_c067b860" ulx="156" uly="1643" lrx="1062" lry="1680"/>
+                  <zone xml:id="eSc_line_4cd6d402" ulx="138" uly="1675" lrx="1062" lry="1708"/>
+                  <zone xml:id="eSc_line_c13650ef" ulx="137" uly="1709" lrx="1060" lry="1738"/>
+                  <zone xml:id="eSc_line_09f27e24" ulx="136" uly="1739" lrx="635" lry="1767"/>
+                  <zone xml:id="eSc_line_3d8e6610" ulx="157" uly="1768" lrx="863" lry="1803"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_02">
+                  <graphic url="chrestomathie-bret.pdf_page_02.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_1df6dcd4" ulx="255" uly="241" lrx="1178" lry="285"/>
+                  <zone xml:id="eSc_line_f5150b25" ulx="317" uly="284" lrx="1177" lry="324"/>
+                  <zone xml:id="eSc_line_8e431a38" ulx="317" uly="326" lrx="995" lry="369"/>
+                  <zone xml:id="eSc_line_8d222987" ulx="254" uly="372" lrx="1178" lry="415"/>
+                  <zone xml:id="eSc_line_14bb209a" ulx="315" uly="414" lrx="1178" lry="455"/>
+                  <zone xml:id="eSc_line_174ef30c" ulx="315" uly="456" lrx="582" lry="493"/>
+                  <zone xml:id="eSc_line_8a0b8fa3" ulx="255" uly="501" lrx="1179" lry="539"/>
+                  <zone xml:id="eSc_line_35a3837b" ulx="316" uly="544" lrx="1178" lry="586"/>
+                  <zone xml:id="eSc_line_80ce5177" ulx="315" uly="586" lrx="607" lry="624"/>
+                  <zone xml:id="eSc_line_a26afe15" ulx="255" uly="632" lrx="1179" lry="669"/>
+                  <zone xml:id="eSc_line_ecd862dd" ulx="316" uly="676" lrx="428" lry="710"/>
+                  <zone xml:id="eSc_line_6bd60889" ulx="253" uly="718" lrx="1177" lry="761"/>
+                  <zone xml:id="eSc_line_12dbd3bc" ulx="313" uly="763" lrx="1060" lry="799"/>
+                  <zone xml:id="eSc_line_2f5a3981" ulx="253" uly="807" lrx="1178" lry="847"/>
+                  <zone xml:id="eSc_line_a3687948" ulx="315" uly="851" lrx="925" lry="887"/>
+                  <zone xml:id="eSc_line_182aa3a2" ulx="255" uly="897" lrx="1178" lry="938"/>
+                  <zone xml:id="eSc_line_59341b14" ulx="316" uly="939" lrx="535" lry="976"/>
+                  <zone xml:id="eSc_line_db57ccc4" ulx="254" uly="991" lrx="1178" lry="1023"/>
+                  <zone xml:id="eSc_line_fbd4e0e1" ulx="315" uly="1027" lrx="1030" lry="1064"/>
+                  <zone xml:id="eSc_line_30837e24" ulx="254" uly="1071" lrx="1179" lry="1108"/>
+                  <zone xml:id="eSc_line_b11e5c96" ulx="315" uly="1114" lrx="1179" lry="1151"/>
+                  <zone xml:id="eSc_line_ced10267" ulx="316" uly="1156" lrx="467" lry="1192"/>
+                  <zone xml:id="eSc_line_c325d7cf" ulx="254" uly="1200" lrx="1179" lry="1247"/>
+                  <zone xml:id="eSc_line_3935b73a" ulx="313" uly="1244" lrx="1180" lry="1283"/>
+                  <zone xml:id="eSc_line_d2b8ab5f" ulx="315" uly="1286" lrx="1180" lry="1332"/>
+                  <zone xml:id="eSc_line_4cded917" ulx="316" uly="1330" lrx="1038" lry="1367"/>
+                  <zone xml:id="eSc_line_e2e41b0d" ulx="254" uly="1375" lrx="1178" lry="1411"/>
+                  <zone xml:id="eSc_line_4b6127be" ulx="315" uly="1417" lrx="1176" lry="1454"/>
+                  <zone xml:id="eSc_line_de669343" ulx="316" uly="1459" lrx="549" lry="1500"/>
+                  <zone xml:id="eSc_line_29e7c832" ulx="253" uly="1503" lrx="1178" lry="1543"/>
+                  <zone xml:id="eSc_line_772c7c2f" ulx="316" uly="1549" lrx="718" lry="1585"/>
+                  <zone xml:id="eSc_line_a835033b" ulx="254" uly="1592" lrx="1177" lry="1629"/>
+                  <zone xml:id="eSc_line_4e24ec5a" ulx="316" uly="1633" lrx="1176" lry="1680"/>
+                  <zone xml:id="eSc_line_4f136434" ulx="316" uly="1681" lrx="434" lry="1717"/>
+                  <zone xml:id="eSc_line_4b4b7d2f" ulx="645" uly="191" lrx="796" lry="228"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_03">
+                  <graphic url="chrestomathie-bret.pdf_page_03.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_27284127" ulx="498" uly="183" lrx="639" lry="222"/>
+                  <zone xml:id="eSc_line_fbc012a5" ulx="330" uly="274" lrx="800" lry="317"/>
+                  <zone xml:id="eSc_line_9c465f1e" ulx="105" uly="359" lrx="523" lry="396"/>
+                  <zone xml:id="eSc_line_5b8229e6" ulx="106" uly="403" lrx="1027" lry="442"/>
+                  <zone xml:id="eSc_line_0e31914b" ulx="165" uly="446" lrx="928" lry="484"/>
+                  <zone xml:id="eSc_line_a1fb3df2" ulx="106" uly="490" lrx="1029" lry="534"/>
+                  <zone xml:id="eSc_line_1df08778" ulx="166" uly="534" lrx="1031" lry="570"/>
+                  <zone xml:id="eSc_line_233a6abd" ulx="166" uly="576" lrx="1030" lry="619"/>
+                  <zone xml:id="eSc_line_f083bcbf" ulx="166" uly="621" lrx="374" lry="656"/>
+                  <zone xml:id="eSc_line_61ff9db8" ulx="107" uly="662" lrx="1031" lry="703"/>
+                  <zone xml:id="eSc_line_1301bf7f" ulx="166" uly="708" lrx="789" lry="751"/>
+                  <zone xml:id="eSc_line_b7170b94" ulx="107" uly="752" lrx="1031" lry="792"/>
+                  <zone xml:id="eSc_line_7ccead3e" ulx="166" uly="794" lrx="1032" lry="834"/>
+                  <zone xml:id="eSc_line_38df4954" ulx="168" uly="837" lrx="726" lry="875"/>
+                  <zone xml:id="eSc_line_780cfbc6" ulx="109" uly="883" lrx="1033" lry="920"/>
+                  <zone xml:id="eSc_line_858d5158" ulx="169" uly="925" lrx="575" lry="962"/>
+                  <zone xml:id="eSc_line_370b42c6" ulx="108" uly="970" lrx="1032" lry="1009"/>
+                  <zone xml:id="eSc_line_9ddb9bd0" ulx="168" uly="1013" lrx="1032" lry="1051"/>
+                  <zone xml:id="eSc_line_6e5c0d40" ulx="169" uly="1057" lrx="341" lry="1094"/>
+                  <zone xml:id="eSc_line_f57dd21c" ulx="108" uly="1100" lrx="1033" lry="1142"/>
+                  <zone xml:id="eSc_line_f77a0fa8" ulx="169" uly="1144" lrx="799" lry="1181"/>
+                  <zone xml:id="eSc_line_c2defe7b" ulx="108" uly="1188" lrx="1036" lry="1227"/>
+                  <zone xml:id="eSc_line_03390b4a" ulx="171" uly="1235" lrx="471" lry="1270"/>
+                  <zone xml:id="eSc_line_64935d51" ulx="109" uly="1277" lrx="1037" lry="1316"/>
+                  <zone xml:id="eSc_line_42e848b3" ulx="171" uly="1319" lrx="1039" lry="1362"/>
+                  <zone xml:id="eSc_line_d465191b" ulx="172" uly="1365" lrx="821" lry="1405"/>
+                  <zone xml:id="eSc_line_d6a1122a" ulx="110" uly="1408" lrx="1037" lry="1445"/>
+                  <zone xml:id="eSc_line_9701a6de" ulx="172" uly="1450" lrx="1036" lry="1488"/>
+                  <zone xml:id="eSc_line_3098e0d0" ulx="112" uly="1496" lrx="1038" lry="1535"/>
+                  <zone xml:id="eSc_line_6ca47954" ulx="172" uly="1537" lrx="1038" lry="1578"/>
+                  <zone xml:id="eSc_line_34bbb5b9" ulx="112" uly="1584" lrx="1037" lry="1624"/>
+                  <zone xml:id="eSc_line_803ca7aa" ulx="112" uly="1629" lrx="1038" lry="1670"/>
+                  <zone xml:id="eSc_line_8774b643" ulx="177" uly="1674" lrx="1036" lry="1712"/>
+                  <zone xml:id="eSc_line_d81f41ef" ulx="138" uly="1757" lrx="646" lry="1802"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_04">
+                  <graphic url="chrestomathie-bret.pdf_page_04.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_b6f5fb18" ulx="672" uly="192" lrx="823" lry="231"/>
+                  <zone xml:id="eSc_line_dc1133db" ulx="282" uly="243" lrx="1205" lry="284"/>
+                  <zone xml:id="eSc_line_c5870d1a" ulx="282" uly="331" lrx="1205" lry="368"/>
+                  <zone xml:id="eSc_line_d12cfaa4" ulx="344" uly="285" lrx="848" lry="322"/>
+                  <zone xml:id="eSc_line_ad57c7d4" ulx="343" uly="373" lrx="504" lry="408"/>
+                  <zone xml:id="eSc_line_173cef89" ulx="281" uly="416" lrx="1205" lry="456"/>
+                  <zone xml:id="eSc_line_4c3db3bc" ulx="343" uly="459" lrx="1046" lry="501"/>
+                  <zone xml:id="eSc_line_b73ae438" ulx="280" uly="505" lrx="1205" lry="542"/>
+                  <zone xml:id="eSc_line_af160607" ulx="343" uly="549" lrx="1202" lry="585"/>
+                  <zone xml:id="eSc_line_069350c5" ulx="282" uly="592" lrx="1205" lry="632"/>
+                  <zone xml:id="eSc_line_8c596567" ulx="341" uly="635" lrx="1205" lry="673"/>
+                  <zone xml:id="eSc_line_fe7c37b4" ulx="341" uly="679" lrx="1205" lry="714"/>
+                  <zone xml:id="eSc_line_81267653" ulx="341" uly="719" lrx="1017" lry="757"/>
+                  <zone xml:id="eSc_line_4a9523cf" ulx="281" uly="764" lrx="1205" lry="802"/>
+                  <zone xml:id="eSc_line_2674ea1e" ulx="341" uly="808" lrx="1139" lry="844"/>
+                  <zone xml:id="eSc_line_df4eee41" ulx="280" uly="851" lrx="1205" lry="892"/>
+                  <zone xml:id="eSc_line_e0a3fbb5" ulx="341" uly="897" lrx="586" lry="932"/>
+                  <zone xml:id="eSc_line_1cf3aac7" ulx="280" uly="940" lrx="1205" lry="977"/>
+                  <zone xml:id="eSc_line_80d165e7" ulx="341" uly="982" lrx="1204" lry="1020"/>
+                  <zone xml:id="eSc_line_121a0322" ulx="341" uly="1024" lrx="555" lry="1067"/>
+                  <zone xml:id="eSc_line_50ddf3ca" ulx="604" uly="1065" lrx="1157" lry="1101"/>
+                  <zone xml:id="eSc_line_985070c4" ulx="499" uly="1207" lrx="981" lry="1249"/>
+                  <zone xml:id="eSc_line_36ac2509" ulx="303" uly="1281" lrx="1202" lry="1317"/>
+                  <zone xml:id="eSc_line_b95d71e2" ulx="282" uly="1313" lrx="1202" lry="1351"/>
+                  <zone xml:id="eSc_line_4a8165ab" ulx="281" uly="1348" lrx="1202" lry="1379"/>
+                  <zone xml:id="eSc_line_fee120f1" ulx="280" uly="1373" lrx="367" lry="1405"/>
+                  <zone xml:id="eSc_line_51aa9774" ulx="281" uly="1447" lrx="718" lry="1485"/>
+                  <zone xml:id="eSc_line_ca895ca2" ulx="280" uly="1492" lrx="1202" lry="1530"/>
+                  <zone xml:id="eSc_line_659abb4a" ulx="340" uly="1535" lrx="882" lry="1571"/>
+                  <zone xml:id="eSc_line_6a89e705" ulx="280" uly="1579" lrx="1204" lry="1622"/>
+                  <zone xml:id="eSc_line_6b7e0441" ulx="340" uly="1622" lrx="1202" lry="1661"/>
+                  <zone xml:id="eSc_line_effef474" ulx="341" uly="1664" lrx="610" lry="1703"/>
+                  <zone xml:id="eSc_line_c8a5e849" ulx="282" uly="1710" lrx="1202" lry="1748"/>
+                  <zone xml:id="eSc_line_685e6532" ulx="344" uly="1755" lrx="854" lry="1801"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_05">
+                  <graphic url="chrestomathie-bret.pdf_page_05.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_4f9da895" ulx="109" uly="236" lrx="1038" lry="275"/>
+                  <zone xml:id="eSc_line_5302f8a7" ulx="171" uly="278" lrx="1038" lry="316"/>
+                  <zone xml:id="eSc_line_729682ef" ulx="173" uly="322" lrx="396" lry="358"/>
+                  <zone xml:id="eSc_line_62b473c0" ulx="109" uly="362" lrx="1039" lry="406"/>
+                  <zone xml:id="eSc_line_30b7b0af" ulx="171" uly="404" lrx="595" lry="442"/>
+                  <zone xml:id="eSc_line_a088d785" ulx="110" uly="446" lrx="1041" lry="484"/>
+                  <zone xml:id="eSc_line_c965a331" ulx="171" uly="490" lrx="1040" lry="527"/>
+                  <zone xml:id="eSc_line_6cea6ebc" ulx="172" uly="542" lrx="320" lry="568"/>
+                  <zone xml:id="eSc_line_2e521f3a" ulx="110" uly="572" lrx="1040" lry="614"/>
+                  <zone xml:id="eSc_line_ce5798c8" ulx="171" uly="617" lrx="767" lry="656"/>
+                  <zone xml:id="eSc_line_49b4e3c8" ulx="110" uly="656" lrx="1043" lry="695"/>
+                  <zone xml:id="eSc_line_ab056510" ulx="172" uly="701" lrx="441" lry="736"/>
+                  <zone xml:id="eSc_line_b84d11be" ulx="112" uly="740" lrx="1043" lry="780"/>
+                  <zone xml:id="eSc_line_888fbdcc" ulx="172" uly="785" lrx="1041" lry="827"/>
+                  <zone xml:id="eSc_line_31058dd0" ulx="173" uly="826" lrx="751" lry="869"/>
+                  <zone xml:id="eSc_line_e22a1288" ulx="114" uly="873" lrx="1044" lry="911"/>
+                  <zone xml:id="eSc_line_c66b5f6c" ulx="173" uly="914" lrx="1024" lry="952"/>
+                  <zone xml:id="eSc_line_efc673e6" ulx="114" uly="960" lrx="1041" lry="998"/>
+                  <zone xml:id="eSc_line_baad4366" ulx="175" uly="1004" lrx="1045" lry="1040"/>
+                  <zone xml:id="eSc_line_cb3f21e5" ulx="173" uly="1045" lrx="368" lry="1085"/>
+                  <zone xml:id="eSc_line_9822c911" ulx="114" uly="1088" lrx="1043" lry="1127"/>
+                  <zone xml:id="eSc_line_ccdee28b" ulx="113" uly="1134" lrx="1043" lry="1172"/>
+                  <zone xml:id="eSc_line_2eaba66e" ulx="176" uly="1177" lrx="723" lry="1214"/>
+                  <zone xml:id="eSc_line_265f2bbc" ulx="114" uly="1222" lrx="1045" lry="1260"/>
+                  <zone xml:id="eSc_line_0eee7b6a" ulx="175" uly="1265" lrx="653" lry="1305"/>
+                  <zone xml:id="eSc_line_4431ce30" ulx="114" uly="1310" lrx="1043" lry="1348"/>
+                  <zone xml:id="eSc_line_6c2659d6" ulx="114" uly="1355" lrx="1045" lry="1400"/>
+                  <zone xml:id="eSc_line_aaf946e8" ulx="176" uly="1397" lrx="987" lry="1437"/>
+                  <zone xml:id="eSc_line_8b19f73f" ulx="116" uly="1445" lrx="1046" lry="1482"/>
+                  <zone xml:id="eSc_line_67e3fd54" ulx="177" uly="1486" lrx="791" lry="1523"/>
+                  <zone xml:id="eSc_line_3a942c4b" ulx="117" uly="1533" lrx="1046" lry="1570"/>
+                  <zone xml:id="eSc_line_420e6deb" ulx="178" uly="1576" lrx="1047" lry="1614"/>
+                  <zone xml:id="eSc_line_c9caef18" ulx="178" uly="1617" lrx="1046" lry="1654"/>
+                  <zone xml:id="eSc_line_24607267" ulx="177" uly="1660" lrx="490" lry="1702"/>
+                  <zone xml:id="eSc_line_63dd9c2c" ulx="117" uly="1705" lrx="1045" lry="1743"/>
+                  <zone xml:id="eSc_line_932774b6" ulx="180" uly="1748" lrx="960" lry="1788"/>
+                  <zone xml:id="eSc_line_ea79cb7e" ulx="504" uly="183" lrx="647" lry="218"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_06">
+                  <graphic url="chrestomathie-bret.pdf_page_06.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_0bf7f201" ulx="673" uly="186" lrx="824" lry="224"/>
+                  <zone xml:id="eSc_line_ef8989d9" ulx="283" uly="241" lrx="1206" lry="282"/>
+                  <zone xml:id="eSc_line_eef189cd" ulx="345" uly="285" lrx="794" lry="322"/>
+                  <zone xml:id="eSc_line_e1e096cc" ulx="282" uly="327" lrx="1208" lry="367"/>
+                  <zone xml:id="eSc_line_d9bfdea7" ulx="344" uly="372" lrx="1038" lry="413"/>
+                  <zone xml:id="eSc_line_c6373893" ulx="452" uly="520" lrx="1039" lry="564"/>
+                  <zone xml:id="eSc_line_7aeb8c32" ulx="283" uly="600" lrx="691" lry="638"/>
+                  <zone xml:id="eSc_line_15729d78" ulx="283" uly="646" lrx="1211" lry="688"/>
+                  <zone xml:id="eSc_line_79806de7" ulx="344" uly="688" lrx="1166" lry="726"/>
+                  <zone xml:id="eSc_line_3c6c062e" ulx="284" uly="733" lrx="1211" lry="772"/>
+                  <zone xml:id="eSc_line_7d134776" ulx="345" uly="775" lrx="1212" lry="816"/>
+                  <zone xml:id="eSc_line_2e5374e2" ulx="345" uly="820" lrx="1211" lry="857"/>
+                  <zone xml:id="eSc_line_4a67360c" ulx="285" uly="865" lrx="1211" lry="904"/>
+                  <zone xml:id="eSc_line_210c4064" ulx="345" uly="908" lrx="903" lry="950"/>
+                  <zone xml:id="eSc_line_7cc3c36d" ulx="287" uly="953" lrx="1213" lry="990"/>
+                  <zone xml:id="eSc_line_e38eb5d3" ulx="347" uly="996" lrx="1213" lry="1036"/>
+                  <zone xml:id="eSc_line_dfa4f7bf" ulx="347" uly="1039" lrx="452" lry="1074"/>
+                  <zone xml:id="eSc_line_c102cbfa" ulx="287" uly="1083" lrx="1213" lry="1128"/>
+                  <zone xml:id="eSc_line_a97a99f0" ulx="347" uly="1127" lrx="609" lry="1163"/>
+                  <zone xml:id="eSc_line_bc7a4104" ulx="290" uly="1170" lrx="1215" lry="1214"/>
+                  <zone xml:id="eSc_line_88fac8a6" ulx="347" uly="1214" lrx="1214" lry="1253"/>
+                  <zone xml:id="eSc_line_0a4f0a03" ulx="348" uly="1264" lrx="477" lry="1298"/>
+                  <zone xml:id="eSc_line_8ce00602" ulx="289" uly="1298" lrx="1213" lry="1338"/>
+                  <zone xml:id="eSc_line_ca454a76" ulx="348" uly="1342" lrx="963" lry="1383"/>
+                  <zone xml:id="eSc_line_bb176f6c" ulx="288" uly="1382" lrx="1214" lry="1421"/>
+                  <zone xml:id="eSc_line_0827e099" ulx="350" uly="1426" lrx="623" lry="1463"/>
+                  <zone xml:id="eSc_line_30e0dd11" ulx="289" uly="1465" lrx="1215" lry="1513"/>
+                  <zone xml:id="eSc_line_f53796bd" ulx="350" uly="1510" lrx="1215" lry="1552"/>
+                  <zone xml:id="eSc_line_e2a4b4be" ulx="350" uly="1552" lrx="610" lry="1594"/>
+                  <zone xml:id="eSc_line_2a57dbde" ulx="290" uly="1592" lrx="1212" lry="1634"/>
+                  <zone xml:id="eSc_line_34d72afb" ulx="350" uly="1635" lrx="1123" lry="1682"/>
+                  <zone xml:id="eSc_line_590c68b4" ulx="315" uly="1726" lrx="920" lry="1766"/>
+                  <zone xml:id="eSc_line_4192590a" ulx="315" uly="1764" lrx="551" lry="1799"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_07">
+                  <graphic url="chrestomathie-bret.pdf_page_07.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_eb1a20bb" ulx="529" uly="186" lrx="681" lry="225"/>
+                  <zone xml:id="eSc_line_677e17ea" ulx="138" uly="242" lrx="1071" lry="284"/>
+                  <zone xml:id="eSc_line_8f6e84f4" ulx="199" uly="287" lrx="1068" lry="322"/>
+                  <zone xml:id="eSc_line_61d78eeb" ulx="135" uly="330" lrx="1071" lry="373"/>
+                  <zone xml:id="eSc_line_7aa11d29" ulx="198" uly="375" lrx="341" lry="409"/>
+                  <zone xml:id="eSc_line_45fe19a5" ulx="136" uly="418" lrx="1072" lry="459"/>
+                  <zone xml:id="eSc_line_19605b9e" ulx="198" uly="460" lrx="1073" lry="499"/>
+                  <zone xml:id="eSc_line_4e0785bf" ulx="197" uly="504" lrx="336" lry="544"/>
+                  <zone xml:id="eSc_line_40ace235" ulx="136" uly="550" lrx="1073" lry="588"/>
+                  <zone xml:id="eSc_line_5a9fd06d" ulx="200" uly="593" lrx="634" lry="630"/>
+                  <zone xml:id="eSc_line_81af941f" ulx="138" uly="639" lrx="1075" lry="676"/>
+                  <zone xml:id="eSc_line_05f55f75" ulx="200" uly="681" lrx="332" lry="718"/>
+                  <zone xml:id="eSc_line_adb25989" ulx="137" uly="728" lrx="1075" lry="764"/>
+                  <zone xml:id="eSc_line_3a6a2ccc" ulx="198" uly="771" lrx="907" lry="810"/>
+                  <zone xml:id="eSc_line_67da4d2e" ulx="138" uly="816" lrx="1074" lry="852"/>
+                  <zone xml:id="eSc_line_0bead0b9" ulx="199" uly="858" lrx="1030" lry="896"/>
+                  <zone xml:id="eSc_line_56b9869e" ulx="137" uly="905" lrx="1073" lry="941"/>
+                  <zone xml:id="eSc_line_f4853aea" ulx="198" uly="946" lrx="1074" lry="983"/>
+                  <zone xml:id="eSc_line_27aa92c0" ulx="198" uly="988" lrx="1072" lry="1026"/>
+                  <zone xml:id="eSc_line_d36b1a06" ulx="199" uly="1033" lrx="709" lry="1068"/>
+                  <zone xml:id="eSc_line_1d68f2af" ulx="136" uly="1081" lrx="1073" lry="1118"/>
+                  <zone xml:id="eSc_line_300b9f20" ulx="199" uly="1118" lrx="1008" lry="1157"/>
+                  <zone xml:id="eSc_line_be3f41f0" ulx="136" uly="1159" lrx="1074" lry="1212"/>
+                  <zone xml:id="eSc_line_9f01993b" ulx="200" uly="1211" lrx="463" lry="1243"/>
+                  <zone xml:id="eSc_line_ff3d1c87" ulx="137" uly="1253" lrx="1073" lry="1297"/>
+                  <zone xml:id="eSc_line_e99f4d21" ulx="200" uly="1296" lrx="1072" lry="1342"/>
+                  <zone xml:id="eSc_line_746e9138" ulx="200" uly="1338" lrx="417" lry="1389"/>
+                  <zone xml:id="eSc_line_0ba33886" ulx="554" uly="1389" lrx="917" lry="1431"/>
+                  <zone xml:id="eSc_line_71806dce" ulx="687" uly="1428" lrx="998" lry="1464"/>
+                  <zone xml:id="eSc_line_f0c2e0da" ulx="163" uly="1527" lrx="624" lry="1561"/>
+                  <zone xml:id="eSc_line_fb089ebe" ulx="163" uly="1564" lrx="446" lry="1590"/>
+                  <zone xml:id="eSc_line_8782fa7d" ulx="162" uly="1591" lrx="1073" lry="1621"/>
+                  <zone xml:id="eSc_line_e18bddcd" ulx="141" uly="1621" lrx="934" lry="1669"/>
+                  <zone xml:id="eSc_line_bce83c3b" ulx="989" uly="1809" lrx="1023" lry="1838"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_08">
+                  <graphic url="chrestomathie-bret.pdf_page_08.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_03964735" ulx="652" uly="183" lrx="802" lry="219"/>
+                  <zone xml:id="eSc_line_3d87b8b1" ulx="379" uly="266" lrx="1065" lry="304"/>
+                  <zone xml:id="eSc_line_6c742a67" ulx="400" uly="334" lrx="1044" lry="373"/>
+                  <zone xml:id="eSc_line_dc990218" ulx="281" uly="406" lrx="1187" lry="438"/>
+                  <zone xml:id="eSc_line_842f8b01" ulx="259" uly="439" lrx="1190" lry="467"/>
+                  <zone xml:id="eSc_line_68cb0aff" ulx="257" uly="470" lrx="1188" lry="499"/>
+                  <zone xml:id="eSc_line_ffa1f68e" ulx="257" uly="500" lrx="410" lry="528"/>
+                  <zone xml:id="eSc_line_03c80484" ulx="256" uly="568" lrx="627" lry="606"/>
+                  <zone xml:id="eSc_line_b30bba1f" ulx="257" uly="611" lrx="1190" lry="648"/>
+                  <zone xml:id="eSc_line_3cec59e5" ulx="317" uly="654" lrx="1190" lry="690"/>
+                  <zone xml:id="eSc_line_4754d58f" ulx="255" uly="695" lrx="1190" lry="732"/>
+                  <zone xml:id="eSc_line_9f085e03" ulx="318" uly="739" lrx="1193" lry="774"/>
+                  <zone xml:id="eSc_line_b21d2fe8" ulx="317" uly="780" lrx="1192" lry="822"/>
+                  <zone xml:id="eSc_line_02765fdc" ulx="318" uly="823" lrx="509" lry="859"/>
+                  <zone xml:id="eSc_line_fc7d663a" ulx="256" uly="864" lrx="1191" lry="906"/>
+                  <zone xml:id="eSc_line_37763863" ulx="319" uly="908" lrx="807" lry="942"/>
+                  <zone xml:id="eSc_line_7c2dd950" ulx="257" uly="946" lrx="1190" lry="985"/>
+                  <zone xml:id="eSc_line_9bf46168" ulx="318" uly="991" lrx="1190" lry="1026"/>
+                  <zone xml:id="eSc_line_354b29fd" ulx="256" uly="1034" lrx="1191" lry="1072"/>
+                  <zone xml:id="eSc_line_dffeb4b7" ulx="319" uly="1075" lrx="600" lry="1110"/>
+                  <zone xml:id="eSc_line_d53c56e8" ulx="257" uly="1115" lrx="1192" lry="1156"/>
+                  <zone xml:id="eSc_line_063c6256" ulx="317" uly="1163" lrx="1193" lry="1199"/>
+                  <zone xml:id="eSc_line_d7ac4ca5" ulx="317" uly="1207" lrx="455" lry="1237"/>
+                  <zone xml:id="eSc_line_ae141c71" ulx="256" uly="1243" lrx="1192" lry="1283"/>
+                  <zone xml:id="eSc_line_03ba4e1d" ulx="318" uly="1288" lrx="1052" lry="1331"/>
+                  <zone xml:id="eSc_line_d7fff8e1" ulx="256" uly="1330" lrx="1193" lry="1373"/>
+                  <zone xml:id="eSc_line_4772871b" ulx="324" uly="1373" lrx="791" lry="1409"/>
+                  <zone xml:id="eSc_line_9dee315d" ulx="280" uly="1460" lrx="1193" lry="1487"/>
+                  <zone xml:id="eSc_line_ef95933b" ulx="256" uly="1487" lrx="824" lry="1515"/>
+                  <zone xml:id="eSc_line_746bbdef" ulx="280" uly="1513" lrx="1193" lry="1545"/>
+                  <zone xml:id="eSc_line_02a2a896" ulx="259" uly="1550" lrx="1193" lry="1577"/>
+                  <zone xml:id="eSc_line_be48888e" ulx="259" uly="1579" lrx="1193" lry="1606"/>
+                  <zone xml:id="eSc_line_8077045b" ulx="257" uly="1606" lrx="1192" lry="1639"/>
+                  <zone xml:id="eSc_line_013a62d8" ulx="257" uly="1635" lrx="1194" lry="1666"/>
+                  <zone xml:id="eSc_line_8ad8572d" ulx="257" uly="1666" lrx="722" lry="1695"/>
+                  <zone xml:id="eSc_line_642d67ad" ulx="277" uly="1694" lrx="1192" lry="1726"/>
+                  <zone xml:id="eSc_line_506946b0" ulx="257" uly="1725" lrx="337" lry="1753"/>
+                  <zone xml:id="eSc_line_55ffba1e" ulx="278" uly="1755" lrx="701" lry="1795"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_09">
+                  <graphic url="chrestomathie-bret.pdf_page_09.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_0a30ae46" ulx="533" uly="187" lrx="684" lry="229"/>
+                  <zone xml:id="eSc_line_d34770fb" ulx="141" uly="240" lrx="1071" lry="280"/>
+                  <zone xml:id="eSc_line_ce1fe790" ulx="200" uly="283" lrx="1071" lry="324"/>
+                  <zone xml:id="eSc_line_f9a45523" ulx="201" uly="327" lrx="593" lry="369"/>
+                  <zone xml:id="eSc_line_e04c2a3b" ulx="138" uly="367" lrx="1071" lry="407"/>
+                  <zone xml:id="eSc_line_973f03f0" ulx="201" uly="410" lrx="1071" lry="449"/>
+                  <zone xml:id="eSc_line_5259ab39" ulx="140" uly="451" lrx="1071" lry="494"/>
+                  <zone xml:id="eSc_line_495d5fc7" ulx="200" uly="494" lrx="1071" lry="534"/>
+                  <zone xml:id="eSc_line_58ff87a0" ulx="137" uly="536" lrx="1059" lry="576"/>
+                  <zone xml:id="eSc_line_67cbe29c" ulx="138" uly="578" lrx="1072" lry="624"/>
+                  <zone xml:id="eSc_line_0472163a" ulx="201" uly="621" lrx="1073" lry="661"/>
+                  <zone xml:id="eSc_line_67b79402" ulx="201" uly="667" lrx="337" lry="701"/>
+                  <zone xml:id="eSc_line_85cc979a" ulx="137" uly="704" lrx="1073" lry="752"/>
+                  <zone xml:id="eSc_line_1c610348" ulx="200" uly="751" lrx="637" lry="787"/>
+                  <zone xml:id="eSc_line_b4fc4218" ulx="138" uly="791" lrx="1072" lry="836"/>
+                  <zone xml:id="eSc_line_1ce671cb" ulx="200" uly="835" lrx="343" lry="875"/>
+                  <zone xml:id="eSc_line_9de8e710" ulx="137" uly="875" lrx="1073" lry="918"/>
+                  <zone xml:id="eSc_line_5575a499" ulx="199" uly="919" lrx="809" lry="959"/>
+                  <zone xml:id="eSc_line_c5f46c9f" ulx="138" uly="961" lrx="1071" lry="998"/>
+                  <zone xml:id="eSc_line_3db8bf64" ulx="201" uly="1003" lrx="1001" lry="1040"/>
+                  <zone xml:id="eSc_line_5f743cf9" ulx="138" uly="1045" lrx="1073" lry="1083"/>
+                  <zone xml:id="eSc_line_ca4626dd" ulx="199" uly="1088" lrx="1075" lry="1125"/>
+                  <zone xml:id="eSc_line_4acaa40d" ulx="200" uly="1129" lrx="1074" lry="1174"/>
+                  <zone xml:id="eSc_line_52173a5b" ulx="200" uly="1174" lrx="648" lry="1216"/>
+                  <zone xml:id="eSc_line_b31b7edb" ulx="138" uly="1213" lrx="1072" lry="1254"/>
+                  <zone xml:id="eSc_line_e0cd2b42" ulx="199" uly="1257" lrx="903" lry="1296"/>
+                  <zone xml:id="eSc_line_358a15e6" ulx="138" uly="1299" lrx="1073" lry="1340"/>
+                  <zone xml:id="eSc_line_f5b6bbe9" ulx="201" uly="1345" lrx="511" lry="1386"/>
+                  <zone xml:id="eSc_line_000810a8" ulx="140" uly="1384" lrx="1074" lry="1429"/>
+                  <zone xml:id="eSc_line_f9c4fa70" ulx="200" uly="1429" lrx="1073" lry="1471"/>
+                  <zone xml:id="eSc_line_5d984bea" ulx="201" uly="1470" lrx="471" lry="1514"/>
+                  <zone xml:id="eSc_line_b36d785c" ulx="672" uly="1507" lrx="932" lry="1535"/>
+                  <zone xml:id="eSc_line_3875458d" ulx="581" uly="1530" lrx="1024" lry="1565"/>
+                  <zone xml:id="eSc_line_d641dea8" ulx="162" uly="1617" lrx="1072" lry="1649"/>
+                  <zone xml:id="eSc_line_33f5f001" ulx="142" uly="1650" lrx="1053" lry="1678"/>
+                  <zone xml:id="eSc_line_13afd649" ulx="165" uly="1676" lrx="388" lry="1708"/>
+                  <zone xml:id="eSc_line_28ed1706" ulx="163" uly="1704" lrx="404" lry="1739"/>
+                  <zone xml:id="eSc_line_fe8b703e" ulx="163" uly="1734" lrx="1073" lry="1773"/>
+                  <zone xml:id="eSc_line_d5431169" ulx="143" uly="1769" lrx="491" lry="1799"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_10">
+                  <graphic url="chrestomathie-bret.pdf_page_10.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_f571c7c6" ulx="662" uly="190" lrx="809" lry="225"/>
+                  <zone xml:id="eSc_line_1e12fcc1" ulx="463" uly="259" lrx="1001" lry="295"/>
+                  <zone xml:id="eSc_line_2c0f534c" ulx="269" uly="329" lrx="677" lry="365"/>
+                  <zone xml:id="eSc_line_f732a779" ulx="269" uly="371" lrx="1197" lry="408"/>
+                  <zone xml:id="eSc_line_bc4f4cfd" ulx="331" uly="414" lrx="1198" lry="455"/>
+                  <zone xml:id="eSc_line_48463c94" ulx="330" uly="457" lrx="526" lry="492"/>
+                  <zone xml:id="eSc_line_9af4feeb" ulx="270" uly="498" lrx="1199" lry="535"/>
+                  <zone xml:id="eSc_line_a2c0dbb3" ulx="330" uly="540" lrx="1197" lry="576"/>
+                  <zone xml:id="eSc_line_253c8699" ulx="330" uly="584" lrx="1197" lry="619"/>
+                  <zone xml:id="eSc_line_d4fb5cff" ulx="268" uly="625" lrx="1198" lry="667"/>
+                  <zone xml:id="eSc_line_c90a794e" ulx="331" uly="669" lrx="949" lry="704"/>
+                  <zone xml:id="eSc_line_710cf6d0" ulx="270" uly="709" lrx="1198" lry="746"/>
+                  <zone xml:id="eSc_line_701c7b3f" ulx="329" uly="752" lrx="1198" lry="788"/>
+                  <zone xml:id="eSc_line_ca7bc0bb" ulx="329" uly="793" lrx="647" lry="834"/>
+                  <zone xml:id="eSc_line_d059b90c" ulx="269" uly="834" lrx="1198" lry="872"/>
+                  <zone xml:id="eSc_line_4476bca0" ulx="331" uly="878" lrx="773" lry="914"/>
+                  <zone xml:id="eSc_line_eedcae8d" ulx="271" uly="921" lrx="1198" lry="957"/>
+                  <zone xml:id="eSc_line_47064fc4" ulx="331" uly="964" lrx="1197" lry="999"/>
+                  <zone xml:id="eSc_line_c7c04339" ulx="330" uly="1012" lrx="457" lry="1040"/>
+                  <zone xml:id="eSc_line_66cf9b3b" ulx="270" uly="1045" lrx="1198" lry="1090"/>
+                  <zone xml:id="eSc_line_00f0d800" ulx="331" uly="1090" lrx="785" lry="1131"/>
+                  <zone xml:id="eSc_line_a268ca10" ulx="269" uly="1131" lrx="1198" lry="1169"/>
+                  <zone xml:id="eSc_line_6bbc0246" ulx="330" uly="1174" lrx="700" lry="1211"/>
+                  <zone xml:id="eSc_line_ee95fc4e" ulx="268" uly="1216" lrx="1195" lry="1257"/>
+                  <zone xml:id="eSc_line_80994033" ulx="331" uly="1261" lrx="1198" lry="1297"/>
+                  <zone xml:id="eSc_line_b71118b9" ulx="331" uly="1302" lrx="850" lry="1338"/>
+                  <zone xml:id="eSc_line_43714179" ulx="267" uly="1348" lrx="1198" lry="1386"/>
+                  <zone xml:id="eSc_line_75b3e46e" ulx="330" uly="1387" lrx="1134" lry="1423"/>
+                  <zone xml:id="eSc_line_52ab8037" ulx="268" uly="1428" lrx="1197" lry="1465"/>
+                  <zone xml:id="eSc_line_ef22a467" ulx="329" uly="1470" lrx="1198" lry="1509"/>
+                  <zone xml:id="eSc_line_f2e24bbb" ulx="329" uly="1512" lrx="449" lry="1555"/>
+                  <zone xml:id="eSc_line_90fb8d9a" ulx="291" uly="1597" lrx="1198" lry="1628"/>
+                  <zone xml:id="eSc_line_b7d50745" ulx="268" uly="1625" lrx="1198" lry="1655"/>
+                  <zone xml:id="eSc_line_2ba16bdb" ulx="289" uly="1652" lrx="1197" lry="1683"/>
+                  <zone xml:id="eSc_line_dea3cafa" ulx="270" uly="1684" lrx="1198" lry="1716"/>
+                  <zone xml:id="eSc_line_33feaa2b" ulx="269" uly="1711" lrx="465" lry="1743"/>
+                  <zone xml:id="eSc_line_c4c4fb3c" ulx="292" uly="1738" lrx="690" lry="1772"/>
+                  <zone xml:id="eSc_line_0a78addf" ulx="290" uly="1761" lrx="527" lry="1803"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_11">
+                  <graphic url="chrestomathie-bret.pdf_page_11.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_e60cec8f" ulx="532" uly="183" lrx="682" lry="219"/>
+                  <zone xml:id="eSc_line_f644620a" ulx="140" uly="232" lrx="1069" lry="273"/>
+                  <zone xml:id="eSc_line_9a5442b8" ulx="141" uly="273" lrx="1072" lry="312"/>
+                  <zone xml:id="eSc_line_0c9dce3a" ulx="201" uly="315" lrx="1033" lry="354"/>
+                  <zone xml:id="eSc_line_597d60ca" ulx="141" uly="362" lrx="1072" lry="403"/>
+                  <zone xml:id="eSc_line_a42fe75a" ulx="200" uly="399" lrx="569" lry="443"/>
+                  <zone xml:id="eSc_line_a351e09f" ulx="141" uly="441" lrx="1072" lry="484"/>
+                  <zone xml:id="eSc_line_76d51ef5" ulx="204" uly="487" lrx="352" lry="522"/>
+                  <zone xml:id="eSc_line_ec257f4d" ulx="140" uly="522" lrx="1073" lry="563"/>
+                  <zone xml:id="eSc_line_5da3ee68" ulx="203" uly="569" lrx="949" lry="605"/>
+                  <zone xml:id="eSc_line_4923f29c" ulx="140" uly="607" lrx="1075" lry="652"/>
+                  <zone xml:id="eSc_line_2f775da7" ulx="201" uly="651" lrx="1074" lry="689"/>
+                  <zone xml:id="eSc_line_23e80ba7" ulx="207" uly="691" lrx="298" lry="729"/>
+                  <zone xml:id="eSc_line_3987d43c" ulx="141" uly="730" lrx="1073" lry="772"/>
+                  <zone xml:id="eSc_line_3bc7c13c" ulx="203" uly="774" lrx="1073" lry="814"/>
+                  <zone xml:id="eSc_line_fe7018da" ulx="203" uly="815" lrx="1073" lry="857"/>
+                  <zone xml:id="eSc_line_2c3b0335" ulx="203" uly="859" lrx="574" lry="899"/>
+                  <zone xml:id="eSc_line_083b6b01" ulx="140" uly="900" lrx="1073" lry="941"/>
+                  <zone xml:id="eSc_line_9841f10e" ulx="200" uly="943" lrx="999" lry="983"/>
+                  <zone xml:id="eSc_line_d6729bd9" ulx="140" uly="983" lrx="1073" lry="1033"/>
+                  <zone xml:id="eSc_line_8acf3db8" ulx="201" uly="1031" lrx="445" lry="1065"/>
+                  <zone xml:id="eSc_line_acf8717a" ulx="141" uly="1066" lrx="1073" lry="1106"/>
+                  <zone xml:id="eSc_line_2ab00602" ulx="200" uly="1110" lrx="1071" lry="1149"/>
+                  <zone xml:id="eSc_line_bff82f5e" ulx="598" uly="1160" lrx="1004" lry="1194"/>
+                  <zone xml:id="eSc_line_74b78932" ulx="711" uly="1188" lrx="926" lry="1225"/>
+                  <zone xml:id="eSc_line_b2672301" ulx="418" uly="1302" lrx="795" lry="1346"/>
+                  <zone xml:id="eSc_line_a6a17aed" ulx="315" uly="1375" lrx="892" lry="1412"/>
+                  <zone xml:id="eSc_line_90f08aac" ulx="143" uly="1444" lrx="539" lry="1485"/>
+                  <zone xml:id="eSc_line_cafc20bc" ulx="143" uly="1487" lrx="1073" lry="1531"/>
+                  <zone xml:id="eSc_line_0eca8429" ulx="204" uly="1530" lrx="1073" lry="1578"/>
+                  <zone xml:id="eSc_line_23fa28d8" ulx="204" uly="1577" lrx="312" lry="1612"/>
+                  <zone xml:id="eSc_line_8941bb78" ulx="162" uly="1646" lrx="1074" lry="1680"/>
+                  <zone xml:id="eSc_line_86cb16e9" ulx="142" uly="1676" lrx="1073" lry="1713"/>
+                  <zone xml:id="eSc_line_9ddff7bc" ulx="142" uly="1706" lrx="1073" lry="1734"/>
+                  <zone xml:id="eSc_line_a61e0a97" ulx="143" uly="1730" lrx="516" lry="1769"/>
+                  <zone xml:id="eSc_line_02efec7d" ulx="166" uly="1761" lrx="1071" lry="1795"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_12">
+                  <graphic url="chrestomathie-bret.pdf_page_12.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_3408a6c1" ulx="264" uly="231" lrx="1190" lry="276"/>
+                  <zone xml:id="eSc_line_a120dbb7" ulx="325" uly="276" lrx="1192" lry="312"/>
+                  <zone xml:id="eSc_line_0edd62b0" ulx="324" uly="316" lrx="1192" lry="360"/>
+                  <zone xml:id="eSc_line_0bf6f3fd" ulx="325" uly="359" lrx="443" lry="396"/>
+                  <zone xml:id="eSc_line_f9401c69" ulx="263" uly="400" lrx="1192" lry="444"/>
+                  <zone xml:id="eSc_line_944dbd01" ulx="324" uly="444" lrx="855" lry="479"/>
+                  <zone xml:id="eSc_line_1caf6fd1" ulx="263" uly="484" lrx="1192" lry="529"/>
+                  <zone xml:id="eSc_line_de6c80bb" ulx="325" uly="527" lrx="1190" lry="567"/>
+                  <zone xml:id="eSc_line_8fa0fbb6" ulx="325" uly="571" lrx="599" lry="609"/>
+                  <zone xml:id="eSc_line_e526a714" ulx="262" uly="611" lrx="1192" lry="655"/>
+                  <zone xml:id="eSc_line_9f5cc2dd" ulx="325" uly="655" lrx="709" lry="693"/>
+                  <zone xml:id="eSc_line_a3bb93b8" ulx="263" uly="695" lrx="1191" lry="738"/>
+                  <zone xml:id="eSc_line_26a2abbf" ulx="325" uly="742" lrx="1192" lry="778"/>
+                  <zone xml:id="eSc_line_dbb15d82" ulx="323" uly="787" lrx="652" lry="820"/>
+                  <zone xml:id="eSc_line_59778562" ulx="263" uly="823" lrx="1190" lry="863"/>
+                  <zone xml:id="eSc_line_5be94a76" ulx="323" uly="868" lrx="1060" lry="908"/>
+                  <zone xml:id="eSc_line_5951ad78" ulx="263" uly="910" lrx="1191" lry="949"/>
+                  <zone xml:id="eSc_line_755fca83" ulx="324" uly="955" lrx="532" lry="989"/>
+                  <zone xml:id="eSc_line_c2ee2397" ulx="264" uly="994" lrx="1192" lry="1032"/>
+                  <zone xml:id="eSc_line_d6e14890" ulx="324" uly="1044" lrx="1192" lry="1074"/>
+                  <zone xml:id="eSc_line_66921dd2" ulx="323" uly="1079" lrx="716" lry="1121"/>
+                  <zone xml:id="eSc_line_0530270a" ulx="261" uly="1120" lrx="1192" lry="1162"/>
+                  <zone xml:id="eSc_line_fbd9850a" ulx="323" uly="1163" lrx="1188" lry="1200"/>
+                  <zone xml:id="eSc_line_a1889176" ulx="261" uly="1204" lrx="1191" lry="1242"/>
+                  <zone xml:id="eSc_line_499d9ed9" ulx="320" uly="1246" lrx="1188" lry="1285"/>
+                  <zone xml:id="eSc_line_6e1c3909" ulx="261" uly="1289" lrx="1134" lry="1327"/>
+                  <zone xml:id="eSc_line_8d3b47f3" ulx="260" uly="1332" lrx="1190" lry="1369"/>
+                  <zone xml:id="eSc_line_a68f6a9d" ulx="323" uly="1373" lrx="1190" lry="1416"/>
+                  <zone xml:id="eSc_line_b2df17c1" ulx="322" uly="1418" lrx="465" lry="1452"/>
+                  <zone xml:id="eSc_line_4f9572ae" ulx="259" uly="1454" lrx="1190" lry="1502"/>
+                  <zone xml:id="eSc_line_95dd1eb3" ulx="320" uly="1502" lrx="870" lry="1538"/>
+                  <zone xml:id="eSc_line_129cc7a9" ulx="260" uly="1543" lrx="1188" lry="1584"/>
+                  <zone xml:id="eSc_line_b2b43a65" ulx="320" uly="1586" lrx="469" lry="1624"/>
+                  <zone xml:id="eSc_line_2b211183" ulx="654" uly="179" lrx="807" lry="218"/>
+                  <zone xml:id="eSc_line_a21a6b21" ulx="285" uly="1663" lrx="850" lry="1699"/>
+                  <zone xml:id="eSc_line_bef73b2e" ulx="284" uly="1694" lrx="1061" lry="1737"/>
+                  <zone xml:id="eSc_line_3cb55248" ulx="285" uly="1726" lrx="840" lry="1761"/>
+                  <zone xml:id="eSc_line_49b8f46b" ulx="284" uly="1753" lrx="632" lry="1800"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_13">
+                  <graphic url="chrestomathie-bret.pdf_page_13.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_6fe90af2" ulx="541" uly="178" lrx="687" lry="218"/>
+                  <zone xml:id="eSc_line_03050415" ulx="144" uly="231" lrx="1078" lry="273"/>
+                  <zone xml:id="eSc_line_8c60921c" ulx="206" uly="278" lrx="978" lry="310"/>
+                  <zone xml:id="eSc_line_a9ee6f51" ulx="144" uly="316" lrx="1075" lry="359"/>
+                  <zone xml:id="eSc_line_735c8fc0" ulx="206" uly="358" lrx="962" lry="402"/>
+                  <zone xml:id="eSc_line_d52dff13" ulx="144" uly="402" lrx="1078" lry="441"/>
+                  <zone xml:id="eSc_line_99e5ab50" ulx="205" uly="443" lrx="1078" lry="480"/>
+                  <zone xml:id="eSc_line_ba3145a1" ulx="204" uly="486" lrx="922" lry="528"/>
+                  <zone xml:id="eSc_line_395c0cb9" ulx="142" uly="527" lrx="1081" lry="565"/>
+                  <zone xml:id="eSc_line_c2fb181c" ulx="205" uly="569" lrx="796" lry="611"/>
+                  <zone xml:id="eSc_line_c8309862" ulx="142" uly="617" lrx="1079" lry="658"/>
+                  <zone xml:id="eSc_line_6cfd6a43" ulx="205" uly="656" lrx="504" lry="693"/>
+                  <zone xml:id="eSc_line_285d56d5" ulx="142" uly="697" lrx="1079" lry="736"/>
+                  <zone xml:id="eSc_line_53d4c242" ulx="204" uly="739" lrx="1076" lry="781"/>
+                  <zone xml:id="eSc_line_ce1eac73" ulx="204" uly="785" lrx="371" lry="820"/>
+                  <zone xml:id="eSc_line_0042680f" ulx="786" uly="813" lrx="968" lry="863"/>
+                  <zone xml:id="eSc_line_7f09417b" ulx="296" uly="921" lrx="922" lry="964"/>
+                  <zone xml:id="eSc_line_3c434658" ulx="140" uly="991" lrx="607" lry="1030"/>
+                  <zone xml:id="eSc_line_edb4f9cf" ulx="141" uly="1033" lrx="1076" lry="1078"/>
+                  <zone xml:id="eSc_line_d8cf974e" ulx="204" uly="1081" lrx="1037" lry="1116"/>
+                  <zone xml:id="eSc_line_7953cda2" ulx="142" uly="1122" lrx="1076" lry="1158"/>
+                  <zone xml:id="eSc_line_abbc6724" ulx="201" uly="1165" lrx="1075" lry="1202"/>
+                  <zone xml:id="eSc_line_490c0c8d" ulx="198" uly="1205" lrx="1075" lry="1250"/>
+                  <zone xml:id="eSc_line_ebfb7df6" ulx="199" uly="1248" lrx="462" lry="1285"/>
+                  <zone xml:id="eSc_line_d9901e55" ulx="142" uly="1292" lrx="1076" lry="1328"/>
+                  <zone xml:id="eSc_line_0159925b" ulx="200" uly="1333" lrx="840" lry="1375"/>
+                  <zone xml:id="eSc_line_c71bc515" ulx="162" uly="1411" lrx="715" lry="1445"/>
+                  <zone xml:id="eSc_line_08bc7385" ulx="163" uly="1447" lrx="1074" lry="1474"/>
+                  <zone xml:id="eSc_line_176c09b2" ulx="140" uly="1468" lrx="577" lry="1502"/>
+                  <zone xml:id="eSc_line_61409470" ulx="164" uly="1498" lrx="1073" lry="1537"/>
+                  <zone xml:id="eSc_line_910152a1" ulx="140" uly="1531" lrx="273" lry="1559"/>
+                  <zone xml:id="eSc_line_11ec3b18" ulx="162" uly="1555" lrx="582" lry="1591"/>
+                  <zone xml:id="eSc_line_a2d08ae8" ulx="163" uly="1584" lrx="479" lry="1619"/>
+                  <zone xml:id="eSc_line_2b1592db" ulx="165" uly="1615" lrx="534" lry="1648"/>
+                  <zone xml:id="eSc_line_d9d3e8e2" ulx="163" uly="1643" lrx="563" lry="1676"/>
+                  <zone xml:id="eSc_line_4dac4807" ulx="163" uly="1673" lrx="644" lry="1706"/>
+                  <zone xml:id="eSc_line_8642f9b8" ulx="163" uly="1702" lrx="467" lry="1733"/>
+                  <zone xml:id="eSc_line_3955c547" ulx="164" uly="1738" lrx="1072" lry="1774"/>
+                  <zone xml:id="eSc_line_cdf09dc9" ulx="141" uly="1765" lrx="353" lry="1794"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_14">
+                  <graphic url="chrestomathie-bret.pdf_page_14.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_b6a8527f" ulx="262" uly="229" lrx="1193" lry="275"/>
+                  <zone xml:id="eSc_line_3c01f3af" ulx="262" uly="315" lrx="1195" lry="359"/>
+                  <zone xml:id="eSc_line_679175fd" ulx="322" uly="274" lrx="1194" lry="310"/>
+                  <zone xml:id="eSc_line_08845fcd" ulx="261" uly="396" lrx="1194" lry="437"/>
+                  <zone xml:id="eSc_line_af13f661" ulx="323" uly="357" lrx="879" lry="394"/>
+                  <zone xml:id="eSc_line_e8ab6cd8" ulx="323" uly="442" lrx="1197" lry="485"/>
+                  <zone xml:id="eSc_line_7592e914" ulx="323" uly="485" lrx="933" lry="521"/>
+                  <zone xml:id="eSc_line_8ebcf990" ulx="263" uly="526" lrx="1197" lry="564"/>
+                  <zone xml:id="eSc_line_df53c40a" ulx="323" uly="568" lrx="1195" lry="607"/>
+                  <zone xml:id="eSc_line_6c946902" ulx="323" uly="611" lrx="981" lry="648"/>
+                  <zone xml:id="eSc_line_0f1202a3" ulx="262" uly="652" lrx="1197" lry="695"/>
+                  <zone xml:id="eSc_line_10c311e1" ulx="324" uly="695" lrx="1194" lry="735"/>
+                  <zone xml:id="eSc_line_c7573592" ulx="323" uly="736" lrx="789" lry="777"/>
+                  <zone xml:id="eSc_line_d667c939" ulx="262" uly="780" lrx="1195" lry="817"/>
+                  <zone xml:id="eSc_line_3f20aa0f" ulx="325" uly="819" lrx="457" lry="864"/>
+                  <zone xml:id="eSc_line_4229afb4" ulx="262" uly="863" lrx="1195" lry="901"/>
+                  <zone xml:id="eSc_line_7e83492d" ulx="324" uly="908" lrx="1197" lry="943"/>
+                  <zone xml:id="eSc_line_b6f11231" ulx="325" uly="947" lrx="459" lry="985"/>
+                  <zone xml:id="eSc_line_e2940f9a" ulx="263" uly="990" lrx="1197" lry="1034"/>
+                  <zone xml:id="eSc_line_818223db" ulx="325" uly="1033" lrx="1197" lry="1081"/>
+                  <zone xml:id="eSc_line_5a90ed0b" ulx="324" uly="1074" lrx="569" lry="1116"/>
+                  <zone xml:id="eSc_line_4c750509" ulx="654" uly="178" lrx="805" lry="217"/>
+                  <zone xml:id="eSc_line_ee0e4758" ulx="291" uly="1160" lrx="603" lry="1198"/>
+                  <zone xml:id="eSc_line_ff9dde7c" ulx="289" uly="1187" lrx="645" lry="1225"/>
+                  <zone xml:id="eSc_line_cb8c76af" ulx="291" uly="1218" lrx="1195" lry="1255"/>
+                  <zone xml:id="eSc_line_6cfbdd92" ulx="269" uly="1250" lrx="626" lry="1282"/>
+                  <zone xml:id="eSc_line_dc5d7985" ulx="289" uly="1276" lrx="1011" lry="1318"/>
+                  <zone xml:id="eSc_line_d9a6d258" ulx="289" uly="1309" lrx="600" lry="1341"/>
+                  <zone xml:id="eSc_line_e00ddb08" ulx="291" uly="1339" lrx="535" lry="1373"/>
+                  <zone xml:id="eSc_line_590dc5e7" ulx="290" uly="1369" lrx="542" lry="1403"/>
+                  <zone xml:id="eSc_line_c381cb29" ulx="289" uly="1396" lrx="1195" lry="1440"/>
+                  <zone xml:id="eSc_line_51c29108" ulx="266" uly="1428" lrx="535" lry="1470"/>
+                  <zone xml:id="eSc_line_07af06dd" ulx="289" uly="1457" lrx="562" lry="1491"/>
+                  <zone xml:id="eSc_line_ec844a0b" ulx="289" uly="1486" lrx="568" lry="1520"/>
+                  <zone xml:id="eSc_line_72dc1ca6" ulx="290" uly="1514" lrx="883" lry="1549"/>
+                  <zone xml:id="eSc_line_1c122b74" ulx="290" uly="1542" lrx="680" lry="1577"/>
+                  <zone xml:id="eSc_line_c6874485" ulx="290" uly="1572" lrx="918" lry="1614"/>
+                  <zone xml:id="eSc_line_d38969d7" ulx="290" uly="1603" lrx="494" lry="1638"/>
+                  <zone xml:id="eSc_line_30a47637" ulx="290" uly="1632" lrx="793" lry="1666"/>
+                  <zone xml:id="eSc_line_dec2b1eb" ulx="291" uly="1660" lrx="541" lry="1692"/>
+                  <zone xml:id="eSc_line_8bea660a" ulx="290" uly="1687" lrx="551" lry="1722"/>
+                  <zone xml:id="eSc_line_5ac4cfba" ulx="291" uly="1716" lrx="718" lry="1758"/>
+                  <zone xml:id="eSc_line_32c3c27a" ulx="290" uly="1746" lrx="627" lry="1794"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_15">
+                  <graphic url="chrestomathie-bret.pdf_page_15.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_1680c160" ulx="506" uly="186" lrx="656" lry="227"/>
+                  <zone xml:id="eSc_line_d98bd475" ulx="112" uly="239" lrx="1047" lry="281"/>
+                  <zone xml:id="eSc_line_fea6b71e" ulx="173" uly="284" lrx="452" lry="326"/>
+                  <zone xml:id="eSc_line_9000481f" ulx="109" uly="320" lrx="1048" lry="362"/>
+                  <zone xml:id="eSc_line_84d6b45d" ulx="172" uly="367" lrx="906" lry="408"/>
+                  <zone xml:id="eSc_line_58ac2929" ulx="112" uly="411" lrx="1050" lry="453"/>
+                  <zone xml:id="eSc_line_e7b1254e" ulx="172" uly="453" lrx="1060" lry="500"/>
+                  <zone xml:id="eSc_line_ee471e2d" ulx="173" uly="499" lrx="492" lry="543"/>
+                  <zone xml:id="eSc_line_65810e15" ulx="112" uly="541" lrx="1048" lry="584"/>
+                  <zone xml:id="eSc_line_ea35accb" ulx="173" uly="588" lrx="1048" lry="627"/>
+                  <zone xml:id="eSc_line_8135fb42" ulx="172" uly="628" lrx="604" lry="669"/>
+                  <zone xml:id="eSc_line_afc78855" ulx="112" uly="676" lrx="1050" lry="719"/>
+                  <zone xml:id="eSc_line_330b9a82" ulx="171" uly="718" lrx="891" lry="759"/>
+                  <zone xml:id="eSc_line_2a255fa6" ulx="110" uly="765" lrx="1050" lry="813"/>
+                  <zone xml:id="eSc_line_fe2bc407" ulx="175" uly="808" lrx="1048" lry="850"/>
+                  <zone xml:id="eSc_line_19b79961" ulx="175" uly="850" lrx="1048" lry="898"/>
+                  <zone xml:id="eSc_line_14fb230a" ulx="178" uly="899" lrx="453" lry="942"/>
+                  <zone xml:id="eSc_line_baf20aa2" ulx="556" uly="938" lrx="954" lry="976"/>
+                  <zone xml:id="eSc_line_5367ea94" ulx="536" uly="969" lrx="982" lry="1016"/>
+                  <zone xml:id="eSc_line_5daf5b2a" ulx="451" uly="1132" lrx="710" lry="1176"/>
+                  <zone xml:id="eSc_line_f4744427" ulx="114" uly="1214" lrx="604" lry="1253"/>
+                  <zone xml:id="eSc_line_477b9572" ulx="116" uly="1255" lrx="1050" lry="1297"/>
+                  <zone xml:id="eSc_line_e594ff75" ulx="177" uly="1299" lrx="837" lry="1347"/>
+                  <zone xml:id="eSc_line_34056682" ulx="141" uly="1401" lrx="409" lry="1437"/>
+                  <zone xml:id="eSc_line_ce4c5b71" ulx="141" uly="1431" lrx="460" lry="1467"/>
+                  <zone xml:id="eSc_line_b34cc283" ulx="140" uly="1460" lrx="472" lry="1495"/>
+                  <zone xml:id="eSc_line_a0bf933e" ulx="142" uly="1491" lrx="641" lry="1530"/>
+                  <zone xml:id="eSc_line_dbb84247" ulx="140" uly="1523" lrx="399" lry="1557"/>
+                  <zone xml:id="eSc_line_e0a24940" ulx="140" uly="1551" lrx="404" lry="1585"/>
+                  <zone xml:id="eSc_line_6d58b7a6" ulx="140" uly="1578" lrx="1051" lry="1618"/>
+                  <zone xml:id="eSc_line_77c9686c" ulx="117" uly="1620" lrx="522" lry="1647"/>
+                  <zone xml:id="eSc_line_8001bd87" ulx="140" uly="1640" lrx="1051" lry="1677"/>
+                  <zone xml:id="eSc_line_f23b426b" ulx="116" uly="1673" lrx="598" lry="1708"/>
+                  <zone xml:id="eSc_line_3bfc83d2" ulx="140" uly="1699" lrx="1052" lry="1738"/>
+                  <zone xml:id="eSc_line_e1d0ac24" ulx="117" uly="1731" lrx="1052" lry="1781"/>
+                  <zone xml:id="eSc_line_8e884d0d" ulx="120" uly="1771" lrx="364" lry="1814"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_16">
+                  <graphic url="chrestomathie-bret.pdf_page_16.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_f9ebb3f0" ulx="672" uly="173" lrx="823" lry="212"/>
+                  <zone xml:id="eSc_line_0f2ffee8" ulx="282" uly="225" lrx="1211" lry="263"/>
+                  <zone xml:id="eSc_line_3b0d5feb" ulx="340" uly="267" lrx="1209" lry="304"/>
+                  <zone xml:id="eSc_line_3778bcac" ulx="340" uly="309" lrx="1209" lry="353"/>
+                  <zone xml:id="eSc_line_f18b0cd1" ulx="343" uly="353" lrx="539" lry="389"/>
+                  <zone xml:id="eSc_line_5caf039a" ulx="280" uly="397" lrx="1212" lry="443"/>
+                  <zone xml:id="eSc_line_7346183e" ulx="340" uly="441" lrx="1008" lry="479"/>
+                  <zone xml:id="eSc_line_7cba9f5a" ulx="278" uly="488" lrx="1209" lry="528"/>
+                  <zone xml:id="eSc_line_4940a2a4" ulx="341" uly="534" lrx="1212" lry="576"/>
+                  <zone xml:id="eSc_line_92deb1d6" ulx="341" uly="578" lrx="474" lry="611"/>
+                  <zone xml:id="eSc_line_f31c9553" ulx="281" uly="623" lrx="1212" lry="660"/>
+                  <zone xml:id="eSc_line_e966e44c" ulx="343" uly="665" lrx="642" lry="702"/>
+                  <zone xml:id="eSc_line_5c00214d" ulx="281" uly="710" lrx="1213" lry="750"/>
+                  <zone xml:id="eSc_line_6e940780" ulx="340" uly="754" lrx="1213" lry="793"/>
+                  <zone xml:id="eSc_line_ec978814" ulx="341" uly="800" lrx="662" lry="838"/>
+                  <zone xml:id="eSc_line_64e8b060" ulx="281" uly="843" lrx="1215" lry="882"/>
+                  <zone xml:id="eSc_line_6d3a7946" ulx="340" uly="886" lrx="1212" lry="924"/>
+                  <zone xml:id="eSc_line_9da8733b" ulx="339" uly="929" lrx="680" lry="969"/>
+                  <zone xml:id="eSc_line_ba05190b" ulx="281" uly="982" lrx="1214" lry="1012"/>
+                  <zone xml:id="eSc_line_49957e9a" ulx="343" uly="1019" lrx="1212" lry="1055"/>
+                  <zone xml:id="eSc_line_90e690ba" ulx="278" uly="1066" lrx="1213" lry="1103"/>
+                  <zone xml:id="eSc_line_efecc506" ulx="343" uly="1110" lrx="414" lry="1144"/>
+                  <zone xml:id="eSc_line_b1e54478" ulx="278" uly="1156" lrx="1214" lry="1193"/>
+                  <zone xml:id="eSc_line_f9a7069d" ulx="340" uly="1198" lrx="982" lry="1239"/>
+                  <zone xml:id="eSc_line_d4c51d2a" ulx="281" uly="1244" lrx="1214" lry="1284"/>
+                  <zone xml:id="eSc_line_9a83e128" ulx="340" uly="1288" lrx="904" lry="1327"/>
+                  <zone xml:id="eSc_line_da793566" ulx="280" uly="1335" lrx="1214" lry="1375"/>
+                  <zone xml:id="eSc_line_044c8c14" ulx="345" uly="1382" lrx="549" lry="1416"/>
+                  <zone xml:id="eSc_line_03c1b39c" ulx="280" uly="1424" lrx="1214" lry="1464"/>
+                  <zone xml:id="eSc_line_a7651546" ulx="340" uly="1468" lrx="1031" lry="1506"/>
+                  <zone xml:id="eSc_line_67a437a8" ulx="283" uly="1519" lrx="1215" lry="1554"/>
+                  <zone xml:id="eSc_line_487159a5" ulx="344" uly="1566" lrx="1213" lry="1596"/>
+                  <zone xml:id="eSc_line_3d372c32" ulx="284" uly="1605" lrx="1214" lry="1643"/>
+                  <zone xml:id="eSc_line_0c42d3cb" ulx="306" uly="1719" lrx="1213" lry="1761"/>
+                  <zone xml:id="eSc_line_4a5ce5a7" ulx="309" uly="1750" lrx="827" lry="1785"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_17">
+                  <graphic url="chrestomathie-bret.pdf_page_17.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_0c5c3866" ulx="493" uly="191" lrx="648" lry="231"/>
+                  <zone xml:id="eSc_line_d160a40c" ulx="166" uly="241" lrx="1038" lry="288"/>
+                  <zone xml:id="eSc_line_7adb97be" ulx="165" uly="282" lrx="1037" lry="324"/>
+                  <zone xml:id="eSc_line_33e6f689" ulx="166" uly="326" lrx="631" lry="372"/>
+                  <zone xml:id="eSc_line_025997f5" ulx="105" uly="369" lrx="1039" lry="420"/>
+                  <zone xml:id="eSc_line_0e9eb937" ulx="165" uly="416" lrx="875" lry="456"/>
+                  <zone xml:id="eSc_line_a4327988" ulx="103" uly="460" lrx="1039" lry="509"/>
+                  <zone xml:id="eSc_line_ec176621" ulx="166" uly="505" lrx="1040" lry="547"/>
+                  <zone xml:id="eSc_line_b328ba51" ulx="168" uly="554" lrx="1038" lry="596"/>
+                  <zone xml:id="eSc_line_dce975be" ulx="168" uly="590" lrx="267" lry="639"/>
+                  <zone xml:id="eSc_line_5dbe3eb5" ulx="514" uly="618" lrx="931" lry="656"/>
+                  <zone xml:id="eSc_line_70a28289" ulx="572" uly="658" lrx="886" lry="686"/>
+                  <zone xml:id="eSc_line_27f6f4ff" ulx="484" uly="681" lrx="964" lry="724"/>
+                  <zone xml:id="eSc_line_62dbbfd8" ulx="382" uly="824" lrx="757" lry="870"/>
+                  <zone xml:id="eSc_line_ce1d0e96" ulx="107" uly="905" lrx="523" lry="945"/>
+                  <zone xml:id="eSc_line_5f492baa" ulx="107" uly="949" lrx="1041" lry="991"/>
+                  <zone xml:id="eSc_line_656c408c" ulx="168" uly="994" lrx="908" lry="1033"/>
+                  <zone xml:id="eSc_line_6f8e1002" ulx="107" uly="1040" lrx="1045" lry="1085"/>
+                  <zone xml:id="eSc_line_7b43070f" ulx="166" uly="1082" lrx="1041" lry="1123"/>
+                  <zone xml:id="eSc_line_5a2ef128" ulx="166" uly="1124" lrx="915" lry="1171"/>
+                  <zone xml:id="eSc_line_2eb1e8e5" ulx="107" uly="1170" lrx="1044" lry="1213"/>
+                  <zone xml:id="eSc_line_4ec6cbb4" ulx="166" uly="1214" lrx="933" lry="1254"/>
+                  <zone xml:id="eSc_line_c2afe8b6" ulx="108" uly="1258" lrx="1041" lry="1302"/>
+                  <zone xml:id="eSc_line_7bd3aa9b" ulx="168" uly="1303" lrx="1043" lry="1351"/>
+                  <zone xml:id="eSc_line_5be3e498" ulx="169" uly="1349" lrx="275" lry="1390"/>
+                  <zone xml:id="eSc_line_3d7b8b5c" ulx="109" uly="1391" lrx="1043" lry="1432"/>
+                  <zone xml:id="eSc_line_6e778017" ulx="170" uly="1436" lrx="536" lry="1475"/>
+                  <zone xml:id="eSc_line_70f8cf7d" ulx="130" uly="1522" lrx="1041" lry="1563"/>
+                  <zone xml:id="eSc_line_79c59121" ulx="108" uly="1562" lrx="833" lry="1592"/>
+                  <zone xml:id="eSc_line_bd8a5845" ulx="128" uly="1586" lrx="1043" lry="1624"/>
+                  <zone xml:id="eSc_line_76cef855" ulx="108" uly="1622" lrx="1043" lry="1650"/>
+                  <zone xml:id="eSc_line_c6cadb20" ulx="108" uly="1650" lrx="1044" lry="1681"/>
+                  <zone xml:id="eSc_line_5fe06825" ulx="108" uly="1676" lrx="1043" lry="1712"/>
+                  <zone xml:id="eSc_line_33a7c4ec" ulx="109" uly="1711" lrx="1043" lry="1741"/>
+                  <zone xml:id="eSc_line_cdf0b470" ulx="110" uly="1746" lrx="238" lry="1773"/>
+                  <zone xml:id="eSc_line_dd7714a5" ulx="130" uly="1767" lrx="938" lry="1803"/>
+            </surface>
+            <surface xml:id="chrestomathie-bret.pdf_page_18">
+                  <graphic url="chrestomathie-bret.pdf_page_18.png" height="2100px" width="1329px"/>
+                  <zone xml:id="eSc_line_4b573f96" ulx="681" uly="173" lrx="830" lry="210"/>
+                  <zone xml:id="eSc_line_93c23545" ulx="288" uly="222" lrx="1218" lry="269"/>
+                  <zone xml:id="eSc_line_211e685a" ulx="348" uly="271" lrx="1219" lry="308"/>
+                  <zone xml:id="eSc_line_de8f0b43" ulx="348" uly="309" lrx="915" lry="350"/>
+                  <zone xml:id="eSc_line_ad18111f" ulx="289" uly="355" lrx="1219" lry="394"/>
+                  <zone xml:id="eSc_line_86439fad" ulx="350" uly="397" lrx="1218" lry="441"/>
+                  <zone xml:id="eSc_line_8a15fb72" ulx="350" uly="441" lrx="840" lry="477"/>
+                  <zone xml:id="eSc_line_09d65f81" ulx="288" uly="486" lrx="1220" lry="529"/>
+                  <zone xml:id="eSc_line_3dbb11ff" ulx="350" uly="530" lrx="1205" lry="567"/>
+                  <zone xml:id="eSc_line_4ad4ef47" ulx="287" uly="576" lrx="1218" lry="616"/>
+                  <zone xml:id="eSc_line_5d319dc6" ulx="287" uly="625" lrx="1219" lry="661"/>
+                  <zone xml:id="eSc_line_2f3d67a9" ulx="347" uly="666" lrx="1067" lry="703"/>
+                  <zone xml:id="eSc_line_8716abda" ulx="287" uly="714" lrx="1220" lry="756"/>
+                  <zone xml:id="eSc_line_8ed829e3" ulx="347" uly="756" lrx="998" lry="796"/>
+                  <zone xml:id="eSc_line_76c2b1db" ulx="285" uly="803" lrx="1219" lry="848"/>
+                  <zone xml:id="eSc_line_ded75d2d" ulx="348" uly="848" lrx="495" lry="882"/>
+                  <zone xml:id="eSc_line_07fa5f43" ulx="287" uly="894" lrx="1220" lry="932"/>
+                  <zone xml:id="eSc_line_7f9f1e8e" ulx="350" uly="938" lrx="915" lry="980"/>
+                  <zone xml:id="eSc_line_389a3bd6" ulx="289" uly="984" lrx="1219" lry="1022"/>
+                  <zone xml:id="eSc_line_0598c05a" ulx="351" uly="1027" lrx="914" lry="1064"/>
+                  <zone xml:id="eSc_line_5c9ffa57" ulx="288" uly="1073" lrx="1219" lry="1117"/>
+                  <zone xml:id="eSc_line_a94314de" ulx="351" uly="1116" lrx="1219" lry="1155"/>
+                  <zone xml:id="eSc_line_a2d52666" ulx="350" uly="1152" lrx="813" lry="1195"/>
+                  <zone xml:id="eSc_line_cf7d72a9" ulx="288" uly="1190" lrx="1220" lry="1239"/>
+                  <zone xml:id="eSc_line_eb653861" ulx="351" uly="1244" lrx="1195" lry="1282"/>
+                  <zone xml:id="eSc_line_4d1bf955" ulx="289" uly="1289" lrx="1221" lry="1330"/>
+                  <zone xml:id="eSc_line_f9faff5d" ulx="350" uly="1334" lrx="1220" lry="1372"/>
+                  <zone xml:id="eSc_line_5203f5ed" ulx="350" uly="1375" lrx="1221" lry="1416"/>
+                  <zone xml:id="eSc_line_c34c852f" ulx="350" uly="1419" lrx="876" lry="1461"/>
+                  <zone xml:id="eSc_line_9e8572ae" ulx="708" uly="1494" lrx="1158" lry="1533"/>
+                  <zone xml:id="eSc_line_bbfebf2b" ulx="746" uly="1534" lrx="1136" lry="1563"/>
+                  <zone xml:id="eSc_line_c080acb2" ulx="672" uly="1558" lrx="1205" lry="1593"/>
+            </surface>
+      </facsimile>
+      <text>
+            <body>
+                  <div type="parabole" xml:lang="leon-1251" n="1" corresp="#place_1">
+                        
+                        <pb facs="#chrestomathie-bret.pdf_page_01" n="363"/>
+                        <fw type="pageNumb">— 363 —</fw>
+                        <head>
+                              <lb facs="#eSc_line_7ce8aaa7"/>Dialecte de Léon (Bro Leon). <lb
+                                    facs="#eSc_line_274b7d44"/>(Extrait de la traduction de la Bible
+                              de Le Gonidec, revue par Troude et Milin. <lb
+                                    facs="#eSc_line_d2ebbab5"/>Saint-Brieuc, Prud’homme, 1868, t.
+                              II, p. 458, évangile selon saint Luc, XV) <num type="appelNote" n="1">(1)</num>.</head>
+
+
+
+                        <p n="11"><lb facs="#eSc_line_a4182d3d"/><num>11</num>. Eunn dén en doa
+                              daou vâb. </p>
+                        <p n="12"><lb facs="#eSc_line_e45a5e5a"/><num>12</num>. Hag ar iaouan̄ka
+                              anézhô a lavaraz d’hé dâd : va zâd, rô d’in al <lb
+                                    facs="#eSc_line_d76daa17"/>lôden zanvez a zigouez d ’in; hag
+                              héñ a rannaz hé zanvez <lb facs="#eSc_line_751c2194"/>gan̄t-hô <num
+                                    type="appelNote" n="2">(2)</num>. </p>
+                        <p n="13"><lb facs="#eSc_line_a15140de"/><num>13</num>. Hag eunn nébeûd
+                              dervésiou goudé, ar mâb iaouan̄ka, ô véza <lb
+                                    facs="#eSc_line_21b76460"/>dastumet kémen̄d en doa, en em
+                              lékéaz enn hen̄t évit mon̄d étrézég <lb
+                                    facs="#eSc_line_c76cc92f"/>eur vrô bell-meurbéd, hag éno é
+                              tispiñaz hé zanvez ô véva <lb facs="#eSc_line_ba0527db"/>gan̄t
+                              gadélez. </p>
+                        <p n="14"><lb facs="#eSc_line_3967716a"/><num>14</num>. Ha pa en doé
+                              dispignet kémen̄d en doa, é c’hoarvézaz eunn <lb
+                                    facs="#eSc_line_e88303f0"/>naounégez vraz er vrô-zé, hag é
+                              teûaz da ézommékaat. </p>
+                        <p n="15"><lb facs="#eSc_line_b6fb9b39"/><num>15</num>. Kuid éz éaz éta
+                              hag en em lakaad a réaz é gôpr gan̄d eunn dén <lb
+                                    facs="#eSc_line_bc50ea10"/>eûz ar vrô. Hag hé-man̄ hen kassaz
+                              enn eunn ti d’ézhan̄ war <lb facs="#eSc_line_bc094b5b"/>ar méaz,
+                              évit mésa ar môc’h. </p>
+                        <p n="16"><lb facs="#eSc_line_42e6a46b"/><num>16</num>. C’hoantéed en
+                              divijé leunia hé gof gan̄d ar c’hlosou a zébré ar <lb
+                                    facs="#eSc_line_017a8297"/>môc’h : ha dén na rôé d’ézhan̄. </p>
+                        <p n="17"><lb facs="#eSc_line_914d2948"/><num>17</num>. Hôgen, ô véza
+                              distrôed enn-han̄ hé-unan, é lavaraz : a béd <lb
+                                    facs="#eSc_line_5f715317"/>gôpraer zô é ti va zâd hag en
+                              deûz bara é leiz, ha mé a varv <lb facs="#eSc_line_7890d384"/>aman̄
+                              gan̄d ann naoun? </p>
+                        <p n="18"><lb facs="#eSc_line_b692d86b"/><num>18</num>. Sével a rinn hac
+                              éz inn étrézé va zâd, hag é livirinn d’ézhan̄ : va <lb
+                                    facs="#eSc_line_d19aa5ce"/>zâd, péc’héd em eûz a-éneb ann
+                              én̄v, hag enn da énep. </p>
+                        <p n="19"><lb facs="#eSc_line_0e05f884"/><num>19</num>. N ’ounn két
+                              talvoudek pelloc’h da véza galved da vâb : va digémer <lb
+                                    facs="#eSc_line_035caac2"/>ével unan eûz da c’hôpraerien.</p>
+
+                        <noteGrp>
+                              <note n="1"><lb facs="#eSc_line_c067b860"/>(1) On trouvera dans le t.
+                                    II, p. 118, des Mémoires de l’Académie celtique, <lb
+                                          facs="#eSc_line_4cd6d402"/>une traduction de la même
+                                    parabole faite par Le Gonidec en 1808. La traduc<lb break="no"
+                                          facs="#eSc_line_c13650ef"/>tion de la Bible de Le Gonidec
+                                    est loin d’être un chef-d’œuvre; elle abonde en <lb
+                                          facs="#eSc_line_09f27e24"/>tournures et en expressions peu
+                                    bretonnes. </note>
+                              <note n="2"><lb facs="#eSc_line_3d8e6610"/>(2) Cette tournure n’est
+                                    pas bretonne : on attendrait étrézo. </note>
+                        </noteGrp>
+                        <pb facs="#chrestomathie-bret.pdf_page_02" n="364"/>
+                        <fw type="pageNumb">— 364 —</fw>
+
+                        <p n="20"><lb facs="#eSc_line_1df6dcd4"/><num>20</num>. Hag é savaz hag é
+                              teûaz étrézég hé dâd. Hôgen pa édô c’hoaz <lb
+                                    facs="#eSc_line_f5150b25"/>pell, hé dâd hen gwélaz, hag en
+                              doé truez out-han̄ ; hag ô tirédek <lb facs="#eSc_line_8e431a38"
+                              />é lammaz d’hé c’houzouk, hag é pokaz d’ézhan̄. </p>
+                        <p n="21"><lb facs="#eSc_line_8d222987"/><num>21</num>. Hag hé vab a
+                              lavaraz d’ézhan : va zâd, péc’héd em eûz a-éneb <lb
+                                    facs="#eSc_line_14bb209a"/>ann én̄v hag enn da énep; n ’ounn
+                              két talvoudek pelloc’h da <lb facs="#eSc_line_174ef30c"/>véza galved
+                              da vâb. </p>
+                        <p n="22"><lb facs="#eSc_line_8a0b8fa3"/><num>22</num>. Hôgen ann tâd a
+                              lavaraz d ’hé vévellou : digasit buan hé zaé <lb
+                                    facs="#eSc_line_35a3837b"/>gen̄ta ha gwiskit hi d ’ézhan̄ ha
+                              likid eur walen ouc’h hé viz, ha <lb facs="#eSc_line_80ce5177"
+                              />boutou enn hé dreid. </p>
+                        <p n="23"><lb facs="#eSc_line_a26afe15"/><num>23</num>. Digasid ivé al
+                              leûé lard, ha lazit-héñ; débromp ha gréomb <lb
+                                    facs="#eSc_line_ecd862dd"/>banvez. </p>
+                        <p n="24"><lb facs="#eSc_line_6bd60889"/><num>24</num>. Râg ar mâb man̄
+                              d’in a ioa marô hag eo asbévet; dian̄ked oa hag <lb
+                                    facs="#eSc_line_12dbd3bc"/>eo askavet. Hag en em lakaad a
+                              réjon̄d da ober banvez. </p>
+                        <p n="25"><lb facs="#eSc_line_2f5a3981"/><num>25</num>. Hôgen hé vap héna
+                              a ioa er park; ha pa zistrôaz ha pa dôstaaz <lb
+                                    facs="#eSc_line_a3687948"/>ouc’h ann ti, é klevaz ar c’hân hag
+                              ar c’horol. </p>
+                        <p n="26"><lb facs="#eSc_line_182aa3a2"/><num>26</num>. Hag é c’halvaz unan
+                              eûz ar vévellou hag é c’houlennaz pétra <lb
+                                    facs="#eSc_line_59341b14"/>é oa kémen̄t-sé. </p>
+                        <p n="27"><lb facs="#eSc_line_db57ccc4"/><num>27</num>. Hag hé-man̄ a
+                              lavaraz d’ézhan̄ : da vreur a zô deûet ha da dâd en <lb
+                                    facs="#eSc_line_fbd4e0e1"/>deûz lazed al leûé lard, ô véza
+                              ma-z-eo distrôed iac’h. </p>
+                        <p n="28"><lb facs="#eSc_line_30837e24"/><num>28</num>. War gémen̄t-sé é
+                              savaz droug enn-han̄, ha na fellé kéd d’ézhan̄ <lb
+                                    facs="#eSc_line_b11e5c96"/>mon̄d ébarz. Hôgen hé dâd ô véza
+                              éad er méaz en em lékéaz <lb facs="#eSc_line_ced10267"/>d’he bidi. </p>
+                        <p n="29"><lb facs="#eSc_line_c325d7cf"/><num>29</num>. Hag hé-man̄ a
+                              respoun̄taz hag a lavaraz d’hé dâd : « Chetu meur <lb
+                                    facs="#eSc_line_3935b73a"/>a vlôaz zô aba émounn dindân da
+                              c’hourhemennou, ha biskoaz <lb facs="#eSc_line_d2b8ab5f"/>n’ounn
+                              tréménet dreist hini anézhô; ha biskoaz n’ec’h euz roêd <lb
+                                    facs="#eSc_line_4cded917"/>eur c’havrik d’in évid ôber banvez
+                              gan̄t va miñouned. </p>
+                        <p n="30"><lb facs="#eSc_line_e2e41b0d"/><num>30</num>. Hôgen kerken̄t ha
+                              ma eo deûed ar mâb man̄ d ’id, péhini <lb facs="#eSc_line_4b6127be"
+                              />en deûz débret hé zanvez gan̄t merc’hed, éc’h eûz lazed évit<lb break="no" facs="#eSc_line_de669343"/>han̄ al leûé lard. </p>
+                        <p n="31"><lb facs="#eSc_line_29e7c832"/><num>31</num>. Hag ann tâd a
+                              lavaraz d ’ézhan̄ : va mâb, té a zô bépréd ganéñ <lb
+                                    facs="#eSc_line_772c7c2f"/>ha kémen̄d em eûz a zô d’id. </p>
+                        <p n="32"><lb facs="#eSc_line_a835033b"/><num>32</num>. Hôgen réd é oa
+                              ôber banvez hag en em laouénaat, râg ar breur<lb break="no"
+                                    facs="#eSc_line_4e24ec5a"/>man̄ d’id a ioa marô hag eo
+                              asbévet; dian̄ked é oa hag co <lb facs="#eSc_line_4f136434"
+                              />askavet.</p>
+                  </div>
+                  <div type="parabole" xml:lang="leon-1251" n="2" corresp="#place_2">
+                        <pb facs="#chrestomathie-bret.pdf_page_03" n="365"/>
+                        <fw type="pageNumb">— 365 —</fw>
+                        <head><lb facs="#eSc_line_fbc012a5"/>Dialecte de Léon (Landerneau).</head>
+
+
+
+                        <p n="11"><lb facs="#eSc_line_9c465f1e"/><num>11</num>. Eun dén en dwa daou
+                              vâb. </p>
+                        <p n="12"><lb facs="#eSc_line_5b8229e6"/><num>12</num>. Hag ar iawānka
+                              anézo a lavaras d’é dâd : va zâd, rô d’in al lôden <lb
+                                    facs="#eSc_line_0e31914b"/>zanvez a zigwéz d’in, hag én a
+                              rannaz é zanvez etrézont. </p>
+                        <p n="13"><lb facs="#eSc_line_a1fb3df2"/><num>13</num>. Hag eunn nébeûd
+                              dervéziou goudé, ar mâb iawānka, goudé béa <lb
+                                    facs="#eSc_line_1df08778"/>dastumet kémēnd en dwa, en em
+                              lakéaz en hḗnt évid mond <lb facs="#eSc_line_233a6abd"/>étrézég
+                              eur vrô bèll-meurbéd, hag éno é zispignas é zanvez ô <lb
+                                    facs="#eSc_line_f083bcbf"/>véva en dizurz. </p>
+                        <p n="14"><lb facs="#eSc_line_61ff9db8"/><num>14</num>. Ha pa ’n dwa
+                              dispignet kémēnd en dwa, é c’hwarvézaz eun nao<lb break="no"
+                                    facs="#eSc_line_1301bf7f"/>unégèz vrâz e ’r vrô-zé, ag é
+                              kwézaz én ézom. </p>
+                        <p n="15"><lb facs="#eSc_line_b7170b94"/><num>15</num>. Mond a réaz kuit
+                              éta ag en em lakaad a réaz é comānnad <num type="appelNote" n="1"
+                                    >(1)</num>
+                              <lb facs="#eSc_line_7ccead3e"/>gand eun dén eûz ar vrô, hag éman a
+                              gasaz anéān én eun ti <lb facs="#eSc_line_38df4954"/>d’ézān war ar
+                              méaz, évit diwal ar môc’h. </p>
+                        <p n="16"><lb facs="#eSc_line_780cfbc6"/><num>16</num>. C’hwantéed en
+                              divijé leunia é gôf gand ar c’hlosou a zébré ar <lb
+                                    facs="#eSc_line_858d5158"/>môc’h, ha dén na rôé d’ézān. </p>
+                        <p n="17"><lb facs="#eSc_line_370b42c6"/><num>17</num>. Hôgen ô véza
+                              distrôed enn-ān é hunan, é lavaraz : nag a vévèlien <lb
+                                    facs="#eSc_line_9ddb9bd0"/>a zô é ti va zâd hag o deûz bara
+                              a leis, ha mé a varv amān gand <lb facs="#eSc_line_6e5c0d40"/>ann
+                              naoun? </p>
+                        <p n="18"><lb facs="#eSc_line_f57dd21c"/><num>18</num>. Sével a rinn, ag
+                              éz inn étrézé va zâd, ag é livirinn d’ézān: va zâd, <lb
+                                    facs="#eSc_line_f77a0fa8"/>péc’héd em eûz a éneb ann ḗnv ag
+                              en da énep; </p>
+                        <p n="19"><lb facs="#eSc_line_c2defe7b"/><num>19</num>. N’ounn ket dinn da
+                              véza galvet da vâb : digémèr ac’hanōn vèl <lb
+                                    facs="#eSc_line_03390b4a"/>unan euz da vévèlien. </p>
+                        <p n="20"><lb facs="#eSc_line_64935d51"/><num>20</num>. A sével a rèz a
+                              mond a rèz étrézég é dâd. Hogen pa védo c’hwas <lb
+                                    facs="#eSc_line_42e848b3"/>pèl, é dâd en gwélaz ag an dwa
+                              truéz dioc’hountān. Dirédek a réaz <lb facs="#eSc_line_d465191b"
+                              />ag é lammaz d’é c’houzoug, ag é pokaz d’ézān. </p>
+                        <p n="21"><lb facs="#eSc_line_d6a1122a"/><num>21</num>. Hag é vâb a
+                              lavaraz d’ézān : va zâd, péc’héd em eûz a éneb an <lb
+                                    facs="#eSc_line_9701a6de"/>ḗnv ag enn da énep; n’oun két dîn
+                              péloc’h da véza galvet da vâb. </p>
+                        <p n="22"><lb facs="#eSc_line_3098e0d0"/><num>22</num>. Hogen an tâd a
+                              lavaraz d’é vévèlien : digasit buan é zaé genta, ha <lb
+                                    facs="#eSc_line_6ca47954"/>gwiskit i d’ézān ha lakit eur walen
+                              ouc’h é vîz a boutou en é dreid. </p>
+                        <p n="23"><lb facs="#eSc_line_34bbb5b9"/><num>23</num>. Digasid ivé al
+                              leûé lard a lazit anéan; débromp a gréomb bombans. </p>
+                        <p n="24"><lb facs="#eSc_line_803ca7aa"/><num>24</num>. Rag ar mâb mān d’in
+                              a ioa marô a setu hḗn deud da véô; kolled é <lb
+                                    facs="#eSc_line_8774b643"/>wa ha sétu hḗn kavet. Hag en em
+                              lakaad a réjond d’ober bombans.</p>
+
+
+                        <note n="1"><lb facs="#eSc_line_d81f41ef"/>(1) Plus souvent : Obèr a réaz
+                              kommānad. </note>
+                        <pb facs="#chrestomathie-bret.pdf_page_04" n="366"/>
+                        <fw type="pageNumb">— 366 —</fw>
+
+                        <p n="25"><lb facs="#eSc_line_dc1133db"/><num>25</num>. Hogen é vap éna a
+                              ioa é ’r park; ha pa zistrôaz a pa dostaaz ouc’h </p>
+                        <p n="26"><lb facs="#eSc_line_c5870d1a"/><num>26</num>. Hag e c’havaz unan
+                              eûz ar mévèlien ag é c’houlennaz pétra é wa <lb
+                                    facs="#eSc_line_d12cfaa4"/>an ti, é klévaz ar c’hān ag ar
+                              c’horol. <lb facs="#eSc_line_ad57c7d4"/>kément sé. </p>
+                        <p n="27"><lb facs="#eSc_line_173cef89"/><num>27</num>. Hag émān a lavaraz
+                              d’ézan : da vreûr a zô deûet ha da dâd en <lb
+                                    facs="#eSc_line_4c3db3bc"/>deûz lazed al leûé lard, abalamour
+                              ma ’z èo distrôet. </p>
+                        <p n="28"><lb facs="#eSc_line_b73ae438"/><num>28</num>. War gément-sé é
+                              savaz drouc énān, ha na fellé kéd d’ézān mond <lb
+                                    facs="#eSc_line_af160607"/>ébarz. Hogen é dâd ô véza éed
+                              é ’r méaz, en ém lakéaz d’é bédi. </p>
+                        <p n="29"><lb facs="#eSc_line_069350c5"/><num>29</num>. Hag emān a
+                              respountaz ag a lavaraz d’é dâd : « Sétu meur a vloaz <lb
+                                    facs="#eSc_line_8c596567"/>zô abawé moun dindàn da
+                              c’hourc’hémennou, ha biskwaz n’oun <lb facs="#eSc_line_fe7c37b4"
+                              />tréménet dreist hini anézo; ha biskwaz na t ’eûz rôed eur <lb
+                                    facs="#eSc_line_81267653"/>c’havrik d’in évid ober banvez gand
+                              va mignōned. </p>
+                        <p n="30"><lb facs="#eSc_line_4a9523cf"/><num>30</num>. Hogen kerkent a m
+                              ’éo deûed ar mâh mān d’id péhini en deûz <lb
+                                    facs="#eSc_line_2674ea1e"/>débret é zanvez gant gisti a t
+                              ’eûz lazed évitān al leûé lard. </p>
+                        <p n="31"><lb facs="#eSc_line_df4eee41"/><num>31</num>. Hag an tàd a
+                              lavaraz d’ézāān : va mâb, té a zô atao ganinn ha kémend <lb
+                                    facs="#eSc_line_e0a3fbb5"/>em eûz a zô d’it. </p>
+                        <p n="32"><lb facs="#eSc_line_1cf3aac7"/><num>32</num>. Hogen réd é wa
+                              ober banvez hag en em lawénaat, rag ar breûr <lb
+                                    facs="#eSc_line_80d165e7"/>mān d’it a ioa marô ha setu hḗn
+                              deûet da véo, kolled é wa ha <lb facs="#eSc_line_121a0322"/>sétu
+                              hḗn kavet.</p>
+
+                        <note>
+                              <lb facs="#eSc_line_50ddf3ca"/>(Transcrit par M. DIQUÉLOU, de
+                              Landerneau). </note>
+                  </div>
+                  <div type="parabole" xml:lang="treg-1244" n="3" corresp="#place_3">
+                        <head><lb facs="#eSc_line_985070c4"/>Dialecte de Tréguier (Trèger). <lb
+                                    facs="#eSc_line_36ac2509"/>Parabole de l’Enfant prodigue,
+                              traduite en breton, dans le dialecte de Tré<lb break="no"
+                                    facs="#eSc_line_b95d71e2"/>guier ou des Côtes-du-Nord, par feu
+                              M. Le Brigant, revue et corrigée pour <lb facs="#eSc_line_4a8165ab"
+                              />l’orthographe par M. Le Gonidcc, Mémoires de l’Académie celtique,
+                              II, 1808, <lb facs="#eSc_line_fee120f1"/>p. 127.</head>
+
+
+
+                        <p n="11"><lb facs="#eSc_line_51aa9774"/><num>11</num>. Eunn dén an éfoa
+                              daou vab. </p>
+                        <p n="12"><lb facs="#eSc_line_ca895ca2"/><num>12</num>. Hag ar iaouan̄kan̄
+                              anee a laras d’hé dâd : ma zâd, reid d’in al <lb
+                                    facs="#eSc_line_659abb4a"/>lôden mado a deu d’in. Hag hô
+                              rannas. </p>
+                        <p n="13"><lb facs="#eSc_line_6a89e705"/><num>13</num>. Ha nébeut goudé,
+                              ar mab iaouan̄kan̄, gan̄d hé holl dreo, en eun <lb
+                                    facs="#eSc_line_6b7e0441"/>lakaaz enn hen̄d évid eur vrô bell,
+                              hag éno a debraz hé vado ô <lb facs="#eSc_line_effef474"/>vévan̄
+                              gan̄t gadélez. </p>
+                        <p n="14"><lb facs="#eSc_line_c8a5e849"/><num>14</num>. Ha p’an éfoé
+                              dispiñet an holl, a c’hoarvéaz eunn naonéges vrâz er <lb
+                                    facs="#eSc_line_685e6532"/>vrô-zé, hag a deuas da gaoud
+                              ézomm. <pb facs="#chrestomathie-bret.pdf_page_05" n="367"/>
+                              <fw type="pageNumb">— 367 —</fw>
+                        </p>
+                        <p n="15"><lb facs="#eSc_line_4f9da895"/><num>15</num>. Hag a aas kuit, hag
+                              en eun lakaaz é gôpr gan̄d eunn dén euz ar <lb
+                                    facs="#eSc_line_5302f8a7"/>vrô. Hag hé-man̄ hen kasaz enn eunn
+                              ti d’éhan̄ war ar mez da <lb facs="#eSc_line_729682ef"/>vésan̄ ar
+                              moc’h. </p>
+                        <p n="16"><lb facs="#eSc_line_62b473c0"/><num>16</num>. Hag an éfoa
+                              c’hoan̄d da gargan̄ hé gòv euz ar plusg a debré ar <lb
+                                    facs="#eSc_line_30b7b0af"/>môc’h : ha dén na rôé d’éhan̄. </p>
+                        <p n="17"><lb facs="#eSc_line_a088d785"/><num>17</num>. Hôgen ô tistrôi d
+                              ’éhan̄ hé-unan a laras : nag a dud a zô enn ti <lb
+                                    facs="#eSc_line_c965a331"/>ma zâd an eus bara ar péz a
+                              géron̄t hag aman̄ a varvann gan̄d <lb facs="#eSc_line_6cea6ebc"/>ann
+                              naon. </p>
+                        <p n="18"><lb facs="#eSc_line_2e521f3a"/><num>18</num>. Sével a rinn, hag a
+                              inn d’am zâd, hag a larinn d’éhan̄ : ma zâd, <lb
+                                    facs="#eSc_line_ce5798c8"/>pec’hed em euz ouz ann énv ha dirag
+                              hoc’h. </p>
+                        <p n="19"><lb facs="#eSc_line_49b4e3c8"/><num>19</num>. N ’oun kén
+                              talvoudek da véan̄ hanved hô mâb, léked anon ével <lb
+                                    facs="#eSc_line_ab056510"/>unan a hô mévello. </p>
+                        <p n="20"><lb facs="#eSc_line_b84d11be"/><num>20</num>. Hag ô séuel a deuas
+                              d’hé dâd. Hôgen pa voa pell c’hoaz, hé dâd <lb
+                                    facs="#eSc_line_888fbdcc"/>a wélaz anézhan̄, hag an éfoé
+                              trué out-han̄, hag ô tirédek a <lb facs="#eSc_line_31058dd0"
+                              />lammas d’hé c’houk, hag a pokas d’éhan̄. </p>
+                        <p n="21"><lb facs="#eSc_line_e22a1288"/><num>21</num>. Hag hé vab a laras
+                              d ’éhan̄ : ma zâd, pec’hed am euz ouz ann én̄v <lb
+                                    facs="#eSc_line_c66b5f6c"/>ha dirag-hoc’h : n ’onn kén
+                              talvoudek da véan̄ hanved hô mâb. </p>
+                        <p n="22"><lb facs="#eSc_line_efc673e6"/><num>22</num>. Hôgen ann tâd a
+                              laras d’hé vévello : digaset buhan hé zé gen̄tan̄, <lb
+                                    facs="#eSc_line_baad4366"/>hag hé gwisked d ’éhan̄ ha léked
+                              eur walen war hé viz, ha boto <lb facs="#eSc_line_cb3f21e5"/>énn hé
+                              dreid. </p>
+                        <p n="23"><lb facs="#eSc_line_9822c911"/><num>23</num>. Digased ivé al
+                              loué lard, ha lac’het-han̄; débromb ha gréomb fést. </p>
+                        <p n="24"><lb facs="#eSc_line_ccdee28b"/><num>24</num>. Rag ar mâb man̄
+                              d’in a voa marv, hag é adbévet : dian̄ked é voa, <lb
+                                    facs="#eSc_line_2eaba66e"/>hag é adkavet; hag a éjon̄d da
+                              ôber fést. </p>
+                        <p n="25"><lb facs="#eSc_line_265f2bbc"/><num>25</num>. Hôgen hé vâp
+                              hénan̄ a voa er park : ha pa deué hag a tôstéé d’ann <lb
+                                    facs="#eSc_line_0eee7b6a"/>ti, a glevaz ar c’hân hag ann dan̄s. </p>
+                        <p n="26"><lb facs="#eSc_line_4431ce30"/><num>26</num>. Hag a c’halvaz unan
+                              euz ar vévello, hag a c’houllas pé tra a voa zé. </p>
+                        <p n="27"><lb facs="#eSc_line_6c2659d6"/><num>27</num>. Hag hé-man̄ a laras
+                              d’éhan̄ : deud é hô preur hag an euz groed <lb
+                                    facs="#eSc_line_aaf946e8"/>hô tâd lac’han̄ al loué lard, dré
+                              an abek ma é distrôed iac’h. </p>
+                        <p n="28"><lb facs="#eSc_line_8b19f73f"/><num>28</num>. War gémen̄t-sé a
+                              c’hlazaz ha na deurvéé kêt mon̄d ébarz. Hôgen <lb
+                                    facs="#eSc_line_67e3fd54"/>hé dâd éed er mez en eun lakaas
+                              d’hé bédin̄. </p>
+                        <p n="29"><lb facs="#eSc_line_3a942c4b"/><num>29</num>. Hag hé-man̄ a laras
+                              d’hé dâd : chétu kémen̄d a vlaio a zô oun <lb
+                                    facs="#eSc_line_420e6deb"/>dindan̄ hô kourc’hémenno, ha
+                              biskoas n’onn tréméned dreist hini <lb facs="#eSc_line_c9caef18"
+                              />anee; ha biskoas n’hoc’h eus rôed d’in eur c’havrik, évid ôber
+                                    <lb facs="#eSc_line_24607267"/>fést gan̄t ma miñoned. </p>
+                        <p n="30"><lb facs="#eSc_line_63dd9c2c"/><num>30</num>. Hôgen ker ken̄t ma
+                              e deud ar mâb-man̄ d’hac’h, an eus débred <lb
+                                    facs="#eSc_line_932774b6"/>hé vado gan̄t gisti, hoc’h eus
+                              lac’hed évit-han̄ al loué lard.</p>
+
+                        <pb facs="#chrestomathie-bret.pdf_page_06" n="368"/>
+                        <fw type="pageNumb">— 368 —</fw>
+
+                        <p n="31"><lb facs="#eSc_line_ef8989d9"/><num>31</num>. Hag ann tâd a laras
+                              d’éhan̄: ma mâb, c’houi a zô bépréd gan-én, <lb
+                                    facs="#eSc_line_eef189cd"/>ha kémen̄d em euz a zô d’hac’h. </p>
+                        <p n="32"><lb facs="#eSc_line_e1e096cc"/><num>32</num>. Hôgen réd a voa
+                              ôber fést ha lid; rag ar breur-mân d’hac’h a voa <lb
+                                    facs="#eSc_line_d9bfdea7"/>marv, hag e adbévet, dian̄ked é
+                              voa, hag é adkavet. </p>
+                  </div>
+
+                  <div type="parabole" xml:lang="treg-1244" n="4" corresp="#place_3">
+
+
+                        <head><lb facs="#eSc_line_c6373893"/>Dialecte de Tréguier (pays de
+                              Goello).</head>
+
+
+
+                        <p n="11"><lb facs="#eSc_line_7aeb8c32"/><num>11</num>. Un dén en évoa
+                              daou vâb. </p>
+                        <p n="12"><lb facs="#eSc_line_15729d78"/><num>12</num>. Hag er <num
+                                    type="appelNote" n="1">(1)</num> iawānkān ’nè e laraz d’i dâd :
+                              me zâd, rôet t ’în, <lb facs="#eSc_line_79806de7"/>ar lôden danfé
+                              e digoué d’în, ag ḗn e rannaz i danfe entrehè. </p>
+                        <p n="13"><lb facs="#eSc_line_3c6c062e"/><num>13</num>. Hag un neubeud
+                              dèrvejou goudé, er mâb iawānkān, ô véān̄ das<lb break="no"
+                                    facs="#eSc_line_7d134776"/>tumet kémed en a, en em lakaz i ’n
+                              hént évid mont trésag eur <lb facs="#eSc_line_2e5374e2"/>vrô
+                              pèll-meurbed, ag énōn̄ e tispignaz i danfe ô vévān̄ i ’n dizurz. </p>
+                        <p n="14"><lb facs="#eSc_line_4a67360c"/><num>14</num>. Ha p’en a dispignet
+                              kémed en a, e c’hwarvéaz eun gèrnes vrâz, <lb
+                                    facs="#eSc_line_210c4064"/>é ’r vrô zé, ag e teuaz de gâed
+                                    <num type="appelNote" n="2">(2)</num> éhom. </p>
+                        <p n="15"><lb facs="#eSc_line_7cc3c36d"/><num>15</num>. Kuid e hés ta ag en
+                              im lakad e rès i ’n gôp gand eun dén dès er <lb
+                                    facs="#eSc_line_e38eb5d3"/>vrô. A hémān̄ in kassaz d’eun ti
+                              d’ān̄ war er méz vit mèsa er <lb facs="#eSc_line_dfa4f7bf"/>môc’h. </p>
+                        <p n="16"><lb facs="#eSc_line_c102cbfa"/><num>16</num>. C’huantâed en ijè
+                              kargān̄ i gôf gand er plusk e débè er môc’h; <lb
+                                    facs="#eSc_line_a97a99f0"/>a dén ne rôe d’ān̄. </p>
+                        <p n="17"><lb facs="#eSc_line_bc7a4104"/><num>17</num>. Hogen ô véān̄
+                              distrôed innān̄ i hunan e láras : nag a dud gôprâet <lb
+                                    facs="#eSc_line_88fac8a6"/>zo i ’n ti me zâd péré ’n eus bara
+                              eleis ha mé e varv amān̄ gānd <lb facs="#eSc_line_0a4f0a03"/>en naon. </p>
+                        <p n="18"><lb facs="#eSc_line_8ce00602"/><num>18</num>. Zével e rîn ag e
+                              hîn tresag a me zâd, ag é larîn d’ān̄ : me zâd, <lb
+                                    facs="#eSc_line_ca454a76"/>péc’hed em eus énep en nénv ag
+                              énep t ’ac’h. </p>
+                        <p n="19"><lb facs="#eSc_line_bb176f6c"/><num>19</num>. N ’ōn̄ ket dign de
+                              véan gelvet ou mâb : me digémèret ével unan <lb
+                                    facs="#eSc_line_0827e099"/>dès ou chervijerien. </p>
+                        <p n="20"><lb facs="#eSc_line_30e0dd11"/><num>20</num>. Ag e savaz ag e hèz
+                              tresak i dâd. Hogen pe wa c’hwas pèl, i dâd <lb
+                                    facs="#eSc_line_f53796bd"/>in gwélaz ag en a trué outān̄, hag
+                              ô tirédek e lampaz d’i c’houg <lb facs="#eSc_line_e2a4b4be"/>hag e
+                              pokaz d’ān̄. </p>
+                        <p n="21"><lb facs="#eSc_line_2a57dbde"/><num>21</num>. Ag i vâb e laraz
+                              d’ān̄ : me zâd, pec’hed em eus énep en néuv ag <lb
+                                    facs="#eSc_line_34d72afb"/>énep t’ac’h; n’ōn̄ ket dign pèloc’h
+                              de véān̄ gelvet o mâb.</p>
+
+                        <noteGrp>
+                              <note n="1"><lb facs="#eSc_line_590c68b4"/>(1) Dans er, l’e a un son
+                                    intermédiaire entre e et a. </note>
+                              <note n="2"><lb facs="#eSc_line_4192590a"/>(2) A peu près gâd.</note>
+
+
+                        </noteGrp>
+                        <pb facs="#chrestomathie-bret.pdf_page_07" n="369"/>
+                        <fw type="pageNumb">— 369 —</fw>
+                        <p n="22"><lb facs="#eSc_line_677e17ea"/><num>22</num>. Hogen en tâd e
+                              laraz d’i vévéyen <num type="appelNote" n="1">(1)</num>: digaset buen
+                              i zéyen gentān̄ <lb facs="#eSc_line_8f6e84f4"/>a gwisket i d’ān̄, a
+                              laked ur walen war i vîz, ha boto ’n i dreïd. </p>
+                        <p n="23"><lb facs="#eSc_line_61d78eeb"/><num>23</num>. Digased i-e er loue
+                                    <num type="appelNote" n="2">(2)</num> lard a lac’het ān̄; débomp
+                              a gréom <lb facs="#eSc_line_7aa11d29"/>chér-vad. </p>
+                        <p n="24"><lb facs="#eSc_line_45fe19a5"/><num>24</num>. Rag er mâb mān̄
+                              d’în e wa marf hag chete hān̄ béuv edarre; <lb
+                                    facs="#eSc_line_19605b9e"/>kolled e wa ha chete hān̄ kâet. A ’n
+                              um lakad e réjōnt d’ober <lb facs="#eSc_line_4e0785bf"/>chèr vad. </p>
+                        <p n="25"><lb facs="#eSc_line_40ace235"/><num>25</num>. Hogen i vap énān̄ e
+                              wa é ’r park : a pe distrôas a pe dostaas d’en <lb
+                                    facs="#eSc_line_5a9fd06d"/>ti, e klévaz ar c’hân ag an dān̄s. </p>
+                        <p n="26"><lb facs="#eSc_line_81af941f"/><num>26</num>. Ag e c’helvas unan
+                              dès er vênvèyen ag e c’houlas betra wa <lb
+                                    facs="#eSc_line_05f55f75"/>kémé se. </p>
+                        <p n="27"><lb facs="#eSc_line_adb25989"/><num>27</num>. A hémān̄ e laraz
+                              d’ān̄ : ou preur e zou deut ag ou tad en eus <lb
+                                    facs="#eSc_line_3a6a2ccc"/>lac’hed er loue lart ô véan me hè
+                              distrôet iac’h mad. </p>
+                        <p n="28"><lb facs="#eSc_line_67da4d2e"/><num>28</num>. War gémé se e
+                              savas drouk énān̄ a ne fèllè ket d’ān̄ mond <lb
+                                    facs="#eSc_line_0bead0b9"/>ebars. Hogen i dâd ô véān̄ èt é
+                              ’r méz ’n um lakas d’in bédîn. </p>
+                        <p n="29"><lb facs="#eSc_line_56b9869e"/><num>29</num>. A hémān̄ e
+                              respōn̄taz ag e laras t ’i dâd : chete meûr e vla zou <lb
+                                    facs="#eSc_line_f4853aea"/>ebwe me hōn̄ dinān̄ ou kourc’heméno,
+                              a biskwas n’ōn̄ tréménet <lb facs="#eSc_line_27aa92c0"/>dreist ini
+                              enè; ha biskwas ne c’hwès rôet eur c’havrék <num type="appelNote"
+                                    n="3">(3)</num> d’în <lb facs="#eSc_line_d36b1a06"/>évit ober
+                              chèr vad gant me mignōnet. </p>
+                        <p n="30"><lb facs="#eSc_line_1d68f2af"/><num>30</num>. Hogen kênkent a me
+                              hè deut er mâb mān̄ d ’ac’h péhini ’n eus <lb
+                                    facs="#eSc_line_300b9f20"/>débet i danfé gant gisti, e c’hwes
+                              lac’het evitān̄ er loue lart. </p>
+                        <p n="31"><lb facs="#eSc_line_be3f41f0"/><num>31</num>. Ag en tâd e laras
+                              t’ān̄ : me mâb, te zou bépret genén a kémed <lb
+                                    facs="#eSc_line_9f01993b"/>em eus e zou d’it. </p>
+                        <p n="32"><lb facs="#eSc_line_ff3d1c87"/><num>32</num>. Hogen réd e wa ober
+                              chér vad a ’n im lawénān̄, rag er breur <lb
+                                    facs="#eSc_line_e99f4d21"/>mān̄ d’it e wa marf a chete hān̄ bênv
+                              edarre; kolled e wa a <lb facs="#eSc_line_746e9138"/>chetè hān̄
+                              kâet.</p>
+
+                        <note>
+                              <lb facs="#eSc_line_0ba33886"/>(D’après l’abbé Le BEZVOET, <lb
+                                    facs="#eSc_line_71806dce"/>de Kerity, près Paimpol). </note>
+                        <noteGrp>
+                              <note n="1"><lb facs="#eSc_line_f0c2e0da"/>(1) Le premier e est
+                                    légèrement nasal. </note>
+                              <note n="2"><lb facs="#eSc_line_fb089ebe"/>(2) L’accent est sur ou. </note>
+                              <note n="3"><lb facs="#eSc_line_8782fa7d"/>(3) Le k est ici palatal ou
+                                    plutôt iotacisé, ce qui est d’autant plus singulier <lb
+                                          facs="#eSc_line_e18bddcd"/>que le k est dans ce dialecte,
+                                    en toute situation, nettement guttural.</note>
+
+
+                        </noteGrp>
+                        <fw type="quireMarks">24</fw>
+                  </div>
+                  <div><pb facs="#chrestomathie-bret.pdf_page_08" n="370"/>
+                        <fw type="pageNumb">— 370 —</fw>
+                        <head><lb facs="#eSc_line_3d87b8b1"/>Dialecte de Cornouailles (Kernèo ou
+                              Kernè).</head> 
+                  <div type="parabole" xml:lang="corn-1250" n="5" corresp="#place_4">
+                        
+                        <head><lb facs="#eSc_line_6c742a67"/>HAUTE-CORNOUAILLES (Le
+                              Faouët, Morbihan).</head>
+
+
+
+                        <note><lb facs="#eSc_line_dc990218"/>D’une façon générale, on emploie les
+                              termes de haute et basse Cornouailles, <lb facs="#eSc_line_842f8b01"
+                              />haut et bas Vannetais dans un sens analogue à ceux de haute et
+                              basse Bretagne. <lb facs="#eSc_line_68cb0aff"/>Par haute Bretagne on
+                              entend la Bretagne orientale, par basse la partie <lb
+                                    facs="#eSc_line_ffa1f68e"/>occidentale.</note>
+
+
+
+                        <p n="11"><lb facs="#eSc_line_03c80484"/><num>11</num>. Ôn dén en a daou
+                              vâb. </p>
+                        <p n="12"><lb facs="#eSc_line_b30bba1f"/><num>12</num>. Hag er iawnkân
+                              doutè e larè d’i dâd : me sâd <num type="appelNote" n="1"
+                              >(1)</num>, rei k’iān̄ <num type="appelNote" n="2">(2)</num>. <lb
+                                    facs="#eSc_line_3cec59e5"/>er loden danve e zigouea g ’iān̄ ; ha
+                              yōn̄ e rannaz i zanve trénè. </p>
+                        <p n="13"><lb facs="#eSc_line_4754d58f"/><num>13</num>. Hag ôn nébad
+                              déozow goudé, er mâb iawnkãn, arlerc’h bou' <lb
+                                    facs="#eSc_line_9f085e03"/>daštumet kémed ag en a, en im lakè
+                                    <num type="appelNote" n="3">(3)</num> en hént, eui' mont <lb
+                                    facs="#eSc_line_b21d2fe8"/>tresak ôr vrô <num type="appelNote"
+                                    n="4">(4)</num> pél meurbéd, ha énōn̄ e tispignè i zanve e
+                              féo <lb facs="#eSc_line_02765fdc"/>ba ’n déboch. </p>
+                        <p n="14"><lb facs="#eSc_line_fc7d663a"/><num>14</num>. Ha p ’en a dispignet
+                              kémet en a, e c’hwarvè ôr gernans vrâz <lb
+                                    facs="#eSc_line_37763863"/>ba ’r vro se hag e tè de gaout naon. </p>
+                        <p n="15"><lb facs="#eSc_line_7c2dd950"/><num>15</num>. Kuit e hiè eta hag
+                              en im lakad e rè e gôpr gad ôn dén dous er vro. <lb
+                                    facs="#eSc_line_9bf46168"/>A hémen er hassè ba ’ôn ti dahon̄
+                              ar mès, ui' mésat er mòc’h. </p>
+                        <p n="16"><lb facs="#eSc_line_354b29fd"/><num>16</num>. Hwantèid en izè de
+                              leugnia i gôf gad er hlôrad e zébè er môc’h; <lb
+                                    facs="#eSc_line_dffeb4b7"/>ha dén ne rè daōn̄. </p>
+                        <p n="17"><lb facs="#eSc_line_d53c56e8"/><num>17</num>. Meid arlerc’h en a
+                              distreid doutōn̄ i genōn, e larè : nag a véoyen <lb
+                                    facs="#eSc_line_063c6256"/>e zo ba’ ti me sâd, hag en es bara
+                              hileis ha mé e varva amen gad <lb facs="#eSc_line_d7ac4ca5"/>en naon? </p>
+                        <p n="18"><lb facs="#eSc_line_ae141c71"/><num>18</num>. Zawel e rinn hag e
+                              hinn tresak me sâd hag e larinn daōn̄ : me <lb
+                                    facs="#eSc_line_03ba4e1d"/>sâd, péhéd em es énep t ’en
+                              néōn̄ hag en énep t ’oc’h. </p>
+                        <p n="19"><lb facs="#eSc_line_d7fff8e1"/><num>19</num>. N ’oun ket gléet
+                              pèloc’h de vout galvet uit o mâb : digemeret <lb
+                                    facs="#eSc_line_4772871b"/>’noun giz inon dous o
+                              servitourien.</p>
+
+                        <noteGrp>
+                              <note n="1"><lb facs="#eSc_line_9dee315d"/>(1) Cette prononciation s =
+                                    th ancien, se remarque aussi sur une partie de la <lb
+                                          facs="#eSc_line_ef95933b"/>rive vannetaise de l’Ellé, à
+                                    Berné, par exemple. </note>
+                              <note n="2"><lb facs="#eSc_line_746bbdef"/>(2) Ti, té nasalisés ont
+                                    donné ki ; di, de ont évolué en gi. En bas vannetais ti <lb
+                                          facs="#eSc_line_02a2a896"/>a passé sporadiquement aussi
+                                    en hi : er hiek, le laboureur, le chef de ferme, ce <lb
+                                          facs="#eSc_line_be48888e"/>qui supposerait une forme
+                                    radicale kiek pour tiek. Ce phénomène s’explique <lb
+                                          facs="#eSc_line_8077045b"/>facilement par le fait que dans
+                                    le Vannetais et une bonne partie de la Cor<lb break="no"
+                                          facs="#eSc_line_013a62d8"/>nouailles le k est palatal,
+                                    plus ou moins iotacisé, devant i, e, u. Il est nettement <lb
+                                          facs="#eSc_line_8ad8572d"/>guttural dans le trégorois et
+                                    le léonard. </note>
+                              <note n="3"><lb facs="#eSc_line_642d67ad"/>(3) Le prétérit en as
+                                    n’est pas en usage au Faouët dans la conversation cou<lb break="no"
+                                          facs="#eSc_line_506946b0"/>rante. </note>
+                              <note n="4"><lb facs="#eSc_line_55ffba1e"/>(4) On prononce entre brô
+                                    et brôn.</note>
+
+
+                        </noteGrp>
+                        <pb facs="#chrestomathie-bret.pdf_page_09" n="371"/>
+                        <fw type="pageNumb">— 371 —</fw>
+
+                        <p n="20"><lb facs="#eSc_line_d34770fb"/><num>20</num>. Hag e sawè hag e
+                              tè tresak i dâd. Meit pe wa hoas pél, hi dâd er <lb
+                                    facs="#eSc_line_ce1fe790"/>guélè hag en a truhe doutōn̄, hag
+                              en ôr réda e lampè d’i <lb facs="#eSc_line_f9a45523"/>c’houg <num
+                                    type="appelNote" n="1">(1)</num> hag e voušè daōn̄. </p>
+                        <p n="21"><lb facs="#eSc_line_e04c2a3b"/><num>21</num>. Hag i vâb e larè
+                              daōn̄ : me sâd, péhéd em es énep t ’en néōn̄ hag <lb
+                                    facs="#eSc_line_973f03f0"/>en énep t’oc’h; n’oun ket gléet
+                                    <num type="appelNote" n="2">(2)</num> pèloc’h de voud galvet uit
+                              ô mâb. </p>
+                        <p n="22"><lb facs="#eSc_line_5259ab39"/><num>22</num>. Meïd en tâd e
+                              larè d’i véoyen : digasse' bion i zé getãn, ha <lb
+                                    facs="#eSc_line_495d5fc7"/>guisket i daōn̄, ha laket ôr walen
+                              a’ i vis hag ôr botow en i dreïd. </p>
+                        <p n="23"><lb facs="#eSc_line_58ff87a0"/><num>23</num>. Digasset euè er
+                              loué lart ha lahet ōn̄; débam a gramp chér-vad. </p>
+                        <p n="24"><lb facs="#eSc_line_67cbe29c"/><num>24</num>. Rag er mab men giān̄
+                                    <num type="appelNote" n="3">(3)</num> wa marô a yōn̄ zo deid
+                              béô endrô; <lb facs="#eSc_line_0472163a"/>kolled e wa a chete yōn̄
+                              kawet. A ’n im lakad e rènt d’ober <lb facs="#eSc_line_67b79402"
+                              />chèr vad. </p>
+                        <p n="25"><lb facs="#eSc_line_85cc979a"/><num>25</num>. Meïd i vap kousãn e
+                              wa er park; ha pe zistrayè a pé doštè dous <lb
+                                    facs="#eSc_line_1c610348"/>en ti, e kléè er c’hân ag er fešt. </p>
+                        <p n="26"><lb facs="#eSc_line_b4fc4218"/><num>26</num>. Ag e c’halvè inōn
+                              dous er véoyen ag e c’houlè pétr (sic) wa <lb
+                                    facs="#eSc_line_1ce671cb"/>kéme ’se. </p>
+                        <p n="27"><lb facs="#eSc_line_9de8e710"/><num>27</num>. A hémen e larè
+                              daōn̄ : ô preur e zô deit t ’er gér hac ô tad en es <lb
+                                    facs="#eSc_line_5575a499"/>lahet er loué lart, kos e ma deït
+                              endro iac’h. </p>
+                        <p n="28"><lb facs="#eSc_line_c5f46c9f"/><num>28</num>. Dous e géme ’se e
+                              tè droug enān̄ a ne vénè ket taōn̄ mond ebarh. <lb
+                                    facs="#eSc_line_3db8bf64"/>Meid i dâd arlerc’h bou’ weït er
+                              més ’n im lakè d’er pédo. </p>
+                        <p n="29"><lb facs="#eSc_line_5f743cf9"/><num>29</num>. A hémen e respōntè
+                              hag e larè d’i dât : chete meur e vla so dous <lb
+                                    facs="#eSc_line_ca4626dd"/>ban e moun didan o kourhiemennow, ha
+                              biskwas e moun weït <lb facs="#eSc_line_4acaa40d"/>dreiš hèni bet
+                              anè; ha biskwas e pes reït ôr c’haorék kian euit <lb
+                                    facs="#eSc_line_52173a5b"/>gober chèr vad ga' me mignōnet. </p>
+                        <p n="30"><lb facs="#eSc_line_b31b7edb"/><num>30</num>. Meïd kentis a ma
+                              deid endro er mâb men d’oc’h ’n êni 'n es <lb
+                                    facs="#eSc_line_e0cd2b42"/>débet i zanve ga' gišti, pes lahed
+                              euitōn̄ er loué lart. </p>
+                        <p n="31"><lb facs="#eSc_line_358a15e6"/><num>31</num>. Ag en tad e laré
+                              daōn̄ : me mâb hui zô brpet (sic) kenoun a kémed <lb
+                                    facs="#eSc_line_f5b6bbe9"/>em es e zô d’oc’h <num
+                                    type="appelNote" n="4">(4)</num>. </p>
+                        <p n="32"><lb facs="#eSc_line_000810a8"/><num>32</num>. Meid red e wa gober
+                              chèr vad ag en im rejouisso, rag er breur <lb
+                                    facs="#eSc_line_f9c4fa70"/>men d ’oc’h e wa marô a chete yōn̄
+                              béo endro; kolled e wa <lb facs="#eSc_line_5d984bea"/>a chete yōn̄
+                              kawed.</p>
+
+                        <note>
+                              <lb facs="#eSc_line_b36d785c"/>(D’après B. LE LAN, <lb
+                                    facs="#eSc_line_3875458d"/>du village de Coat-en-Né, en
+                              Faouët). </note>
+                        <noteGrp>
+                              <note n="1"><lb facs="#eSc_line_d641dea8"/>(1) Le c’h n’est plus, au
+                                    Faouët comme en nombre d’endroits, une spirante <lb
+                                          facs="#eSc_line_33f5f001"/>sourde; à l’oreille d’un
+                                    Français, il sonnerait comme un r fortement grasseyé. </note>
+                           
+                              <note n="2"><lb facs="#eSc_line_13afd649"/>(2) Gléet = dléet. </note>
+                            
+                              <note n="3"><lb facs="#eSc_line_28ed1706"/>(3) En une syllabe. </note>
+                          
+                              <note n="4"><lb facs="#eSc_line_fe8b703e"/>(4) On ne tutoie pas au
+                                    Faouët. Je dois faire remarquer, en outre, que le fils <lb
+                                          facs="#eSc_line_d5431169"/>ne tutoie nulle part son
+                                    père.</note>
+
+
+                        </noteGrp>
+                  </div>
+                  <div type="parabole" xml:lang="corn-1250" n="6" corresp="#place_5">
+                        <pb facs="#chrestomathie-bret.pdf_page_10" n="372"/>
+                        <fw type="pageNumb">— 372 —</fw>
+                        <head><lb facs="#eSc_line_1e12fcc1"/>CORNOUAILLES DU NORD-EST
+                              (Berrien).</head>
+
+
+
+                        <p n="11"><lb facs="#eSc_line_2c0f534c"/><num>11</num>. Eun dén en wa daou
+                              vâp. </p>
+                        <p n="12"><lb facs="#eSc_line_f732a779"/><num>12</num>. Ag ar <num
+                                    type="appelNote" n="1">(1)</num> iawānka dezouto a laraz d’é
+                              dâd : va zâd, rô d’în ar <lb facs="#eSc_line_bc4f4cfd"/>lôden
+                              danves a zigwé d’în; ag én a réz <num type="appelNote" n="2"
+                                    >(2)</num> ar bartaš deus é <lb facs="#eSc_line_48463c94"
+                              />zanves etrésô. </p>
+                        <p n="13"><lb facs="#eSc_line_9af4feeb"/><num>13</num>. Ag eun neubet
+                              dévéšou goude sé, ar mâb ar iawãnka goude béa <lb
+                                    facs="#eSc_line_a2c0dbb3"/>daspunet kément en wa, en ém lakaz
+                              é ’n ént, évit mōnt trésék <lb facs="#eSc_line_253c8699"/>eur
+                              vrô gwal-bêll, hag éno e fwètaz é zanves en ôr véva en diotaš. </p>
+                        <p n="14"><lb facs="#eSc_line_d4fb5cff"/><num>14</num>. A goudé ’n wa
+                              dispignet kément en wa, e c’hwarvéaz eur gèrnes <lb
+                                    facs="#eSc_line_c90a794e"/>vrâz barz ar vrô zé, ag e teûaz
+                              da gaout ézom. </p>
+                        <p n="15"><lb facs="#eSc_line_710cf6d0"/><num>15</num>. Mond e réz e kuit
+                              ag en ém lakat e réz é condision é ti eun dén <lb
+                                    facs="#eSc_line_701c7b3f"/>deuz ar vrô; a hémān̄n e gassaz
+                              ’naōn̄ én eun ti daōn̄ war ar méz <lb facs="#eSc_line_ca7bc0bb"/>de
+                              ziwall ar moc’h <num type="appelNote" n="3">(3)</num>. </p>
+                        <p n="16"><lb facs="#eSc_line_d059b90c"/><num>16</num>. C’hwant en išè bét
+                              de garga é gôf gānd ar c’hlozou a zébè ar <lb
+                                    facs="#eSc_line_4476bca0"/>moc’h a dén e bét ne rôé d’aōn̄. </p>
+                        <p n="17"><lb facs="#eSc_line_eedcae8d"/><num>17</num>. Mèt goude béa
+                              diskénet en i hunan, e laras : nag a vévèlien e zo <lb
+                                    facs="#eSc_line_47064fc4"/>é ti va zâd hag en eus bara leis ô
+                              hôf, ha mé a varv amān̄ gānd <lb facs="#eSc_line_c7c04339"/>an naon. </p>
+                        <p n="18"><lb facs="#eSc_line_66cf9b3b"/><num>18</num>. Sével a rîn ag e
+                              hîn deus tu va zâd, hag e larîn : va zâd péhèd em <lb
+                                    facs="#eSc_line_00f0d800"/>euz ag énéb en nên ag énép t ’id. </p>
+                        <p n="19"><lb facs="#eSc_line_a268ca10"/><num>19</num>. Ne dalãn pèloc’h
+                              mui de véa gelvet da vâb; koumer ac’hānoûn <lb
+                                    facs="#eSc_line_6bbc0246"/>évit unan deus ta vévèlien. </p>
+                        <p n="20"><lb facs="#eSc_line_ee95fc4e"/><num>20</num>. A sével a réz ag e
+                              éaz de gaout <num type="appelNote" n="4">(4)</num> é dâd; mèt pèll
+                              e wa hwas, <lb facs="#eSc_line_80994033"/>pe uélas i dâd ’naōn̄, ag
+                              en wa truez dezountān̄, hag ô tirédek <lb facs="#eSc_line_b71118b9"
+                              />e lammaz d’i houg ag e bokaz d’aōn̄. </p>
+                        <p n="21"><lb facs="#eSc_line_43714179"/><num>21</num>. Hag é vap éna e
+                              laraz d’aōn̄ : va zâd péhéd em eus ag énép an <lb
+                                    facs="#eSc_line_75b3e46e"/>nén ag énép t ’id; ne dalãn két
+                              pèloc’h de véa gelvet ta vâb. </p>
+                        <p n="22"><lb facs="#eSc_line_52ab8037"/><num>22</num>. Mèd an tâd e laraz
+                              d’i vévèlien : digaset buan é zé genta a <lb
+                                    facs="#eSc_line_ef22a467"/>guisket ’naōn̄ ganti, a laket eur
+                              walen deuz é vîz a boutou deuz <lb facs="#eSc_line_f2e24bbb"/>é
+                              dreid.</p>
+
+                        <noteGrp>
+                              <note n="1"><lb facs="#eSc_line_90fb8d9a"/>(1) On peut hésiter entre
+                                    a très bref et e muet français; de même pour da, <lb
+                                          facs="#eSc_line_b7d50745"/>a relatif. L’a final des
+                                    prétérits de la 3^e personne singulier en as est aussi très
+                                    bref. </note>
+                            
+                              <note n="2"><lb facs="#eSc_line_2ba16bdb"/>(2) Il y a une sorte de
+                                    voyelle irrationnelle e ou a très bref entre é et z. On <lb
+                                          facs="#eSc_line_dea3cafa"/>peut hésiter entre z et s pour
+                                    toutes les finales non suivies d’un mot commençant <lb
+                                          facs="#eSc_line_33feaa2b"/>par une voyelle. </note>
+                            
+                              <note n="3"><lb facs="#eSc_line_c4c4fb3c"/>(3) O ouvert comme dans
+                                    parole. </note>
+                            
+                              <note n="4"><lb facs="#eSc_line_0a78addf"/>(4) En une syllabe.</note>
+
+
+                        </noteGrp>
+                        <pb facs="#chrestomathie-bret.pdf_page_11" n="373"/>
+                        <fw type="pageNumb">— 373 —</fw>
+
+                        <p n="23"><lb facs="#eSc_line_f644620a"/><num>23</num>. Digaset ié ar
+                              leûé lart, a lahet ’naōn̄, débom a gréomb bōn̄bān̄s. </p>
+                        <p n="24"><lb facs="#eSc_line_9a5442b8"/><num>24</num>. Rag ar mâb mān̄
+                              d’în e wa marô ha sétu ma béo adaré; koled <lb
+                                    facs="#eSc_line_0c9dce3a"/>e wa, a kaved é. Ag en ém lakat ò
+                              deuz grêt d’ober bōn̄bān̄s. </p>
+                        <p n="25"><lb facs="#eSc_line_597d60ca"/><num>25</num>. Mèd é vap éna e
+                              wa barz er park, a pe zistrôaz a pe dostaz deuz <lb
+                                    facs="#eSc_line_a42fe75a"/>an ti, e klevas kān a korol. </p>
+                        <p n="26"><lb facs="#eSc_line_a351e09f"/><num>26</num>. Ag e helvaz unan euz
+                              ar vévèlien ag e houlénas pétra wa <lb facs="#eSc_line_76d51ef5"
+                              />kémén sé. </p>
+                        <p n="27"><lb facs="#eSc_line_ec257f4d"/><num>27</num>. A hémān̄ a laraz
+                              d’aōn̄ : da vreur a zo deut war é giz, a ta dâd en <lb
+                                    facs="#eSc_line_5da3ee68"/>eus lahet ar leue lart, abalamour é
+                              deut iac’h t ’ar gér. </p>
+                        <p n="28"><lb facs="#eSc_line_4923f29c"/><num>28</num>. War gémén-sé e
+                              savaz droug énān̄, a ne fèlè két daōn̄ mōnt <lb
+                                    facs="#eSc_line_2f775da7"/>ébarz an ti. Mèd é dâd ò véa
+                              deut é méz, en ém lakéaz de bédi <lb facs="#eSc_line_23e80ba7"
+                              />’naōn̄. </p>
+                        <p n="29"><lb facs="#eSc_line_3987d43c"/><num>29</num>. A hémān̄ e
+                              respontaz ag e laraz d’é dâd : meur a vla zo abawé <lb
+                                    facs="#eSc_line_3bc7c13c"/>moun dindân da hourhéménou, ha
+                              biskwas n’oun éet a dreus <lb facs="#eSc_line_fe7018da"/>hāni bet
+                              ané ha biskwas n’a heus rôèt eur haorik d’în évid ober <lb
+                                    facs="#eSc_line_2c3b0335"/>bōn̄bān̄s gānt va mignōnet. </p>
+                        <p n="30"><lb facs="#eSc_line_083b6b01"/><num>30</num>. Ha kerkent e ma
+                              èruet é ’r gér ar mâb mān̄ d ’it, goudé ’n euz <lb
+                                    facs="#eSc_line_9841f10e"/>débet é zanves gānt gisti, lahed e
+                              heus évintān̄ ar leûé lart. </p>
+                        <p n="31"><lb facs="#eSc_line_d6729bd9"/><num>31</num>. Ag en tâd e laraz
+                              d’aōn̄ : va mâb, té zo bépred ganên a kémend <lb
+                                    facs="#eSc_line_8acf3db8"/>em euz e zo d’it. </p>
+                        <p n="32"><lb facs="#eSc_line_acf8717a"/><num>32</num>. Mèd réd e wa ober
+                              bōn̄bān̄s ag en ém lawénat, rag ar breur mān̄ <lb
+                                    facs="#eSc_line_2ab00602"/>d ’id e wa marô ha sétu ma béo
+                              adaré, koled e wa, ha kaved é. </p>
+                        <note>
+                              <lb facs="#eSc_line_bff82f5e"/>(D’après le capitaine QUERNEAU, <lb
+                                    facs="#eSc_line_74b78932"/>du 7^e d’artillerie). </note>
+                  </div>
+                  </div>
+                  <div>
+                        <head><lb facs="#eSc_line_b2672301"/>Vannetais (Bro-Wérek).</head>
+                 
+                  <div type="parabole" xml:lang="bret-1244" n="7" corresp="#place_6">
+                        
+
+
+
+                        <head><lb facs="#eSc_line_a6a17aed"/>BAS VANNETAIS (Guémené-sur-Scorff)
+                              <num type="appelNote" n="1">(1)</num>.</head>
+
+
+
+                        <p n="11"><lb facs="#eSc_line_90f08aac"/><num>11</num>. Ôn dén en wè daou
+                              vab. </p>
+                        <p n="12"><lb facs="#eSc_line_cafc20bc"/><num>12</num>. Hag er iawānkàn
+                              anehè e laras t’i dâd : me zâd, reit t’in̄gn er <lb
+                                    facs="#eSc_line_0eca8429"/>loden daone <num type="appelNote"
+                                    n="2">(2)</num>, e zél digwéout t’in̄gn; a yōn̄ e rannaz hi
+                              zaoné <lb facs="#eSc_line_23fa28d8"/>etrédè.</p>
+
+                        <noteGrp>
+                              <note n="1"><lb facs="#eSc_line_8941bb78"/>(1) Voir sur ce
+                                    sous-dialecte Revue celtique, VII, p. 171. La fable de l’Enfant
+                                          <lb facs="#eSc_line_86cb16e9"/>prodigue a été traduite
+                                    en dialecte du bourg de Batz (Loire-Inférieure), variété <lb
+                                          facs="#eSc_line_9ddff7bc"/>du dialecte de Vannes par M.
+                                    Bureau et en langage de Sarzeau par M. Ernault <lb
+                                          facs="#eSc_line_a61e0a97"/>(Revue celtique, III,
+                                    1876-1878). </note>
+                              <note n="2"><lb facs="#eSc_line_02efec7d"/>(2) Daone signifie plus
+                                    souvent étoffe. On emploierait ici couramment madon. </note>
+
+                        </noteGrp>
+                        <pb facs="#chrestomathie-bret.pdf_page_12" n="374"/>
+                        <fw type="pageNumb">— 374 —</fw>
+                        <p n="13"><lb facs="#eSc_line_3408a6c1"/><num>13</num>. Hag ôn nebed
+                              dehuehow goudé, er mâb iawānkãn, arlec’h bou’ <lb
+                                    facs="#eSc_line_a120dbb7"/>daštumet kemet ag en wè, en im lakaz
+                              en hént eui' mont trema <lb facs="#eSc_line_0edd62b0"/>ôr vrô
+                              pél-bras; ag énōn̄ e tispignaz i zaoné e féueign ba ’n <lb
+                                    facs="#eSc_line_0bf6f3fd"/>débôch. </p>
+                        <p n="14"><lb facs="#eSc_line_f9401c69"/><num>14</num>. Ha p’en wè
+                              dispignet kemet en wè, e tigouéaz ôr geltri vrâz <lb
+                                    facs="#eSc_line_944dbd01"/>ba ’r vrô-ze hag e taz de gawe'
+                              diānes. </p>
+                        <p n="15"><lb facs="#eSc_line_1caf6fd1"/><num>15</num>. Kuit e hiaz eta hag
+                              en im lakad e raz e gôp ged ôn dén ag er <lb
+                                    facs="#eSc_line_de6c80bb"/>vrô. A hinann e gassas anehōn̄ ba ’n
+                              ôn ti dehōn̄ ar er méz, eui’ <lb facs="#eSc_line_8fa0fbb6"/>mésat
+                                    <num type="appelNote" n="1">(1)</num> er moc’h. </p>
+                        <p n="16"><lb facs="#eSc_line_e526a714"/><num>16</num>. Hwanteid en nehè
+                              lānnin̄gn i gôf <num type="appelNote" n="2">(2)</num> ged er hlorad e
+                              zébè er <lb facs="#eSc_line_9f5cc2dd"/>moc’h; ha dén ne rè dehōn̄. </p>
+                        <p n="17"><lb facs="#eSc_line_a3bb93b8"/><num>17</num>. Meid arlec’h bou’
+                              deid endro ba ’n ōn̄ hi genōn, e laraz : nag <lb
+                                    facs="#eSc_line_26a2abbf"/>a veuelian <num type="appelNote" n="3"
+                                    >(3)</num> e zo ba ti me zâd hag en es bara o gwalh ha mégn
+                                    <lb facs="#eSc_line_dbb15d82"/>e varua eman ge’ naon! </p>
+                        <p n="18"><lb facs="#eSc_line_59778562"/><num>18</num>. Zeuel e rin̄gn hag e
+                              hin̄gn trema me zâd, hag e larin̄gn dehōn̄ : <lb
+                                    facs="#eSc_line_5be94a76"/>me zâd, pihed em es enép t’en nênu
+                              hag enép t ’oc’h. </p>
+                        <p n="19"><lb facs="#eSc_line_5951ad78"/><num>19</num>. N’é ket délé
+                              tin̄gn bout galuet o mâb; digemeret anōn èl inōn ag <lb
+                                    facs="#eSc_line_755fca83"/>o seruitourian. </p>
+                        <p n="20"><lb facs="#eSc_line_c2ee2397"/><num>20</num>. Hag e sauaz ag e haz
+                              trema i dâd. Meid pe wé hwac’h pèll, i dâd <lb
+                                    facs="#eSc_line_d6e14890"/>in guelaz hag e gemeraz truhé
+                              doc’htōn̄ hag en ôr redek e lampaz <lb facs="#eSc_line_66921dd2"/>d’i
+                              houg hag e bokas tehōn̄. </p>
+                        <p n="21"><lb facs="#eSc_line_0530270a"/><num>21</num>. Hag i vâb e laras
+                              tehōn̄ : me zâd, pihed em es enép t’en nénu <lb
+                                    facs="#eSc_line_fbd9850a"/>hag enép t ’oc’h, n ’é ké délé t
+                              ’in̄gn pèloc’h bou' galuet o mâb. </p>
+                        <p n="22"><lb facs="#eSc_line_a1889176"/><num>22</num>. Meid en tâd e laras
+                              t ’i veueliān : digase' biōn i zé getãn ha <lb
+                                    facs="#eSc_line_499d9ed9"/>guisket i dehōn ha laked ôr wèlen
+                              ar i viz, ha botow en i dreid. </p>
+                        <p n="23"><lb facs="#eSc_line_6e1c3909"/><num>23</num>. Digased eue er lé
+                              lart, a lahet ōn̄; débam a gramp cher-vad. </p>
+                        <p n="24"><lb facs="#eSc_line_8d3b47f3"/><num>24</num>. Rag er mâb man
+                              d’in̄-gn e wè maru ha cheto yōn̄ béu endro; <lb
+                                    facs="#eSc_line_a68f6a9d"/>koled e wè ha cheto yōn̄ kauet. Hag
+                              è en im lakas t ’ober <lb facs="#eSc_line_b2df17c1"/>cher-vad. </p>
+                        <p n="25"><lb facs="#eSc_line_4f9572ae"/><num>25</num>. Meid i vâp énãn
+                                    <num type="appelNote" n="4">(4)</num> e wè ba ’r park : a pe
+                              zištrwaz ha pe doštaz <lb facs="#eSc_line_95dd1eb3"/>doc’h en ti, e
+                              klawaz er hān ag er horol. </p>
+                        <p n="26"><lb facs="#eSc_line_129cc7a9"/><num>26</num>. Hag e haluaz inon ag
+                              er veueliān, ag e houlennaz petrè wè <lb facs="#eSc_line_b2b43a65"
+                              />keme’-se.</p>
+
+                        <noteGrp>
+                              <note n="1"><lb facs="#eSc_line_a21a6b21"/>(1) Ne me paraît pas
+                                    employé en bas vannetais. </note>
+                              <note n="2"><lb facs="#eSc_line_bef73b2e"/>(2) On dirait mieux
+                                    kargin̄gn i gôf ou torein i naon (se rassasier). </note>
+                              <note n="3"><lb facs="#eSc_line_3cb55248"/>(3) Ped meuel n’aurait que
+                                    le sens interrogatif. </note>
+                              <note n="4"><lb facs="#eSc_line_49b8f46b"/>(4) On emploie plutôt
+                                    kôhān.</note>
+
+
+                        </noteGrp>
+                        <pb facs="#chrestomathie-bret.pdf_page_13" n="375"/>
+                        <fw type="pageNumb">— 375 —</fw>
+
+                        <p n="27"><lb facs="#eSc_line_03050415"/><num>27</num>. A hinan <num
+                                    type="appelNote" n="1">(1)</num> e laras tehōn̄ : o preu e zo
+                              deit t’er gér, ag ô tad en <lb facs="#eSc_line_8c60921c"/>es lahet er
+                              lé lart, balemout me wè deid endro iac’h mat. </p>
+                        <p n="28"><lb facs="#eSc_line_a9ee6f51"/><num>28</num>. Ar geme’ se e sauaz
+                              droug ba ’n ōn̄ a ne vénè ke’ tehōn̄ mōnt tré. <lb
+                                    facs="#eSc_line_735c8fc0"/>Meid i dâd e yaz e ’r méz hag en im
+                              lakas t ’in pédin̄gn. </p>
+                        <p n="29"><lb facs="#eSc_line_d52dff13"/><num>29</num>. A hinan e respontaz
+                              hag e laras t ’i dâd : cheto meur a vlè so a <lb
+                                    facs="#eSc_line_99e5ab50"/>oudé ōn didān o kourhiemennow, ha
+                              biskwac’h n ’e pes reit ôr <lb facs="#eSc_line_ba3145a1"/>haorék t
+                              ’in̄gn eui’ gober cher-vad ge’ me mignoned. </p>
+                        <p n="30"><lb facs="#eSc_line_395c0cb9"/><num>30</num>. Meid kentic’h ag e
+                              ma deid er mab man d’oc’h, hag en es débet <lb
+                                    facs="#eSc_line_c2fb181c"/>i zaoné ge’ gišti, pes lahed euit
+                              ōn̄ ér lé lart. </p>
+                        <p n="31"><lb facs="#eSc_line_c8309862"/><num>31</num>. Ag en tâd e laras
+                              tehōn̄ : me mâb hui zo berpe' kenin̄gn hag er <lb
+                                    facs="#eSc_line_6cfd6a43"/>pé em es e zo d’oc’h. </p>
+                        <p n="32"><lb facs="#eSc_line_285d56d5"/><num>32</num>. Meid re’ mad e wè
+                              gober cher vad ag en im lawenat, rag er breu <lb
+                                    facs="#eSc_line_53d4c242"/>man d’och e wè maru a cheto yōn̄
+                              béu endro; kolled e wè ag <lb facs="#eSc_line_ce1eac73"/>e ma
+                              kauet.</p>
+
+                        <note>
+                              <lb facs="#eSc_line_0042680f"/>(Par l’auteur). </note>
+                  </div>
+                  <div type="parabole" xml:lang="bret-1244" n="8" corresp="#place_7">
+                        <head><lb facs="#eSc_line_7f09417b"/>HAUT VANNETAIS (Iles de Houat et
+                              Hédic) <num type="appelNote" n="2">(2)</num>.</head>
+
+
+
+                        <p n="11"><lb facs="#eSc_line_3c434658"/><num>11</num>. Eun din en dwé deuu
+                              vâb <num type="appelNote" n="3">(3)</num>. </p>
+                        <p n="12"><lb facs="#eSc_line_edb4f9cf"/><num>12</num>. Er youān̄kãn <num
+                                    type="appelNote" n="4">(4)</num> é laras d’é dâd : « Mé zâd,
+                              reit t ’eign me lôd <lb facs="#eSc_line_d8cf974e"/>treu; er péh e za
+                              d’eign; » ha eān̄ e rannas é zānné get-ent. </p>
+                        <p n="13"><lb facs="#eSc_line_7953cda2"/><num>13</num>. Hac eun di benac
+                                    <num type="appelNote" n="5">(5)</num> arlerh, er mâb youān̄kãn
+                              en dwé chèrd er <lb facs="#eSc_line_abbc6724"/>péh e yé dihou <num
+                                    type="appelNote" n="6">(6)</num>, hac éān̄ e hum lakas en hint
+                              eit mônét <num type="appelNote" n="7">(7)</num>
+                              <lb facs="#eSc_line_490c0c8d"/>d’ur vrô pḗl, hac inô eān̄ zispignas
+                                    <num type="appelNote" n="8">(8)</num> ol é dreu én ur viueign
+                                    <lb facs="#eSc_line_ebfb7df6"/>e’r plijadurieu fâl. </p>
+                        <p n="14"><lb facs="#eSc_line_d9901e55"/><num>14</num>. Ha p’en dwé drebét
+                              er péh en dwé, e hariuas ur gèlteri vras e’r <lb
+                                    facs="#eSc_line_0159925b"/>vrô-sén <num type="appelNote" n="9"
+                                    >(9)</num> ha éān̄ é hanauas er beurān̄té <num
+                                    type="appelNote" n="10">(10)</num>.</p>
+
+                        <noteGrp>
+                              <note n="1"><lb facs="#eSc_line_c71bc515"/>(1) Dans certains endroits
+                                    on prononce hinān̄. </note>
+                              <note n="2"><lb facs="#eSc_line_08bc7385"/>(2) Houat, plus
+                                    anciennement Hoiata est la Sïata des anciens; Hedie écrit <lb
+                                          facs="#eSc_line_176c09b2"/>on ne sait pourquoi Hœdic =
+                                    Atïea. </note>
+                              <note n="3"><lb facs="#eSc_line_61409470"/>(3) Hédic : deiñ au lieu
+                                    de din; pour deun prononcez deu comme eu français <lb
+                                          facs="#eSc_line_910152a1"/>dans bœuf. </note>
+                              <note n="4"><lb facs="#eSc_line_11ec3b18"/>(4) Hédic : yu-néān̄-kan;
+                                    zéān̄-né. </note>
+                              <note n="5"><lb facs="#eSc_line_a2d08ae8"/>(5) Hédic : enn dé benae. </note>
+                              <note n="6"><lb facs="#eSc_line_2b1592db"/>(6) Hédic : er pieh e hié
+                                    d’ōn̄. </note>
+                              <note n="7"><lb facs="#eSc_line_d9d3e8e2"/>(7) Hédic : in hient eït
+                                    mouniet. </note>
+                              <note n="8"><lb facs="#eSc_line_4dac4807"/>(8) Hédic : hac ān̄hont
+                                    éān̄ e zispegnas. </note>
+                              <note n="9"><lb facs="#eSc_line_8642f9b8"/>(9) Hédic : i ’r vrou
+                                    zeï. </note>
+                              <note n="10"><lb facs="#eSc_line_3955c547"/>(10) Hédic : beureanté,
+                                    avec une sorte d’aspiration entre la première et la <lb
+                                          facs="#eSc_line_cdf09dc9"/>deuxième syllabe.</note>
+
+
+                        </noteGrp>
+                        <pb facs="#chrestomathie-bret.pdf_page_14" n="376"/>
+                        <fw type="pageNumb">— 376 —</fw>
+
+                        <p n="15"><lb facs="#eSc_line_b6a8527f"/><num>15</num>. Eān̄ e yas de vout
+                              gwâz é ti eun din <num type="appelNote" n="1">(1)</num> ag er
+                              vrô-sén, hac en din </p>
+                        <p n="16"><lb facs="#eSc_line_3c01f3af"/><num>16</num>. Hoān̄teign e ré
+                              cargeign é gôv get er péh e chomé arlerh er <lb
+                                    facs="#eSc_line_679175fd"/>men <num type="appelNote" n="2"
+                                    >(2)</num> er hassas én eun ti dihou ar er mézeu de warn er
+                              moc’h. </p>
+                        <p n="17"><lb facs="#eSc_line_08845fcd"/><num>17</num>. Nwac’h éān̄ e hum
+                              zistroas doc’htou hés unān <num type="appelNote" n="4">(4)</num>, hac
+                              é lâras : <lb facs="#eSc_line_af13f661"/>moc’h; ha dén ne ré dihou
+                              de zrebel <num type="appelNote" n="3">(3)</num>. <lb
+                                    facs="#eSc_line_e8ab6cd8"/>nag a wazét <num type="appelNote"
+                                    n="5">(5)</num> é zou é ti me zâd ag en dés bara <num
+                                    type="appelNote" n="6">(6)</num> ha treu <lb
+                                    facs="#eSc_line_7592e914"/>de zrebel, ha mi zou é veruel get en
+                              nān <num type="appelNote" n="7">(7)</num>. </p>
+                        <p n="18"><lb facs="#eSc_line_8ebcf990"/><num>18</num>. Mi sawou ha mi yé
+                              de gavet me zâd, ha mi larou dihou : me zâd <lb
+                                    facs="#eSc_line_df53c40a"/>pihéd emés inemp <num
+                                    type="appelNote" n="8">(8)</num> d’oc’h hac inemp d’en néān̄, ne
+                              oan <lb facs="#eSc_line_6c946902"/>ket <num type="appelNote" n="9"
+                                    >(9)</num> dign de vout galuet crwédur <num type="appelNote"
+                                    n="10">(10)</num> d’oc’h. </p>
+                        <p n="19"><lb facs="#eSc_line_0f1202a3"/><num>19</num>. Mès en tâd e
+                              lâras d’er gwâzét : digasset biān é sé a uéh-aral <lb
+                                    facs="#eSc_line_10c311e1"/>ha guiskét-i dihou <num
+                                    type="appelNote" n="11">(11)</num>; digasset ur bizéu de lakât
+                              d’oc’h é viz, <lb facs="#eSc_line_c7573592"/>ha boteu de lakâd én
+                              é dreid <num type="appelNote" n="12">(12)</num>. </p>
+                        <p n="23"><lb facs="#eSc_line_d667c939"/><num>23</num>. Digasset iuén er
+                              lé lartān̄; lahet éān̄ <num type="appelNote" n="13">(13)</num>,
+                              drèbamb ha groamb <lb facs="#eSc_line_3f20aa0f"/>fešt <num
+                                    type="appelNote" n="14">(14)</num>. </p>
+                        <p n="24"><lb facs="#eSc_line_4229afb4"/><num>24</num>. Rac er hrwédur men
+                              d ’eign mé <num type="appelNote" n="15">(15)</num> e wé maru, ha
+                              šetui éān̄ <lb facs="#eSc_line_7e83492d"/>biu; colt e wé hac e ma
+                              cavét. Hac ind e hum lakâs d’obér ur <lb facs="#eSc_line_b6f11231"
+                              />fešt brâs. </p>
+                        <p n="25"><lb facs="#eSc_line_e2940f9a"/><num>25</num>. Nwac’h er mâb
+                              kohān̄ <num type="appelNote" n="16">(16)</num> e wé ar er mézeu. Ha
+                              pe zas én <lb facs="#eSc_line_818223db"/>dro <num type="appelNote"
+                                    n="17">(17)</num>, hac a pe došté d’er gér <num
+                                    type="appelNote" n="18">(18)</num>, eān̄ e gleuas er horol hac
+                                    <lb facs="#eSc_line_5a90ed0b"/>er sōn̄neneu <num type="appelNote"
+                                    n="19">(19)</num>.</p>
+
+                        <noteGrp>
+                              <note n="1"><lb facs="#eSc_line_ee0e4758"/>(1) Hédic : i teï un
+                                    deiñ. </note>
+                              <note n="2"><lb facs="#eSc_line_ff9dde7c"/>(2) Hédic : hac en deiñ
+                                    man. </note>
+                              <note n="3"><lb facs="#eSc_line_cb8c76af"/>(3) Hédic : Hoéanteiñ e
+                                    ré cargeiñ é gof get er piéh chomé arlar er moc’h, <lb
+                                          facs="#eSc_line_6cfbdd92"/>ha deiñ ne ré d’ōn̄ de
+                                    zrèbeiñ. </note>
+                              <note n="4"><lb facs="#eSc_line_dc5d7985"/>(4) Hédic : Nenèc’h yān̄
+                                    e hum zistrnas doc’htōn̄ i huinan. </note>
+                              <note n="5"><lb facs="#eSc_line_d9a6d258"/>(5) Hédic : nag a nazièt. </note>
+                              <note n="6"><lb facs="#eSc_line_e00ddb08"/>(6) Hédic : barān̄. </note>
+                              <note n="7"><lb facs="#eSc_line_590dc5e7"/>(7) Hédic : en néan. </note>
+                              <note n="8"><lb facs="#eSc_line_c381cb29"/>(8) Hédic : Me saueï ha me
+                                    yeï de gaviet me zâd, ha me lareï d’ōn̄ : me zâd, <lb
+                                          facs="#eSc_line_51c29108"/>pihièd emès iniemp... </note>
+                              <note n="9"><lb facs="#eSc_line_07af06dd"/>(9) Hédic : ne ōn ket. </note>
+                              <note n="10"><lb facs="#eSc_line_ec844a0b"/>(10) Hédic : ernédeur. </note>
+                              <note n="11"><lb facs="#eSc_line_72dc1ca6"/>(11) Hédic : geshet-i (e
+                                    dans ges = ö bref) dehōn̄. </note>
+                              <note n="12"><lb facs="#eSc_line_1c122b74"/>(12) Hédic : lakâd in i
+                                    dreideu. </note>
+                              <note n="13"><lb facs="#eSc_line_c6874485"/>(13) Hédic: Digassiet
+                                    euei er lé lartean; lahiet yān̄. </note>
+                              <note n="14"><lb facs="#eSc_line_d38969d7"/>(14) Hédic : fiešt. </note>
+                              <note n="15"><lb facs="#eSc_line_30a47637"/>(15) Hédic : er hrnédeur
+                                    man d’ein̄ mei. </note>
+                              <note n="16"><lb facs="#eSc_line_dec2b1eb"/>(16) Hédic : cohéan. </note>
+                              <note n="17"><lb facs="#eSc_line_8bea660a"/>(17) Hédic : in drou. </note>
+                              <note n="18"><lb facs="#eSc_line_5ac4cfba"/>(18) Hédic : a pe došté
+                                    d’er diérh. </note>
+                              <note n="19"><lb facs="#eSc_line_32c3c27a"/>(19) Hédic : er
+                                    sōn̄nienneu.</note>
+
+
+                        </noteGrp>
+                        <pb facs="#chrestomathie-bret.pdf_page_15" n="377"/>
+                        <fw type="pageNumb">— 377 —</fw>
+
+                        <p n="26"><lb facs="#eSc_line_d98bd475"/><num>26</num>. Eān̄ e grias ar
+                              uinān ag er wazéd, hac é houlennas get-ou petra <lb
+                                    facs="#eSc_line_fea6b71e"/>wé kement-sén <num type="appelNote"
+                                    n="1">(1)</num>. </p>
+                        <p n="27"><lb facs="#eSc_line_9000481f"/><num>27</num>. Hac hénéc’h <num
+                                    type="appelNote" n="2">(2)</num> e laras dihou : deit é hou
+                              prér hac ou tâd en dés <lb facs="#eSc_line_84d6b45d"/>lahét er lé
+                              lartān̄ a gaws m’e ma deit yac’h d’er gér. </p>
+                        <p n="28"><lb facs="#eSc_line_58ac2929"/><num>28</num>. Pe gleuas
+                              kement-sén, é tas droug-calon bras dihou, ha ne vénas <lb
+                                    facs="#eSc_line_e7b1254e"/>ket mônét e ’n ti <num
+                                    type="appelNote" n="3">(3)</num>; mès en tâd é zas é ’r méz
+                              hac e hum lakas <lb facs="#eSc_line_ee471e2d"/>d’er pedeign de
+                              zônét. </p>
+                        <p n="29"><lb facs="#eSc_line_65810e15"/><num>29</num>. Eān̄ e reskōn̄das
+                              hac e laras d’é dâd : šetui mar a vlé é hōn idān <lb
+                                    facs="#eSc_line_ea35accb"/>ou kourhemeneu <num type="appelNote"
+                                    n="4">(4)</num> ha jamès n’e hués reit ur gavrik d ’eign <lb
+                                    facs="#eSc_line_8135fb42"/>eit gobir fešt get me hān̄sortéd. </p>
+                        <p n="30"><lb facs="#eSc_line_afc78855"/><num>30</num>. Mès kentéc’h m’e
+                              ma deit henān̄ <num type="appelNote" n="5">(5)</num>, er mâb en dés
+                              drebet é <lb facs="#eSc_line_330b9a82"/>dreu get er mirhiéd, hui
+                              hués <num type="appelNote" n="6">(6)</num> lahét er lé lartān̄. </p>
+                        <p n="31"><lb facs="#eSc_line_2a255fa6"/><num>31</num>. Hac en tâd e laras
+                              dihou : me mâb, hui zou perpet geneign, hac <lb
+                                    facs="#eSc_line_fe2bc407"/>ol er péh emés é zou d’oc’h; mès
+                              rét e wé gobir fešt ha bourus<lb break="no" facs="#eSc_line_19b79961"/>téd,
+                              rac henān̄, hou prér, é wé maru he šetui éān̄ biuet; colt e <lb
+                                    facs="#eSc_line_14fb230a"/>wé, hac e ma cavét.</p>
+
+                        <note>
+                              <lb facs="#eSc_line_baf20aa2"/>(Traduit à Houat par M. Gouron, <lb
+                                    facs="#eSc_line_5367ea94"/>communiqué par M. l’abbé BULÉON).
+                        </note>
+                  </div>
+                  <div type="parabole" xml:lang="bret-1244" n="9" corresp="#place_8">
+                        <head><lb facs="#eSc_line_5daf5b2a"/>ILE DE GROIX <num type="appelNote" n="7">(7)</num>.</head>
+
+
+
+                        <p n="11"><lb facs="#eSc_line_f4744427"/><num>11</num>. Oun daén <num
+                                    type="appelNote" n="8">(8)</num> en dwai dèw vâb. </p>
+                        <p n="12"><lb facs="#eSc_line_477b9572"/><num>12</num>. Hag er youān̄kãn e
+                              laras d’é dâd : me zâd, greit <num type="appelNote" n="9">(9)</num>
+                              t’eiñ e lod <lb facs="#eSc_line_e594ff75"/>dānné e za d’eiñ. Ha yōn̄
+                              e lodas é zānné get-ai.</p>
+
+                        <noteGrp>
+                              <note n="1"><lb facs="#eSc_line_34056682"/>(1) Hédic : kemet-seï. </note>
+                              <note n="2"><lb facs="#eSc_line_ce4c5b71"/>(2) Hédic : Hac hanièc'h. </note>
+                              <note n="3"><lb facs="#eSc_line_b34cc283"/>(3) Hédic : mouniét en
+                                    teï. </note>
+                              <note n="4"><lb facs="#eSc_line_a0bf933e"/>(4) Hédic : i huon idān ou
+                                    ernamenneu. </note>
+                              <note n="5"><lb facs="#eSc_line_dbb84247"/>(5) Hédic : Hannen. </note>
+                              <note n="6"><lb facs="#eSc_line_e0a24940"/>(6) Hédic : hui hnès. </note>
+                              <note n="7"><lb facs="#eSc_line_6d58b7a6"/>(7) Le breton de Groix a
+                                    des traits particuliers qui en font une sorte de sous- <lb
+                                          facs="#eSc_line_77c9686c"/>dialecte assez tranché. — Ai =
+                                    aï. </note>
+                              <note n="8"><lb facs="#eSc_line_8001bd87"/>(8) L’accent dans ce mot
+                                    est sur a; l’é s’entend à peine; j’exprime par de <lb
+                                          facs="#eSc_line_f23b426b"/>petites italiques les voyelles
+                                    de ce genre. </note>
+                              <note n="9"><lb facs="#eSc_line_3bfc83d2"/>(9) A Groix, au lieu des
+                                    formes du verbe rei ou rein, donner, on emploie les <lb
+                                          facs="#eSc_line_e1d0ac24"/>formes du verbe dont le thème
+                                    est en Armorique groa ou gra et qui n’a ailleurs <lb
+                                          facs="#eSc_line_8e884d0d"/>que le sens de faire.</note>
+
+
+                        </noteGrp>
+                        <pb facs="#chrestomathie-bret.pdf_page_16" n="378"/>
+                        <fw type="pageNumb">— 378 —</fw>
+
+                        <p n="13"><lb facs="#eSc_line_0f2ffee8"/><num>13</num>. Hag e béar e
+                              zéyèw goudé, er mâb vouānkãn, ged er péc ’h en dwai <lb
+                                    facs="#eSc_line_3b0d5feb"/>daštumet tehōn̄, e hum lak <num
+                                    type="appelNote" n="1">(1)</num> én héānt hui’ mont d ’our vrô
+                                    <lb facs="#eSc_line_3778bcac"/>péal-péal. Hag énōn̄ yōn̄ e
+                              zispignas é zānné é faéwign é ’r <lb facs="#eSc_line_f18b0cd1"
+                              />bayardieac ’h. </p>
+                        <p n="14"><lb facs="#eSc_line_5caf039a"/><num>14</num>. Ha bén m ’en dwai
+                              dispignet er péc ’h en dwai, é tas our gerteri <lb
+                                    facs="#eSc_line_7346183e"/>vras é ’r vrô-sé, hag é tas
+                              tehōn̄ en dout diānnès. </p>
+                        <p n="15"><lb facs="#eSc_line_7cba9f5a"/><num>15</num>. Yōn̄ e yas enta, hag
+                              um lakas é gôpr ged oun daén zo <num type="appelNote" n="2"
+                                    >(2)</num> e 'r vro, <lb facs="#eSc_line_4940a2a4"/>hag ennan er
+                              hassas d’oun ti dehōn̄ ar er maèzèw de warn er <lb
+                                    facs="#eSc_line_92deb1d6"/>mouc ’h. </p>
+                        <p n="16"><lb facs="#eSc_line_f31c9553"/><num>16</num>. Ivoul en dwai de
+                              gargign é gôv get er restašèw e zéabé er mouc ’h <lb
+                                    facs="#eSc_line_e966e44c"/>ha daén ne ré dehōn̄. </p>
+                        <p n="17"><lb facs="#eSc_line_5c00214d"/><num>17</num>. Mès pe zas tehōn̄
+                              dištreign doc’htōn̄ yōn̄ mém, yōn̄ e laras : ha <lb
+                                    facs="#eSc_line_6e940780"/>nag e vevelli zo é ti me zâd hag en
+                              dès bara ou gwalh, ha mé e <lb facs="#eSc_line_ec978814"/>varw eman
+                              get en nãn. </p>
+                        <p n="18"><lb facs="#eSc_line_64e8b060"/><num>18</num>. Sewéal e hrign, ha
+                              me yei dad me zâd, ha me larô dehōn̄ : péhet <lb
+                                    facs="#eSc_line_6d3a7946"/>em bés éneb t’en nénw hag éneb
+                              toc’h; n’en dōn ket mu dign <lb facs="#eSc_line_9da8733b"/>de vout
+                              galhuet ou mâb. </p>
+                        <p n="22"><lb facs="#eSc_line_ba05190b"/><num>22</num>. Mès en tâd e laras
+                              d’é vévelli : casset fonus é zai kétãn ha guisket <lb
+                                    facs="#eSc_line_49957e9a"/>i dehōn̄, ha laket our bézèw ar é
+                              véz, hag our bwètèw en é dreid. </p>
+                        <p n="23"><lb facs="#eSc_line_90e690ba"/><num>23</num>. Casset eué our leui
+                              lard ha lahet ōn̄, déabéamb ha gramb chèr<lb break="no"
+                                    facs="#eSc_line_efecc506"/>vâd. </p>
+                        <p n="24"><lb facs="#eSc_line_b1e54478"/><num>24</num>. Rac er mâb man
+                              d’eiñ e wai marw hag e ma revèwet, colt e wè <lb
+                                    facs="#eSc_line_f9a7069d"/>hag e ma kawet. Hag ai hum lakas
+                              d’obér fešt. </p>
+                        <p n="25"><lb facs="#eSc_line_d4c51d2a"/><num>25</num>. Mes e vâb kôhãn e
+                              wai é ’r park; ha pe zas en dro, ha pe doštas <lb
+                                    facs="#eSc_line_9a83e128"/>d’en ti, yōn̄ e gléwas er hān hag er
+                              hrol. </p>
+                        <p n="26"><lb facs="#eSc_line_da793566"/><num>26</num>. Hag yōn̄ e halhuas
+                              uinōn zo er vevelli hag e houlennas petra <lb
+                                    facs="#eSc_line_044c8c14"/>wai en dra zé. </p>
+                        <p n="27"><lb facs="#eSc_line_03c1b39c"/><num>27</num>. Hag énan e laras
+                              tehōn̄ : hou preuï o e zo deit, hag ou tâd en des <lb
+                                    facs="#eSc_line_a7651546"/>lahet er leuï lard é sigur m’e ma
+                              deit endro yac’h. </p>
+                        <p n="28"><lb facs="#eSc_line_67a437a8"/><num>28</num>. Ar gement sé é
+                              sawas droug enōn̄, ha ne véné ket tehōn̄ mont <lb
+                                    facs="#eSc_line_487159a5"/>ebarh; mes é dâd e yas é ’r maez
+                              hag e hum lakas d’er paedign. </p>
+                        <p n="29"><lb facs="#eSc_line_3d372c32"/><num>29</num>. Hag enan e respondas
+                              hag e laras d’é dâd : šetu mar e vlai é ōn 
+                              
+                              <noteGrp>
+                                    <note n="1"><lb facs="#eSc_line_0c42d3cb"/><num type="appelNote"
+                                                n="1">(1)</num> Le prétérit en as a à peu près
+                                          disparu de Groix, Belle-Ile et autres lieux. </note>
+                                    <note n="2"><lb facs="#eSc_line_4a5ce5a7"/><num type="appelNote"
+                                                n="2">(2)</num> Zo remplace l’ag du reste du
+                                          Vannetais.</note>
+
+
+                              </noteGrp>
+                              <pb facs="#chrestomathie-bret.pdf_page_17" n="379"/>
+                              <fw type="pageNumb">— 379 —</fw>
+                              <lb facs="#eSc_line_d160a40c"/>dān de gourhemennèw <num
+                                    type="appelNote" n="1">(1)</num> ha biskwac’h ne’m ès passet <lb
+                                    facs="#eSc_line_7adb97be"/>drešt hānni zonai, ha biskwac ’h n’e
+                              fes greit our harw d’eiñ <lb facs="#eSc_line_33e6f689"/>hui' gobér
+                              fešt get me hān̄sorted. </p>
+                        <p n="30"><lb facs="#eSc_line_025997f5"/><num>30</num>. Mes kentic ’h m’e ma
+                              deit er mâb man d’id, pehani en des déabet <lb
+                                    facs="#eSc_line_0e9eb937"/>e zānwé get merhed, té fes lahet
+                              uit-ōn̄ er leuï lard. </p>
+                        <p n="31"><lb facs="#eSc_line_a4327988"/><num>31</num>. Hag en tâd e laras
+                              tehōn̄ : té zou etaw gen-ōn, ha kement tra em <lb
+                                    facs="#eSc_line_ec176621"/>bes e zo d’it. Mès red e wai gobér
+                              fešt ha šinouri, rac er breu <lb facs="#eSc_line_b328ba51"/>man d’id e
+                              wai marw hag é ma revewet, colt e wai hag é ma <lb
+                                    facs="#eSc_line_dce975be"/>kawet.</p>
+
+                        <note>
+                              <lb facs="#eSc_line_5dbe3eb5"/>(Traduit à Groix par M. Stéphan, <lb
+                                    facs="#eSc_line_70a28289"/>revu par M. Guyonvarc ’h <lb
+                                    facs="#eSc_line_27f6f4ff"/>et communiqué par M. l’abbé
+                              BULÉON). </note>
+                  </div>
+                  <div type="parabole" xml:lang="bret-1244" n="10" corresp="#place_9">
+                        <head><lb facs="#eSc_line_62dbbfd8"/>BELLE-ILE (Locmaria) <num type="appelNote" n="2">(2)</num>.</head>
+
+
+
+                        <p n="11"><lb facs="#eSc_line_ce1d0e96"/><num>11</num>. Eun déñ en dwé
+                              dèw vâb. </p>
+                        <p n="12"><lb facs="#eSc_line_5f492baa"/><num>12</num>. Hag er iéwãnkãn
+                              anehè e lar d’é dâd : mac’h thâd <num type="appelNote" n="3"
+                                    >(3)</num> ra d’eiñ <lb facs="#eSc_line_656c408c"/>ma lôd
+                              daoné e tha d’eiñ; ha éōn̄ e lod e thaoné get-è. </p>
+                        <p n="13"><lb facs="#eSc_line_6f8e1002"/><num>13</num>. Pas pèl a théyèw
+                              goudé, er mâb iéwãnkãn, get é thaoné zart <lb
+                                    facs="#eSc_line_7b43070f"/>déhéōn̄, en em lak barc’h ’n hēn̄t
+                              é mont d’eur vrô pèl, hag <lb facs="#eSc_line_5a2ef128"/>éno éōn̄
+                              e thispign i thaoné é véweiñ e ’r bayardegèc’h. </p>
+                        <p n="14"><lb facs="#eSc_line_2eb1e8e5"/><num>14</num>. Ha p ’en dwé
+                              dispignet tout er pèc’h en dwé, deit e wè eur <lb
+                                    facs="#eSc_line_4ec6cbb4"/>bewranté vras barc’h er vrô sé,
+                              hag é ta d’en devout fôt. </p>
+                        <p n="15"><lb facs="#eSc_line_c2afe8b6"/><num>15</num>. Eōn̄ é va enta é
+                              rôc, hag en em lak é gôpr get eun déñ zo ’r vrô. <lb
+                                    facs="#eSc_line_7bd3aa9b"/>Hag hénin̄ er hass d’eun ti
+                              déhéōn̄ d’er mézèw eit gwarn er <lb facs="#eSc_line_5be3e498"
+                              />môc’h. </p>
+                        <p n="16"><lb facs="#eSc_line_3d7b8b5c"/><num>16</num>. Eōn̄ en dévéhé
+                              cârzet cargeiñ i gôf get er sclôr e thèbré er moc’h <lb
+                                    facs="#eSc_line_6e778017"/>més déñ ne ré ket déhéōn̄.</p>
+
+                        <noteGrp>
+                              <note n="1"><lb facs="#eSc_line_70f8cf7d"/>(1) A Groix ainsi qu’à
+                                    Belle-Ile et sur une bonne partie de la côte vanne<lb break="no"
+                                          facs="#eSc_line_79c59121"/>taise, le tutoiement est la
+                                    forme ordinaire de la conversation. </note>
+                              <note n="2"><lb facs="#eSc_line_bd8a5845"/>(2) Le trait
+                                    caractéristique du breton de Belle-Ile, c’est qu’il répond en
+                                    cons<lb break="no" facs="#eSc_line_76cef855"/>truction syntactique, au z
+                                    des autres dialectes, provenant de d ou t, par la <lb
+                                          facs="#eSc_line_c6cadb20"/>spirante sonore interdentale.
+                                    Je l’exprime pour plus de clarté par th. La <lb
+                                          facs="#eSc_line_5fe06825"/>spirante dentale existe aussi
+                                    autour de Pontivy, mais elle est, si je puis m’exprimer <lb
+                                          facs="#eSc_line_33a7c4ec"/>ainsi, infra-dentale : la
+                                    langue, pendant la spiration, touche l’extrémité inférieure
+                                          <lb facs="#eSc_line_cdf0b470"/>des dents. </note>
+                              <note n="3"><lb facs="#eSc_line_dd7714a5"/>(3) L’aspiration dans mac’h
+                                    avant la spirante dentale est très nette.</note>
+
+
+                        </noteGrp>
+                        <pb facs="#chrestomathie-bret.pdf_page_18" n="380"/>
+                        <fw type="pageNumb">— 380 —</fw>
+
+                        <p n="17"><lb facs="#eSc_line_93c23545"/><num>17</num>. Més pe tha
+                              déhéōn̄ dištroeiñ doc’htéōn̄ é hunān, éōn̄ e lar : pégé<lb break="no"
+                                    facs="#eSc_line_211e685a"/>ment a wazet é zo br ti mac’h thâd,
+                              hag en dès carget a vara da <lb facs="#eSc_line_de8f0b43"
+                              />thèbreiñ, ha mé e varô amin̄ get en naōn. </p>
+                        <p n="18"><lb facs="#eSc_line_ad18111f"/><num>18</num>. Zèl é reiñ, ha
+                              mé yé da mac’h thâd, ha mé larô déhéōn̄ : mac’h <lb
+                                    facs="#eSc_line_86439fad"/>thâd, péhèd em èz éneb d ’en
+                              nénw hag éneb d’id; n’en dōnn <lb facs="#eSc_line_8a15fb72"/>ket mui
+                              dign de vout galwet ha vâb. </p>
+                        <p n="19"><lb facs="#eSc_line_09d65f81"/><num>19</num>. Més en tâd é lar
+                              d ’i wazet : dèsset timat i zé kétãn, ha gušet <lb
+                                    facs="#eSc_line_3dbb11ff"/>i déhéōn̄, ha laked eur bézèw ar
+                              é véz, ha botèw laer en i dreit. </p>
+                        <p n="20"><lb facs="#eSc_line_4ad4ef47"/><num>20</num>. Dèsset éūé el leu
+                              lard, ha lahet éōn̄; dèbramp ha grwamp chèr-vad. </p>
+                        <p n="21"><lb facs="#eSc_line_5d319dc6"/><num>21</num>. Rac er mâb mān̄
+                              d’ein wé marô ha béwet é endrô, cold é wé ha <lb
+                                    facs="#eSc_line_2f3d67a9"/>câet é endrô. Hag em lakeiñ e
+                              rand d ’obér chèr-vad. </p>
+                        <p n="22"><lb facs="#eSc_line_8716abda"/><num>22</num>. Més é vâb kôhân
+                              é wé barc’h er park; èl me té d ’er gaer, ha pe <lb
+                                    facs="#eSc_line_8ed829e3"/>došté d’en ti, éōn̄ e gléw er
+                              c’hān ’ag er c’horol. </p>
+                        <p n="23"><lb facs="#eSc_line_76c2b1db"/><num>23</num>. Hag éōn̄ é galw
+                              unān ag er wazet hag é oulen get éōn̄ petra wé <lb
+                                    facs="#eSc_line_ded75d2d"/>en dra sé. </p>
+                        <p n="24"><lb facs="#eSc_line_07fa5f43"/><num>24</num>. Hag énin̄ é lar
+                              déhéōn̄ : hou preur é zô deit hag ou tâd en dès <lb
+                                    facs="#eSc_line_7f9f1e8e"/>lahed el leu lard, rac m’en dé deit
+                              yac’h. </p>
+                        <p n="25"><lb facs="#eSc_line_389a3bd6"/><num>25</num>. Ar gement sé é saw
+                              faš enéōn̄, ha ne véné ket mond br ti, més <lb
+                                    facs="#eSc_line_0598c05a"/>é dâd weit ér més en ém lak d’er
+                              pédeiñ. </p>
+                        <p n="26"><lb facs="#eSc_line_5c9ffa57"/><num>26</num>. Hag hanneiñ e
+                              respond hag e lar d’i dâd : a oudé carget a vléyéw <lb
+                                    facs="#eSc_line_a94314de"/>é honn dan da c’hordèw, ha
+                              biskwac’h n’e hes šet reit eur gorik <lb facs="#eSc_line_a2d52666"/>t
+                              ’ein, eit gober fešt get ma amiét. </p>
+                        <p n="27"><lb facs="#eSc_line_cf7d72a9"/><num>27</num>. Més kentic’h èl me
+                              dé deit er mâb mān̄ d ’id, péhani en dès <lb
+                                    facs="#eSc_line_eb653861"/>dèbret i thaoné get er merhied, té
+                              hés lahet eit éōn̄ el leu lard. </p>
+                        <p n="28"><lb facs="#eSc_line_4d1bf955"/><num>28</num>. Hag en tâd é lar
+                              déhéōn̄ : ma mâb, hwés attaw genōn̄, ha tout er <lb
+                                    facs="#eSc_line_f9faff5d"/>pec’h em éz é zô d ’id; més red
+                              é wé gôber chèr-vad ha ’n em <lb facs="#eSc_line_5203f5ed"/>droèl
+                              d ’er joé, rag er breur meiñ d ’id é wé marô hag é zô béwet <lb
+                                    facs="#eSc_line_c34c852f"/>endrô, cold e wé hag é ma kâet
+                              endrô.</p>
+
+                        <note>
+                              <lb facs="#eSc_line_9e8572ae"/>(Traduit à Locmaria par M. Calloc’h.
+                                    <lb facs="#eSc_line_bbfebf2b"/>communiqué avec des remarques
+                                    <lb facs="#eSc_line_c080acb2"/>sur la prononciation par M.
+                              l’abbé BULÉON). </note>
+                  </div>
+                  </div>
+            </body>
+      </text>
+</TEI>
