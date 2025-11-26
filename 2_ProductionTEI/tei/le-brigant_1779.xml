@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+            <fileDesc>
+                  <titleStmt>
+                        <title>Versions bretonnes de la parabole de l'enfant prodigue</title>
+                        <editor>Jacques Le Brigant</editor>
+                        <respStmt>
+                              <resp>Encoding</resp>
+                              <persName xml:id="LING">
+                                    <surname>Ing</surname>
+                                    <forename>Lucence</forename>
+                                    <idno type="orcid">0000-0002-8742-3000</idno>
+                              </persName>
+                        </respStmt>
+                        <principal>
+                              <persName xml:id="BSAGOT">
+                                    <surname>Sagot</surname>
+                                    <forename>Benoît</forename>
+                                    <idno type="orcid">0000-0001-8957-9503</idno>
+                              </persName>
+                        </principal>
+                        <funder>Inria</funder>
+                  </titleStmt>
+                  <publicationStmt>
+                        <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues
+                              de France (COLaF)</publisher>
+                        <date when="2025-11-20"/>
+                        <availability>
+                              <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                        </availability>
+                        <idno>PAR_BRET_002</idno>
+                  </publicationStmt>
+                  <sourceDesc>
+                        <biblStruct>
+                              <monogr>
+                                    <title>Élémens de la langue des celtes gomérites ou bretons :
+                                          introduction à cette langue et par elle à celles de tous
+                                          les peuples connus</title>
+                                    <ref source="https://gallica.bnf.fr/ark:/12148/bpt6k96258004"
+                                          >Ouvrage disponible sur gallica.bnf.fr</ref>
+                                    <author>Jacques Le Brigant</author>
+                                    <imprint>
+                                          <pubPlace>Strasbourg</pubPlace>
+                                          <publisher>Lorenz et Schouler</publisher>
+                                          <date>1779</date>
+                                    </imprint>
+                                    <extent>p. 44-49</extent>
+                              </monogr>
+                        </biblStruct>
+                  </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                  <langUsage>
+                        <language ident="stan-1290">
+                              <idno type="langue">stan1290</idno>
+                              <idno type="script">latn</idno>
+                              <name>français</name>
+                        </language>
+                        <language ident="bret-1244">
+                              <idno type="langue">bret1244</idno>
+                              <idno type="script">latn</idno>
+                              <name>breton</name>
+                        </language>
+                  </langUsage>
+                  <textClass>
+                        <keywords>
+                              <term rend="nonfiction" type="supergenre">Non-fiction</term>
+                              <term rend="nonfiction-academic" type="genre">academic</term>
+                              <term rend="nonfiction-administrative" type="genre">administrative</term>
+                        </keywords>
+                  </textClass>
+            </profileDesc>
+            <revisionDesc>
+                  <change who="#LING" when="2025-11-20">Encodage du fichier</change>
+                  <change who="#LING" when="2025-11-20">Fichier créé par transformation à partir
+                        d'un export escriptorium de fichiers alto</change>
+                  <change who="#LING" when="2025-11-21">Ajouts des métadonnées de langue</change>
+            </revisionDesc>
+      </teiHeader>
+      <facsimile>
+            <surface xml:id="le-brigant.pdf_page_3">
+                  <graphic url="le-brigant.pdf_page_3.png" height="7689px" width="4267px"/>
+                  <zone xml:id="eSc_line_e8ad306e" ulx="3002" uly="800" lrx="3227" lry="1050"/>
+                  <zone xml:id="eSc_line_7d9f2af7" ulx="1261" uly="1439" lrx="2407" lry="1700"/>
+                  <zone xml:id="eSc_line_e3886b1f" ulx="410" uly="1653" lrx="3189" lry="1909"/>
+                  <zone xml:id="eSc_line_58ad2e46" ulx="1077" uly="1930" lrx="2518" lry="2157"/>
+                  <zone xml:id="eSc_line_45f2fa6a" ulx="429" uly="2300" lrx="648" lry="2575"/>
+                  <zone xml:id="eSc_line_24a4eb0b" ulx="660" uly="2300" lrx="3201" lry="2486"/>
+                  <zone xml:id="eSc_line_6c105e20" ulx="671" uly="2447" lrx="3210" lry="2644"/>
+                  <zone xml:id="eSc_line_8feb15ed" ulx="397" uly="2644" lrx="3198" lry="2844"/>
+                  <zone xml:id="eSc_line_d9044953" ulx="401" uly="2853" lrx="3206" lry="3049"/>
+                  <zone xml:id="eSc_line_366c825c" ulx="389" uly="3054" lrx="3181" lry="3259"/>
+                  <zone xml:id="eSc_line_37322937" ulx="397" uly="3246" lrx="3181" lry="3464"/>
+                  <zone xml:id="eSc_line_55e9328f" ulx="384" uly="3447" lrx="3193" lry="3665"/>
+                  <zone xml:id="eSc_line_fa4309f1" ulx="384" uly="3665" lrx="3189" lry="3870"/>
+                  <zone xml:id="eSc_line_f16b3e5b" ulx="380" uly="3870" lrx="2334" lry="4075"/>
+                  <zone xml:id="eSc_line_cff3b7d1" ulx="513" uly="4130" lrx="3185" lry="4352"/>
+                  <zone xml:id="eSc_line_eec48fc2" ulx="371" uly="4344" lrx="3185" lry="4557"/>
+                  <zone xml:id="eSc_line_fc03c08b" ulx="367" uly="4566" lrx="3181" lry="4771"/>
+                  <zone xml:id="eSc_line_b84142be" ulx="367" uly="4750" lrx="3176" lry="4950"/>
+                  <zone xml:id="eSc_line_6a05bb22" ulx="367" uly="4959" lrx="3176" lry="5181"/>
+                  <zone xml:id="eSc_line_70ca1dfc" ulx="376" uly="5164" lrx="3168" lry="5378"/>
+                  <zone xml:id="eSc_line_9f332231" ulx="384" uly="5365" lrx="3168" lry="5595"/>
+                  <zone xml:id="eSc_line_9bc5dc9c" ulx="367" uly="5561" lrx="3168" lry="5783"/>
+                  <zone xml:id="eSc_line_92abdfda" ulx="363" uly="5771" lrx="3163" lry="5984"/>
+                  <zone xml:id="eSc_line_4dccab33" ulx="367" uly="5967" lrx="3159" lry="6223"/>
+                  <zone xml:id="eSc_line_dcd2d9dd" ulx="1809" uly="6157" lrx="2104" lry="6413"/>
+            </surface>
+            <surface xml:id="le-brigant.pdf_page_4">
+                  <graphic url="le-brigant.pdf_page_4.png" height="7542px" width="4267px"/>
+                  <zone xml:id="eSc_line_d57d0d5f" ulx="1101" uly="829" lrx="1309" lry="1055"/>
+                  <zone xml:id="eSc_line_c3b7b899" ulx="1085" uly="1118" lrx="3872" lry="1336"/>
+                  <zone xml:id="eSc_line_18192244" ulx="1085" uly="1319" lrx="3860" lry="1537"/>
+                  <zone xml:id="eSc_line_bc8100ea" ulx="1081" uly="1529" lrx="3877" lry="1730"/>
+                  <zone xml:id="eSc_line_9c340fda" ulx="1085" uly="1730" lrx="3872" lry="1935"/>
+                  <zone xml:id="eSc_line_8543e0c9" ulx="1081" uly="1931" lrx="3881" lry="2128"/>
+                  <zone xml:id="eSc_line_867eb871" ulx="1089" uly="2141" lrx="3881" lry="2350"/>
+                  <zone xml:id="eSc_line_596aefd0" ulx="1081" uly="2329" lrx="3885" lry="2555"/>
+                  <zone xml:id="eSc_line_e9377fc6" ulx="1089" uly="2555" lrx="3889" lry="2782"/>
+                  <zone xml:id="eSc_line_cb948faa" ulx="1098" uly="2761" lrx="2296" lry="2987"/>
+                  <zone xml:id="eSc_line_5a71e049" ulx="1223" uly="3247" lrx="3889" lry="3448"/>
+                  <zone xml:id="eSc_line_5e1d3595" ulx="1114" uly="3452" lrx="3902" lry="3662"/>
+                  <zone xml:id="eSc_line_44be0468" ulx="1102" uly="3657" lrx="3893" lry="3842"/>
+                  <zone xml:id="eSc_line_6c6cc91d" ulx="1098" uly="3850" lrx="3898" lry="4055"/>
+                  <zone xml:id="eSc_line_e9da177c" ulx="1102" uly="4060" lrx="3902" lry="4265"/>
+                  <zone xml:id="eSc_line_c1663c4c" ulx="1102" uly="4273" lrx="3906" lry="4491"/>
+                  <zone xml:id="eSc_line_187d07aa" ulx="1102" uly="4474" lrx="2368" lry="4696"/>
+                  <zone xml:id="eSc_line_1f97daf1" ulx="1190" uly="4743" lrx="3889" lry="4965"/>
+                  <zone xml:id="eSc_line_1f252735" ulx="1106" uly="4969" lrx="3906" lry="5162"/>
+                  <zone xml:id="eSc_line_491aef11" ulx="1110" uly="5153" lrx="3898" lry="5371"/>
+                  <zone xml:id="eSc_line_80675221" ulx="1098" uly="5359" lrx="3902" lry="5560"/>
+                  <zone xml:id="eSc_line_6f668a44" ulx="1102" uly="5564" lrx="3902" lry="5773"/>
+                  <zone xml:id="eSc_line_8197fb75" ulx="1106" uly="5765" lrx="3910" lry="5958"/>
+                  <zone xml:id="eSc_line_72374caf" ulx="1110" uly="5970" lrx="3893" lry="6201"/>
+            </surface>
+            <surface xml:id="le-brigant.pdf_page_5">
+                  <graphic url="le-brigant.pdf_page_5.png" height="7481px" width="4267px"/>
+                  <zone xml:id="eSc_line_8ad1b74f" ulx="2969" uly="810" lrx="3194" lry="1072"/>
+                  <zone xml:id="eSc_line_2913b337" ulx="349" uly="1043" lrx="3181" lry="1259"/>
+                  <zone xml:id="eSc_line_199976d8" ulx="349" uly="1242" lrx="3181" lry="1471"/>
+                  <zone xml:id="eSc_line_2d3a3669" ulx="349" uly="1462" lrx="3181" lry="1679"/>
+                  <zone xml:id="eSc_line_01b9c488" ulx="357" uly="1662" lrx="3177" lry="1870"/>
+                  <zone xml:id="eSc_line_97a56d8b" ulx="361" uly="1870" lrx="3177" lry="2082"/>
+                  <zone xml:id="eSc_line_1500788c" ulx="353" uly="2069" lrx="3160" lry="2281"/>
+                  <zone xml:id="eSc_line_065a2c20" ulx="353" uly="2273" lrx="3173" lry="2485"/>
+                  <zone xml:id="eSc_line_42d63fc7" ulx="361" uly="2472" lrx="3164" lry="2684"/>
+                  <zone xml:id="eSc_line_0f60cfdc" ulx="361" uly="2672" lrx="3160" lry="2892"/>
+                  <zone xml:id="eSc_line_02997022" ulx="357" uly="2876" lrx="2636" lry="3092"/>
+                  <zone xml:id="eSc_line_9bbe364a" ulx="436" uly="3125" lrx="3160" lry="3383"/>
+                  <zone xml:id="eSc_line_4b4c9f9f" ulx="357" uly="3358" lrx="3164" lry="3574"/>
+                  <zone xml:id="eSc_line_5906c637" ulx="349" uly="3549" lrx="3152" lry="3777"/>
+                  <zone xml:id="eSc_line_afdfdb56" ulx="353" uly="3757" lrx="3148" lry="3973"/>
+                  <zone xml:id="eSc_line_11832ec8" ulx="365" uly="3964" lrx="3152" lry="4172"/>
+                  <zone xml:id="eSc_line_f5c40b58" ulx="361" uly="4176" lrx="3144" lry="4384"/>
+                  <zone xml:id="eSc_line_93abc195" ulx="370" uly="4388" lrx="1214" lry="4588"/>
+                  <zone xml:id="eSc_line_99f7fada" ulx="494" uly="4646" lrx="3123" lry="4858"/>
+                  <zone xml:id="eSc_line_a7f57f30" ulx="365" uly="4866" lrx="3148" lry="5066"/>
+                  <zone xml:id="eSc_line_7473dcd3" ulx="365" uly="5070" lrx="3144" lry="5265"/>
+                  <zone xml:id="eSc_line_b7617dc2" ulx="361" uly="5269" lrx="3144" lry="5469"/>
+                  <zone xml:id="eSc_line_328fe95c" ulx="357" uly="5465" lrx="3135" lry="5660"/>
+                  <zone xml:id="eSc_line_1556d903" ulx="361" uly="5668" lrx="3131" lry="5868"/>
+                  <zone xml:id="eSc_line_d7593557" ulx="365" uly="5860" lrx="3119" lry="6130"/>
+                  <zone xml:id="eSc_line_2ceca2c4" ulx="1940" uly="6034" lrx="2239" lry="6284"/>
+            </surface>
+            <surface xml:id="le-brigant.pdf_page_6">
+                  <graphic url="le-brigant.pdf_page_6.png" height="7620px" width="4267px"/>
+                  <zone xml:id="eSc_line_33195219" ulx="1054" uly="795" lrx="1258" lry="1054"/>
+                  <zone xml:id="eSc_line_aa040e43" ulx="1118" uly="1075" lrx="3872" lry="1274"/>
+                  <zone xml:id="eSc_line_aa63b394" ulx="1050" uly="1278" lrx="3868" lry="1481"/>
+                  <zone xml:id="eSc_line_c48b9579" ulx="1055" uly="1490" lrx="3881" lry="1689"/>
+                  <zone xml:id="eSc_line_4cff6f26" ulx="1059" uly="1701" lrx="3894" lry="1896"/>
+                  <zone xml:id="eSc_line_35bd2454" ulx="1055" uly="1905" lrx="3881" lry="2087"/>
+                  <zone xml:id="eSc_line_e457b6b4" ulx="1055" uly="2103" lrx="3885" lry="2298"/>
+                  <zone xml:id="eSc_line_54e8b9e3" ulx="1059" uly="2311" lrx="3881" lry="2501"/>
+                  <zone xml:id="eSc_line_764e9b0e" ulx="1067" uly="2518" lrx="3881" lry="2722"/>
+                  <zone xml:id="eSc_line_797f93ad" ulx="1063" uly="2709" lrx="3072" lry="2929"/>
+                  <zone xml:id="eSc_line_708eed13" ulx="1203" uly="3166" lrx="3881" lry="3386"/>
+                  <zone xml:id="eSc_line_9fc11d0b" ulx="1088" uly="3373" lrx="3868" lry="3581"/>
+                  <zone xml:id="eSc_line_6efeec9e" ulx="1084" uly="3594" lrx="3868" lry="3797"/>
+                  <zone xml:id="eSc_line_d1df511f" ulx="1088" uly="3788" lrx="3894" lry="4021"/>
+                  <zone xml:id="eSc_line_7abcd7b5" ulx="1088" uly="4004" lrx="2381" lry="4246"/>
+            </surface>
+            <surface xml:id="le-brigant.pdf_page_7">
+                  <graphic url="le-brigant.pdf_page_7.png" height="7414px" width="4267px"/>
+                  <zone xml:id="eSc_line_5b01a2e7" ulx="2850" uly="753" lrx="3067" lry="1044"/>
+                  <zone xml:id="eSc_line_e9978833" ulx="457" uly="1033" lrx="3067" lry="1252"/>
+                  <zone xml:id="eSc_line_d2bde9ab" ulx="317" uly="1235" lrx="3092" lry="1449"/>
+                  <zone xml:id="eSc_line_833c6bf1" ulx="317" uly="1441" lrx="3079" lry="1647"/>
+                  <zone xml:id="eSc_line_82cc256d" ulx="325" uly="1651" lrx="3092" lry="1849"/>
+                  <zone xml:id="eSc_line_7caa397b" ulx="321" uly="1845" lrx="3092" lry="2055"/>
+                  <zone xml:id="eSc_line_680a941d" ulx="313" uly="2038" lrx="3071" lry="2236"/>
+                  <zone xml:id="eSc_line_df47cd8b" ulx="321" uly="2244" lrx="3092" lry="2442"/>
+                  <zone xml:id="eSc_line_34829d48" ulx="325" uly="2446" lrx="3104" lry="2636"/>
+                  <zone xml:id="eSc_line_c31e417e" ulx="325" uly="2636" lrx="3075" lry="2854"/>
+                  <zone xml:id="eSc_line_696023e4" ulx="329" uly="2842" lrx="1875" lry="3056"/>
+                  <zone xml:id="eSc_line_04693084" ulx="461" uly="3109" lrx="3083" lry="3311"/>
+                  <zone xml:id="eSc_line_f6d51642" ulx="329" uly="3323" lrx="3071" lry="3529"/>
+                  <zone xml:id="eSc_line_c08953ae" ulx="342" uly="3517" lrx="3071" lry="3727"/>
+                  <zone xml:id="eSc_line_aa65ba0e" ulx="342" uly="3723" lrx="3079" lry="3925"/>
+                  <zone xml:id="eSc_line_c57e9495" ulx="346" uly="3917" lrx="3083" lry="4147"/>
+                  <zone xml:id="eSc_line_325432b4" ulx="350" uly="4114" lrx="841" lry="4403"/>
+                  <zone xml:id="eSc_line_843a23b7" ulx="1799" uly="5986" lrx="2053" lry="6209"/>
+            </surface>
+            <surface xml:id="Élémens_de_la_langue_des_...Le_Brigant_bpt6k96258004-2.pdf_page_3">
+                  <graphic
+                        url="Élémens_de_la_langue_des_...Le_Brigant_bpt6k96258004-2.pdf_page_3.png"
+                        height="7715px" width="4267px"/>
+                  <zone xml:id="eSc_line_8238a71a" ulx="997" uly="681" lrx="1345" lry="932"/>
+                  <zone xml:id="eSc_line_07414cf2" ulx="1488" uly="1512" lrx="3375" lry="1753"/>
+                  <zone xml:id="eSc_line_78fc3a46" ulx="961" uly="2086" lrx="1300" lry="2488"/>
+                  <zone xml:id="eSc_line_db486850" ulx="1247" uly="2108" lrx="3821" lry="2344"/>
+                  <zone xml:id="eSc_line_32535b14" ulx="1290" uly="2310" lrx="3829" lry="2515"/>
+                  <zone xml:id="eSc_line_e6b0a775" ulx="1029" uly="2528" lrx="3838" lry="2704"/>
+                  <zone xml:id="eSc_line_9f8a8822" ulx="1029" uly="2721" lrx="3821" lry="2931"/>
+                  <zone xml:id="eSc_line_cb20892f" ulx="1029" uly="2931" lrx="3812" lry="3150"/>
+                  <zone xml:id="eSc_line_4a9d0123" ulx="1024" uly="3137" lrx="3821" lry="3360"/>
+                  <zone xml:id="eSc_line_f8505505" ulx="1024" uly="3343" lrx="3821" lry="3566"/>
+                  <zone xml:id="eSc_line_53c0bc4e" ulx="1037" uly="3548" lrx="2963" lry="3788"/>
+                  <zone xml:id="eSc_line_b88b9c7c" ulx="1179" uly="3990" lrx="3825" lry="4256"/>
+                  <zone xml:id="eSc_line_9245fc7c" ulx="1033" uly="4243" lrx="3825" lry="4453"/>
+                  <zone xml:id="eSc_line_cf3d5381" ulx="1033" uly="4448" lrx="3825" lry="4650"/>
+                  <zone xml:id="eSc_line_9673e1f0" ulx="1037" uly="4654" lrx="3825" lry="4856"/>
+                  <zone xml:id="eSc_line_4ab5fd93" ulx="1029" uly="4851" lrx="3829" lry="5066"/>
+                  <zone xml:id="eSc_line_3a9fbde5" ulx="1029" uly="5053" lrx="3829" lry="5267"/>
+                  <zone xml:id="eSc_line_2ffe7ba8" ulx="1029" uly="5254" lrx="3842" lry="5477"/>
+                  <zone xml:id="eSc_line_c1a1268f" ulx="1033" uly="5473" lrx="3838" lry="5683"/>
+                  <zone xml:id="eSc_line_63519bf2" ulx="1037" uly="5661" lrx="3829" lry="5914"/>
+            </surface>
+      </facsimile>
+      <text>
+            <body>
+                  <div>
+                        <pb
+                              facs="#Élémens_de_la_langue_des_...Le_Brigant_bpt6k96258004-2.pdf_page_3"
+                              n="44"/>
+                        <fw type="pageNumb">44</fw>
+                        <div xml:lang="bret-1244" xml:id="bret-001" corresp="#fr-001">
+                              <head><lb facs="#eSc_line_07414cf2"/>AR MAB PRODIG.</head>
+
+                              <p n="11">
+                                    <hi rend="lettrine"><lb facs="#eSc_line_78fc3a46"/>E</hi><lb
+                                          facs="#eSc_line_db486850" break="no"/>un dénn an éfoa
+                                    daou vab,</p> 
+                              <p n="12">ar iaouankan <lb facs="#eSc_line_32535b14"/>à laras
+                                    dé dad: ma zad, reit din al lo<lb break="no"
+                                          facs="#eSc_line_e6b0a775"/>den mado à deu din; ag o
+                                    fartajas.</p>
+                              <p n="13">A neu<lb break="no" facs="#eSc_line_9f8a8822"/>bed
+                                    gondé, ar mab iaouank gant é all draou <lb
+                                          facs="#eSc_line_cb20892f"/>à bartias évit éur vro bell
+                                    ag enò a daibras, <lb facs="#eSc_line_4a9d0123"/>è vado en eur
+                                    vevan dreist muzur.</p>
+                              <p n="14">A pan efoé <lb facs="#eSc_line_f8505505"
+                                    />dispignet an oll, a deüas ar ghernes er vo <lb
+                                          facs="#eSc_line_53c0bc4e"/>zé, ag à comensas caout fod.</p>
+                              <p n="15">
+                                          <lb facs="#eSc_line_b88b9c7c"/>Ag à as, ag èn eun la kaas
+                                    en servi eun <lb facs="#eSc_line_9245fc7c"/>dénn euz ar vro
+                                    zé, à énn cassas voar ar mez <lb facs="#eSc_line_cf3d5381"
+                                    />da vessa ar moh,</p>
+                              <p n="16">ag an éfoa hoant dá gargan <lb
+                                          facs="#eSc_line_9673e1f0"/>è goff, euz ar plusk à
+                                    daibré ar moh, à <lb facs="#eSc_line_4ab5fd93"/>dènn na rai
+                                    déan.</p>
+                              <p n="17">Kend ar fin en eun son<lb break="no"
+                                          facs="#eSc_line_3a9fbde5"/>jal én an è unan a laras: nag
+                                    à dud à zo <lb facs="#eSc_line_2ffe7ba8"/>én ti ma zad, an
+                                    euz bara ar pez à ghèront! <lb facs="#eSc_line_c1a1268f"/>ag
+                                    amman à varvan gant an naon.</p>
+                              <p n="18" part="I">Zevel <lb
+                                          facs="#eSc_line_63519bf2"/>à rin, ag à in dam zad, ag a
+                                    larin dèan: ma</p>
+                        </div>
+                        <pb facs="#le-brigant.pdf_page_3" n="45"/>
+                        <fw type="pageNumb">45</fw>
+                        <div xml:lang="stan-1290" xml:id="fr-001" corresp="#bret-001">
+                              <head><lb facs="#eSc_line_7d9f2af7"/>PARABOLE <lb
+                                          facs="#eSc_line_e3886b1f"/>DE L’ENFANT PRODIGUE. <lb
+                                          facs="#eSc_line_58ad2e46"/>Luc. C. 13. V. 11 -32.</head>
+
+                              <p n="11">
+                                    <lb facs="#eSc_line_45f2fa6a"/><hi rend="lettrine">U</hi><lb
+                                          break="no" facs="#eSc_line_24a4eb0b"/>N homme avoit deux
+                                    fils,</p>
+                              <p n="12">le plus jeune dit <lb facs="#eSc_line_6c105e20"/>à son
+                                    pere : Mon pere, donne-moi la part <lb facs="#eSc_line_8feb15ed"
+                                    />du bien qui me revient; &amp; le pere fit le partage.</p>
+                              <p n="13"><lb
+                                          facs="#eSc_line_d9044953"/>Peu de jours après le plus
+                                    jeune aiant ramassé <lb facs="#eSc_line_366c825c"/>tout ce
+                                    qu’il avoit, partit pour un pays éloigné, <lb
+                                          facs="#eSc_line_37322937"/>&amp; y dépensa tout son bien
+                                    en vivant dans la <lb facs="#eSc_line_55e9328f"/>débauche.</p>
+                                   <p n="14">Après qu’il eut dissipé tout, il sur<lb break="no" 
+                                          facs="#eSc_line_fa4309f1"/>vint une grande famine dans ce
+                                    pays, &amp; il <lb facs="#eSc_line_f16b3e5b"/>commença à être
+                                    dans l’indigence.</p>
+                              <p n="15"><lb facs="#eSc_line_cff3b7d1"/>Alors il s’en
+                                    alla, &amp; se mit au service d’un <lb facs="#eSc_line_eec48fc2"
+                                    />des habitans de ce pays, qui l’envoya à sa mai<lb break="no" 
+                                          facs="#eSc_line_fc03c08b"/>son des champs, pour y garder
+                                    les cochons,</p>
+                              <p n="16">&amp; <lb facs="#eSc_line_b84142be"/>il desiroit de
+                                    pouvoir se rassasier des écosses, que <lb
+                                          facs="#eSc_line_6a05bb22"/>les cochons mangeoient, &amp;
+                                    personne ne lui en <lb facs="#eSc_line_70ca1dfc"/>donnoit.</p>
+                              <p n="17">A la
+                                    fin rentrant en lui même il dit: <lb facs="#eSc_line_9f332231"
+                                    />Qu’il y a de gens à gages dans la maison de <lb
+                                          facs="#eSc_line_9bc5dc9c"/>mon pere, qui ont du pain en
+                                    abondance! &amp; <lb facs="#eSc_line_92abdfda"/>moi je meurs ici
+                                    de faim!</p>
+                              <p n="18" part="I">Je vai partir &amp; <lb facs="#eSc_line_4dccab33"
+                                    />j'irai vers mon pere, &amp; je lui dirai: mon</p>
+                        </div>
+                        <fw type="quireMarks">D 3</fw>
+                        <pb facs="#le-brigant.pdf_page_4" n="46"/>
+                        <fw type="pageNumb">46</fw>
+                        <div xml:lang="bret-1244" xml:id="bret-002" corresp="#fr-002">
+                              <p n="18" part="F">
+                                    <lb facs="#eSc_line_c3b7b899"/>zad, pehet emmeuz ouz an ev, à
+                                    dirag <lb facs="#eSc_line_18192244"/>oh.</p>
+                              <p n="19">Na véritan kên bèan
+                                    galvet o mab, <lb facs="#eSc_line_bc8100ea"/>leket anon evel
+                                    unan à o mitigien.</p>
+                              <p n="20">Ag en <lb facs="#eSc_line_9c340fda"/>eun
+                                    zével à deüas da è dad. Pa voa pèll <lb
+                                          facs="#eSc_line_8543e0c9"/>hoas, è dad à voèlas an
+                                    éan, à leun à druez <lb facs="#eSc_line_867eb871"/>à rédas,
+                                    ag ag enn briataas, ag à pokas déan. </p>
+                                    <p n="21"><lb
+                                          facs="#eSc_line_596aefd0"/>Ar mab à laras: ma zad, pehét
+                                    emmeuz ouz <lb facs="#eSc_line_e9377fc6"/>an ev, à dirag oh, na
+                                    n’on kén dign da <lb facs="#eSc_line_cb948faa"/>véan anvet ò
+                                    map.</p>
+                                    <p n="22"><lb facs="#eSc_line_5a71e049"/>An tad à laras daé
+                                    vitijen, digasset rak<lb break="no"  facs="#eSc_line_5e1d3595"/>tal ar
+                                    gaèran zai, ag hé gouisket déan, leket <lb
+                                          facs="#eSc_line_44be0468"/>eur bizaour voar è vis à
+                                    botto èn è dréid; </p>
+                                          <p n="23"><lb facs="#eSc_line_6c6cc91d"/>à digasset al
+                                    loué lard, à lahet an, ma dai <lb facs="#eSc_line_e9da177c"
+                                    />promp, à ma réfomp fest.</p>
+                              <p n="24">Rag ar mab, man <lb
+                                          facs="#eSc_line_c1663c4c"/>din, èvoa marv, ag an euz
+                                    adbévet, collet <lb facs="#eSc_line_187d07aa"/>évoa, ag é
+                                    adcavet. <lb facs="#eSc_line_1f97daf1"/>Ag à commansjont da
+                                    ober chér vad,</p>
+                              <p n="25">è vap <lb facs="#eSc_line_1f252735"/>énan
+                                    évoa er parko, à pa deuai, agà tostaai <lb
+                                          facs="#eSc_line_491aef11"/>dàn ti à glévas ar jubans à
+                                    trouz an danso.</p>
+                              <p n="26"><lb facs="#eSc_line_80675221"/>Ag à halvas unan
+                                    euz ar vitigien, ag a <lb facs="#eSc_line_6f668a44"/>houllas
+                                    diant an pétra à voa zé? </p>
+                                    <p n="27">ag à laras <lb
+                                          facs="#eSc_line_8197fb75"/>ennes déan : ariv è o preur,
+                                    ag an euz groet <lb facs="#eSc_line_72374caf"/>ò tad lahan al
+                                    louè lard, en ascont è retornet iah.</p>
+                        </div>
+                        <pb facs="#le-brigant.pdf_page_5" n="47"/>
+                        <fw type="pageNumb">47</fw>
+                        <div xml:lang="stan-1290" xml:id="fr-002" corresp="#bret-002">
+                              <p  n="18" part="F">
+                                    <lb facs="#eSc_line_2913b337"/>pere, j'ai peché contre le ciel,
+                                    &amp; devant <lb facs="#eSc_line_199976d8"/>vous.</p>
+                              <p n="19">Je ne suis
+                                    plus digne d’être appellé votre <lb facs="#eSc_line_2d3a3669"
+                                    />fils, mais traitez-moi comme un de vos servi<lb break="no" 
+                                          facs="#eSc_line_01b9c488"/>teurs à gages.</p>
+                              <p n="20">Et sur le champ
+                                    il partit, &amp; vint <lb facs="#eSc_line_97a56d8b"/>vers son
+                                    pere. Lorsqu’il étoit encore loin, son <lb
+                                          facs="#eSc_line_1500788c"/>pere l’apperçut, &amp; fut
+                                    touché de compassion, &amp; <lb facs="#eSc_line_065a2c20"
+                                    />courant à lui, il se jetta à son col, &amp; l’em<lb break="no" 
+                                          facs="#eSc_line_42d63fc7"/>brassa tendrement.</p>
+                              <p n="21">Son fils lui
+                                    dit: mon pere, <lb facs="#eSc_line_0f60cfdc"/>j’ai pechè contre
+                                    le ciel, &amp; contre vous, &amp; je <lb
+                                          facs="#eSc_line_02997022"/>ne mérite plus d’être
+                                    appellé votre fils.</p>
+                              <p n="22"><lb facs="#eSc_line_9bbe364a"/>Le pere dit
+                                    à ses domestiques: apportez vite la plus <lb
+                                          facs="#eSc_line_4b4c9f9f"/>belle robe, mettez la lui,
+                                    &amp; une bague au doigt &amp; des <lb facs="#eSc_line_5906c637"
+                                    />souliers aux pieds;</p>
+                              <p n="23">&amp; amenez le veau gras, &amp; <lb
+                                          facs="#eSc_line_afdfdb56"/>le tués, pour que nous
+                                    fassions bonne chere, &amp; <lb facs="#eSc_line_11832ec8"/>que
+                                    nous nous rejouissions.</p>
+                              <p n="24">Car mon fils, que voici, <lb
+                                          facs="#eSc_line_f5c40b58"/>étoit mort, &amp; il est
+                                    ressuscité, il étoit perdu, &amp; <lb
+                                          facs="#eSc_line_93abc195"/>il est retrouvé.</p>
+                              <p n="25"><lb
+                                          facs="#eSc_line_99f7fada"/>Or son fils ainé étoit dans
+                                    les champs, &amp;, <lb facs="#eSc_line_a7f57f30"/>lorsqu’il
+                                    venoit &amp; qu’il étoit près de la maison, il <lb
+                                          facs="#eSc_line_7473dcd3"/>entendit la symphonie &amp; le
+                                    bruit de ceux qui dan<lb break="no"  facs="#eSc_line_b7617dc2"/>soient.</p>
+                              <p n="26">Il
+                                    appella donc un des serviteurs, &amp; lui de<lb break="no" 
+                                          facs="#eSc_line_328fe95c"/>manda ce que c’étoit?</p>
+                              <p n="27">&amp; ce
+                                    domestique lui dit: <lb facs="#eSc_line_1556d903"/>votre frere
+                                    est revenu, &amp; votre pere a fait tuer <lb
+                                          facs="#eSc_line_d7593557"/>le veau gras, parce qu’il est
+                                    revenu sain &amp; sauf.</p>
+                        </div>
+                        <fw type="quireMarks">D4</fw>
+                        <pb facs="#le-brigant.pdf_page_6" n="48"/>
+                        <fw type="pageNumb">48</fw>
+                        <div xml:lang="bret-1244" xml:id="bret-003" corresp="#fr-003">
+                              <p n="28">
+                                    <lb facs="#eSc_line_aa040e43"/>Ma hlazas, à na deur vée ket
+                                    antrènn, è <lb facs="#eSc_line_aa63b394"/>dad èt er mez, en eun
+                                    lakaas dé bedin.</p>
+                              <p n="29">Ag <lb facs="#eSc_line_c48b9579"/>èn en eun
+                                    ghèmer ar goms à laras da é dad: <lb
+                                          facs="#eSc_line_4cff6f26"/>chetu kement à vlaio a zo o
+                                    servijan, biscoas <lb facs="#eSc_line_35bd2454"/>na meuz
+                                    trémenet oh urzo, a nèp goez nò <lb facs="#eSc_line_e457b6b4"
+                                    />heuz roet din eur mènn da daibrin gant ma <lb
+                                          facs="#eSc_line_54e8b9e3"/>mignoned ;</p>
+                              <p n="30">maes panné ariet ar
+                                    mab man dah, <lb facs="#eSc_line_764e9b0e"/>an euz daibret e
+                                    vado gant plahed fall, à <lb facs="#eSc_line_797f93ad"/>heuz
+                                    lahet èvit an al loué lard.</p>
+                              <p n="31"><lb facs="#eSc_line_708eed13"
+                                    />Maés èn à laras dèan : ma map, houi à zo <lb
+                                          facs="#eSc_line_9fc11d0b"/>ghènin bep coulz, à kèment
+                                    emmeuz à zo dáh; </p>
+                                    <p n="32"><lb facs="#eSc_line_6efeec9e"/>maes ret à voa
+                                    ober fest, à joa, rag o <lb facs="#eSc_line_d1df511f"/>preur
+                                    man evoa marv, ag è adbévet, collet <lb
+                                          facs="#eSc_line_7abcd7b5"/>évoa, ag é adcavet.</p>
+                        </div>
+                        <pb facs="#le-brigant.pdf_page_7" n="49"/>
+                        <fw type="pageNumb">49</fw>
+                        <div xml:lang="stan-1290" xml:id="fr-003" corresp="#bret-003">
+                              <p n="28">
+                                    <lb facs="#eSc_line_e9978833"/>Ce qui l’aiant faché, il ne
+                                    vouloit pas entrer; <lb facs="#eSc_line_d2bde9ab"/>son pere
+                                    sortit &amp; se mit à l’en prier.</p>
+                              <p n="29">Le fils <lb
+                                          facs="#eSc_line_833c6bf1"/>ainé en prenant la parole dit
+                                    à son pere: <lb facs="#eSc_line_82cc256d"/>voilà déja tant
+                                    d’années que je vous sers, ja<lb break="no"  facs="#eSc_line_7caa397b"
+                                    />mais je ne vous ai désobéi en rien, &amp; jamais <lb
+                                          facs="#eSc_line_680a941d"/>néantmoins vous ne m’avez
+                                    donné un chevreau <lb facs="#eSc_line_df47cd8b"/>pour le manger
+                                    avec mes amis;</p>
+                              <p n="30">mais aussi-tôt <lb facs="#eSc_line_34829d48"
+                                    />que votre autre fils, qui a mangé son bien avec <lb
+                                          facs="#eSc_line_c31e417e"/>des femmes perdues, est
+                                    arrivé, vous avés fait <lb facs="#eSc_line_696023e4"/>tuer
+                                    pour lui le veau gras.</p>
+                              <p n="31"><lb facs="#eSc_line_04693084"/>Le pere
+                                    lui repondit: mon fils, vous êtes tou<lb break="no" 
+                                          facs="#eSc_line_f6d51642"/>jours avec moi, &amp; tout ce
+                                    que j’ai est à vous;</p>
+                              <p n="32"><lb facs="#eSc_line_c08953ae"/>mais il
+                                    falloit faire un festin, &amp; nous rejouir, <lb
+                                          facs="#eSc_line_aa65ba0e"/>parce que votre frere, que
+                                    voici, étoit mort, &amp; il <lb facs="#eSc_line_c57e9495"/>est
+                                    revenu à la vie; il étoit perdu, &amp; il est <lb
+                                          facs="#eSc_line_325432b4"/>retrouvé.</p>
+                        </div>
+                        <fw type="quireMarks">D5</fw>
+
+                  </div>
+            </body>
+      </text>
+</TEI>

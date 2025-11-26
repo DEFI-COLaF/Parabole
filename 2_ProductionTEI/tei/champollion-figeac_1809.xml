@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+            <fileDesc>
+                  <titleStmt>
+                        <title>Versions vivaro-alpines de la parabole de l'enfant prodigue</title>
+                        <editor>Jacques-Joseph Champollion-Figeac</editor>
+                        <respStmt>
+                              <resp>Encoding</resp>
+                              <persName xml:id="LING">
+                                    <surname>Ing</surname>
+                                    <forename>Lucence</forename>
+                                    <idno type="orcid">0000-0002-8742-3000</idno>
+                              </persName>
+                        </respStmt>
+                        <principal>
+                              <persName xml:id="BSAGOT">
+                                    <surname>Sagot</surname>
+                                    <forename>Benoît</forename>
+                                    <idno type="orcid">0000-0001-8957-9503</idno>
+                              </persName>
+                        </principal>
+                        <funder>Inria</funder>
+                  </titleStmt>
+                  <publicationStmt>
+                        <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues
+                              de France (COLaF)</publisher>
+                        <date when="2025-11-19"/>
+                        <availability>
+                              <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                        </availability>
+                        <idno>PAR_VIV_001</idno>
+                  </publicationStmt>
+                  <sourceDesc>
+                        <biblStruct>
+                              <monogr>
+                                    <title>Nouvelles Recherches sur les patois ou idiomes vulgaires
+                                          de la France, et en particulier sur ceux du département de
+                                          l'Isère</title>
+                                    <ref source="https://gallica.bnf.fr/ark:/12148/bpt6k6354826j"
+                                          >Ouvrage disponible sur gallica.bnf.fr</ref>
+                                    <author>Jacques-Joseph Champollion-Figeac</author>
+                                    <imprint>
+                                          <publisher>Goujon</publisher>
+                                          <pubPlace>Paris</pubPlace>
+                                          <date>1809</date>
+                                    </imprint>
+                                    <extent>p. 110-122</extent>
+                              </monogr>
+                        </biblStruct>
+                  </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                  <langUsage>
+                        <language ident="viva-1235">
+                              <idno type="langue">viva1235</idno>
+                              <idno type="script">latn</idno>
+                              <name>vivaro-alpin</name>
+                        </language>
+                        <language ident="vaud-1238">
+                              <idno type="langue">vaud1238</idno>
+                              <idno type="script">latn</idno>
+                              <name>vaudois</name>
+                        </language>
+                        <language ident="stan-1290">
+                              <idno type="langue">stan1290</idno>
+                              <idno type="script">latn</idno>
+                              <name>français</name>
+                        </language>
+                  </langUsage>
+                  <textClass>
+                        <keywords>
+                              <term rend="nonfiction" type="supergenre">Non-fiction</term>
+                              <term rend="nonfiction-academic" type="genre">academic</term>
+                              <term rend="nonfiction-administrative" type="genre">administrative</term>
+                        </keywords>
+                  </textClass>
+                  <settingDesc>
+                       <listPlace>
+                             <place xml:id="place_1" corresp="#viva-1235">
+                              <settlement type="autour">
+                                    <name type="original">Canton de l'Oysan</name>
+                                    <name type="geonames">Romanche</name>
+                                    <idno type="geonames">2983022</idno>
+                              </settlement>
+                              <region>
+                                    <name>Isère</name>
+                                    <idno type="geonames">3012715</idno>
+                              </region>
+                        </place>
+                        <place xml:id="place_2" corresp="#viva-1235">
+                              <settlement>
+                                    <name>Trièves</name>
+                                    <idno type="geonames">2971683</idno>
+                              </settlement>
+                              <region>
+                                    <name>Isère</name>
+                                    <idno type="geonames">3012715</idno>
+                              </region>
+                        </place>
+                             <place xml:id="place_3" corresp="#vaud-1238">
+                                   <settlement>
+                                         <name>Canton de Vaud</name>
+                                         <idno type="geonames">2658182</idno>
+                                   </settlement>
+                                   <country>
+                                         <name>Suisse</name>
+                                         <idno type="geonames">2658434</idno>
+                                   </country>
+                             </place>
+                       </listPlace>
+                  </settingDesc>
+            </profileDesc>
+            <revisionDesc>
+                  <change who="#LING" when="2025-11-19">Encodage du fichier</change>
+                  <change who="#LING" when="2025-11-19">Fichier créé par transformation à partir
+                        d'un export escriptorium de fichiers alto</change>
+                  <change who="#LING" when="2025-11-21">Ajouts des métadonnées de langue et de lieu</change>
+            </revisionDesc>
+      </teiHeader>
+      <facsimile>
+            <surface xml:id="paraboles-Champollion-Figeac.pdf_page_01">
+                  <graphic url="paraboles-Champollion-Figeac.pdf_page_01.png" height="7481px"
+                        width="4267px"/>
+                  <zone xml:id="eSc_line_4c87a6cc" ulx="2202" uly="567" lrx="2944" lry="841"/>
+                  <zone xml:id="eSc_line_562a86a6" ulx="2233" uly="885" lrx="2788" lry="1090"/>
+                  <zone xml:id="eSc_line_de19eba8" ulx="1330" uly="1196" lrx="3705" lry="1425"/>
+                  <zone xml:id="eSc_line_46b6bd0b" ulx="1738" uly="1433" lrx="3306" lry="1641"/>
+                  <zone xml:id="eSc_line_b56d0e0e" ulx="1131" uly="1716" lrx="3925" lry="1945"/>
+                  <zone xml:id="eSc_line_0b2161f1" ulx="1272" uly="1920" lrx="3921" lry="2136"/>
+                  <zone xml:id="eSc_line_12c345a4" ulx="1272" uly="2115" lrx="3917" lry="2335"/>
+                  <zone xml:id="eSc_line_803b3877" ulx="1264" uly="2306" lrx="3676" lry="2531"/>
+                  <zone xml:id="eSc_line_4dae1ffa" ulx="1255" uly="2614" lrx="3896" lry="2838"/>
+                  <zone xml:id="eSc_line_c8d5eb61" ulx="1114" uly="2817" lrx="3896" lry="3029"/>
+                  <zone xml:id="eSc_line_6c93ff24" ulx="1093" uly="3009" lrx="3884" lry="3229"/>
+                  <zone xml:id="eSc_line_7bf50fb8" ulx="1106" uly="3208" lrx="3888" lry="3432"/>
+                  <zone xml:id="eSc_line_5840c57f" ulx="1097" uly="3412" lrx="3880" lry="3636"/>
+                  <zone xml:id="eSc_line_d181af68" ulx="1102" uly="3615" lrx="3867" lry="3836"/>
+                  <zone xml:id="eSc_line_e0bfdfc5" ulx="1097" uly="3806" lrx="3884" lry="4027"/>
+                  <zone xml:id="eSc_line_092c3425" ulx="1093" uly="3998" lrx="3884" lry="4205"/>
+                  <zone xml:id="eSc_line_433fbe87" ulx="1097" uly="4189" lrx="3896" lry="4417"/>
+                  <zone xml:id="eSc_line_816c2b57" ulx="1097" uly="4393" lrx="3888" lry="4621"/>
+                  <zone xml:id="eSc_line_9f2a3596" ulx="1093" uly="4584" lrx="3876" lry="4796"/>
+                  <zone xml:id="eSc_line_190b38e6" ulx="1102" uly="4779" lrx="3876" lry="5020"/>
+                  <zone xml:id="eSc_line_0264c1a9" ulx="1093" uly="4987" lrx="3871" lry="5215"/>
+                  <zone xml:id="eSc_line_b4f1ca2b" ulx="1114" uly="5182" lrx="3867" lry="5415"/>
+                  <zone xml:id="eSc_line_3671e512" ulx="1097" uly="5390" lrx="3863" lry="5602"/>
+                  <zone xml:id="eSc_line_2f6958aa" ulx="1102" uly="5589" lrx="3863" lry="5806"/>
+                  <zone xml:id="eSc_line_5d423fc6" ulx="1097" uly="5760" lrx="3859" lry="6030"/>
+            </surface>
+            <surface xml:id="paraboles-Champollion-Figeac.pdf_page_02">
+                  <graphic url="paraboles-Champollion-Figeac.pdf_page_02.png" height="7674px"
+                        width="4267px"/>
+                  <zone xml:id="eSc_line_34744f6a" ulx="230" uly="805" lrx="3123" lry="1031"/>
+                  <zone xml:id="eSc_line_49f72d28" ulx="234" uly="1010" lrx="3127" lry="1236"/>
+                  <zone xml:id="eSc_line_69aad6f2" ulx="234" uly="1232" lrx="3131" lry="1445"/>
+                  <zone xml:id="eSc_line_bf388b0e" ulx="230" uly="1441" lrx="3131" lry="1654"/>
+                  <zone xml:id="eSc_line_e26401bd" ulx="238" uly="1649" lrx="3140" lry="1858"/>
+                  <zone xml:id="eSc_line_2282026b" ulx="247" uly="1854" lrx="3136" lry="2076"/>
+                  <zone xml:id="eSc_line_d796c5b0" ulx="238" uly="2067" lrx="3127" lry="2263"/>
+                  <zone xml:id="eSc_line_e67ad026" ulx="251" uly="2259" lrx="3144" lry="2485"/>
+                  <zone xml:id="eSc_line_aa7765f1" ulx="247" uly="2468" lrx="3149" lry="2690"/>
+                  <zone xml:id="eSc_line_cbf7718b" ulx="251" uly="2681" lrx="1331" lry="2890"/>
+                  <zone xml:id="eSc_line_807b5bfd" ulx="418" uly="2877" lrx="3144" lry="3082"/>
+                  <zone xml:id="eSc_line_1a37f8d7" ulx="273" uly="3099" lrx="3149" lry="3312"/>
+                  <zone xml:id="eSc_line_16520ca5" ulx="277" uly="3299" lrx="3144" lry="3525"/>
+                  <zone xml:id="eSc_line_d7a6593b" ulx="264" uly="3495" lrx="2611" lry="3709"/>
+                  <zone xml:id="eSc_line_7b3d102b" ulx="439" uly="3692" lrx="3157" lry="3918"/>
+                  <zone xml:id="eSc_line_0c2bb4d1" ulx="277" uly="3913" lrx="3161" lry="4097"/>
+                  <zone xml:id="eSc_line_a474aa05" ulx="273" uly="4114" lrx="3161" lry="4327"/>
+                  <zone xml:id="eSc_line_792c2349" ulx="285" uly="4323" lrx="3170" lry="4536"/>
+                  <zone xml:id="eSc_line_ab8bc9ae" ulx="285" uly="4544" lrx="3166" lry="4749"/>
+                  <zone xml:id="eSc_line_26a6c7c9" ulx="290" uly="4736" lrx="3183" lry="4949"/>
+                  <zone xml:id="eSc_line_e9e5d01a" ulx="302" uly="4945" lrx="3187" lry="5162"/>
+                  <zone xml:id="eSc_line_28b3e445" ulx="311" uly="5145" lrx="3191" lry="5363"/>
+                  <zone xml:id="eSc_line_32bc4626" ulx="315" uly="5359" lrx="3195" lry="5567"/>
+                  <zone xml:id="eSc_line_b036dada" ulx="311" uly="5563" lrx="3204" lry="5764"/>
+                  <zone xml:id="eSc_line_d8474c22" ulx="324" uly="5764" lrx="3204" lry="6049"/>
+                  <zone xml:id="eSc_line_97166216" ulx="328" uly="5960" lrx="1220" lry="6271"/>
+                  <zone xml:id="eSc_line_92e3587b" ulx="1337" uly="588" lrx="1983" lry="805"/>
+            </surface>
+            <surface xml:id="paraboles-Champollion-Figeac.pdf_page_03">
+                  <graphic url="paraboles-Champollion-Figeac.pdf_page_03.png" height="7516px"
+                        width="4267px"/>
+                  <zone xml:id="eSc_line_4fd1b922" ulx="1249" uly="918" lrx="3878" lry="1135"/>
+                  <zone xml:id="eSc_line_7df84d0e" ulx="1082" uly="1127" lrx="3882" lry="1332"/>
+                  <zone xml:id="eSc_line_42a6f644" ulx="1078" uly="1315" lrx="3874" lry="1528"/>
+                  <zone xml:id="eSc_line_10df9960" ulx="1082" uly="1519" lrx="3878" lry="1728"/>
+                  <zone xml:id="eSc_line_8c185075" ulx="1090" uly="1724" lrx="3869" lry="1937"/>
+                  <zone xml:id="eSc_line_211b20f9" ulx="1074" uly="1924" lrx="3874" lry="2125"/>
+                  <zone xml:id="eSc_line_a1af7a6a" ulx="1082" uly="2121" lrx="3869" lry="2334"/>
+                  <zone xml:id="eSc_line_0b8b50fb" ulx="1078" uly="2329" lrx="3865" lry="2538"/>
+                  <zone xml:id="eSc_line_b16c6582" ulx="1069" uly="2526" lrx="3869" lry="2730"/>
+                  <zone xml:id="eSc_line_363fc31e" ulx="1061" uly="2718" lrx="3869" lry="2939"/>
+                  <zone xml:id="eSc_line_de2c0d8b" ulx="1057" uly="2910" lrx="3861" lry="3114"/>
+                  <zone xml:id="eSc_line_5f0958b2" ulx="1069" uly="3131" lrx="3857" lry="3336"/>
+                  <zone xml:id="eSc_line_70616f25" ulx="1057" uly="3315" lrx="3849" lry="3499"/>
+                  <zone xml:id="eSc_line_eb3ff603" ulx="1057" uly="3511" lrx="3853" lry="3712"/>
+                  <zone xml:id="eSc_line_c02b7c72" ulx="1048" uly="3712" lrx="3849" lry="3908"/>
+                  <zone xml:id="eSc_line_3f24c1bb" ulx="1048" uly="3920" lrx="3844" lry="4112"/>
+                  <zone xml:id="eSc_line_6d7c046a" ulx="1040" uly="4121" lrx="3840" lry="4300"/>
+                  <zone xml:id="eSc_line_a5cff4b3" ulx="1036" uly="4321" lrx="3832" lry="4492"/>
+                  <zone xml:id="eSc_line_479c62bf" ulx="1032" uly="4501" lrx="3844" lry="4705"/>
+                  <zone xml:id="eSc_line_008f0931" ulx="1028" uly="4705" lrx="3832" lry="4906"/>
+                  <zone xml:id="eSc_line_0b2b57b2" ulx="1028" uly="4902" lrx="3832" lry="5110"/>
+                  <zone xml:id="eSc_line_65f30bf6" ulx="1028" uly="5098" lrx="3815" lry="5307"/>
+                  <zone xml:id="eSc_line_9bd56d63" ulx="1032" uly="5294" lrx="3819" lry="5515"/>
+                  <zone xml:id="eSc_line_720bf907" ulx="1028" uly="5490" lrx="3807" lry="5741"/>
+                  <zone xml:id="eSc_line_d7f59a6b" ulx="1036" uly="5695" lrx="1709" lry="5933"/>
+                  <zone xml:id="eSc_line_0b985d15" ulx="2161" uly="676" lrx="2850" lry="901"/>
+            </surface>
+            <surface xml:id="paraboles-Champollion-Figeac.pdf_page_04">
+                  <graphic url="paraboles-Champollion-Figeac.pdf_page_04.png" height="7661px"
+                        width="4267px"/>
+                  <zone xml:id="eSc_line_3b398bce" ulx="1258" uly="1008" lrx="1903" lry="1193"/>
+                  <zone xml:id="eSc_line_253123f3" ulx="174" uly="1310" lrx="3044" lry="1566"/>
+                  <zone xml:id="eSc_line_5c61f7a7" ulx="336" uly="1519" lrx="3049" lry="1762"/>
+                  <zone xml:id="eSc_line_ed7f86a0" ulx="344" uly="1732" lrx="3057" lry="1957"/>
+                  <zone xml:id="eSc_line_2a19bc4b" ulx="361" uly="1928" lrx="3061" lry="2157"/>
+                  <zone xml:id="eSc_line_8ff33e0d" ulx="349" uly="2128" lrx="3057" lry="2379"/>
+                  <zone xml:id="eSc_line_1ffe7bf0" ulx="353" uly="2362" lrx="864" lry="2596"/>
+                  <zone xml:id="eSc_line_a5b92208" ulx="1245" uly="606" lrx="1897" lry="906"/>
+                  <zone xml:id="eSc_line_7d61f735" ulx="361" uly="2715" lrx="3066" lry="2966"/>
+                  <zone xml:id="eSc_line_240e2043" ulx="208" uly="2945" lrx="3070" lry="3170"/>
+                  <zone xml:id="eSc_line_aaa4a5bb" ulx="212" uly="3162" lrx="3066" lry="3392"/>
+                  <zone xml:id="eSc_line_f090ce66" ulx="208" uly="3362" lrx="3070" lry="3579"/>
+                  <zone xml:id="eSc_line_c845441a" ulx="221" uly="3570" lrx="3083" lry="3796"/>
+                  <zone xml:id="eSc_line_76ffbd78" ulx="217" uly="3775" lrx="3083" lry="3987"/>
+                  <zone xml:id="eSc_line_528a45cb" ulx="221" uly="3979" lrx="3100" lry="4200"/>
+                  <zone xml:id="eSc_line_44687807" ulx="221" uly="4179" lrx="3100" lry="4392"/>
+                  <zone xml:id="eSc_line_99dad068" ulx="238" uly="4392" lrx="3108" lry="4609"/>
+                  <zone xml:id="eSc_line_e1961300" ulx="242" uly="4609" lrx="3104" lry="4822"/>
+                  <zone xml:id="eSc_line_de21d50f" ulx="246" uly="4800" lrx="3117" lry="5022"/>
+                  <zone xml:id="eSc_line_5d28cd58" ulx="255" uly="5005" lrx="3117" lry="5230"/>
+                  <zone xml:id="eSc_line_b24eb1d0" ulx="268" uly="5209" lrx="3129" lry="5418"/>
+                  <zone xml:id="eSc_line_70039a09" ulx="259" uly="5401" lrx="3134" lry="5630"/>
+                  <zone xml:id="eSc_line_b139b7c9" ulx="264" uly="5601" lrx="3138" lry="5826"/>
+                  <zone xml:id="eSc_line_57b4def0" ulx="276" uly="5805" lrx="3138" lry="6018"/>
+                  <zone xml:id="eSc_line_0edec016" ulx="306" uly="6013" lrx="3138" lry="6299"/>
+                  <zone xml:id="eSc_line_ba180f85" ulx="2414" uly="6288" lrx="2676" lry="6473"/>
+            </surface>
+            <surface xml:id="paraboles-Champollion-Figeac.pdf_page_05">
+                  <graphic url="paraboles-Champollion-Figeac.pdf_page_05.png" height="7603px"
+                        width="4267px"/>
+                  <zone xml:id="eSc_line_85a80cbd" ulx="1102" uly="891" lrx="3929" lry="1110"/>
+                  <zone xml:id="eSc_line_414a7afc" ulx="1098" uly="1093" lrx="3933" lry="1326"/>
+                  <zone xml:id="eSc_line_eb012af3" ulx="1102" uly="1296" lrx="3933" lry="1512"/>
+                  <zone xml:id="eSc_line_80342f00" ulx="1094" uly="1499" lrx="3920" lry="1740"/>
+                  <zone xml:id="eSc_line_b82d15ca" ulx="1098" uly="1706" lrx="2834" lry="1921"/>
+                  <zone xml:id="eSc_line_3dcccca0" ulx="1246" uly="1909" lrx="3937" lry="2137"/>
+                  <zone xml:id="eSc_line_d1e2e39b" ulx="1089" uly="2107" lrx="3937" lry="2335"/>
+                  <zone xml:id="eSc_line_c0a161fa" ulx="1094" uly="2323" lrx="3933" lry="2530"/>
+                  <zone xml:id="eSc_line_b956bf1a" ulx="1106" uly="2508" lrx="3941" lry="2728"/>
+                  <zone xml:id="eSc_line_c064311d" ulx="1098" uly="2728" lrx="3937" lry="2939"/>
+                  <zone xml:id="eSc_line_66db0a4b" ulx="1094" uly="2935" lrx="3937" lry="3155"/>
+                  <zone xml:id="eSc_line_b2fa60cf" ulx="1094" uly="3125" lrx="3933" lry="3349"/>
+                  <zone xml:id="eSc_line_6d513f53" ulx="1098" uly="3336" lrx="3929" lry="3556"/>
+                  <zone xml:id="eSc_line_cb448c35" ulx="1098" uly="3526" lrx="3933" lry="3750"/>
+                  <zone xml:id="eSc_line_eeed1248" ulx="1085" uly="3729" lrx="3941" lry="3936"/>
+                  <zone xml:id="eSc_line_a9e9b227" ulx="1089" uly="3932" lrx="3933" lry="4168"/>
+                  <zone xml:id="eSc_line_02e15679" ulx="1085" uly="4135" lrx="3929" lry="4346"/>
+                  <zone xml:id="eSc_line_8b323bc9" ulx="1085" uly="4342" lrx="3929" lry="4557"/>
+                  <zone xml:id="eSc_line_8b7643d9" ulx="1085" uly="4570" lrx="1685" lry="4785"/>
+                  <zone xml:id="eSc_line_96d93d6b" ulx="1237" uly="4726" lrx="3916" lry="4967"/>
+                  <zone xml:id="eSc_line_a79ac08b" ulx="1077" uly="4946" lrx="3924" lry="5182"/>
+                  <zone xml:id="eSc_line_d3eeeaf4" ulx="1085" uly="5144" lrx="3933" lry="5372"/>
+                  <zone xml:id="eSc_line_6e81389f" ulx="1085" uly="5351" lrx="3937" lry="5567"/>
+                  <zone xml:id="eSc_line_ca89c9a3" ulx="1081" uly="5537" lrx="3937" lry="5790"/>
+                  <zone xml:id="eSc_line_59d2315f" ulx="1081" uly="5744" lrx="3933" lry="6006"/>
+                  <zone xml:id="eSc_line_003f6227" ulx="1077" uly="5943" lrx="3924" lry="6242"/>
+                  <zone xml:id="eSc_line_e763c9a8" ulx="2181" uly="620" lrx="2865" lry="893"/>
+            </surface>
+            <surface xml:id="paraboles-Champollion-Figeac.pdf_page_06">
+                  <graphic url="paraboles-Champollion-Figeac.pdf_page_06.png" height="7647px"
+                        width="4267px"/>
+                  <zone xml:id="eSc_line_399926b1" ulx="238" uly="943" lrx="3115" lry="1181"/>
+                  <zone xml:id="eSc_line_d54c91e7" ulx="233" uly="1168" lrx="3128" lry="1393"/>
+                  <zone xml:id="eSc_line_3dd84ab0" ulx="233" uly="1367" lrx="3128" lry="1580"/>
+                  <zone xml:id="eSc_line_b78f6b46" ulx="233" uly="1571" lrx="3123" lry="1797"/>
+                  <zone xml:id="eSc_line_8133671c" ulx="229" uly="1771" lrx="3128" lry="1983"/>
+                  <zone xml:id="eSc_line_2a6e6116" ulx="263" uly="1983" lrx="3115" lry="2204"/>
+                  <zone xml:id="eSc_line_b3336dcc" ulx="233" uly="2183" lrx="3119" lry="2404"/>
+                  <zone xml:id="eSc_line_c6643b1b" ulx="238" uly="2408" lrx="3111" lry="2612"/>
+                  <zone xml:id="eSc_line_a227dfc9" ulx="242" uly="2587" lrx="3119" lry="2816"/>
+                  <zone xml:id="eSc_line_bd3723b2" ulx="238" uly="2795" lrx="3111" lry="3016"/>
+                  <zone xml:id="eSc_line_19711081" ulx="246" uly="3012" lrx="3111" lry="3203"/>
+                  <zone xml:id="eSc_line_c2f4a136" ulx="250" uly="3198" lrx="3111" lry="3436"/>
+                  <zone xml:id="eSc_line_74c45a64" ulx="255" uly="3407" lrx="2945" lry="3649"/>
+                  <zone xml:id="eSc_line_d1359a67" ulx="1371" uly="707" lrx="1996" lry="962"/>
+            </surface>
+            <surface xml:id="paraboles-Champollion-Figeac.pdf_page_07">
+                  <graphic url="paraboles-Champollion-Figeac.pdf_page_07.png" height="7594px"
+                        width="4267px"/>
+                  <zone xml:id="eSc_line_b873a4ac" ulx="2177" uly="949" lrx="2886" lry="1234"/>
+                  <zone xml:id="eSc_line_85ef94af" ulx="1401" uly="1371" lrx="3574" lry="1603"/>
+                  <zone xml:id="eSc_line_b0c952cc" ulx="1080" uly="1742" lrx="3920" lry="1974"/>
+                  <zone xml:id="eSc_line_ccbcf1de" ulx="1253" uly="1961" lrx="3920" lry="2185"/>
+                  <zone xml:id="eSc_line_0882c1da" ulx="1245" uly="2172" lrx="2882" lry="2371"/>
+                  <zone xml:id="eSc_line_64b40bac" ulx="2177" uly="645" lrx="2798" lry="936"/>
+                  <zone xml:id="eSc_line_ac205c4d" ulx="1228" uly="2535" lrx="3912" lry="2759"/>
+                  <zone xml:id="eSc_line_6d33dafd" ulx="1072" uly="2742" lrx="3916" lry="2974"/>
+                  <zone xml:id="eSc_line_ca32135b" ulx="1072" uly="2965" lrx="3925" lry="3181"/>
+                  <zone xml:id="eSc_line_1a2309f5" ulx="1072" uly="3164" lrx="3925" lry="3383"/>
+                  <zone xml:id="eSc_line_f9300aab" ulx="1084" uly="3366" lrx="3912" lry="3581"/>
+                  <zone xml:id="eSc_line_2152039e" ulx="1072" uly="3560" lrx="3929" lry="3775"/>
+                  <zone xml:id="eSc_line_2c489cf6" ulx="1088" uly="3763" lrx="3925" lry="3982"/>
+                  <zone xml:id="eSc_line_6030432a" ulx="1080" uly="3961" lrx="3933" lry="4185"/>
+                  <zone xml:id="eSc_line_03449587" ulx="1084" uly="4164" lrx="3933" lry="4362"/>
+                  <zone xml:id="eSc_line_9ef9c1a3" ulx="1088" uly="4366" lrx="3942" lry="4590"/>
+                  <zone xml:id="eSc_line_e0de55e8" ulx="1084" uly="4560" lrx="3929" lry="4784"/>
+                  <zone xml:id="eSc_line_02d04fe2" ulx="1076" uly="4754" lrx="3937" lry="4982"/>
+                  <zone xml:id="eSc_line_ce712ae5" ulx="1017" uly="4948" lrx="3942" lry="5180"/>
+                  <zone xml:id="eSc_line_406902fc" ulx="1088" uly="5163" lrx="3946" lry="5379"/>
+                  <zone xml:id="eSc_line_e55ffc33" ulx="1084" uly="5357" lrx="3946" lry="5585"/>
+                  <zone xml:id="eSc_line_ed63ed8b" ulx="1088" uly="5568" lrx="3937" lry="5796"/>
+                  <zone xml:id="eSc_line_bfc186e5" ulx="1101" uly="5771" lrx="3942" lry="5995"/>
+                  <zone xml:id="eSc_line_2d9ba0ed" ulx="1118" uly="5978" lrx="3933" lry="6248"/>
+            </surface>
+            <surface xml:id="paraboles-Champollion-Figeac.pdf_page_08">
+                  <graphic url="paraboles-Champollion-Figeac.pdf_page_08.png" height="7710px"
+                        width="4267px"/>
+                  <zone xml:id="eSc_line_d76297b4" ulx="205" uly="916" lrx="3076" lry="1165"/>
+                  <zone xml:id="eSc_line_2433bfef" ulx="205" uly="1139" lrx="3097" lry="1353"/>
+                  <zone xml:id="eSc_line_a8ff0533" ulx="205" uly="1332" lrx="3105" lry="1571"/>
+                  <zone xml:id="eSc_line_f22469c5" ulx="209" uly="1546" lrx="3110" lry="1786"/>
+                  <zone xml:id="eSc_line_9b69c23d" ulx="209" uly="1751" lrx="3105" lry="1983"/>
+                  <zone xml:id="eSc_line_7c9eab7c" ulx="218" uly="1953" lrx="3123" lry="2180"/>
+                  <zone xml:id="eSc_line_9ff72b7d" ulx="218" uly="2154" lrx="3127" lry="2390"/>
+                  <zone xml:id="eSc_line_1767110b" ulx="218" uly="2377" lrx="3127" lry="2595"/>
+                  <zone xml:id="eSc_line_ac27d69a" ulx="218" uly="2578" lrx="3114" lry="2818"/>
+                  <zone xml:id="eSc_line_3c9e18da" ulx="222" uly="2792" lrx="2189" lry="3024"/>
+                  <zone xml:id="eSc_line_01bacc37" ulx="381" uly="2985" lrx="3118" lry="3233"/>
+                  <zone xml:id="eSc_line_92dc9394" ulx="239" uly="3203" lrx="3127" lry="3435"/>
+                  <zone xml:id="eSc_line_c4f30fd6" ulx="235" uly="3396" lrx="3127" lry="3627"/>
+                  <zone xml:id="eSc_line_2c5f1e10" ulx="239" uly="3606" lrx="3135" lry="3842"/>
+                  <zone xml:id="eSc_line_f02b0d1a" ulx="248" uly="3807" lrx="3131" lry="4047"/>
+                  <zone xml:id="eSc_line_1b890374" ulx="244" uly="4022" lrx="3131" lry="4236"/>
+                  <zone xml:id="eSc_line_a998092c" ulx="244" uly="4227" lrx="3135" lry="4476"/>
+                  <zone xml:id="eSc_line_c8b2ac51" ulx="252" uly="4433" lrx="3135" lry="4681"/>
+                  <zone xml:id="eSc_line_92794a3f" ulx="252" uly="4647" lrx="3140" lry="4891"/>
+                  <zone xml:id="eSc_line_e0f9aa72" ulx="257" uly="4840" lrx="3140" lry="5097"/>
+                  <zone xml:id="eSc_line_27da50b2" ulx="269" uly="5050" lrx="3153" lry="5277"/>
+                  <zone xml:id="eSc_line_ca13dc4a" ulx="265" uly="5238" lrx="3153" lry="5486"/>
+                  <zone xml:id="eSc_line_80ef304c" ulx="282" uly="5452" lrx="3153" lry="5705"/>
+                  <zone xml:id="eSc_line_b17e9416" ulx="1330" uly="674" lrx="1966" lry="938"/>
+                  <zone xml:id="eSc_line_4b47b482" ulx="406" uly="5940" lrx="3127" lry="6163"/>
+                  <zone xml:id="eSc_line_2abb9faa" ulx="291" uly="6116" lrx="2609" lry="6386"/>
+            </surface>
+            <surface xml:id="paraboles-Champollion-Figeac.pdf_page_09">
+                  <graphic url="paraboles-Champollion-Figeac.pdf_page_09.png" height="7559px"
+                        width="4267px"/>
+                  <zone xml:id="eSc_line_3b2b471d" ulx="1079" uly="919" lrx="3914" lry="1159"/>
+                  <zone xml:id="eSc_line_14718692" ulx="1083" uly="1138" lrx="3931" lry="1369"/>
+                  <zone xml:id="eSc_line_0c1a372d" ulx="1075" uly="1352" lrx="3922" lry="1566"/>
+                  <zone xml:id="eSc_line_61e2658a" ulx="1075" uly="1557" lrx="3931" lry="1742"/>
+                  <zone xml:id="eSc_line_7a58a955" ulx="1083" uly="1746" lrx="3935" lry="1977"/>
+                  <zone xml:id="eSc_line_96a2d915" ulx="1096" uly="1965" lrx="3935" lry="2162"/>
+                  <zone xml:id="eSc_line_611d47b8" ulx="1075" uly="2141" lrx="3918" lry="2355"/>
+                  <zone xml:id="eSc_line_28663d62" ulx="1079" uly="2376" lrx="2204" lry="2561"/>
+                  <zone xml:id="eSc_line_67a5c679" ulx="1238" uly="2540" lrx="3926" lry="2784"/>
+                  <zone xml:id="eSc_line_d0290653" ulx="1083" uly="2771" lrx="3931" lry="2985"/>
+                  <zone xml:id="eSc_line_31c1ec20" ulx="1079" uly="2964" lrx="3926" lry="3187"/>
+                  <zone xml:id="eSc_line_5acc56d7" ulx="1070" uly="3153" lrx="3926" lry="3359"/>
+                  <zone xml:id="eSc_line_cfa6d87b" ulx="1066" uly="3346" lrx="3922" lry="3586"/>
+                  <zone xml:id="eSc_line_efcc663e" ulx="1070" uly="3552" lrx="3914" lry="3783"/>
+                  <zone xml:id="eSc_line_6e18eb6d" ulx="1066" uly="3783" lrx="3926" lry="4006"/>
+                  <zone xml:id="eSc_line_1ea13ea8" ulx="1070" uly="3955" lrx="3922" lry="4182"/>
+                  <zone xml:id="eSc_line_ad58ee60" ulx="1075" uly="4170" lrx="3376" lry="4401"/>
+                  <zone xml:id="eSc_line_9f365cf1" ulx="1238" uly="4350" lrx="3914" lry="4615"/>
+                  <zone xml:id="eSc_line_39e4ed0d" ulx="1066" uly="4552" lrx="3901" lry="4778"/>
+                  <zone xml:id="eSc_line_57feee40" ulx="1070" uly="4749" lrx="3910" lry="5005"/>
+                  <zone xml:id="eSc_line_73d8cf86" ulx="1070" uly="4972" lrx="3910" lry="5207"/>
+                  <zone xml:id="eSc_line_a077725a" ulx="1070" uly="5165" lrx="3918" lry="5404"/>
+                  <zone xml:id="eSc_line_6789e022" ulx="1070" uly="5387" lrx="3918" lry="5610"/>
+                  <zone xml:id="eSc_line_227ada08" ulx="1070" uly="5597" lrx="3901" lry="5820"/>
+                  <zone xml:id="eSc_line_761663bd" ulx="1070" uly="5786" lrx="3880" lry="6030"/>
+                  <zone xml:id="eSc_line_be390e33" ulx="1087" uly="5988" lrx="3880" lry="6278"/>
+                  <zone xml:id="eSc_line_ddf07fcc" ulx="2212" uly="667" lrx="2861" lry="938"/>
+            </surface>
+            <surface xml:id="paraboles-Champollion-Figeac.pdf_page_10">
+                  <graphic url="paraboles-Champollion-Figeac.pdf_page_10.png" height="7656px"
+                        width="4267px"/>
+                  <zone xml:id="eSc_line_e775948d" ulx="212" uly="944" lrx="3097" lry="1161"/>
+                  <zone xml:id="eSc_line_091ea618" ulx="229" uly="1161" lrx="3105" lry="1369"/>
+                  <zone xml:id="eSc_line_30e64f88" ulx="251" uly="1365" lrx="3114" lry="1586"/>
+                  <zone xml:id="eSc_line_1683ed1b" ulx="225" uly="1569" lrx="3092" lry="1799"/>
+                  <zone xml:id="eSc_line_b81f384b" ulx="246" uly="1769" lrx="3118" lry="2003"/>
+                  <zone xml:id="eSc_line_ae6d1ef0" ulx="229" uly="1969" lrx="3097" lry="2194"/>
+                  <zone xml:id="eSc_line_9c28a463" ulx="229" uly="2181" lrx="3088" lry="2398"/>
+                  <zone xml:id="eSc_line_c016384d" ulx="233" uly="2373" lrx="3101" lry="2594"/>
+                  <zone xml:id="eSc_line_8d97f66d" ulx="233" uly="2569" lrx="3109" lry="2777"/>
+                  <zone xml:id="eSc_line_e181e10d" ulx="242" uly="2781" lrx="3105" lry="3015"/>
+                  <zone xml:id="eSc_line_47b0238b" ulx="246" uly="2985" lrx="3114" lry="3211"/>
+                  <zone xml:id="eSc_line_334bf361" ulx="276" uly="3194" lrx="2135" lry="3449"/>
+                  <zone xml:id="eSc_line_2712c7c8" ulx="1366" uly="676" lrx="1973" lry="937"/>
+            </surface>
+            <surface xml:id="paraboles-Champollion-Figeac.pdf_page_11">
+                  <graphic url="paraboles-Champollion-Figeac.pdf_page_11.png" height="7542px"
+                        width="4267px"/>
+                  <zone xml:id="eSc_line_ce96e117" ulx="2246" uly="905" lrx="2888" lry="1131"/>
+                  <zone xml:id="eSc_line_c6ce61ad" ulx="1479" uly="1236" lrx="3567" lry="1458"/>
+                  <zone xml:id="eSc_line_0b81b577" ulx="1123" uly="1554" lrx="3931" lry="1801"/>
+                  <zone xml:id="eSc_line_0c5b6682" ulx="1278" uly="1776" lrx="3919" lry="2002"/>
+                  <zone xml:id="eSc_line_161a5bfd" ulx="1270" uly="1960" lrx="2841" lry="2191"/>
+                  <zone xml:id="eSc_line_fa9789b0" ulx="2246" uly="597" lrx="2838" lry="879"/>
+                  <zone xml:id="eSc_line_f84f7297" ulx="1257" uly="2279" lrx="3923" lry="2514"/>
+                  <zone xml:id="eSc_line_487a8e68" ulx="1140" uly="2488" lrx="3931" lry="2706"/>
+                  <zone xml:id="eSc_line_5dc54a0a" ulx="1114" uly="2689" lrx="3944" lry="2903"/>
+                  <zone xml:id="eSc_line_65a763c2" ulx="1106" uly="2886" lrx="3931" lry="3113"/>
+                  <zone xml:id="eSc_line_9433e38e" ulx="1119" uly="3092" lrx="3940" lry="3318"/>
+                  <zone xml:id="eSc_line_cb266326" ulx="1102" uly="3310" lrx="3935" lry="3502"/>
+                  <zone xml:id="eSc_line_6cccc46b" ulx="1123" uly="3511" lrx="3931" lry="3729"/>
+                  <zone xml:id="eSc_line_9347c441" ulx="1127" uly="3699" lrx="3944" lry="3917"/>
+                  <zone xml:id="eSc_line_8baddb89" ulx="1106" uly="3900" lrx="3944" lry="4122"/>
+                  <zone xml:id="eSc_line_ff14de98" ulx="1102" uly="4093" lrx="3935" lry="4303"/>
+                  <zone xml:id="eSc_line_9575e956" ulx="1114" uly="4307" lrx="3944" lry="4516"/>
+                  <zone xml:id="eSc_line_df18a5ad" ulx="1110" uly="4495" lrx="3952" lry="4705"/>
+                  <zone xml:id="eSc_line_220b0c3a" ulx="1114" uly="4688" lrx="3952" lry="4906"/>
+                  <zone xml:id="eSc_line_2b69bc92" ulx="1110" uly="4893" lrx="3944" lry="5115"/>
+                  <zone xml:id="eSc_line_93d2d292" ulx="1114" uly="5107" lrx="3952" lry="5317"/>
+                  <zone xml:id="eSc_line_69cb114d" ulx="1106" uly="5308" lrx="3952" lry="5534"/>
+                  <zone xml:id="eSc_line_03a5cbb8" ulx="1106" uly="5505" lrx="3952" lry="5731"/>
+                  <zone xml:id="eSc_line_21b8f6e1" ulx="1114" uly="5710" lrx="3948" lry="5928"/>
+                  <zone xml:id="eSc_line_7b3d79b8" ulx="1119" uly="5899" lrx="3956" lry="6180"/>
+            </surface>
+            <surface xml:id="paraboles-Champollion-Figeac.pdf_page_12">
+                  <graphic url="paraboles-Champollion-Figeac.pdf_page_12.png" height="7788px"
+                        width="4267px"/>
+                  <zone xml:id="eSc_line_47086f86" ulx="151" uly="904" lrx="3089" lry="1120"/>
+                  <zone xml:id="eSc_line_0b895d05" ulx="155" uly="1120" lrx="3094" lry="1328"/>
+                  <zone xml:id="eSc_line_399c3fdb" ulx="151" uly="1328" lrx="3098" lry="1544"/>
+                  <zone xml:id="eSc_line_1e9aa180" ulx="155" uly="1548" lrx="3089" lry="1765"/>
+                  <zone xml:id="eSc_line_9b81a81c" ulx="147" uly="1752" lrx="3085" lry="1981"/>
+                  <zone xml:id="eSc_line_7627d279" ulx="151" uly="1947" lrx="3089" lry="2189"/>
+                  <zone xml:id="eSc_line_1bbc8d0d" ulx="147" uly="2167" lrx="3085" lry="2383"/>
+                  <zone xml:id="eSc_line_2e743054" ulx="164" uly="2362" lrx="675" lry="2583"/>
+                  <zone xml:id="eSc_line_dd9f49af" ulx="307" uly="2565" lrx="3094" lry="2808"/>
+                  <zone xml:id="eSc_line_d98c5e6e" ulx="160" uly="2790" lrx="3098" lry="3024"/>
+                  <zone xml:id="eSc_line_9158c09b" ulx="164" uly="3002" lrx="3094" lry="3240"/>
+                  <zone xml:id="eSc_line_2cc133d5" ulx="160" uly="3206" lrx="3094" lry="3439"/>
+                  <zone xml:id="eSc_line_5450d622" ulx="160" uly="3418" lrx="3094" lry="3634"/>
+                  <zone xml:id="eSc_line_0c38e13f" ulx="168" uly="3660" lrx="3081" lry="3850"/>
+                  <zone xml:id="eSc_line_117d5141" ulx="151" uly="3824" lrx="3094" lry="4058"/>
+                  <zone xml:id="eSc_line_d55462e4" ulx="155" uly="4036" lrx="3098" lry="4257"/>
+                  <zone xml:id="eSc_line_c92f830f" ulx="160" uly="4253" lrx="3076" lry="4465"/>
+                  <zone xml:id="eSc_line_61b1e252" ulx="160" uly="4452" lrx="3098" lry="4677"/>
+                  <zone xml:id="eSc_line_801df77c" ulx="160" uly="4672" lrx="3102" lry="4889"/>
+                  <zone xml:id="eSc_line_8f04ae70" ulx="173" uly="4876" lrx="3089" lry="5092"/>
+                  <zone xml:id="eSc_line_2cf3f132" ulx="164" uly="5083" lrx="3089" lry="5317"/>
+                  <zone xml:id="eSc_line_d64098fc" ulx="168" uly="5291" lrx="3089" lry="5516"/>
+                  <zone xml:id="eSc_line_a0777a27" ulx="173" uly="5494" lrx="3089" lry="5702"/>
+                  <zone xml:id="eSc_line_fa11471b" ulx="164" uly="5702" lrx="2877" lry="5914"/>
+                  <zone xml:id="eSc_line_4a2dc4c7" ulx="359" uly="5901" lrx="3089" lry="6130"/>
+                  <zone xml:id="eSc_line_44b8b194" ulx="168" uly="6100" lrx="3076" lry="6390"/>
+                  <zone xml:id="eSc_line_2f9b66d4" ulx="1331" uly="642" lrx="1954" lry="908"/>
+                  <zone xml:id="eSc_line_4e5f1a55" ulx="2271" uly="6355" lrx="2445" lry="6628"/>
+            </surface>
+            <surface xml:id="paraboles-Champollion-Figeac.pdf_page_13">
+                  <graphic url="paraboles-Champollion-Figeac.pdf_page_13.png" height="7439px"
+                        width="4267px"/>
+                  <zone xml:id="eSc_line_070a70a1" ulx="1165" uly="834" lrx="3956" lry="1062"/>
+                  <zone xml:id="eSc_line_763cf431" ulx="1153" uly="1053" lrx="3952" lry="1268"/>
+                  <zone xml:id="eSc_line_a8936a7e" ulx="1161" uly="1248" lrx="3952" lry="1475"/>
+                  <zone xml:id="eSc_line_38342d85" ulx="1165" uly="1450" lrx="3940" lry="1665"/>
+                  <zone xml:id="eSc_line_7a0a4386" ulx="1153" uly="1648" lrx="3944" lry="1868"/>
+                  <zone xml:id="eSc_line_36924add" ulx="1170" uly="1847" lrx="3936" lry="2066"/>
+                  <zone xml:id="eSc_line_904e7f1f" ulx="1145" uly="2037" lrx="3936" lry="2260"/>
+                  <zone xml:id="eSc_line_b26a8b41" ulx="1153" uly="2248" lrx="3936" lry="2450"/>
+                  <zone xml:id="eSc_line_f9d31836" ulx="1149" uly="2442" lrx="3923" lry="2665"/>
+                  <zone xml:id="eSc_line_64f6e411" ulx="1153" uly="2644" lrx="3936" lry="2859"/>
+                  <zone xml:id="eSc_line_2175583c" ulx="1132" uly="2851" lrx="3927" lry="3058"/>
+                  <zone xml:id="eSc_line_32f354b2" ulx="1141" uly="3037" lrx="3923" lry="3252"/>
+                  <zone xml:id="eSc_line_13e8ce7a" ulx="1132" uly="3240" lrx="3923" lry="3430"/>
+                  <zone xml:id="eSc_line_bbb83a96" ulx="1128" uly="3426" lrx="3915" lry="3649"/>
+                  <zone xml:id="eSc_line_01e69f87" ulx="1128" uly="3636" lrx="3919" lry="3843"/>
+                  <zone xml:id="eSc_line_d289a467" ulx="1132" uly="3818" lrx="3919" lry="4037"/>
+                  <zone xml:id="eSc_line_320642ee" ulx="1137" uly="4017" lrx="3923" lry="4244"/>
+                  <zone xml:id="eSc_line_0fa8bb65" ulx="1170" uly="4211" lrx="3915" lry="4455"/>
+                  <zone xml:id="eSc_line_7711b39d" ulx="1137" uly="4426" lrx="3923" lry="4636"/>
+                  <zone xml:id="eSc_line_fdf51b34" ulx="1137" uly="4608" lrx="3911" lry="4839"/>
+                  <zone xml:id="eSc_line_8d0cae9a" ulx="1141" uly="4814" lrx="3894" lry="5029"/>
+                  <zone xml:id="eSc_line_1e1ff4ff" ulx="1141" uly="5008" lrx="3894" lry="5256"/>
+                  <zone xml:id="eSc_line_312ad27a" ulx="1145" uly="5219" lrx="3274" lry="5467"/>
+                  <zone xml:id="eSc_line_4fcdc37a" ulx="2257" uly="632" lrx="2914" lry="849"/>
+            </surface>
+      </facsimile>
+      <text>
+            <body>
+                  <div type="parabole" xml:lang="stan-1290">
+                        <pb facs="#paraboles-Champollion-Figeac.pdf_page_01" n="110"/>
+                        <fw type="pageNumb">(110)</fw>
+                        <head><lb facs="#eSc_line_562a86a6"/>N° II. <lb facs="#eSc_line_de19eba8"
+                              />PARABOLE DE L’ENFANT PRODIGUE, <lb facs="#eSc_line_46b6bd0b"/>Selon
+                              Saint-Luc, chapitre 15, <lb facs="#eSc_line_b56d0e0e"/>Extraite de la
+                              Traduction française <lb facs="#eSc_line_0b2161f1"/>du
+                              Nouveau-Testament, pour l’in<lb break="no" facs="#eSc_line_12c345a4"
+                              />telligence des Traductions de cette <lb facs="#eSc_line_803b3877"
+                              />même Parabole en divers Patois.</head>
+
+
+                        <p n="11">
+                              <lb facs="#eSc_line_4dae1ffa"/>UN homme avait deux fils,</p>
+                        <p n="12">dont le plus <lb facs="#eSc_line_c8d5eb61"/>jeune dit à son
+                              père: mon père, donnez- <lb facs="#eSc_line_6c93ff24"/>moi les biens
+                              que je dois avoir pour ma <lb facs="#eSc_line_7bf50fb8"/>part; et il
+                              leur fit le partage de son bien.</p>
+
+
+                        <p n="13">
+                              <lb facs="#eSc_line_5840c57f"/>Peu de jours après, le plus jeune em¬
+                                    <lb facs="#eSc_line_d181af68"/>portant avec lui tout ce qu’il
+                              avait, <lb facs="#eSc_line_e0bfdfc5"/>s’en alla voyager en pays
+                              éloignés où il <lb facs="#eSc_line_092c3425"/>dépensa tout son
+                              bien en débauches.</p>
+
+
+                        <p n="14">
+                              <lb facs="#eSc_line_433fbe87"/>Après qu’il eut tout dissipé, il
+                              survint <lb facs="#eSc_line_816c2b57"/>une grande famine dans ce
+                              pays-là, et il <lb facs="#eSc_line_9f2a3596"/>fut tellement dénué
+                              de toutes choses,</p>
+
+
+                        <p n="15">
+                              <lb facs="#eSc_line_190b38e6"/>qu’il fut obligé de s’attacher à un
+                              habi<lb break="no" facs="#eSc_line_0264c1a9"/>tant du lieu qui l’envoya dans sa
+                              ferme <lb facs="#eSc_line_b4f1ca2b"/>pour y garder des pourceaux.</p>
+                        <p n="16">Là il dési<lb break="no" facs="#eSc_line_3671e512"/>rait de pouvoir se
+                              rassassier des écorces <lb facs="#eSc_line_2f6958aa"/>que les
+                              pourceaux mangeaient; mais per<lb break="no" facs="#eSc_line_5d423fc6"/>sonne
+                              ne lui en donnait.</p>
+                        <p n="17">Enfin étant entré <pb
+                                    facs="#paraboles-Champollion-Figeac.pdf_page_02" n="111"/>
+                              <fw type="pageNumb">(111)</fw>
+                              <lb facs="#eSc_line_34744f6a"/>en lui-même, il dit : « Combien y
+                              a-t-il <lb facs="#eSc_line_49f72d28"/>dans la maison de mon père de
+                              domesti<lb break="no" facs="#eSc_line_69aad6f2"/>ques qui ont du pain en
+                              abondance, et <lb facs="#eSc_line_bf388b0e"/>moi je meurs ici de
+                              faim;</p>
+                        <p n="18">il faut que je <lb facs="#eSc_line_e26401bd"/>me lève, que
+                              j’aille trouver mon père et <lb facs="#eSc_line_2282026b"/>que je lui
+                              dise : mon père, j’ai peché <lb facs="#eSc_line_d796c5b0"/>contre le
+                              ciel et devant vous.</p>
+                        <p n="19">Je ne suis <lb facs="#eSc_line_e67ad026"/>pas digne maintenant
+                              d’être appelé votre <lb facs="#eSc_line_aa7765f1"/>fils; traitez-moi
+                              donc comme l’un de vos <lb facs="#eSc_line_cbf7718b"/>domestiques
+                              ».</p>
+
+
+                        <p n="20">
+                              <lb facs="#eSc_line_807b5bfd"/>Il se leva donc, et alla trouver son
+                                    <lb facs="#eSc_line_1a37f8d7"/>père; mais lorsqu’il était
+                              encore loin, son <lb facs="#eSc_line_16520ca5"/>père l’aperçut, et
+                              touché de compassion, <lb facs="#eSc_line_d7a6593b"/>il courut
+                              l’embrasser et le baiser.</p>
+
+
+                        <p n="21">
+                              <lb facs="#eSc_line_7b3d102b"/>Son fils lui dit : « Mon père, j’ai
+                              péché <lb facs="#eSc_line_0c2bb4d1"/>contre le ciel et devant vous;
+                              je ne suis pas <lb facs="#eSc_line_a474aa05"/>digne maintenant d’être
+                              appele votre fils ».</p>
+
+
+                        <p n="22">
+                              <lb facs="#eSc_line_792c2349"/>Mais le père dit à ses serviteurs : «
+                              Appor<lb break="no" facs="#eSc_line_ab8bc9ae"/>tez-lui promptement sa première
+                              robe, <lb facs="#eSc_line_26a6c7c9"/>et l’en revêtez; mettez-lui un
+                              anneau au <lb facs="#eSc_line_e9e5d01a"/>doigt et des souliers aux
+                              pieds ;</p>
+                        <p n="23">amenez le <lb facs="#eSc_line_28b3e445"/>veau gras et le tuez;
+                              mangeons et faisons <lb facs="#eSc_line_32bc4626"/>grande chère,</p>
+                        <p n="24">parce que voici mon fils <lb facs="#eSc_line_b036dada"/>qui était
+                              mort et il est ressuscité, il était <lb facs="#eSc_line_d8474c22"
+                              />perdu et il est retrouvé »; et ils firent <lb
+                                    facs="#eSc_line_97166216"/>grande fête.</p>
+                        <p n="25">
+                              <pb facs="#paraboles-Champollion-Figeac.pdf_page_03" n="112"/>
+                              <fw type="pageNumb">(112)</fw>
+                              <lb facs="#eSc_line_4fd1b922"/>Cependant son fils aîné qui était au
+                                    <lb facs="#eSc_line_7df84d0e"/>champ revint, et lorsque étant
+                              près de la <lb facs="#eSc_line_42a6f644"/>maison, il entendit qu’on
+                              dansait, qu’on <lb facs="#eSc_line_10df9960"/>chantait,</p>
+                        <p n="26">il appela un de ses serviteurs <lb facs="#eSc_line_8c185075"/>pour
+                              savoir de lui ce que c’était;</p>
+                        <p n="27">« C’est, <lb facs="#eSc_line_211b20f9"/>dit-il, que votre frère
+                              est venu, et votre <lb facs="#eSc_line_a1af7a6a"/>père le voyant
+                              plein de vie, a fait tuer le <lb facs="#eSc_line_0b8b50fb"/>veau gras
+                              ».</p>
+                        <p n="28">Celui-ci fut si indigne, qu’il ne <lb facs="#eSc_line_b16c6582"
+                              />voulait pas entrer dans la maison; ce qui <lb
+                                    facs="#eSc_line_363fc31e"/>obligea son père de sortir et de le
+                              prier d’en<lb break="no" facs="#eSc_line_de2c0d8b"/>trer avec lui.</p>
+                        <p n="29">Mais il répondit à son père: <lb facs="#eSc_line_5f0958b2"/>«
+                              Il y a long temps que je vous sers sans <lb facs="#eSc_line_70616f25"
+                              />vous avoir jamais désobéi, néanmoins <lb facs="#eSc_line_eb3ff603"
+                              />vous ne m’avez jamais donné seulement <lb facs="#eSc_line_c02b7c72"
+                              />un chevreau pour me réjouir avec mes <lb facs="#eSc_line_3f24c1bb"
+                              />amis;</p>
+                        <p n="30">et lorsqu’un fils comme celui là qui <lb
+                                    facs="#eSc_line_6d7c046a"/>a mangé tout son bien avec des
+                              femmes per<lb break="no" facs="#eSc_line_a5cff4b3"/>dues, est venu, vous avez
+                              fait tuer pour <lb facs="#eSc_line_479c62bf"/>lui le veau gras ».</p>
+                        <p n="31">Son père lui dit : « Mon <lb facs="#eSc_line_008f0931"/>fils,
+                              pour vous, vous êtes toujours avec moi <lb facs="#eSc_line_0b2b57b2"
+                              />et je n’ai rien qui ne soit à vous;</p>
+                        <p n="32">mais il fal<lb break="no" facs="#eSc_line_65f30bf6"/>lait bien faire un
+                              festin et nous réjouir, <lb facs="#eSc_line_9bd56d63"/>parce que
+                              votre frère qui était mort est res<lb break="no" facs="#eSc_line_720bf907"
+                              />suscité, qu’il était perdu, et qu’il est re¬ <lb
+                                    facs="#eSc_line_d7f59a6b"/>trouvé.»</p>
+                  </div>
+                  <div type="parabole" xml:lang="vaud-1238" subtype="1200" n="1" corresp="#place_3">
+                        <pb facs="#paraboles-Champollion-Figeac.pdf_page_04" n="113"/>
+                        <fw type="pageNumb">(113)</fw>
+                        <head>
+                              <lb facs="#eSc_line_3b398bce"/>N° III. <lb facs="#eSc_line_253123f3"
+                              />Parabole de l’Enfant prodigue en <lb facs="#eSc_line_5c61f7a7"
+                              />langue vaudoise, extraite d’un Nou<lb break="no" facs="#eSc_line_ed7f86a0"
+                              />veau-Testament de la Secte des <lb facs="#eSc_line_2a19bc4b"
+                              />Vaudois, manuscrit du treizième <lb facs="#eSc_line_8ff33e0d"
+                              />siècle, de la Bibliothèque de Gre<lb break="no" facs="#eSc_line_1ffe7bf0"
+                              />noble.</head>
+
+
+                        <p n="11">
+                              <lb facs="#eSc_line_7d61f735"/>UN home aë diù filh,</p>
+                        <p n="12">e lo plus jove dis <lb facs="#eSc_line_240e2043"/>al Païre : O
+                              Païre, dona a mi la partia de <lb facs="#eSc_line_aaa4a5bb"/>la
+                              substancia que se coven ami; e depar<lb break="no" facs="#eSc_line_f090ce66"
+                              />tie à lo la substancia.</p>
+                        <p n="13">E enaprès non mo<lb break="no" facs="#eSc_line_c845441a"/>tidia, lo filh
+                              plus jove, ajostas totas cosas, <lb facs="#eSc_line_76ffbd78"/>ane en
+                              peleriniage en lognana region, <lb facs="#eSc_line_528a45cb"/>e
+                              degaste aqui la soa substancia, vivent <lb facs="#eSc_line_44687807"
+                              />luxuriosament.</p>
+                        <p n="14">E poisqu’el ac consuma <lb facs="#eSc_line_99dad068"/>totas cosas,
+                              grant fam fo fait en aquella <lb facs="#eSc_line_e1961300"/>region, e
+                              el commence have besogna,</p>
+                        <p n="15">e <lb facs="#eSc_line_de21d50f"/>ane ese ajoste à un ciptadin
+                              daquella <lb facs="#eSc_line_5d28cd58"/>region, e travie l’en la soa
+                              vila quel pais<lb break="no" facs="#eSc_line_b24eb1d0"/>ses li porc;</p>
+                        <p n="16">e cubitava umplir lo seo ven<lb break="no" facs="#eSc_line_70039a09"/>tre
+                              de las silicas que manjavan lè porc, e <lb facs="#eSc_line_b139b7c9"
+                              />alcun n’in donava ale.</p>
+                        <p n="17">Mes retorna en <lb facs="#eSc_line_57b4def0"/>si dis : quanti
+                              mercenar habundian de <lb facs="#eSc_line_0edec016"/>pan en la meison
+                              del meo païre, me yo <fw type="quireMarks">10</fw>
+                              <pb facs="#paraboles-Champollion-Figeac.pdf_page_05" n="114"/>
+                              <fw type="pageNumb">(114)</fw>
+                              <lb facs="#eSc_line_85a80cbd"/>patisso aici de sam;</p>
+                        <p n="18">yo me levarey e anna<lb break="no" facs="#eSc_line_414a7afc"/>rey al mio
+                              païre e diréy a le: o païre, yo <lb facs="#eSc_line_eb012af3"
+                              />pechey al cel e devant tu,</p>
+                        <p n="19">e ja non sey <lb facs="#eSc_line_80342f00"/>degne esse apella lo
+                              teo filh, fay mi essay <lb facs="#eSc_line_b82d15ca"/>à un de li teo
+                              mercenar.</p>
+
+
+                        <p n="20">
+                              <lb facs="#eSc_line_3dcccca0"/>E levant, venc al seo païre. Mes come
+                                    <lb facs="#eSc_line_d1e2e39b"/>el fos encara de long, lo seo
+                              païre vec lui <lb facs="#eSc_line_c0a161fa"/>e fo mogu de
+                              misericordia, e corrent, ca<lb break="no" facs="#eSc_line_b956bf1a"/>gic sobe
+                              lo col de le e bayse le.</p>
+                        <p n="21">E lo filh <lb facs="#eSc_line_c064311d"/>dis a le : o païre, yo
+                              pechey al cel e devant <lb facs="#eSc_line_66db0a4b"/>tu, yo non soy
+                              degne esse apella lo teo <lb facs="#eSc_line_b2fa60cf"/>filh.</p>
+                        <p n="22">Mes lo païre dis al seo serf: fo ra¬ <lb
+                                    facs="#eSc_line_6d513f53"/>porta viac^t. la premiera vestimenta
+                              e <lb facs="#eSc_line_cb448c35"/>vestic le, e done anel en la man de
+                              le, e <lb facs="#eSc_line_eeed1248"/>ceauçamentas en li pe,</p>
+                        <p n="23">e ameni vedel <lb facs="#eSc_line_a9e9b227"/>gras e l’occien, e
+                              manjen e alegran,</p>
+                        <p n="24">car <lb facs="#eSc_line_02e15679"/>aqueste meo filh era mort e es
+                              reviscola, <lb facs="#eSc_line_8b323bc9"/>e era perdu e es atroba; e
+                              commenceron <lb facs="#eSc_line_8b7643d9"/>alegrar.</p>
+
+
+                        <p n="25">
+                              <lb facs="#eSc_line_96d93d6b"/>Mes lo filh de le plus velh era al
+                              canp, <lb facs="#eSc_line_a79ac08b"/>e cum el vengues e sappies a la
+                              meison, <lb facs="#eSc_line_d3eeeaf4"/>auvie la calamella e la
+                              compagnia,</p>
+                        <p n="26">e apelle <lb facs="#eSc_line_6e81389f"/>un de li serf e demande
+                              qual fossan aques<lb break="no" facs="#eSc_line_ca89c9a3"/>tas cosas,</p>
+                        <p n="27">e el dis a le : lo teo fraire venc, <lb facs="#eSc_line_59d2315f"
+                              />e lo teo païre occis vedel gras, car el re¬ <lb
+                                    facs="#eSc_line_003f6227"/>ceop lui salf.</p>
+                        <p n="28"> Mes el fo endegna e non <pb
+                                    facs="#paraboles-Champollion-Figeac.pdf_page_06" n="115"/>
+                              <fw type="pageNumb">(115)</fw>
+                              <lb facs="#eSc_line_399926b1"/>volia intrar. Me lo païre de le issi,
+                              com<lb break="no" facs="#eSc_line_d54c91e7"/>menca pregar li ;</p>
+                        <p n="29">mes es rendent dis al <lb facs="#eSc_line_3dd84ab0"/>seo païre :
+                              vete yo syuo a tu per tanti an <lb facs="#eSc_line_b78f6b46"/>e unque
+                              non trapassey lo teo comanda<lb break="no" facs="#eSc_line_8133671c"/>ment, e
+                              unque non donnes a mi cabri che <lb facs="#eSc_line_2a6e6116"/>yo
+                              manjes cum li meo amic;</p>
+                        <p n="30">mes poisque <lb facs="#eSc_line_b3336dcc"/>aquest teo filh loqual
+                              devore la soa sub<lb break="no" facs="#eSc_line_c6643b1b"/>stancia cum las
+                              meretres e vengu, tu oc<lb break="no" facs="#eSc_line_a227dfc9"/>cies a le
+                              vedel gras.</p>
+                        <p n="31">Mes el dis a lui : o filh! <lb facs="#eSc_line_bd3723b2"/>tu sies
+                              tota via cum mi, e totas las mias <lb facs="#eSc_line_19711081"/>cosas
+                              son toas;</p>
+                        <p n="32">mes la conventava manjar <lb facs="#eSc_line_c2f4a136"/>e alegrar,
+                              car aquest teo fraïre era mort <lb facs="#eSc_line_74c45a64"/>e es
+                              reviscola, e era perdu e es atroba.</p>
+                  </div>
+                  <div type="parabole" xml:lang="viva-1235" n="2" corresp="#place_2">
+                        <pb facs="#paraboles-Champollion-Figeac.pdf_page_07" n="116"/>
+                        <fw type="pageNumb">(116)</fw>
+                        <head><lb facs="#eSc_line_b873a4ac"/>N° IV. <lb facs="#eSc_line_85ef94af"
+                              />PATOIS DE L’OYSAN. <lb facs="#eSc_line_b0c952cc"/>Parabole de
+                              l’Enfant prodigue en <lb facs="#eSc_line_ccbcf1de"/>patois du canton
+                              de l’Oysan, au <lb facs="#eSc_line_0882c1da"/>sud-est de
+                              Grenoble.</head>
+
+                        <p n="11">
+                              <lb facs="#eSc_line_ac205c4d"/>UR homme ayit dous garçons.</p>
+                        <p n="12">Lou plus <lb facs="#eSc_line_6d33dafd"/>jouvein zi dissit: Pare,
+                              baillamé lous bens <lb facs="#eSc_line_ca32135b"/>qu’y déyou avey pe
+                              ma part su voutrou <lb facs="#eSc_line_1a2309f5"/>heritajeou. Lou pare
+                              lour fasé lou parta<lb break="no" facs="#eSc_line_f9300aab"/>jeou de soun
+                              bein.</p>
+                        <p n="13">Quoque teims apres, <lb facs="#eSc_line_2152039e"/>lou plus
+                              jouvein emporti avey li tout so <lb facs="#eSc_line_2c489cf6"/>qu’el
+                              ayit agut, s’en fuzé courre loun, <lb facs="#eSc_line_6030432a"/>din
+                              lou pays bas, ounte oul agues tieu <lb facs="#eSc_line_03449587"
+                              />dépeinsa soun ben din leys débauches.</p>
+
+
+                        <p n="14">
+                              <lb facs="#eSc_line_9ef9c1a3"/>Quant oul agué tou migi d’un carou et
+                                    <lb facs="#eSc_line_e0de55e8"/>d’autrou, lo survingué uro grand
+                              fa<lb break="no" facs="#eSc_line_02d04fe2"/>mira din lou pays qu’oul eré, et
+                              ou fuzé <lb facs="#eSc_line_ce712ae5"/>talamant redus,</p>
+                        <p n="15">qu’ou fuzé oubligi de <lb facs="#eSc_line_406902fc"/>se louir à
+                              ur habitant de leindret que <lb facs="#eSc_line_e55ffc33"/>l’envoyé
+                              din sa ferma pé garda sous <lb facs="#eSc_line_ed63ed8b"
+                              />cayouns;</p>
+                        <p n="16">iqui ou désiravé de pouvey se <lb facs="#eSc_line_bfc186e5"
+                              />rassazia de leys pallalliés que lous ca¬ <lb
+                                    facs="#eSc_line_2d9ba0ed"/>youns qu’ou gardave migeaveant; mais
+                                    <pb facs="#paraboles-Champollion-Figeac.pdf_page_08" n="117"/>
+                              <fw type="pageNumb">(117)</fw>
+                              <lb facs="#eSc_line_d76297b4"/>lungun zi gni en dourave.</p>
+                        <p n="17">Enfyn ou ren<lb break="no" facs="#eSc_line_2433bfef"/>trei en si meimou, ou
+                              dizit : quant ziya <lb facs="#eSc_line_a8ff0533"/>lo de valets din la
+                              meisoun de moun paré <lb facs="#eSc_line_f22469c5"/>qu’ant de pan en
+                              abbondanci et que <lb facs="#eSc_line_9b69c23d"/>n’ein souront, et mi
+                              mi cravou de fam;</p>
+
+
+                        <p n="18">
+                              <lb facs="#eSc_line_7c9eab7c"/>la faout que mi aleisou a mou paré et
+                                    <lb facs="#eSc_line_9ff72b7d"/>zi direi : Paré, mi aye peichia
+                              contra lo cié <lb facs="#eSc_line_1767110b"/>et devan vou;</p>
+                        <p n="19">mi ne siou pas dignou <lb facs="#eSc_line_ac27d69a"/>hyeuro
+                              d’être appela voutrou garçoun; <lb facs="#eSc_line_3c9e18da"/>bita
+                              mé avoï voutrou valéts.</p>
+
+
+                        <p n="20">
+                              <lb facs="#eSc_line_01bacc37"/>Et de suita ou s’êre enchamira. Mes <lb
+                                    facs="#eSc_line_92dc9394"/>coumma oul approchavé, soun pare <lb
+                                    facs="#eSc_line_c4f30fd6"/>l’aperceou de loun et couriéz ver
+                              si; zi <lb facs="#eSc_line_2c5f1e10"/>saute aou coulein, l’embrassiez
+                              en disant: <lb facs="#eSc_line_f02b0d1a"/><add>Ah! te veyci moun
+                                    galloupyn <num type="noteCall" n="51">(51)</num>.</add></p>
+                        <p n="21">Sour <lb facs="#eSc_line_1b890374"/>affant zi dissiet : Pare,
+                              perdouramé; mi <lb facs="#eSc_line_a998092c"/>ayé eita un drolou, un
+                              détartamela; mi <lb facs="#eSc_line_c8b2ac51"/>ayé migi avey ley
+                              conquiret et lous li<lb break="no" facs="#eSc_line_92794a3f"/>bertins coumma mi
+                              tou ço qu’ous m’ayas <lb facs="#eSc_line_e0f9aa72"/>beylet; mi ne
+                              siou pas dignou hyeuro <lb facs="#eSc_line_27da50b2"/>d’être appela
+                              voutrou garçoun.</p>
+                        <p n="22"> Mes <lb facs="#eSc_line_ca13dc4a"/>lou paré dissiet a sous
+                              valets: aduziez zi <lb facs="#eSc_line_80ef304c"/>vitou sa premeyri
+                              roubilli, et lou vitiéz <note n="51">
+                                    <lb facs="#eSc_line_4b47b482"/>(51) Cette courte paraphrase est
+                                    si naturelle, <lb facs="#eSc_line_2abb9faa"/>que je n’ai pas cru
+                                    devoir la supprimer. </note>
+                              <pb facs="#paraboles-Champollion-Figeac.pdf_page_09" n="118"/>
+                              <fw type="pageNumb">(118)</fw>
+                              <lb facs="#eSc_line_3b2b471d"/>leaou; bittas zi avos uro bagua aou
+                              dey, <lb facs="#eSc_line_14718692"/>avey seys savattes à lous
+                              pieds;</p>
+                        <p n="23">aduziez <lb facs="#eSc_line_0c1a372d"/>lou vez gras et lou seynas;
+                              nous repatta<lb break="no" facs="#eSc_line_61e2658a"/>rens tous enssens ;
+                              migens et fazens bon<lb break="no" facs="#eSc_line_7a58a955"/>banci,</p>
+                        <p n="24">perçoqué veyci moun garçoun <lb facs="#eSc_line_96a2d915"
+                              />qu’êré mort et oul ei ressussita ; oul <lb
+                                    facs="#eSc_line_611d47b8"/>eré perdu et lou veyqui retrouva;
+                              fa<lb break="no" facs="#eSc_line_28663d62"/>zens donc fèta.</p>
+
+
+                        <p n="25">
+                              <lb facs="#eSc_line_67a5c679"/>Pertant lou plus vieux de sous gar¬ <lb
+                                    facs="#eSc_line_d0290653"/>çous qu’eré pe lous champs,
+                              reverit. <lb facs="#eSc_line_31c1ec20"/>Quant ou fuzié prochou de la
+                              meisoun <lb facs="#eSc_line_5acc56d7"/>oul entendit danssi et chantas
+                              ;</p>
+                        <p n="26">ou sou<lb break="no" facs="#eSc_line_cfa6d87b"/>ziez un valet per savey de
+                              si so qué l’ere;</p>
+
+
+                        <p n="27">
+                              <lb facs="#eSc_line_efcc663e"/>l’ey zi dizit : ou que voutrou frare ey
+                                    <lb facs="#eSc_line_6e18eb6d"/>revingu ; voutrou pare si jouyoux
+                              de <lb facs="#eSc_line_1ea13ea8"/>lou vey en bourra sanda, a fat tuas
+                                    <lb facs="#eSc_line_ad58ee60"/>lou plus beaou de lous
+                              veaoux.</p>
+
+
+                        <p n="28">
+                              <lb facs="#eSc_line_9f365cf1"/>Iquey ici si feou de veyra qu’is fa¬
+                                    <lb facs="#eSc_line_39e4ed0d"/>siants tant de feta per un
+                              courrandier, <lb facs="#eSc_line_57feee40"/>qu’ou ne voullit pas
+                              intras dyn la mey<lb break="no" facs="#eSc_line_73d8cf86"/>soun. Soun pare
+                              vayant iquien sour<lb break="no" facs="#eSc_line_a077725a"/>tiez et lou
+                              pressiet d’intras avey si;</p>
+                        <p n="29">mais <lb facs="#eSc_line_6789e022"/>ou repondiez à soun pare :
+                              l’o zya <lb facs="#eSc_line_227ada08"/>longtem que mi vous servou sen
+                              vous <lb facs="#eSc_line_761663bd"/>avey jamais desobéi, ma gni men;
+                                    <lb facs="#eSc_line_be390e33"/>vous ne m’ayez jamais ren doura,
+                              pas <pb facs="#paraboles-Champollion-Figeac.pdf_page_10" n="119"/>
+                              <fw type="pageNumb">(119)</fw>
+                              <lb facs="#eSc_line_e775948d"/>soulament un choro per me divertir <lb
+                                    facs="#eSc_line_091ea618"/>avey mous camarades ;</p>
+                        <p n="30">et quan un <lb facs="#eSc_line_30e64f88"/>parein comma iquou, qu’a
+                              migé tout <lb facs="#eSc_line_1683ed1b"/>son ben avey leys
+                              couquirets, ey vingut <lb facs="#eSc_line_b81f384b"/>vous ayez per si
+                              fat tuas lou plus beaou <lb facs="#eSc_line_ae6d1ef0"/>de lous
+                              veaoux.</p>
+                        <p n="31">Son pare zi dissiez: <lb facs="#eSc_line_9c28a463"/>moun garçoun,
+                              per vous vous settey <lb facs="#eSc_line_c016384d"/>téjouz avey mi et
+                              mi n’ay ren que ne <lb facs="#eSc_line_8d97f66d"/>saye voutrou;</p>
+                        <p n="32">mais la fouilli bien fare un <lb facs="#eSc_line_e181e10d"/>festin
+                              en rejouissance de ce que mour <lb facs="#eSc_line_47b0238b"/>affant
+                              qu’eré mort ei ressussita, oul eré <lb facs="#eSc_line_334bf361"
+                              />perdus s’ey tourna amassa.</p>
+                  </div>
+                  <div type="parabole" xml:lang="viva-1235" n="3" corresp="#place_2">
+                        <pb facs="#paraboles-Champollion-Figeac.pdf_page_11" n="120"/>
+                        <fw type="pageNumb">(120)</fw>
+                        <head><lb facs="#eSc_line_ce96e117"/>N° V. <lb facs="#eSc_line_c6ce61ad"
+                              />PATOIS DU TRIÈVES. <lb facs="#eSc_line_0b81b577"/>Parabole de
+                              l’Enfant prodigue en <lb facs="#eSc_line_0c5b6682"/>patois de l’ancien
+                              pays de Trièves, <lb facs="#eSc_line_161a5bfd"/>au sud de
+                              Grenoble.</head>
+
+
+                        <p n="11">
+                              <lb facs="#eSc_line_f84f7297"/>UN homme ayet dous garçous;</p>
+                        <p n="12">lo plus <lb facs="#eSc_line_487a8e68"/>jouvé dit a son païre :
+                              Païre, balla me <lb facs="#eSc_line_5dc54a0a"/>la portion d’au ben
+                              que dut me revenir. <lb facs="#eSc_line_65a763c2"/>Son païre leur fit
+                              la portion de sou ben.</p>
+
+
+                        <p n="13">
+                              <lb facs="#eSc_line_9433e38e"/>Paus de jours après lo plus jouvé
+                              daux <lb facs="#eSc_line_cb266326"/>dous efans ayant ramassa tout ce
+                              qu’ayet, <lb facs="#eSc_line_6cccc46b"/>partit per veire un pays
+                              éloigno et vi<lb break="no" facs="#eSc_line_9347c441"/>vant obe de filias de
+                              mechanta via, eut <lb facs="#eSc_line_8baddb89"/>tuet dissipa son
+                              ben.</p>
+                        <p n="14">Après qu’eut tout <lb facs="#eSc_line_ff14de98"/>migeo, arrivit
+                              din lou pay out’erre <lb facs="#eSc_line_9575e956"/>una granda famina,
+                              et lu commencit <lb facs="#eSc_line_df18a5ad"/>a sintir la misera.</p>
+                        <p n="15">Adouques s’in allit et <lb facs="#eSc_line_220b0c3a"/>se boutit in
+                              service chieux un habitant <lb facs="#eSc_line_2b69bc92"/>dun pays,
+                              qui l’envoyit à sa ferma pe <lb facs="#eSc_line_93d2d292"/>garda lou
+                              cayous.</p>
+                        <p n="16">Auriés ben voudiu <lb facs="#eSc_line_69cb114d"/>implir son
+                              vintre de ce que lou pouercs <lb facs="#eSc_line_03a5cbb8"/>migeavon,
+                              mais diudin ne lui an don<lb break="no" facs="#eSc_line_21b8f6e1"/>nave.</p>
+                        <p n="17">Adonque ayant fa retour sur iou, <lb facs="#eSc_line_7b3d79b8"/>il
+                              disit : cumbien de valets din la maisou <pb
+                                    facs="#paraboles-Champollion-Figeac.pdf_page_12" n="121"/>
+                              <fw type="pageNumb">(121)</fw>
+                              <lb facs="#eSc_line_47086f86"/>de mon païre qu’ont de pan tant que
+                                    <lb facs="#eSc_line_0b895d05"/>volou, tandis que you mouerou eci
+                              de <lb facs="#eSc_line_399c3fdb"/>fan.</p>
+                        <p n="18">Fau que daquey pas aillou trouva <lb facs="#eSc_line_1e9aa180"
+                              />mon païre et que li disou : païre, païre, <lb
+                                    facs="#eSc_line_9b81a81c"/>a pecho contra lou ciel et contra
+                              vous;</p>
+
+
+                        <p n="19">
+                              <lb facs="#eSc_line_7627d279"/>iou siou plus digné d’estre appella
+                              vos<lb break="no" facs="#eSc_line_1bbc8d0d"/>tre fil, traita me comm’un de
+                              vostres <lb facs="#eSc_line_2e743054"/>valets.</p>
+
+
+                        <p n="20">
+                              <lb facs="#eSc_line_dd9f49af"/>Il partet donques, et vint trouva son
+                                    <lb facs="#eSc_line_d98c5e6e"/>païre. Quant era encare ben
+                              lien, sou <lb facs="#eSc_line_9158c09b"/>païre l’apperçut, et ut
+                              compassion de <lb facs="#eSc_line_2cc133d5"/>el, et courant a el, il
+                              se jittit a son couol <lb facs="#eSc_line_5450d622"/>et le baisit
+                              ;</p>
+                        <p n="21">et son fil li dit : païre a <lb facs="#eSc_line_0c38e13f"/>pecho
+                              contra lou ciel et contra vous, <lb facs="#eSc_line_117d5141"/>ne siou
+                              plus digne d’êstre appella vostre <lb facs="#eSc_line_d55462e4"
+                              />fil.</p>
+                        <p n="22">Adouque lou païre dit a sou servi<lb break="no" facs="#eSc_line_c92f830f"
+                              />tours: aduza me vite la plus bella robbo, <lb
+                                    facs="#eSc_line_61b1e252"/>boutali la ; boutali aussi una bagua
+                              aux <lb facs="#eSc_line_801df77c"/>dets et de souliers aux peds,</p>
+                        <p n="23">amena un <lb facs="#eSc_line_8f04ae70"/>viau gras, tua lou, fasan
+                              bonna chiera <lb facs="#eSc_line_2cf3f132"/>et rejouissan nous,</p>
+                        <p n="24">persaqué mon fil <lb facs="#eSc_line_d64098fc"/>quest ici era
+                              mouort et é ressuscita, era <lb facs="#eSc_line_a0777a27"/>perdu et
+                              é retrouva : ainssi commiciront <lb facs="#eSc_line_fa11471b"/>a fare
+                              granda chiera et a se rejouir.</p>
+
+
+                        <p n="25">
+                              <lb facs="#eSc_line_4a2dc4c7"/>Stapendant lou fil ainet quera au <lb
+                                    facs="#eSc_line_44b8b194"/>champ s’invinguit, et quand fut
+                              proché <fw type="quireMarks">11</fw>
+                              <pb facs="#paraboles-Champollion-Figeac.pdf_page_13" n="122"/>
+                              <fw type="pageNumb">(122)</fw>
+                              <lb facs="#eSc_line_070a70a1"/>de la maisou il entendit las
+                              aubadas.</p>
+                        <p n="26">Il <lb facs="#eSc_line_763cf431"/>appellit donques un dous
+                              servitours et <lb facs="#eSc_line_a8936a7e"/>li demandit ce qu’etiet
+                              qu’oviet.</p>
+                        <p n="27">Lou <lb facs="#eSc_line_38342d85"/>valet li dit ; c’est que vostre
+                              frare est re<lb break="no" facs="#eSc_line_7a0a4386"/>vundiu et vostre païre a
+                              fat tua un viau <lb facs="#eSc_line_36924add"/>gras, persaque la
+                              retrouvo in bonna <lb facs="#eSc_line_904e7f1f"/>santo.</p>
+                        <p n="28">Aquo l’ayant facho, il ne voulut <lb facs="#eSc_line_b26a8b41"
+                              />plus intras dins la maisou ; mais sou <lb facs="#eSc_line_f9d31836"
+                              />païre étant surti per l’en pria,</p>
+                        <p n="29">aquey <lb facs="#eSc_line_64f6e411"/>prit la parolo, et li disit :
+                              vetia duja tant <lb facs="#eSc_line_2175583c"/>d’ans que vous servou,
+                              iou jamais ne <lb facs="#eSc_line_32f354b2"/>vous ais desoubei in rin
+                              de ce que mayo <lb facs="#eSc_line_13e8ce7a"/>commando; stapandant
+                              jamais ne m’avés <lb facs="#eSc_line_bbb83a96"/>douno un chabrit pe
+                              me divertir obe <lb facs="#eSc_line_01e69f87"/>mous amis;</p>
+                        <p n="30">mais aussitot que vostre autro <lb facs="#eSc_line_d289a467"/>fil
+                              qu’a migeo tout sou ben obe de <lb facs="#eSc_line_320642ee"/>fenas
+                              perduas eit revindiu, aya fa tua <lb facs="#eSc_line_0fa8bb65"/>per el
+                              le viau gras.</p>
+                        <p n="31">Sou païre li disit: <lb facs="#eSc_line_7711b39d"/>mon fil, sias
+                              toujours obe mi et tout <lb facs="#eSc_line_fdf51b34"/>ce qu’aye eit
+                              vostre ;</p>
+                        <p n="32">mais faillet ben <lb facs="#eSc_line_8d0cae9a"/>faré una feta et
+                              nous rejoui perqué vos<lb break="no" facs="#eSc_line_1e1ff4ff"/>tre fraïré
+                              que veci era mouort et é ressus<lb break="no" facs="#eSc_line_312ad27a"/>cita,
+                              era perdu et é retrouvo.</p>
+                  </div>
+            </body>
+      </text>
+</TEI>
