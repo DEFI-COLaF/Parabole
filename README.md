@@ -24,6 +24,9 @@ Other XML/TEI files are also available in the repository (**2_ProductionTEI**):
 - The 1831 edition of selected translations.
 - Various translations appearing in contemporary journals (Le Brigant 1779 (bret.) ; Champollion-Figeac 1809 (vivaro-alpin) ; Société liégeoise de littérature wallonne 1864 (wall.) ; Favrat 1866 (suisse romand) ; Chambure 1878 (bourg.) ; Loth 1889 (bret.))
 
+## Credits
+This work has been mainly funded by the Inria “Défi”-type project COLaF (Corpus et Outils pour les Langues de France).
+
 ## Licence
 All documents (source, encoded documents and code) are CC-BY.</br>
 ![68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792f322e302f38387833312e706e67](https://user-images.githubusercontent.com/56683417/115525743-a78d2400-a28f-11eb-8e45-4b6e3265a527.png)
