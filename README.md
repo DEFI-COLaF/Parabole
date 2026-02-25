@@ -12,8 +12,14 @@ collatex/pythonport.html) (**3_collation**) and mapping of selected words on [*A
 ## Corpus description
 A [first corpus](https://github.com/DEFI-COLaF/Parabole/blob/main/2_ProductionTEI/tei/TEI_parabole_1879.xml) have been created using this pipeline using the 1879 edition of 89 selected translations, available on [Gallica](https://gallica.bnf.fr/ark:/12148/bd6t5334045p). The OCR output have been extracted in XML/ALTO using Gallica API and then manually corrected to ensure data quality. It was automatically encoded in XML/TEI using a [Python script](https://github.com/DEFI-COLaF/Parabole/blob/main/2_ProductionTEI/scripts/parabole2tei.py) and sociolinguistic metadata (language, locality and collector for each translation) were then added manually. The word-level alignment is available in both csv and XML/TEI (**3_collation**). Lastly, twenty maps were created. 
 
-The PCPPS corpus contains 89 dialectal versions of the same 22 paragraphs for a total of 100, 000 tokens. 22 linguistic varieties (inferred from the place of collection) are represented coming from areas outside of Paris Basin such as Oil varieties (e.g. Wallon, Picard, Franc-Comtois), Occitan varieties (e.g. Vivaro-Alpin, Languedocien), Platt, Poitevin-Saintongeais and Romanche.
+The PCPPS corpus contains 89 dialectal versions of the same 22 paragraphs for a total of 100, 000 tokens. 22 linguistic varieties (inferred from the place of collection) are represented coming from areas outside of Paris Basin such as Oil varieties (e.g. Wallon, Picard, Franc-Comtois), Occitan varieties (e.g. Vivaro-Alpin, Languedocien), Platt, Poitevin-Saintongeais and Romanche. The following map of the word jeune among the corpus presents the selected texts distribution accross mainland France.
 
+<p align="center">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/a94da712-ae65-41b5-8ca8-97ecbbc62a74" />
+</p>
+
+
+## Other sources
 Other XML/TEI files are also available in the repository (**2_ProductionTEI**):
 - The 1831 edition of selected translations.
 - Various translations appearing in contemporary journals (Le Brigant 1779 (bret.) ; Champollion-Figeac 1809 (vivaro-alpin) ; Société liégeoise de littérature wallonne 1864 (wall.) ; Favrat 1866 (suisse romand) ; Chambure 1878 (bourg.) ; Loth 1889 (bret.))
