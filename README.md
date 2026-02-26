@@ -23,6 +23,7 @@ The PCPPS corpus contains 89 dialectal versions of the same 22 paragraphs for a 
 Other XML/TEI files are also available in the repository (**2_ProductionTEI**):
 - The 1831 edition of selected translations.
 - Various translations appearing in contemporary journals (Le Brigant 1779 (bret.) ; Champollion-Figeac 1809 (vivaro-alpin) ; Société liégeoise de littérature wallonne 1864 (wall.) ; Favrat 1866 (suisse romand) ; Chambure 1878 (bourg.) ; Loth 1889 (bret.))
+- The Bourciez Parables (4444 translations from south-west France localities) in collaboration with the [Bourciez Project](https://www.math.u-bordeaux.fr/~agenadot/bourciezproject.html)
 
 ## Credits
 This work has been mainly funded by the Inria “Défi”-type project COLaF (Corpus et Outils pour les Langues de France).
