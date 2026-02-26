@@ -2,10 +2,10 @@ import pandas as pd
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 
-input_file = "./1_collation/resultat_collation_14-tout.tsv"
-output_file = "./2_xml/collation_14.xml"
+input_file = "./collation_csv/collation_verset_1_dordogne_corrige.csv"
+output_file = "./collation_xml/collation_bourciez_dordogne_verset_1.xml"
 
-df = pd.read_csv(input_file, sep="\t", header=None)
+df = pd.read_csv(input_file, sep=",", header=None)
 print(df)
 
 
