@@ -1,58 +1,58 @@
-mot,type,nom_lieu,geonames,identifiant,latitude,longitude
-pere/père,region,Civray,3024846,all-poit-1240-1,46.1471,0.29509
-pere/pére/père,region,Châtellerault,3026141,all-poit-1240-2,46.8,0.53333
-pere,region,Montmorillon,2992224,all-poit-1240-3,46.41667,0.66667
-père/pere,region,Montmorillon,2992224,all-poit-1240-4,46.41667,0.66667
-père/pére,region,Argenton-sur-Creuse,6452283,all-5,46.58889,1.51917
-père,region,La Châtre,3010153,all-6,46.58333,1.83333
-père,region,Le Blanc,3032422,all-7,46.66667,1.16667
-paï,region,Saint-Yrieix,2976546,all-limo-1246-8,45.51604,1.20569
-paï,region,Haute-Vienne,3013719,all-limo-1246-9,45.83333,1.16667
-pére,settlement,Saulcet,6425477,all-10,46.325,3.26222
-père/pére/pere,region,Mayet-de-Montagne,6455455,all-11,46.07083,3.66667
-pére,settlement,Ferrières,3018620,all-12,46.02416,3.64783
-pere,settlement,Montluçon,2992292,all-13,46.33333,2.6
-pére/pere,region,Lapalisse,6425373,all-14,46.24944,3.63722
-pere,settlement,Brugheas,6446531,all-15,46.07667,3.36778
-pére/pere,settlement,Ebreuil,6425349,all-16,46.11556,3.08667
-paire,settlement,Gannat,6425358,all-17,46.1,3.19833
-peire,region,Crocq,6454998,all-18,45.86806,2.36722
-pere,region,La Souterraine,6455686,all-19,46.23806,1.48556
-pére/pere,settlement,Champeix,6450343,all-20,45.58861,3.12889
-paë/paï/pai,region,Bourganeuf,6447699,all-21,45.95361,1.75556
-pai/pâi,settlement,Aubusson,6452196,all-22,45.95611,2.1675
-pai/pâi,settlement,Saint-Sulpice-les-Champs,6429317,all-22,45.9954,2.0222
-pai/pâi,settlement,Chénérailles,6447719,all-22,46.11194,2.17528
-pere/père,settlement,Aubeterre,3036378,all-23,45.26667,0.16667
-pais,region,Guéret,3014383,all-24,46.16667,1.86667
-paï/pére,settlement,Gardes-le-Pontaroux,6427720,all-25,45.5193,0.305
-paï/pére,settlement,Edon,6427704,all-25,45.48861,0.35417
-pais,settlement,Gentioux,6616133,all-26,45.7848,1.9943
-pais,settlement,La Courtine,6456776,all-26,45.70111,2.26361
-pai/pay,settlement,Gioux,6614424,all-27,45.81,2.1221
-paï/péro/pèro,region,Montbron,6453706,all-28,45.66667,0.5
-pere,settlement,Saint-Severin,6428119,all-29,46.08278,-0.42167
-pāï,settlement,Saint-Vaury,6429318,all-30,46.20389,1.75611
-pére,settlement,Torsac,6427877,all-31,45.56333,0.21472
-pére,settlement,Fouquebrune,6427716,all-31,45.52806,0.21083
-paîre,settlement,Confolens,6453698,all-32,46.01361,0.67222
-paîré/paire/pairé,settlement,Confolens,6453698,all-33,46.01361,0.67222
-pére,settlement,Lavalette,6427862,all-34,45.38333,0.23333
-pêre/pere,settlement,Arnac-la-Poste,6452577,all-35,46.26583,1.37389
-païre/pepa,settlement,Bellac,6455315,all-36,46.12194,1.04944
-paï,settlement,Bessines-sur-Gartempe,6451687,all-37,46.10889,1.36833
-paire,settlement,Bussière-Poitevine,3029429,all-38,46.23543,0.9053
-paï/pai/páï,settlement,Châteauponsac,6451708,all-39,46.13389,1.27611
-paï,settlement,Cieux,6451711,all-40,45.99167,1.04528
-paï,settlement,Compreignac,6451712,all-41,45.99194,1.27472
-paire,settlement,Darnac,6451717,all-42,46.22333,0.95972
-pêre/pere,settlement,Dompierre-les-Églises,6451719,all-43,46.22583,1.25333
-pai/paï,settlement,Jarnages,6429201,all-44,46.18111,2.08472
-pére,settlement,La Rochefoucauld,6455620,all-45,45.74056,0.38611
-paï,settlement,Laurière,6455317,all-46,46.07639,1.47528
-pére/pere/pêre,settlement,Le Dorat,6457168,all-47,46.21528,1.08139
-païré/païre,settlement,Nouic,6445403,all-48,46.06,0.91972
-pere/pêre,settlement,Saint-Léger-Magnazeix,6445444,all-49,46.2875,1.24694
-paire,settlement,Saint-Martial-sur-Isop,6445447,all-50,46.16667,0.85
-paire,settlement,Saint-Barbant,6445425,all-50,46.17194,0.84944
-pere,settlement,Saint-Sulpice-les-Feuilles,6445462,all-51,46.31917,1.36806
+mot,type,nom_lieu,geonames,identifiant,latitude,longitude,lexique,phonetique,ind_geo,ind_transcr,valeur_lexique,commentaire
+pere/père,region,Civray,3024846,all-poit-1240-1,46.1471,0.29509,non,NA,NA,NA,ppa,
+pere/pére/père,region,Châtellerault,3026141,all-poit-1240-2,46.8,0.53333,oui,pe,non,oui,,
+pere,region,Montmorillon,2992224,all-poit-1240-3,46.41667,0.66667,non,NA,NA,NA,ppa,
+père/pere,region,Montmorillon,2992224,all-poit-1240-4,46.41667,0.66667,,,,,,
+père/pére,region,Argenton-sur-Creuse,6452283,all-5,46.58889,1.51917,oui,pe,non,oui,,
+père,region,La Châtre,3010153,all-6,46.58333,1.83333,oui,pe,non,oui,,
+père,region,Le Blanc,3032422,all-7,46.66667,1.16667,oui,pe,oui,oui,,
+paï,region,Saint-Yrieix,2976546,all-limo-1246-8,45.51604,1.20569,oui,pe,non,oui,,
+paï,region,Haute-Vienne,3013719,all-limo-1246-9,45.83333,1.16667,,,,,,
+pére,settlement,Saulcet,6425477,all-10,46.325,3.26222,oui,pe,non,oui,,
+père/pére/pere,region,Mayet-de-Montagne,6455455,all-11,46.07083,3.66667,oui,pe,non,oui,,
+pére,settlement,Ferrières,3018620,all-12,46.02416,3.64783,oui,pe,non,oui,,
+pere,settlement,Montluçon,2992292,all-13,46.33333,2.6,oui,non,NA,NA,,
+pére/pere,region,Lapalisse,6425373,all-14,46.24944,3.63722,oui,pe,non,oui,,
+pere,settlement,Brugheas,6446531,all-15,46.07667,3.36778,,,,,,
+pére/pere,settlement,Ebreuil,6425349,all-16,46.11556,3.08667,,,,,,
+paire,settlement,Gannat,6425358,all-17,46.1,3.19833,oui,pe,non,oui,,
+peire,region,Crocq,6454998,all-18,45.86806,2.36722,oui,non,NA,NA,,
+pere,region,La Souterraine,6455686,all-19,46.23806,1.48556,oui,pe,oui,oui,,
+pére/pere,settlement,Champeix,6450343,all-20,45.58861,3.12889,oui,pe,non,oui,,
+paë/paï/pai,region,Bourganeuf,6447699,all-21,45.95361,1.75556,oui,pe,non,oui,,
+pai/pâi,settlement,Aubusson,6452196,all-22,45.95611,2.1675,oui,pe,non,oui,,
+pai/pâi,settlement,Saint-Sulpice-les-Champs,6429317,all-22,45.9954,2.0222,oui,pe,non,oui,,
+pai/pâi,settlement,Chénérailles,6447719,all-22,46.11194,2.17528,oui,non,NA,NA,,
+pere/père,settlement,Aubeterre,3036378,all-23,45.26667,0.16667,pe,pe,oui,oui,,
+pais,region,Guéret,3014383,all-24,46.16667,1.86667,,,,,,
+paï/pére,settlement,Gardes-le-Pontaroux,6427720,all-25,45.5193,0.305,oui,pe,oui,oui,,
+paï/pére,settlement,Edon,6427704,all-25,45.48861,0.35417,oui,pe,oui,oui,,
+pais,settlement,Gentioux,6616133,all-26,45.7848,1.9943,oui,pe,non,oui,,
+pais,settlement,La Courtine,6456776,all-26,45.70111,2.26361,,,,,,
+pai/pay,settlement,Gioux,6614424,all-27,45.81,2.1221,oui,pe,non,oui,,
+paï/péro/pèro,region,Montbron,6453706,all-28,45.66667,0.5,,,,,,
+pere,settlement,Saint-Severin,6428119,all-29,46.08278,-0.42167,oui,pe,non,oui,,
+pāï,settlement,Saint-Vaury,6429318,all-30,46.20389,1.75611,,,,,,
+pére,settlement,Torsac,6427877,all-31,45.56333,0.21472,oui,pe,oui,oui,,
+pére,settlement,Fouquebrune,6427716,all-31,45.52806,0.21083,oui,pe,oui,oui,,
+paîre,settlement,Confolens,6453698,all-32,46.01361,0.67222,oui,pe,non,oui,,
+paîré/paire/pairé,settlement,Confolens,6453698,all-33,46.01361,0.67222,oui,pe,non,oui,,
+pére,settlement,Lavalette,6427862,all-34,45.38333,0.23333,oui,pe,oui,oui,,
+pêre/pere,settlement,Arnac-la-Poste,6452577,all-35,46.26583,1.37389,,,,,,
+païre/pepa,settlement,Bellac,6455315,all-36,46.12194,1.04944,,,,,,
+paï,settlement,Bessines-sur-Gartempe,6451687,all-37,46.10889,1.36833,,,,,,
+paire,settlement,Bussière-Poitevine,3029429,all-38,46.23543,0.9053,,,,,,
+paï/pai/páï,settlement,Châteauponsac,6451708,all-39,46.13389,1.27611,oui,pe,non,oui,,
+paï,settlement,Cieux,6451711,all-40,45.99167,1.04528,oui,pe,non,oui,,
+paï,settlement,Compreignac,6451712,all-41,45.99194,1.27472,oui,pe,non,oui,,
+paire,settlement,Darnac,6451717,all-42,46.22333,0.95972,pe,pe,oui,oui,ppa,
+pêre/pere,settlement,Dompierre-les-Églises,6451719,all-43,46.22583,1.25333,oui,non,NA,NA,,
+pai/paï,settlement,Jarnages,6429201,all-44,46.18111,2.08472,oui,non,NA,NA,,
+pére,settlement,La Rochefoucauld,6455620,all-45,45.74056,0.38611,,,,,,
+paï,settlement,Laurière,6455317,all-46,46.07639,1.47528,oui,pe,non,oui,,
+pére/pere/pêre,settlement,Le Dorat,6457168,all-47,46.21528,1.08139,,,,,,
+païré/païre,settlement,Nouic,6445403,all-48,46.06,0.91972,,,,,,
+pere/pêre,settlement,Saint-Léger-Magnazeix,6445444,all-49,46.2875,1.24694,oui,pe,oui,oui,,
+paire,settlement,Saint-Martial-sur-Isop,6445447,all-50,46.16667,0.85,non,NA,NA,NA,ppa,
+paire,settlement,Saint-Barbant,6445425,all-50,46.17194,0.84944,,,,,,
+pere,settlement,Saint-Sulpice-les-Feuilles,6445462,all-51,46.31917,1.36806,oui,pe,oui,oui,,

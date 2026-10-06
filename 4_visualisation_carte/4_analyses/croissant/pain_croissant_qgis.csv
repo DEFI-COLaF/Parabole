@@ -1,54 +1,54 @@
-mot,type,nom_lieu,geonames,identifiant,latitude,longitude
-pain,region,Civray,3024846,all-poit-1240-1,46.1471,0.29509
-pain,region,Montmorillon,2992224,all-poit-1240-3,46.41667,0.66667
-pan,region,Argenton-sur-Creuse,6452283,all-5,46.58889,1.51917
-painje,region,La Châtre,3010153,all-6,46.58333,1.83333
-pan,region,Le Blanc,3032422,all-7,46.66667,1.16667
-pô,region,Saint-Yrieix,2976546,all-limo-1246-8,45.51604,1.20569
-po,region,Haute-Vienne,3013719,all-limo-1246-9,45.83333,1.16667
-pan,settlement,Saulcet,6425477,all-10,46.325,3.26222
-pan,settlement,Ferrières,3018620,all-12,46.02416,3.64783
-pain,region,Lapalisse,6425373,all-14,46.24944,3.63722
-pan,settlement,Brugheas,6446531,all-15,46.07667,3.36778
-pan,settlement,Ebreuil,6425349,all-16,46.11556,3.08667
-pan,settlement,Gannat,6425358,all-17,46.1,3.19833
-po,region,Crocq,6454998,all-18,45.86806,2.36722
-pan,region,La Souterraine,6455686,all-19,46.23806,1.48556
-pain,settlement,Champeix,6450343,all-20,45.58861,3.12889
-po,region,Bourganeuf,6447699,all-21,45.95361,1.75556
-pô,settlement,Aubusson,6452196,all-22,45.95611,2.1675
-pô,settlement,Saint-Sulpice-les-Champs,6429317,all-22,45.9954,2.0222
-pô,settlement,Chénérailles,6447719,all-22,46.11194,2.17528
-pain,settlement,Aubeterre,3036378,all-23,45.26667,0.16667
-pót,region,Guéret,3014383,all-24,46.16667,1.86667
-po,settlement,Gardes-le-Pontaroux,6427720,all-25,45.5193,0.305
-po,settlement,Edon,6427704,all-25,45.48861,0.35417
-po,settlement,Gentioux,6616133,all-26,45.7848,1.9943
-po,settlement,La Courtine,6456776,all-26,45.70111,2.26361
-po,settlement,Gioux,6614424,all-27,45.81,2.1221
-po,region,Montbron,6453706,all-28,45.66667,0.5
-pain,settlement,Saint-Severin,6428119,all-29,46.08278,-0.42167
-po,settlement,Saint-Vaury,6429318,all-30,46.20389,1.75611
-pain,settlement,Torsac,6427877,all-31,45.56333,0.21472
-pain,settlement,Fouquebrune,6427716,all-31,45.52806,0.21083
-pan,settlement,Confolens,6453698,all-32,46.01361,0.67222
-po,settlement,Confolens,6453698,all-33,46.01361,0.67222
-pain,settlement,Lavalette,6427862,all-34,45.38333,0.23333
-pan,settlement,Arnac-la-Poste,6452577,all-35,46.26583,1.37389
-po,settlement,Bellac,6455315,all-36,46.12194,1.04944
-po,settlement,Bessines-sur-Gartempe,6451687,all-37,46.10889,1.36833
-pin,settlement,Bussière-Poitevine,3029429,all-38,46.23543,0.9053
-po,settlement,Châteauponsac,6451708,all-39,46.13389,1.27611
-po,settlement,Cieux,6451711,all-40,45.99167,1.04528
-po,settlement,Compreignac,6451712,all-41,45.99194,1.27472
-pain,settlement,Darnac,6451717,all-42,46.22333,0.95972
-po,settlement,Dompierre-les-Églises,6451719,all-43,46.22583,1.25333
-po,settlement,Jarnages,6429201,all-44,46.18111,2.08472
-pan,settlement,La Rochefoucauld,6455620,all-45,45.74056,0.38611
-po,settlement,Laurière,6455317,all-46,46.07639,1.47528
-pain,settlement,Le Dorat,6457168,all-47,46.21528,1.08139
-po,settlement,Nouic,6445403,all-48,46.06,0.91972
-pain,settlement,Saint-Léger-Magnazeix,6445444,all-49,46.2875,1.24694
-pain,settlement,Saint-Martial-sur-Isop,6445447,all-50,46.16667,0.85
-pain,settlement,Saint-Barbant,6445425,all-50,46.17194,0.84944
-pain,settlement,Saint-Sulpice-les-Feuilles,6445462,all-51,46.31917,1.36806
+mot,type,nom_lieu,geonames,identifiant,latitude,longitude,lexique,phonetique,ind_geo,ind_transcr,valeur_lexique,commentaire
+pain,region,Civray,3024846,all-poit-1240-1,46.1471,0.29509,oui,pe,non,oui,,
+pain,region,Montmorillon,2992224,all-poit-1240-3,46.41667,0.66667,oui,pe,non,oui,,
+pan,region,Argenton-sur-Creuse,6452283,all-5,46.58889,1.51917,oui,pe,non,oui,,
+painje,region,La Châtre,3010153,all-6,46.58333,1.83333,oui,non,NA,NA,,
+pan,region,Le Blanc,3032422,all-7,46.66667,1.16667,oui,pe,non,oui,,
+pô,region,Saint-Yrieix,2976546,all-limo-1246-8,45.51604,1.20569,oui,oui,NA,NA,,
+po,region,Haute-Vienne,3013719,all-limo-1246-9,45.83333,1.16667,oui,oui,NA,NA,,
+pan,settlement,Saulcet,6425477,all-10,46.325,3.26222,oui,pe,non,oui,,
+pan,settlement,Ferrières,3018620,all-12,46.02416,3.64783,oui,pe,non,oui,,
+pain,region,Lapalisse,6425373,all-14,46.24944,3.63722,oui,pe,non,oui,,
+pan,settlement,Brugheas,6446531,all-15,46.07667,3.36778,oui,pe,non,oui,,
+pan,settlement,Ebreuil,6425349,all-16,46.11556,3.08667,oui,pe,oui,oui,,
+pan,settlement,Gannat,6425358,all-17,46.1,3.19833,oui,pe,non,oui,,
+po,region,Crocq,6454998,all-18,45.86806,2.36722,,,,,,
+pan,region,La Souterraine,6455686,all-19,46.23806,1.48556,oui,pe,non,oui,,
+pain,settlement,Champeix,6450343,all-20,45.58861,3.12889,,,,,,
+po,region,Bourganeuf,6447699,all-21,45.95361,1.75556,oui,oui,NA,NA,,
+pô,settlement,Aubusson,6452196,all-22,45.95611,2.1675,oui,oui,NA,NA,,
+pô,settlement,Saint-Sulpice-les-Champs,6429317,all-22,45.9954,2.0222,oui,oui,NA,NA,,
+pô,settlement,Chénérailles,6447719,all-22,46.11194,2.17528,oui,oui,NA,NA,,
+pain,settlement,Aubeterre,3036378,all-23,45.26667,0.16667,oui,pe,non,oui,,
+pót,region,Guéret,3014383,all-24,46.16667,1.86667,,,,,,
+po,settlement,Gardes-le-Pontaroux,6427720,all-25,45.5193,0.305,oui,oui,NA,NA,,
+po,settlement,Edon,6427704,all-25,45.48861,0.35417,oui,oui,NA,NA,,
+po,settlement,Gentioux,6616133,all-26,45.7848,1.9943,oui,oui,NA,NA,,
+po,settlement,La Courtine,6456776,all-26,45.70111,2.26361,oui,oui,NA,NA,,
+po,settlement,Gioux,6614424,all-27,45.81,2.1221,oui,oui,NA,NA,,
+po,region,Montbron,6453706,all-28,45.66667,0.5,oui,oui,NA,NA,,
+pain,settlement,Saint-Severin,6428119,all-29,46.08278,-0.42167,oui,pe,non,oui,,
+po,settlement,Saint-Vaury,6429318,all-30,46.20389,1.75611,,,,,,
+pain,settlement,Torsac,6427877,all-31,45.56333,0.21472,oui,pe,oui,oui,,
+pain,settlement,Fouquebrune,6427716,all-31,45.52806,0.21083,oui,pe,oui,oui,,
+pan,settlement,Confolens,6453698,all-32,46.01361,0.67222,,,,,,
+po,settlement,Confolens,6453698,all-33,46.01361,0.67222,,,,,,
+pain,settlement,Lavalette,6427862,all-34,45.38333,0.23333,,,,,,
+pan,settlement,Arnac-la-Poste,6452577,all-35,46.26583,1.37389,,,,,,
+po,settlement,Bellac,6455315,all-36,46.12194,1.04944,oui,oui,NA,NA,,
+po,settlement,Bessines-sur-Gartempe,6451687,all-37,46.10889,1.36833,oui,oui,NA,NA,,
+pin,settlement,Bussière-Poitevine,3029429,all-38,46.23543,0.9053,,,,,,
+po,settlement,Châteauponsac,6451708,all-39,46.13389,1.27611,,,,,,
+po,settlement,Cieux,6451711,all-40,45.99167,1.04528,oui,oui,NA,NA,,
+po,settlement,Compreignac,6451712,all-41,45.99194,1.27472,,,,,,
+pain,settlement,Darnac,6451717,all-42,46.22333,0.95972,,,,,,
+po,settlement,Dompierre-les-Églises,6451719,all-43,46.22583,1.25333,,,,,,
+po,settlement,Jarnages,6429201,all-44,46.18111,2.08472,oui,oui,NA,NA,,
+pan,settlement,La Rochefoucauld,6455620,all-45,45.74056,0.38611,oui,pe,oui,oui,,
+po,settlement,Laurière,6455317,all-46,46.07639,1.47528,oui,oui,NA,NA,,
+pain,settlement,Le Dorat,6457168,all-47,46.21528,1.08139,,,,,,
+po,settlement,Nouic,6445403,all-48,46.06,0.91972,oui,oui,NA,NA,,
+pain,settlement,Saint-Léger-Magnazeix,6445444,all-49,46.2875,1.24694,oui,pe,oui,oui,,
+pain,settlement,Saint-Martial-sur-Isop,6445447,all-50,46.16667,0.85,oui,pe,non,oui,,
+pain,settlement,Saint-Barbant,6445425,all-50,46.17194,0.84944,,,,,,
+pain,settlement,Saint-Sulpice-les-Feuilles,6445462,all-51,46.31917,1.36806,oui,pe,non,oui,,
