@@ -1,58 +1,58 @@
-mot,type,nom_lieu,geonames,identifiant,latitude,longitude
-det,region,Civray,3024846,all-poit-1240-1,46.1471,0.29509
-douné,region,Châtellerault,3026141,all-poit-1240-2,46.8,0.53333
-douné,region,Montmorillon,2992224,all-poit-1240-3,46.41667,0.66667
-donné,region,Montmorillon,2992224,all-poit-1240-4,46.41667,0.66667
-baïllé,region,Argenton-sur-Creuse,6452283,all-5,46.58889,1.51917
-baillame,region,La Châtre,3010153,all-6,46.58333,1.83333
-dounès,region,Le Blanc,3032422,all-7,46.66667,1.16667
-dounâs,region,Saint-Yrieix,2976546,all-limo-1246-8,45.51604,1.20569
-boillas,region,Haute-Vienne,3013719,all-limo-1246-9,45.83333,1.16667
-baillez,settlement,Saulcet,6425477,all-10,46.325,3.26222
-douné,region,Mayet-de-Montagne,6455455,all-11,46.07083,3.66667
-baillez,settlement,Ferrières,3018620,all-12,46.02416,3.64783
-bailles,settlement,Montluçon,2992292,all-13,46.33333,2.6
-baillé,region,Lapalisse,6425373,all-14,46.24944,3.63722
-baillés,settlement,Brugheas,6446531,all-15,46.07667,3.36778
-baillas,settlement,Ebreuil,6425349,all-16,46.11556,3.08667
-baillés,settlement,Gannat,6425358,all-17,46.1,3.19833
-baillas,region,Crocq,6454998,all-18,45.86806,2.36722
-doúnêz,region,La Souterraine,6455686,all-19,46.23806,1.48556
-baillas,settlement,Champeix,6450343,all-20,45.58861,3.12889
-ballias,region,Bourganeuf,6447699,all-21,45.95361,1.75556
-baillas,settlement,Aubusson,6452196,all-22,45.95611,2.1675
-baillas,settlement,Saint-Sulpice-les-Champs,6429317,all-22,45.9954,2.0222
-baillas,settlement,Chénérailles,6447719,all-22,46.11194,2.17528
-dounés,settlement,Aubeterre,3036378,all-23,45.26667,0.16667
-baillas,region,Guéret,3014383,all-24,46.16667,1.86667
-baillâ,settlement,Gardes-le-Pontaroux,6427720,all-25,45.5193,0.305
-baillâ,settlement,Edon,6427704,all-25,45.48861,0.35417
-bailla,settlement,Gentioux,6616133,all-26,45.7848,1.9943
-bailla,settlement,La Courtine,6456776,all-26,45.70111,2.26361
-bolia,settlement,Gioux,6614424,all-27,45.81,2.1221
-baillas,region,Montbron,6453706,all-28,45.66667,0.5
-douné,settlement,Saint-Severin,6428119,all-29,46.08278,-0.42167
-dounā,settlement,Saint-Vaury,6429318,all-30,46.20389,1.75611
-donnés,settlement,Torsac,6427877,all-31,45.56333,0.21472
-donnés,settlement,Fouquebrune,6427716,all-31,45.52806,0.21083
-bailla,settlement,Confolens,6453698,all-32,46.01361,0.67222
-baillâ,settlement,Confolens,6453698,all-33,46.01361,0.67222
-dounas,settlement,Lavalette,6427862,all-34,45.38333,0.23333
-douna,settlement,Arnac-la-Poste,6452577,all-35,46.26583,1.37389
-baillas,settlement,Bellac,6455315,all-36,46.12194,1.04944
-baillâs,settlement,Bessines-sur-Gartempe,6451687,all-37,46.10889,1.36833
-baillais,settlement,Bussière-Poitevine,3029429,all-38,46.23543,0.9053
-doûnâs,settlement,Châteauponsac,6451708,all-39,46.13389,1.27611
-boillas,settlement,Cieux,6451711,all-40,45.99167,1.04528
-baillâs,settlement,Compreignac,6451712,all-41,45.99194,1.27472
-doûnais,settlement,Darnac,6451717,all-42,46.22333,0.95972
-doûnais,settlement,Dompierre-les-Églises,6451719,all-43,46.22583,1.25333
-douname,settlement,Jarnages,6429201,all-44,46.18111,2.08472
-dounas,settlement,La Rochefoucauld,6455620,all-45,45.74056,0.38611
-baillâs,settlement,Laurière,6455317,all-46,46.07639,1.47528
-dounés,settlement,Le Dorat,6457168,all-47,46.21528,1.08139
-bailllas,settlement,Nouic,6445403,all-48,46.06,0.91972
-dounes,settlement,Saint-Léger-Magnazeix,6445444,all-49,46.2875,1.24694
-donnais,settlement,Saint-Martial-sur-Isop,6445447,all-50,46.16667,0.85
-donnais,settlement,Saint-Barbant,6445425,all-50,46.17194,0.84944
-baillés,settlement,Saint-Sulpice-les-Feuilles,6445462,all-51,46.31917,1.36806
+mot,type,nom_lieu,geonames,identifiant,latitude,longitude,lexique,phonetique,ind_geo,ind_transcr,valeur_lexique,commentaire
+det,region,Civray,3024846,all-poit-1240-1,46.1471,0.29509,oui,non,,,,
+douné,region,Châtellerault,3026141,all-poit-1240-2,46.8,0.53333,oui,oui,,,,
+douné,region,Montmorillon,2992224,all-poit-1240-3,46.41667,0.66667,oui,pe,oui,oui,,
+donné,region,Montmorillon,2992224,all-poit-1240-4,46.41667,0.66667,oui,oui,,,,
+baïllé,region,Argenton-sur-Creuse,6452283,all-5,46.58889,1.51917,oui,pe,oui,non,,
+baillame,region,La Châtre,3010153,all-6,46.58333,1.83333,oui,pe,ooui,oui,,
+dounès,region,Le Blanc,3032422,all-7,46.66667,1.16667,oui,pe,oui,oui,,
+dounâs,region,Saint-Yrieix,2976546,all-limo-1246-8,45.51604,1.20569,oui,pe,non,oui,,
+boillas,region,Haute-Vienne,3013719,all-limo-1246-9,45.83333,1.16667,oui,pe,oui,oui,,
+baillez,settlement,Saulcet,6425477,all-10,46.325,3.26222,oui,pe,oui,oui,,
+douné,region,Mayet-de-Montagne,6455455,all-11,46.07083,3.66667,oui,pe,oui,non,,
+baillez,settlement,Ferrières,3018620,all-12,46.02416,3.64783,oui,pe,oui,oui,,
+bailles,settlement,Montluçon,2992292,all-13,46.33333,2.6,oui,pe,oui,oui,,
+baillé,region,Lapalisse,6425373,all-14,46.24944,3.63722,oui,pe,oui,non,,
+baillés,settlement,Brugheas,6446531,all-15,46.07667,3.36778,oui,pe,oui,non,,
+baillas,settlement,Ebreuil,6425349,all-16,46.11556,3.08667,oui,oui,,,,
+baillés,settlement,Gannat,6425358,all-17,46.1,3.19833,oui,pe,oui,non,,
+baillas,region,Crocq,6454998,all-18,45.86806,2.36722,oui,pe,oui,non,,
+doúnêz,region,La Souterraine,6455686,all-19,46.23806,1.48556,oui,pe,oui,oui,,
+baillas,settlement,Champeix,6450343,all-20,45.58861,3.12889,oui,pe,oui,oui,,
+ballias,region,Bourganeuf,6447699,all-21,45.95361,1.75556,oui,pe,oui,oui,,
+baillas,settlement,Aubusson,6452196,all-22,45.95611,2.1675,oui,pe,oui,oui,,
+baillas,settlement,Saint-Sulpice-les-Champs,6429317,all-22,45.9954,2.0222,oui,pe,oui,oui,,
+baillas,settlement,Chénérailles,6447719,all-22,46.11194,2.17528,oui,pe,oui,oui,,
+dounés,settlement,Aubeterre,3036378,all-23,45.26667,0.16667,oui,pe,non,oui,,
+baillas,region,Guéret,3014383,all-24,46.16667,1.86667,oui,pe,oui,non,,
+baillâ,settlement,Gardes-le-Pontaroux,6427720,all-25,45.5193,0.305,oui,pe,oui,non,,
+baillâ,settlement,Edon,6427704,all-25,45.48861,0.35417,oui,pe,oui,non,,
+bailla,settlement,Gentioux,6616133,all-26,45.7848,1.9943,oui,pe,oui,non,,
+bailla,settlement,La Courtine,6456776,all-26,45.70111,2.26361,oui,pe,oui,non,,
+bolia,settlement,Gioux,6614424,all-27,45.81,2.1221,oui,pe,oui,non,,
+baillas,region,Montbron,6453706,all-28,45.66667,0.5,oui,pe,oui,non,,
+douné,settlement,Saint-Severin,6428119,all-29,46.08278,-0.42167,oui,pe,oui,non,,
+dounā,settlement,Saint-Vaury,6429318,all-30,46.20389,1.75611,oui,pe,oui,non,,
+donnés,settlement,Torsac,6427877,all-31,45.56333,0.21472,oui,pe,oui,non,,
+donnés,settlement,Fouquebrune,6427716,all-31,45.52806,0.21083,oui,pe,oui,non,,
+bailla,settlement,Confolens,6453698,all-32,46.01361,0.67222,oui,pe,oui,non,,
+baillâ,settlement,Confolens,6453698,all-33,46.01361,0.67222,oui,pe,oui,non,,
+dounas,settlement,Lavalette,6427862,all-34,45.38333,0.23333,oui,pe,oui,non,,
+douna,settlement,Arnac-la-Poste,6452577,all-35,46.26583,1.37389,oui,pe,oui,non,,
+baillas,settlement,Bellac,6455315,all-36,46.12194,1.04944,oui,pe,oui,non,,
+baillâs,settlement,Bessines-sur-Gartempe,6451687,all-37,46.10889,1.36833,oui,pe,oui,non,,
+baillais,settlement,Bussière-Poitevine,3029429,all-38,46.23543,0.9053,oui,pe,oui,non,,
+doûnâs,settlement,Châteauponsac,6451708,all-39,46.13389,1.27611,oui,pe,non,oui,,
+boillas,settlement,Cieux,6451711,all-40,45.99167,1.04528,oui,pe,oui,oui,,
+baillâs,settlement,Compreignac,6451712,all-41,45.99194,1.27472,oui,pe,oui,oui,,
+doûnais,settlement,Darnac,6451717,all-42,46.22333,0.95972,oui,pe,non,oui,,
+doûnais,settlement,Dompierre-les-Églises,6451719,all-43,46.22583,1.25333,oui,pe,non,oui,,
+douname,settlement,Jarnages,6429201,all-44,46.18111,2.08472,oui,pe,oui,oui,,
+dounas,settlement,La Rochefoucauld,6455620,all-45,45.74056,0.38611,oui,oui,,,,
+baillâs,settlement,Laurière,6455317,all-46,46.07639,1.47528,oui,pe,oui,oui,,
+dounés,settlement,Le Dorat,6457168,all-47,46.21528,1.08139,oui,pe,oui,non,,
+bailllas,settlement,Nouic,6445403,all-48,46.06,0.91972,oui,pe,oui,oui,,
+dounes,settlement,Saint-Léger-Magnazeix,6445444,all-49,46.2875,1.24694,oui,oui,,,,
+donnais,settlement,Saint-Martial-sur-Isop,6445447,all-50,46.16667,0.85,oui,pe,non,oui,,
+donnais,settlement,Saint-Barbant,6445425,all-50,46.17194,0.84944,oui,pe,non,oui,,
+baillés,settlement,Saint-Sulpice-les-Feuilles,6445462,all-51,46.31917,1.36806,oui,pe,oui,non,,
