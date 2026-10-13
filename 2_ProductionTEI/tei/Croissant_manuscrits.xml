@@ -865,16 +865,13 @@
                 <head>Arrondissement de St-Yrieix Traduction de la parabole de l’Enfant prodigue en
                     patois limousin de cet arrondissement. envoyée par M. Gondinet,
                     sous-préfet</head>
-                <p n="11">Un omé avio doux <choice>
-                        <orig rend="crossed">fil</orig>
-                        <corr>fis</corr>
-                    </choice>,</p>
+                <p n="11">Un omé avio doux <del>fil</del> fis,</p>
                 <p n="12">doun lou pus jauné dissé à soun paï : dounâs mé lo part dé bé qué mé deu
                     révénis ; et lou paï lour fagué lou partagé de soun bé.</p>
                 <p n="13">Paü de jours après, lou pus jauné d’aquis éfans ayant amassa tou cé qué au
-                    aviô, s’en <choice>
-                        <orig rend="crossed">ane</orig>
-                        <corr>ané</corr>
+                    aviô, s’en <del>ane</del>
+                    <choice>
+                        <orig>ané</orig>
                         <reg>aná</reg>
                     </choice> vouyageas dis un pays fort élougna, enté au dissipé tout soun bé, en
                     éxcés et en débauchoas.</p>
@@ -933,10 +930,8 @@
                     en déssolu.</p>
                 <p n="14">Quand aû guet tout choba, ko vinguet no grando fomino dis queû poÿs, et
                     queû drolé coumencet a junas.</p>
-                <p n="15">Au s'en onet et se luget à d'un citoyen de queû <choice>
-                        <orig rend="crossed">poÿs</orig>
-                        <corr>poïs</corr>
-                    </choice> et lou renvouyet dis so meitodorio gardas sous pors</p>
+                <p n="15">Au s'en onet et se luget à d'un citoyen de queû <del>poÿs</del> poïs et
+                    lou renvouyet dis so meitodorio gardas sous pors</p>
                 <p n="16">et aû aurio vougu se répatas de las colofas que lous pors minjovant et
                     dégu li boillavo ré.</p>
                 <p n="17">Aû sé pensé en sé mêmo et disset : las monobras qué sount chas moun paï
@@ -955,23 +950,19 @@
                 <p n="23">ménas lou védeû gras, tuas lou, minjans lou et eibotans nous,</p>
                 <p n="24">car moun drolé kei ki, eiro mort et o ei révicoula, aû sé perdio et au ei
                     rétrouba, et ïs coummencerent à s'eibandis.</p>
-                <p n="25">Mas lou pûs viei drolé êrio per lous champs et coumo au veigno et sé <choice>
-                        <orig rend="crossed">prei</orig>
-                        <corr>preïmavo</corr>
-                    </choice>, dé chas sé, aû auviguet chantas et fanfougnias,</p>
+                <p n="25">Mas lou pûs viei drolé êrio per lous champs et coumo au veigno et sé
+                        <del>prei</del> preïmavo, dé chas sé, aû auviguet chantas et
+                    fanfougnias,</p>
                 <p n="26">au opèlet un daûs valeis et au l’y disset : quei a co ko?</p>
-                <p n="27">Aù l’y <choice>
-                        <orig rend="crossed">disset</orig>
-                        <corr>reipoundet</corr>
-                    </choice> : votré fraï eï tourna et votré paï o tua lou védeû gras per sé
-                    rejauvis dé cé qué au eïro tourna sanchier.</p>
+                <p n="27">Aù l’y <del>disset</del> reipoundet rejauvis dé cé qué au eïro tourna
+                    sanchier.</p>
                 <p n="28">Mas au s'eifeuniguet et ne voulio pas entras, lou paï soliguet et lou n'en
                     preiget.</p>
                 <p n="29">Mas sé, emoli disset a soun paï : veiki bien daû temps qué vous servé, qué
                     ne vous aï jomaï déoboï en ré et vous n'ovez jomaï gû lou cœur dé mé boillas un
                     quité chobri per qué m'ébandiguez coumo mous comorodas.</p>
                 <p n="30">Mas quand votré drolé queï ki, eï tourna après veï minja touto so dénado <choice>
-                        <orig rend="crossed">commo</orig>
+                        <orig>commo</orig>
                         <reg>coumo</reg>
                     </choice> las geusas, vous ovez tua lou védeu gras.</p>
                 <p n="31">Mas lou paï l’y disset piti, tu sés toujours coumo mé, tout cé qué yaï eï
@@ -1144,11 +1135,9 @@
                     seus biens de campagnay pas y gardas lau pouës.</p>
                 <p n="16">Quand au fût t’chi au l’auri bi vaugu rempli soun estoma daus alliaus que
                     l’au pouës migevous, mas degu ne ly en doneves.</p>
-                <p n="17">A la fine force au rentra dès se même et au dissai : combe n’a coup <choice>
-                        <orig rend="crossed">pas</orig>
-                        <corr>pas</corr>
-                    </choice> de valay chiez moun pere qui migeous lou säoue, et me ai meure t’chy
-                    de faim ;</p>
+                <p n="17">A la fine force au rentra dès se même et au dissai : combe n’a coup
+                        <del>pas</del> pas de valay chiez moun pere qui migeous lou säoue, et me ai
+                    meure t’chy de faim ;</p>
                 <p n="18">au faut que de qu’au pas ay m’en anne trouvas moun pere, et quay l’y dise
                     moun pere ais ei picha contre le ciel, amai contre vous ;</p>
                 <p n="19">ai ne sais pû digne detre nouma voute garçou, tretas me mas coume yun de
@@ -1279,10 +1268,9 @@
                 <p n="29">Quouqui dissit : ny a tant dannas qui vous sarvisse et jamé y vous ai
                     desobéi de rin de ce quou m’avez quemanda : et jamé vous ne m’avez dounna iun
                     boutin pa me dévarti anbé mos camarades.</p>
-                <p n="30">Mé dez que voutre garçon que aie mingea tout son bien anbé de sâles <choice>
-                        <orig rend="crossed">fennes</orig>
-                        <corr>fennes</corr>
-                    </choice> a été tourna, vous avez fouait tue le veguiau gras pa se.</p>
+                <p n="30">Mé dez que voutre garçon que aie mingea tout son bien anbé de sâles
+                        <del>fennes</del> fennes a été tourna, vous avez fouait tue le veguiau gras
+                    pa se.</p>
                 <p n="31">Le pere ly dissit : mon garçon, vous sé toujours anbé me, et tous qui téne
                     é à vous.</p>
                 <p n="32">Me ou faye fouaire festin et nous arejoui parsque voutre frere aie mô et
@@ -1724,84 +1712,54 @@
                 <head>Traduction en patois périgourdin propre aux habitans des communes de Gardes,
                     Edon </head>
                 <p n="11">Un omé avio dou éfan,</p>
-                <p n="12">é lou pù jaüoné <choice>
-                        <orig rend="crossed">daou</orig>
-                        <corr>dauöu</corr>
-                    </choice> doû dissé à soun paï : moun paï, baillâ mé lo par daöu bé qué mé révé.
-                    É lou paï li partagé soun bé.</p>
+                <p n="12">é lou pù jaüoné <del>daou</del> dauöu doû dissé à soun paï : moun paï,
+                    baillâ mé lo par daöu bé qué mé révé. É lou paï li partagé soun bé.</p>
                 <p n="13">Paüou de jour aprés, kéöu jaüon’ omé ayant massa tou ce qu’au avio reçu,
                     surté de lo meiszhou, é s’en ané din-t-un païs for eïlougnia inté aüou dissipé
                     tout soun bé, en menam uno vito deïbauchado.</p>
                 <p n="14">Aprés qu’au ayé tou deïpensa, aüou survenyié uno grando famino din këou
                     paï, é aüou commencé à sentî lo dizéto.</p>
                 <p n="15">Aüou prenÿé doun lou parti d’entra châ un daüou habitans d’auou paï per
-                    lou servî. <choice>
-                        <orig rend="crossed">keuk</orig>
-                        <corr>Këou</corr>
-                    </choice> ki l’ènvouyé à so meiszhou dé campagnio per gardâ loû por.</p>
+                    lou servî. <del>keuk</del> Këou ki l’ènvouyé à so meiszhou dé campagnio per
+                    gardâ loû por.</p>
                 <p n="16">Eïtan ki, aüou souhatavo per appeïza sa fam dé sé ramplî de lâ éïcorsâ qué
                     loû por minszavem, é dégu lin donnavo.</p>
-                <p n="17">À lo fi, eïtan rantra en sé mêmo, <choice>
-                        <orig rend="crossed">aoü</orig>
-                        <corr>aüou</corr>
-                    </choice> dissé : « Combé y-o-co din lo meiszhou dé moun paï de valeï qu’an
-                    d’aüou po en abondanco, tan qué you meuré de fam ?</p>
+                <p n="17">À lo fi, eïtan rantra en sé mêmo, <del>aoü</del> aüou dissé : « Combé
+                    y-o-co din lo meiszhou dé moun paï de valeï qu’an d’aüou po en abondanco, tan
+                    qué you meuré de fam ?</p>
                 <p n="18">You volé surtî deïci, you niraï trubâ moun paï, é you li dirai : moun paï,
                     y aï pécha contré lou ciel é countré vous,</p>
                 <p n="19">you ne saï pas dignié aüoro d’etré apéla votre fî ;tratâ mé coumo un daüou
                     servitour que vous avés à votrei gageï. »</p>
                 <p n="20">Aüou sè lévé doun, et é venhié truba soun paï ; é aüou nen-éro enkéro byen
-                    loin, lorcèqué soun paï l’appercévan, fuyié <choice>
-                        <orig rend="crossed">ta</orig>
-                        <corr>tuca</corr>
-                    </choice> de coumpassiön, é couran à dëou, aüou se jietté à soun caüou é <choice>
-                        <orig rend="crossed">l’o</orig>
-                        <corr>lou</corr>
-                    </choice> biké.</p>
+                    loin, lorcèqué soun paï l’appercévan, fuyié <del>ta</del> tuca de coumpassiön, é
+                    couran à dëou, aüou se jietté à soun caüou é <del>l’o</del> lou biké.</p>
                 <p n="21">Soun fî li dissé : « Moun paï y aï pècha countré lou ciel, é countré vous,
                     you ne saï pu dignié d’etre apéla votre fî ...</p>
-                <p n="22">Alors <choice>
-                        <orig rend="crossed">le pére</orig>
-                        <corr>lou paï</corr>
-                    </choice> dissé à sou valeï ; pourta eici proumtemen la raüobo pretiouso quauou
-                    pourtavo autrëico, é l’en billâ, é metté li uno baguo auou dé é dauou soulié
-                    auou piê :</p>
-                <p n="23">ména eïci lou vedëou grâ é <choice>
-                        <orig rend="crossed">l’ou</orig>
-                        <corr>lou</corr>
-                    </choice> tuâ, perqué nous minjam, é qué nous fazam bouno charo,</p>
-                <p n="24">percéqué moun <choice>
-                        <orig rend="crossed">fils</orig>
-                        <corr>fi</corr>
-                    </choice> qué vou vezés ero mor é lou véki ressiscita, aüou erp perdu, é lou
-                    véki rét<corr type="superscript">r</corr>ubâ .. y se mèttéram doun à fâ grando
-                    chârô ...</p>
-                <p n="25">Pendem tou-ko, soun fî eïna ero din loû cham ; è <choice>
-                        <orig rend="crossed">quant</orig>
-                        <corr>kand</corr>
-                    </choice> aüou révenyé, é qu’auöu fuyié prés de lo meiszhou, aüou entendé qué
+                <p n="22">Alors <del>le pére</del> lou paï dissé à sou valeï ; pourta eici
+                    proumtemen la raüobo pretiouso quauou pourtavo autrëico, é l’en billâ, é metté
+                    li uno baguo auou dé é dauou soulié auou piê :</p>
+                <p n="23">ména eïci lou vedëou grâ é <del>l’ou</del> lou tuâ, perqué nous minjam, é
+                    qué nous fazam bouno charo,</p>
+                <p n="24">percéqué moun <del>fils</del> fi qué vou vezés ero mor é lou véki
+                    ressiscita, aüou erp perdu, é lou véki rét<corr type="superscript">r</corr>ubâ
+                    .. y se mèttéram doun à fâ grando chârô ...</p>
+                <p n="25">Pendem tou-ko, soun fî eïna ero din loû cham ; è <del>quant</del> kand
+                    aüou révenyé, é qu’auöu fuyié prés de lo meiszhou, aüou entendé qué
                     nun-chantavo, é qué nun-dansâvo.</p>
                 <p n="26">Auöu apélé de suito un daüou servitour, é senfourmé de ce qué kouëro.</p>
                 <p n="27">Lou valé li reipoundé, keï qué votré fraï eï de retour, è votré paï o tua
-                    lou vedeoü <choice>
-                        <orig rend="crossed">gras</orig>
-                        <corr>grâ</corr>
-                    </choice> percé hou eï révenyu en santa.</p>
+                    lou vedeoü <del>gras</del> grâ percé hou eï révenyu en santa.</p>
                 <p n="28">Auossito ké-l’eïna eïtan rampli d’indignatiou, né voullio pâ mêmo entra
                     din lo meiszhou. Mâ sou paï eïtan venyu per l’en prejâ,</p>
                 <p n="29">aüou li fayié kè lo reipounso : « Vous vézés qué you vous servé deïpei
-                    tant d’annadâ, <choice>
-                        <orig rend="crossed">et</orig>
-                        <corr>é</corr>
-                    </choice> qué you n’aï jamaï manqua dauobaï à tou ce qué vous m’avés damanda, é
-                    cépenden vous né m’avés jamaï douna soulomen un chabrëou per mé règalâ avéké moû
-                    zamî ;</p>
+                    tant d’annadâ, <del>et</del> é qué you n’aï jamaï manqua dauobaï à tou ce qué
+                    vous m’avés damanda, é cépenden vous né m’avés jamaï douna soulomen un chabrëou
+                    per mé règalâ avéké moû zamî ;</p>
                 <p n="30">mâ à péno votré aüoutré fi, ko dissipa tou soun bé avéké de lâ fennâ de
                     menchento vito eï teöu revenyu, qué vous avé tua lou vedéöu grâ. »</p>
-                <p n="31">Alors lou paï li dissé : moun <choice>
-                        <orig rend="crossed">fil</orig>
-                        <corr>fî</corr>
-                    </choice>, vous sés toujour avéké mé, é tou cé qué y aï, eï à vou ;</p>
+                <p n="31">Alors lou paï li dissé : moun <del>fil</del> fî, vous sés toujour avéké
+                    mé, é tou cé qué y aï, eï à vou ;</p>
                 <p n="32">mâ faïllo fâ kéöu festin, é nou réjauvî, percéqué votre fraï kei-ki, ero
                     mor é lou veiki réssuscita, aüou éro perdu, é lou veïki retrubâ.</p>
             </div>
@@ -1830,9 +1788,9 @@
                 <p n="20">Ou se levoit et partisoit per na trouba soun pais. Ma lorcequ’ou l’éro
                     inquaira loin, soun pais l’opercegut et toucha de coumpassiou ou courru
                     l’imbrassa et le biquoit.</p>
-                <p n="21">Soun fis y disoit : moun pais y ait pecha contre le ceau et davant <orig
-                        rend="crossed">y ait pecha</orig> vous : y ou ne seis pas digne minteneint
-                    d’etre appella votre fis.</p>
+                <p n="21">Soun fis y disoit : moun pais y ait pecha contre le ceau et davant <del>y
+                        ait pecha</del> vous : y ou ne seis pas digne minteneint d’etre appella
+                    votre fis.</p>
                 <p n="22">Mas le pais disoit à sous servitours : apourta-y promptomeint so premiro
                     raubo et reveiteiz lin, metteiz y un’oneoux y soun de et dou souliers oux
                     pieds,</p>
@@ -2077,12 +2035,9 @@
                     dissipit tout son ben en se divartissant.</p>
                 <p n="14">Après qu’ou l’aguit tout mangé, o venit une grande famine dans keû pays,
                     et y commencit à devenir ben pauvre.</p>
-                <p n="15">Y <choice>
-                        <orig rend="crossed">s‘en</orig>
-                        <corr>san</corr>
-                    </choice> alit et se metit vâlet chès un habitant du pays qui l’envoyit dans sa
-                    metairie pre qu’aû gardisse les goret.</p>
-                <p n="16">Quand où y fut, y-oret <orig rend="choice">ben</orig> été ben-êze de
+                <p n="15">Y <del>s‘en</del> san alit et se metit vâlet chès un habitant du pays qui
+                    l’envoyit dans sa metairie pre qu’aû gardisse les goret.</p>
+                <p n="16">Quand où y fut, y-oret <del>ben</del> été ben-êze de
                     remplir son ventre des calofres que les goret mangiant, mais presoune ne li en
                     baillét.</p>
                 <p n="17">Enfin etant retorné en li même, y-s’dicit : « Ouïlla force vâlet chés mon
@@ -2112,21 +2067,20 @@
                     et li demandit ce qu’ou-l-êtait.</p>
                 <p n="27">Le valet li dicit : « Ou-l-est que voutre frére é venut, et voutre pére a
                     tué le veau gras parce qu’ou le vet, et qui se porte ben. »</p>
-                <p n="28">Quelle reponse le metit en colére si for qu’y ne velet <orig
-                        rend="crossed">point</orig> tant en seulement pas entrer dans le logis. Mais
-                    son pére ayant veny pre l’en prier,</p>
+                <p n="28">Quelle reponse le metit en colére si for qu’y ne velet <del>point</del>
+                    tant en seulement pas entrer dans le logis. Mais son pére ayant veny pre l’en
+                    prier,</p>
                 <p n="29">il li fit quelle réponse : « Vela tant d’années que je ve sers sans
                     ve-z-avoir jamais desobéï en ren de tout ce que ve m’avés commandé, et
-                    maügr’tout ve ne m’avés jamais douné <orig rend="crossed">tant</orig> en
-                    seulement y-un chevreau pre me divartir avec mes amis ;</p>
+                    maügr’tout ve ne m’avés jamais douné <del>tant</del> en seulement y-un chevreau
+                    pre me divartir avec mes amis ;</p>
                 <p n="30">mais au moument que voutre autre enfant, qu’a mangé tout son ben avec des
                     fumelles predues é venu, ve tués pre li le veau grâs. »</p>
                 <p n="31">Le pére li dicit : moun enfant t’ês trejours avec moï, et tout que j’aŷ
                     est pre toï ;</p>
                 <p n="32">mais ne falait-ou pas <corr type="superscript">que</corr>
-                    <orig rend="crossed">j</orig> j’mangissions <orig rend="crossed">q</orig> et que
-                        j’<orig rend="crossed">nous d</orig> j’ne divartissions pre <orig
-                        rend="crossed">faute</orig> l’amour que ton frére étét mort et y es
+                    <del>j</del> j’mangissions <del>q</del> et que j’<del>nous d</del> j’ne
+                    divartissions pre <del>faute</del> l’amour que ton frére étét mort et y es
                     ressuscité ; y êtet predut et j’l'avons retrouvé.</p>
             </div>
             <div type="parabole" n="32" xml:id="all-32" corresp="#place_33" xml:lang="poit-1240"
@@ -2244,30 +2198,23 @@
                     resôgu, surté de la maïsou, et s’en enguai din un pays fort éloigna unte ou
                     dissipé tout son bé ein menam une vie débaûczâde ;</p>
                 <p n="14">et aprés aveî tout depunsa, une grande famine arrivé din kiau paï, et ou
-                    commincé à toumba <choice>
-                        <orig rend="crossed">dans</orig>
-                        <corr><unclear>d</unclear>in</corr>
-                    </choice> la nécessita.</p>
+                    commincé à toumba <del>dans</del>
+                    <unclear>d</unclear>in la nécessita.</p>
                 <p n="15">Ou s’en enguai, et s’attachzé au service d’un daû habiten du paï. Kiauki
                     l’envouyé din sa maîsou dâu cham pre garda lous gouré.</p>
-                <p n="16">I-ki ou agui êta bénaîse per appaisâ sa fâm de <orig rend="crossed"
-                        >se</orig> se remplir de lâs caloffaìs que loû gouré mingâvent, mais
-                    presoune ne lû en baillave.</p>
+                <p n="16">I-ki ou agui êta bénaîse per appaisâ sa fâm de <del>se</del> se remplir de
+                    lâs caloffaìs que loû gouré mingâvent, mais presoune ne lû en baillave.</p>
                 <p n="17">Enfin étant rentra en lû-même, ou se dissé : « Cambé y-o-co dans la maïsou
                     de moun pére de valei qu’an mês de pain que leur en fàs : et mi, y saìs ki à
                     mourî de fam !...</p>
                 <p n="18">Y vole surtir de ki et qu’enge trouvâ moun pére ; y lû diraî : moun pére y
-                    aï <choice>
-                        <orig rend="crossed">peszha</orig>
-                        <corr>peszha</corr>
-                    </choice> countre le ciel et countre vous,</p>
+                    aï <del>peszha</del> peszha countre le ciel et countre vous,</p>
                 <p n="19">y ne saìs pas digne d’etre appella voutre fils. Traitâs mé coum’un dau
                     servitours que sont à votreì gagaìs. »</p>
                 <p n="20">Ou se levé dounc et s’envinguai trouvâ soun pére. Et quoiqu’où fît inkiêre
-                    ben louïn, soun pere le vît et sas entraillès en firant bralandes de <choice>
-                        <orig rend="crossed">coun</orig>
-                        <corr>coumpassië</corr>
-                    </choice> : et courant à lû, ou se jettai à soun caüou et l’embrassè.</p>
+                    ben louïn, soun pere le vît et sas entraillès en firant bralandes de
+                        <del>coun</del> coumpassië  : et courant à lû, ou se jettai à soun caüou et
+                    l’embrassè.</p>
                 <p n="21">Soun fils lû dissé : « Moun pére : y aï peszha countre le ciel et countre
                     vous ; y ne saìs pas digné d’etre appella voutre fils. »</p>
                 <p n="22">Alors le pére dissé à sous servitours : « Anàs quêre proumptement la raûbe
@@ -2277,32 +2224,21 @@
                     boune shére :</p>
                 <p n="24">par ce que moun fils, qu’est-ki, êre mort, et ou est ressuscita ; ou aire
                     predut, et ou est retrouva. » Y se miant doum à faire grande shére.</p>
-                <p n="25">Cepindèm <orig rend="crossed">ent</orig> soun fils eïna éro <choice>
-                        <orig rend="crossed">dans</orig>
-                        <corr>din</corr>
-                    </choice> loù cham ; et quand oû fût revingu et qu’oû fût <choice>
-                        <orig rend="crossed">proché</orig>
-                        <corr>prozhé</corr>
-                    </choice> de la maisou, ou intindé le brû de ki què chantâvem et de ki que
-                    dansâvem.</p>
+                <p n="25">Cepindèm <del>ent</del> soun fils eïna éro <del>dans</del> din loù cham ;
+                    et quand oû fût revingu et qu’oû fût <del>proché</del> prozhé dansâvem.</p>
                 <p n="26">Ou appellé de suîte un dau servitours, et lû demandé ce que qu’ou
                     aîré.</p>
                 <p n="27">Le servitour lû repoungaiué : « Qu’ou est voutre frére qu’est arriva, et
                     voutre pére o tua le vedée gras parcequ’ou est revingu en santa. »</p>
-                <p n="28">Ce qui le bouté si for en colére qu’ou ne vouguai même pas entra din la <choice>
-                        <orig rend="crossed">lougis</orig>
-                        <orig rend="crossed">loudz</orig>
-                        <corr>maisou</corr>
-                    </choice>. Mais soun pére êtant vingu pre l’en prêja,</p>
+                <p n="28">Ce qui le bouté si for en colére qu’ou ne vouguai même pas entra din la
+                        <del>lougis</del>
+                    <del>loudz</del> maisou . Mais soun pére êtant vingu pre l’en prêja,</p>
                 <p n="29">ou lû fit quelle répounse : « Vêki tant d’annadée qui vous servé, et y ne
                     vous ai jamaïs désobliza en ré de ce que vous m’avés cou<corr type="superscript"
                         >a</corr>manda et cepindeìn vous ne m’avés jamaïs douna solement un chabraî
                     pre me régala avec mous amis ;</p>
-                <p n="30">mais a peine voutre autre enfant, quo minga <choice>
-                        <orig rend="crossed">voutre bé</orig>
-                        <corr>tout soun bé</corr>
-                    </choice> avec de làs fennèys predudaìs, est revingu, que vou ve tuàs pre lû le
-                    vedée grâs.</p>
+                <p n="30">mais a peine voutre autre enfant, quo minga <del>voutre bé</del> tout soun
+                    bé vedée grâs.</p>
                 <p n="31">Alors le pére lû dissé : « Moun fils vous sés tousours avé mi, et tout ce
                     quì âyë est à vous ;</p>
                 <p n="32">mais falîs bé faire kaû festin et nous rejouïr par ce que voutre frére,
